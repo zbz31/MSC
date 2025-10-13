@@ -1,0 +1,6881 @@
+[
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_BillieEilish",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "2KnuaZYoGzDoHiBTNYOTXG",
+    "couname": "Billie Bossa Nova",
+    "duration": "196730"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone,Nicki Minaj",
+    "genres": 0,
+    "spotId": "6IaieqiCVvsNvEt6Y7yOFa",
+    "couname": "Ball For Me",
+    "duration": "206266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27378de8b28de36a74afc0348b5",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "1BR5vhAlaoUiijQ28p6jlN",
+    "couname": "Backseat Freestyle",
+    "duration": "212653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a69b8b111a5fb8cb1c97e8eb",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish,Justin Bieber",
+    "genres": 0,
+    "spotId": "3yNZ5r3LKfdmjoS3gkhUCT",
+    "couname": "bad guy",
+    "duration": "194839"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737d2f918a1b23f98ceb7510fa",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1ah8VKcsljm37Ec5kmxH3J",
+    "couname": "Begin Again",
+    "duration": "239426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Love",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "0zo975x58DlXbZllWvfYhg",
+    "couname": "When Emma Falls in Love",
+    "duration": "252385"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_BillieEilish",
+      "XT_MoonStars",
+      "XT_AboutNames",
+      "XT_Weather",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "5XsAal7ZcWg1I5T4NcRjkv",
+    "couname": "Halley's Comet",
+    "duration": "234761"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_ViolinSolo",
+      "TV_SpotifyS500",
+      "XT_AboutTime",
+      "XT_AboutNames",
+      "XT_Weather",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "3hUxzQpSfdDqwM3ZTFQY0K",
+    "couname": "august",
+    "duration": "261922"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c288028c2592f400dd0b9233",
+    "pty": 0,
+    "Items": [
+      "GN_ViolinSolo",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1EXa37LpSvi3OQ9UYQ28rD",
+    "couname": "epiphany",
+    "duration": "289746"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "0VE4kBnHJUgtMf0dy6DRmW",
+    "couname": "Getaway Car",
+    "duration": "233626"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "4HOryCnbme0zBnF8LWij3f",
+    "couname": "Getting Older",
+    "duration": "244221"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone",
+    "genres": 0,
+    "spotId": "5lZZmityu9TAjNvSY6GLhR",
+    "couname": "Zack And Codeine",
+    "duration": "204360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Future",
+    "genres": 0,
+    "spotId": "5e574bhjycX1eH2l4Auage",
+    "couname": "Grammys",
+    "duration": "220426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325751b4b32829d6bbfe6be7f",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "3w9VRlKPvNxj40RdUGRweH",
+    "couname": "dorothea",
+    "duration": "225880"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27373b565ab9d713e8d5586aac2",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "3CI1f4yLwdHzcUnH7o0Xyh",
+    "couname": "Hey Stephen",
+    "duration": "254320"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "0v4z1tuZvn6LGknom9Qx7d",
+    "couname": "Babe",
+    "duration": "224240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "1WsEgieHsWWndAzLkmV105",
+    "couname": "hostage",
+    "duration": "229425"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c820a9669147be3addd7f221",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "0WFryfbNKPXVtVQlz5dZ8H",
+    "couname": "hotline",
+    "duration": "60719"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739c1e02d4becb7c5bbca01e2a",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "4n4BflhWjCHIxrI4v7Xt9s",
+    "couname": "How Bout Now",
+    "duration": "235566"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731882add8fd275c04e322027d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "SZA",
+    "genres": 0,
+    "spotId": "1w52s8ZgbSHjwjoZ1zQMET",
+    "couname": "Jodie",
+    "duration": "165867"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c542f0e5049480a286ee8ec0",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Nick Drake",
+    "genres": 0,
+    "spotId": "3dFeedLxqllQxLak8GYwaV",
+    "couname": "Kimbie",
+    "duration": "206480"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "7bcy34fBT2ap1L4bfPsl9q",
+    "couname": "I Didn't Change My Number",
+    "duration": "158463"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "5uICWmZTLkpEVbK22PBP6e",
+    "couname": "marjorie",
+    "duration": "257773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "047fCsbO4NdmwCBn8pcUXl",
+    "couname": "Marvins Room",
+    "duration": "347226"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735b7b1b505bb07d16608b8ed0",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Lil Yachty,DaBaby,Drake",
+    "genres": 0,
+    "spotId": "7wsmIIm0xWmtP7TmACXkJn",
+    "couname": "Oprah’s Bank Account",
+    "duration": "206702"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "3zMDGj4D8ogaYgAIZPeU7S",
+    "couname": "Peter",
+    "duration": "283957"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "2CnjDMdpRjlWv04Xk3s6MW",
+    "couname": "Robin",
+    "duration": "240893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "7nWui6jiMM2m9qFmET1Mtj",
+    "couname": "Ronan",
+    "duration": "264253"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730b3ac7a6645b0fa75df2d9d8",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Zach Bryan,Noah Kahan",
+    "genres": 0,
+    "spotId": "1fvC3CmNAbsx0V9ULMU8NB",
+    "couname": "Sarah's Place",
+    "duration": "214056"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "7ogK4lJDVDMU6A6vYR5rvD",
+    "couname": "thanK you aIMee",
+    "duration": "263817"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c909d4e47de2ab0636f46d64",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "2Fn01AIMyHbha2ceNQeOqw",
+    "couname": "Tim McGraw",
+    "duration": "232106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone",
+    "genres": 0,
+    "spotId": "7sWRlDoTDX8geTR8zzr2vt",
+    "couname": "Hollywood's Bleeding",
+    "duration": "156266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dc2bacae1dca83d26e2b1949",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "3FxJDucHWdw6caWTKO5b23",
+    "couname": "I Wish You Would",
+    "duration": "207650"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dc2bacae1dca83d26e2b1949",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "2k0ZEeAqzvYMcx9Qt5aClQ",
+    "couname": "All You Had To Do Was Stay",
+    "duration": "193289"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+    "pty": 0,
+    "Items": [
+      "TV_SpotifyS500",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "0V3wPSX9ygBnCm8psDIegu",
+    "couname": "Anti-Hero",
+    "duration": "200690"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "13e6f8t7RKXuxZ0JdaaJRG",
+    "couname": "Jorja Interlude",
+    "duration": "107673"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "7KokYm8cMIXCsGVmUvKtqf",
+    "couname": "Karma",
+    "duration": "204852"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "7sBwAWyXfiIgrYQ8BaJESH",
+    "couname": "Keep The Family Close",
+    "duration": "328906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27384e23c824800a5fc6d3650c2",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "1vffte5WTHIik37ePfJdo4",
+    "couname": "King Kunta",
+    "duration": "234693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739edc391d911405ea9f5c320e",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Jay Rock,Kendrick Lamar,Future,James Blake",
+    "genres": 0,
+    "spotId": "51rXHuKN8Loc4sUlKPODgH",
+    "couname": "King's Dead",
+    "duration": "229670"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "6fPan2saHdFaIHuTSatORv",
+    "couname": "L’AMOUR DE MA VIE",
+    "duration": "333986"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c542f0e5049480a286ee8ec0",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Animals",
+      "XT_OffAnimals",
+      "TV_Top102024"
+    ],
+    "artist": "Nick Drake",
+    "genres": 0,
+    "spotId": "1UJgfUKLwLuzrNH5wK73ap",
+    "couname": "Bird Flew By",
+    "duration": "174360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c64ed7bab63186d7fca3012f",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish,ROSALÍA",
+    "genres": 0,
+    "spotId": "0psS4i5YooJrXfDnGvWRLi",
+    "couname": "Lo Vas A Olvidar",
+    "duration": "203464"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "2Na0z2gfN67Rzf0vp74Wi3",
+    "couname": "Lose You",
+    "duration": "305373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27319fc30a2e29973763e3d8a53",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "2xdwCJLfKCkat14mlgR26M",
+    "couname": "Lost Cause",
+    "duration": "212496"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "629DixmZGHc7ILtEntuiWE",
+    "couname": "LUNCH",
+    "duration": "179586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e0f2af91be409aad81bba98c",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "04sN26COy28wTXYj3dMoiZ",
+    "couname": "Bored",
+    "duration": "180933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f624fdadb511452a2093694d",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "TV_Top102024"
+    ],
+    "artist": "Nick Drake",
+    "genres": 0,
+    "spotId": "4ZYVAWHjnGFEuGGNrlHk4Y",
+    "couname": "Bryter Layter",
+    "duration": "200666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737b25c072237f29ee50025fdc",
+    "pty": 0,
+    "Items": [
+      "XT_Gold",
+      "XT_Weather",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "3esA216TyLHEkNiBCeCmcg",
+    "couname": "The Best Day",
+    "duration": "245333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732c683c1b9fa1b711499408f7",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "4axSuOg3BqsowKjRpj59RU",
+    "couname": "Carolina",
+    "duration": "264438"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fa2741071b31bb94cb4232ae",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "DJ Khaled,Travis Scott,Post Malone",
+    "genres": 0,
+    "spotId": "0b6UoVjUzFyZNpHI0aAhKt",
+    "couname": "Celebrate",
+    "duration": "206498"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b550071a3fa8e03f6a83f313",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "2mvabkN1i2gLnGAPUVdwek",
+    "couname": "Christmas Tree Farm",
+    "duration": "228026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fe31090764d736aed85eaee0",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Nicki Minaj,Drake,Lil Wayne,Chris Brown",
+    "genres": 0,
+    "spotId": "4qRVr5E5cCO5V8Uuo9X5Kw",
+    "couname": "Only",
+    "duration": "312026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "3WxmlTZ85sCYFnuIXmUAEe",
+    "couname": "party favor",
+    "duration": "204770"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dcb7f77fa3d2dd9c121e760e",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,The Throne",
+    "genres": 0,
+    "spotId": "23NWj2izXAJ4yL6Nah73wf",
+    "couname": "Pop Style",
+    "duration": "209453"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268",
+    "pty": 0,
+    "Items": [
+      "TV_SpotifyS500",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone,Ty Dolla $ign",
+    "genres": 0,
+    "spotId": "3swc6WTsr7rl9DqQKQA55C",
+    "couname": "Psycho",
+    "duration": "221440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273700f7bf79c9f063ad0362bdf",
+    "pty": 0,
+    "Items": [
+      "GN_ViolinSolo",
+      "TV_Top102024"
+    ],
+    "artist": "Sabrina Carpenter",
+    "genres": 0,
+    "spotId": "4Wos0h9ECU2Z3oJMTQxpbc",
+    "couname": "Read your Mind",
+    "duration": "207849"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b83df1b3ca78269f49fa89f",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "4jtyUzZm9WLc2AdaJ1dso7",
+    "couname": "0 To 100 / The Catch Up",
+    "duration": "275226"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "2dfqS3MRtbLZSZA1IL8xY5",
+    "couname": "Skepta Interlude",
+    "duration": "143213"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273904445d70d04eb24d6bb79ac",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "71BqAINEnezjQfxE4VuJfq",
+    "couname": "Slut!",
+    "duration": "180381"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27358599e61e8a0487443d31bb6",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,21 Savage",
+    "genres": 0,
+    "spotId": "4ckuS4Nj4FZ7i3Def3Br8W",
+    "couname": "Sneakin’",
+    "duration": "251333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "3NxAG2ni1lLa8RKL6a0INc",
+    "couname": "Childs Play",
+    "duration": "241400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "433P7tDcIAi6NLnf4Sh6tI",
+    "couname": "Still Here",
+    "duration": "189853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273754b2fddebe7039fdb912837",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Sia,Kendrick Lamar",
+    "genres": 0,
+    "spotId": "7xHWNBFm6ObGEQPaUxHuKO",
+    "couname": "The Greatest",
+    "duration": "210226"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
+    "pty": 0,
+    "Items": [
+      "TV_SpotifyS500",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1R0a2iXumgCiFb7HEZ7gUE",
+    "couname": "Don’t Blame Me",
+    "duration": "236413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273adfb5909ec66db5fbb4d06c8",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "3t8pnImpBpOwxdtYBpKvA9",
+    "couname": "The Motion",
+    "duration": "241000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27355cad990bc1ce5808367fa0e",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "BlocBoy JB,Drake",
+    "genres": 0,
+    "spotId": "4qKcDkK6siZ7Jp1Jb4m0aL",
+    "couname": "Look Alive",
+    "duration": "181263"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f45623be014a592a5815827",
+    "pty": 0,
+    "Items": [
+      "TV_BestVideos",
+      "TV_Top102024"
+    ],
+    "artist": "Sabrina Carpenter",
+    "genres": 0,
+    "spotId": "2Zo1PcszsT9WQ0ANntJbID",
+    "couname": "Feather",
+    "duration": "185552"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "23luOrEVHMfoX0AhfbQuS6",
+    "couname": "FEAR.",
+    "duration": "460573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "2LTlO3NuNVN70lp2ZbVswF",
+    "couname": "FEEL.",
+    "duration": "214826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1",
+    "pty": 0,
+    "Items": [
+      "TV_Rolling500",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "3iVcZ5G6tvkXZkZKlMpIUs",
+    "couname": "Alright",
+    "duration": "219333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Giggs",
+    "genres": 0,
+    "spotId": "2jTujnt0y344ai1rNOywgr",
+    "couname": "KMT",
+    "duration": "162637"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d419a74936d34dc6b6c1d911",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "DJ Khaled,Drake",
+    "genres": 0,
+    "spotId": "20bLudc6r1NChyZcrjRd7T",
+    "couname": "For Free",
+    "duration": "183695"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Intros",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "3cjF2OFRmip8spwZYQRKxP",
+    "couname": "Feel No Ways",
+    "duration": "240653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f2a198651d9c2e4efad9d18",
+    "pty": 0,
+    "Items": [
+      "TV_Rolling500",
+      "XT_Colors",
+      "XT_MoonStars",
+      "TV_Top102024"
+    ],
+    "artist": "Nick Drake",
+    "genres": 0,
+    "spotId": "16qzGrIMWoxerw2gnW0zuv",
+    "couname": "Pink Moon",
+    "duration": "123333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27334e5885465afc8a497ac1b7e",
+    "pty": 0,
+    "Items": [
+      "XT_Running",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "08gavXombT6KR0af88i9tA",
+    "couname": "Jump Then Fall",
+    "duration": "237066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
+    "pty": 0,
+    "Items": [
+      "XT_Love",
+      "TV_Top102024"
+    ],
+    "artist": "SZA,Travis Scott",
+    "genres": 0,
+    "spotId": "0q75NwOoFiARAVp4EXU4Bs",
+    "couname": "Love Galore",
+    "duration": "275080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734b86223903ecefaa8df576a4",
+    "pty": 0,
+    "Items": [
+      "XT_Love",
+      "TV_Top102024"
+    ],
+    "artist": "Morgan Wallen",
+    "genres": 0,
+    "spotId": "7hR22TOX3RorxJPcsz5Wbo",
+    "couname": "Love Somebody",
+    "duration": "204828"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cd63c5962050729d260077d6",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Meek Mill,Drake",
+    "genres": 0,
+    "spotId": "2IRZnDFmlqMuOrYOLnZZyc",
+    "couname": "Going Bad",
+    "duration": "180522"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c288028c2592f400dd0b9233",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_History",
+      "XT_Weather",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "2olxzvoFI9IpxqFeUv7WOX",
+    "couname": "the last great american dynasty",
+    "duration": "231000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d",
+    "pty": 0,
+    "Items": [
+      "XT_Running",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift,Ed Sheeran",
+    "genres": 0,
+    "spotId": "4IQkfUsrwXol38VV3U7t7T",
+    "couname": "Run",
+    "duration": "240226"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273332d85510aba3eb28312cfb2",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Places",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "33Kq0AT5rvwyE4azisG08x",
+    "couname": "Welcome To New York",
+    "duration": "212600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "XT_Love",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "6CcJMwBtXByIz4zQLzFkKc",
+    "couname": "i love you",
+    "duration": "291796"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "5NFYuqu8V6QXc6mzcLImd6",
+    "couname": "Hype",
+    "duration": "209413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Food",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "0sY6ZUTh4yoctD8VIXz339",
+    "couname": "champagne problems",
+    "duration": "244000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_BestVideos",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "7BRD7x5pt8Lqa1eGYC4dzj",
+    "couname": "CHIHIRO",
+    "duration": "303440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "2dgFqt3w9xIQRjhPtwNk3D",
+    "couname": "Death By A Thousand Cuts",
+    "duration": "198533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_ViolinSolo",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "7kt9e9LFSpN1zQtYEl19o1",
+    "couname": "this is me trying",
+    "duration": "195097"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "7qEKqBCD2vE5vIBsrUitpD",
+    "couname": "ilomilo",
+    "duration": "156370"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d",
+    "pty": 0,
+    "Items": [
+      "XT_MoonStars",
+      "XT_Water",
+      "XT_Weather",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "7A2cNLRT0YJc1yjxHlKihs",
+    "couname": "Starlight",
+    "duration": "220413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fa2741071b31bb94cb4232ae",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "DJ Khaled,SZA",
+    "genres": 0,
+    "spotId": "0BnTBAGmr9FtYwkZrwKhwS",
+    "couname": "Just Us",
+    "duration": "221378"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "XT_Colors",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "2prqm9sPLj10B4Wg0wE5x9",
+    "couname": "BLUE",
+    "duration": "343120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734adbeb26299adca766cec2c5",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_BillieEilish",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "51NFxnQvaosfDDutk0tams",
+    "couname": "bellyache",
+    "duration": "179172"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738a3f0a3ca7929dea23cd274c",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_SpotifyS500",
+      "XT_Love",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish,Khalid",
+    "genres": 0,
+    "spotId": "0u2P5u6lvoDfwTYjAADbn4",
+    "couname": "lovely",
+    "duration": "200185"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_ViolinSolo",
+      "TV_SpotifyS500",
+      "XT_Love",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1dGr1c8CrMLDpV6mPbImSI",
+    "couname": "Lover",
+    "duration": "221306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_BillieEilish",
+      "GN_Piano",
+      "XT_Cars",
+      "XT_Oscars",
+      "XT_Questions",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "6wf7Yu7cxBSPrRlWeSeK0Q",
+    "couname": "What Was I Made For?",
+    "duration": "222369"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "GN_ViolinSolo",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "1CsMKhwEmNnmvHUuO5nryA",
+    "couname": "SKINNY",
+    "duration": "219733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273332d85510aba3eb28312cfb2",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Love",
+      "XT_Water",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1kTPQnabROVkW9bUXdCGrB",
+    "couname": "This Love",
+    "duration": "250093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+    "pty": 0,
+    "Items": [
+      "XT_Colors",
+      "XT_Places",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar,Wallie the Sensei,Siete7x,Roddy Ricch",
+    "genres": 0,
+    "spotId": "4K1Pg0FLno1ltzX3jeqT83",
+    "couname": "dodger blue",
+    "duration": "131240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730c471c36970b9406233842a5",
+    "pty": 0,
+    "Items": [
+      "TV_BestVideos",
+      "TV_Halloween",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "TV_Top102024"
+    ],
+    "artist": "SZA",
+    "genres": 0,
+    "spotId": "1Qrg8KqiBpW07V7PNxwwwL",
+    "couname": "Kill Bill",
+    "duration": "153946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732373aec1b1cdbcff78939f2e",
+    "pty": 0,
+    "Items": [
+      "TV_BestVideos",
+      "TV_SpotifyS500",
+      "TV_Top102024"
+    ],
+    "artist": "SZA",
+    "genres": 0,
+    "spotId": "24yrJJkmVUMkJHvCaR85BN",
+    "couname": "Snooze",
+    "duration": "201800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "76gUmNLXGQVOsGhfcshkFP",
+    "couname": "Madiba Riddim",
+    "duration": "205162"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "4ak9GGe6afmi2HbxEjvhIC",
+    "couname": "Male Fantasy",
+    "duration": "194886"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+    "pty": 0,
+    "Items": [
+      "GN_ViolinSolo",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "30Y4CV7A6YqtQtTTo7Ue4j",
+    "couname": "Mean",
+    "duration": "238693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Karaoke",
+      "YR_0009",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "15DeqWWQB4dcEWzJg15VrN",
+    "couname": "Our Song",
+    "duration": "201106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bb1138165ad4ec2306f4e886",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Lil Wayne,Kendrick Lamar",
+    "genres": 0,
+    "spotId": "0dbTQYW3Ad1FTzIA9t90E8",
+    "couname": "Mona Lisa",
+    "duration": "324189"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_BillieEilish",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "3XF5xLJHOQQRbWya6hBp7d",
+    "couname": "you should see me in a crown",
+    "duration": "180952"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27355404f712deb84d0650a4b41",
+    "pty": 0,
+    "Items": [
+      "TV_BestVideos",
+      "TV_SpotifyS500",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone,Quavo",
+    "genres": 0,
+    "spotId": "3a1lNhkSLSkpJE4MSHpDu9",
+    "couname": "Congratulations",
+    "duration": "220293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
+    "pty": 0,
+    "Items": [
+      "XT_Love",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,The Weeknd",
+    "genres": 0,
+    "spotId": "0V4l4GQhgnWQGtCWpvA7va",
+    "couname": "Crew Love",
+    "duration": "208813"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a17cd23ff2ec11ebd18f6a32",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Alicia Keys,Kendrick Lamar",
+    "genres": 0,
+    "spotId": "5c9L8dgMSVooRhU6JIuEj5",
+    "couname": "It's On Again",
+    "duration": "230120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730ad5098c562d43ce8211539c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Intros",
+      "XT_Water",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "7frWizM5FgJkaUl1rXhVtO",
+    "couname": "Swimming Pools",
+    "duration": "248466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734d382194384bc6e08eb090f6",
+    "pty": 0,
+    "Items": [
+      "TV_SpotifyS500",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Bad Bunny,Drake",
+    "genres": 0,
+    "spotId": "116H0KvKr2Zl4RPuVBruDO",
+    "couname": "MIA",
+    "duration": "210367"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Intros",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "6LxSe8YmdPxy095Ux6znaQ",
+    "couname": "Headlines",
+    "duration": "235986"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a688d4b1d37067e0e92fc886",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_BodyParts",
+      "XT_Numbers",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "1zayuwd1YLZsYDArkruHdL",
+    "couname": "The Heart Part 4",
+    "duration": "288554"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_Choirs",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "6IZvVAP7VPPnsGX6bvgkqg",
+    "couname": "PRIDE.",
+    "duration": "275253"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_BestVideos",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "6n3HGiq4v35D6eFOSwqYuo",
+    "couname": "Teenage Fever",
+    "duration": "219692"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Love",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "343YBumqHu19cGoGARUTsd",
+    "couname": "Fake Love",
+    "duration": "210937"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27367ffd8d6bbf399430ba9c044",
+    "pty": 0,
+    "Items": [
+      "TV_Rolling500",
+      "XT_Intros",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Majid Jordan",
+    "genres": 0,
+    "spotId": "14Rcq31SafFBHNEwXrtR2B",
+    "couname": "Hold On, We're Going Home",
+    "duration": "227880"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "XT_BodyParts",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,PARTYNEXTDOOR",
+    "genres": 0,
+    "spotId": "5JUu0unA8VwhTZ9LkMWUVI",
+    "couname": "Since Way Back",
+    "duration": "368035"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732ed326786e4c61c6b1dbf222",
+    "pty": 0,
+    "Items": [
+      "BT_Rihanna",
+      "XT_Questions",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Rihanna,Drake",
+    "genres": 0,
+    "spotId": "5FTCKvxzqy72ceS4Ujux4N",
+    "couname": "What's My Name?",
+    "duration": "263173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_BillieEilish",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "41zXlQxzTi6cGAjpOXyLYH",
+    "couname": "idontwannabeyouanymore",
+    "duration": "203569"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b795ba77ad9b3697b01281d0",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "DJ Khaled,Drake,Rick Ross,Lil Wayne",
+    "genres": 0,
+    "spotId": "1shcX6tiTCzNcJ3dfuf3kM",
+    "couname": "I'm On One",
+    "duration": "298866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
+    "pty": 0,
+    "Items": [
+      "TV_SpotifyS500",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone,Young Thug",
+    "genres": 0,
+    "spotId": "0t3ZvGKlmYmVsDzBJAXK8C",
+    "couname": "Goodbyes",
+    "duration": "174853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736bf36d6497b0db242c514a91",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_SpotifyS500",
+      "XT_Cars",
+      "XT_Dreaming",
+      "XT_Intros",
+      "XT_MoonStars",
+      "XT_Oscars",
+      "XT_Weather",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar,SZA",
+    "genres": 0,
+    "spotId": "2Imq77E6CEJR5TPUxlJvTY",
+    "couname": "All The Stars",
+    "duration": "232186"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273726abca207567d5e41cb9667",
+    "pty": 0,
+    "Items": [
+      "BT_Rihanna",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Rihanna",
+    "genres": 0,
+    "spotId": "11KJSRSgaDxqydKYiD2Jew",
+    "couname": "Too Good",
+    "duration": "263373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
+    "pty": 0,
+    "Items": [
+      "XT_Gold",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift,Ed Sheeran,Future",
+    "genres": 0,
+    "spotId": "2x0WlnmfG39ZuDmstl9xfX",
+    "couname": "End Game",
+    "duration": "244826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_BillieEilish",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "3Fj47GNK2kUF0uaEDgXLaD",
+    "couname": "wish you were gay",
+    "duration": "221543"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27393d393bbc923a9e0e1ec77dd",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_Memes",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "1UfBAJfmofTffrae5ls6DA",
+    "couname": "Hotline Bling",
+    "duration": "267023"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "TV_SpotifyS500",
+      "XT_Numbers",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Wizkid,Kyla",
+    "genres": 0,
+    "spotId": "1zi7xx7UVEFkmKfv06H8x0",
+    "couname": "One Dance",
+    "duration": "173986"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_SpotifyS500",
+      "XT_Food",
+      "XT_Karaoke",
+      "XT_Plants",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "5mCPDVBb16L4XQwDdbRUpz",
+    "couname": "Passionfruit",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27304b3aa9683e334b8140d19e7",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "GN_Choirs",
+      "GN_Piano",
+      "TV_SpotifyS500",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "14JzyD6FlBD5z0wV5P07YI",
+    "couname": "when the party's over",
+    "duration": "199931"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27363d77f99117b28af9f656918",
+    "pty": 0,
+    "Items": [
+      "TV_SpotifyS500",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "ZAYN,Taylor Swift",
+    "genres": 0,
+    "spotId": "55n9yjI6qqXh5F2mYvUc2y",
+    "couname": "I Don’t Wanna Live Forever",
+    "duration": "247160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "CT_Norway",
+      "TV_SpotifyS500",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone",
+    "genres": 0,
+    "spotId": "7dt6x5M1jzdTEt8oCbisTK",
+    "couname": "Better Now",
+    "duration": "231266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_Weather",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1BxfuPKGuaTgP7aM0Bbdwr",
+    "couname": "Cruel Summer",
+    "duration": "178426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "3qN5qMTKyEEmiTZD38BNTT",
+    "couname": "I'm Upset",
+    "duration": "214466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "TV_BestVideos",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1P17dC1amhFzptugyAO7Il",
+    "couname": "Look What You Made Me Do",
+    "duration": "211853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_BillieEilish",
+      "TV_Halloween",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "6IRdLKIyS4p7XNiP8r6rsx",
+    "couname": "all the good girls go to hell",
+    "duration": "168839"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Places",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone",
+    "genres": 0,
+    "spotId": "05mDaV9Vb3wrzjF6OPZnhq",
+    "couname": "Saint-Tropez",
+    "duration": "150866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_Choirs",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1GwMQaZz6Au3QLDbjbMdme",
+    "couname": "Call It What You Want",
+    "duration": "203506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27304986cc325ba79fe52314a7b",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_Choirs",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "4wf0ZHAJqLLoiFYR9IRwco",
+    "couname": "Bad Blood",
+    "duration": "211933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731455defcb0b02a3d3a5388f7",
+    "pty": 0,
+    "Items": [
+      "XT_AboutTime",
+      "XT_Numbers",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Nicki Minaj,Drake",
+    "genres": 0,
+    "spotId": "3NnYi2wpHKdTAuc7BbQapx",
+    "couname": "Moment 4 Life",
+    "duration": "279306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27352b3e59e8b87676f666ddd89",
+    "pty": 0,
+    "Items": [
+      "TV_SpotifyS500",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Maroon 5,SZA",
+    "genres": 0,
+    "spotId": "6HIM6FrIlHYCoPlKkDtgXn",
+    "couname": "What Lovers Do",
+    "duration": "199849"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890",
+    "pty": 0,
+    "Items": [
+      "XT_Running",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Migos,Drake",
+    "genres": 0,
+    "spotId": "6n4U3TlzUGhdSFbUUhTvLP",
+    "couname": "Walk It Talk It",
+    "duration": "276147"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733dc98872a3cf00117e4623e5",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_BodyParts",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "5lFDtgWsjRJu8fPOAyJIAK",
+    "couname": "Back To Back",
+    "duration": "170637"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c1c3c30049659824bdac476b",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_BodyParts",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "3lSR267IJfT54p0Gfuw7mi",
+    "couname": "Right Hand",
+    "duration": "190595"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731c248e90c3e569f90aef9dec",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_BodyParts",
+      "XT_Karaoke",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "0VwNdo84DaVYLIkbVO86ND",
+    "couname": "We Are Never Ever Getting Back Together",
+    "duration": "193146"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27311b21e8b868800918d21bb77",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "6BdgtqiV3oXNqBikezwdvC",
+    "couname": "Over",
+    "duration": "233560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738222051128ef2edccf1e83d8",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Nicki Minaj,Drake,Lil Wayne",
+    "genres": 0,
+    "spotId": "7KcGEssn7BnJdTgildK5y0",
+    "couname": "No Frauds",
+    "duration": "272453"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c5e26c45a7703cf16f509f7",
+    "pty": 0,
+    "Items": [
+      "TV_Tomorrowland",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Tiësto,Dzeko,Preme,Post Malone",
+    "genres": 0,
+    "spotId": "4kWO6O1BUXcZmaxitpVUwp",
+    "couname": "Jackie Chan",
+    "duration": "215759"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_SpotifyS500",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone",
+    "genres": 0,
+    "spotId": "21jGcNKet2qwijlDFuPiPb",
+    "couname": "Circles",
+    "duration": "215280"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27348a98a5a97b2cc7963016888",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_BillieEilish",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "7wC5eZcFS1Q1BsQ35DU6H4",
+    "couname": "come out and play",
+    "duration": "210375"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "TV_BestVideos",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "6NFyWDv5CjfwuzoCkw47Xf",
+    "couname": "Delicate",
+    "duration": "232253"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Karaoke",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "6HZILIRieu8S0iqY8kIKhj",
+    "couname": "DNA.",
+    "duration": "185946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "XT_Water",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Young Thug",
+    "genres": 0,
+    "spotId": "7bJ4mu7MHa3rHiNyKjOoSl",
+    "couname": "Ice Melts",
+    "duration": "250770"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27355404f712deb84d0650a4b41",
+    "pty": 0,
+    "Items": [
+      "TV_SpotifyS500",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone",
+    "genres": 0,
+    "spotId": "75ZvA4QfFiZvzhj2xkaWAh",
+    "couname": "I Fall Apart",
+    "duration": "223346"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731c248e90c3e569f90aef9dec",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Karaoke",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "6FB3v4YcR57y4tXFcdxI1E",
+    "couname": "I Knew You Were Trouble.",
+    "duration": "219720"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+    "pty": 0,
+    "Items": [
+      "BT_Rihanna",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar,Rihanna",
+    "genres": 0,
+    "spotId": "6SwRhMLwNqEi6alNPVG00n",
+    "couname": "LOYALTY. FEAT. RIHANNA.",
+    "duration": "227360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_SpotifyS500",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "3CA9pLiwRIGtUBiMjbZmRw",
+    "couname": "Nice For What",
+    "duration": "210746"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Flying",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "3pHkh7d0lzM2AldUtz2x37",
+    "couname": "The Archer",
+    "duration": "211240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b2c1fada97bb5f3524d3c6e9",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Numbers",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "2ZRJRe82aZaVhOKKlbJr4v",
+    "couname": "Summer Sixteen",
+    "duration": "202450"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730432bfd9e6adb616fd8bcc97",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "TV_SpotifyS500",
+      "XT_Karaoke",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1CiVz2WkmZRwhU3A6J2Gjz",
+    "couname": "Shake It Off",
+    "duration": "219200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
+    "pty": 0,
+    "Items": [
+      "BT_Rihanna",
+      "TV_Rolling500",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Rihanna",
+    "genres": 0,
+    "spotId": "124NFj84ppZ5pAxTuVQYCQ",
+    "couname": "Take Care",
+    "duration": "277386"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+    "pty": 0,
+    "Items": [
+      "TV_SpotifyS500",
+      "XT_Love",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar,Zacari",
+    "genres": 0,
+    "spotId": "6PGoSes0D9eUDeeAafB2As",
+    "couname": "LOVE. FEAT. ZACARI.",
+    "duration": "213400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273332d85510aba3eb28312cfb2",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "XT_Youth",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1fo2ctLqj3zBhRQKOXprol",
+    "couname": "Style",
+    "duration": "231000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "TV_Dreamworks",
+      "XT_Dreaming",
+      "XT_Flying",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "59HjlYCeBsxdI0fcm3zglw",
+    "couname": "Wildest Dreams",
+    "duration": "220440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "CT_Norway",
+      "TV_SpotifyS500",
+      "XT_Cars",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone",
+    "genres": 0,
+    "spotId": "7xQAfvXzm3AkraOtGPWIZg",
+    "couname": "Wow.",
+    "duration": "149546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732cafcdd985630d72594ecc49",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_SpotifyS500",
+      "XT_BodyParts",
+      "XT_Water",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "2uIX8YMNjGMD7441kqyyNU",
+    "couname": "ocean eyes",
+    "duration": "200560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_BillieEilish",
+      "CT_Norway",
+      "TV_SpotifyS500",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "3ZCTVFBt2Brf31RLEnCkWJ",
+    "couname": "everything i wanted",
+    "duration": "245425"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar,Bilal,Anna Wise,Snoop Dogg",
+    "genres": 0,
+    "spotId": "4oFtLSgHyZPNYDCcANhTnO",
+    "couname": "Institutionalized",
+    "duration": "271773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d2aaf635815c265aa1ecdecc",
+    "pty": 0,
+    "Items": [
+      "TV_Tomorrowland",
+      "TV_Top102024"
+    ],
+    "artist": "Alan Walker,Sabrina Carpenter,Farruko",
+    "genres": 0,
+    "spotId": "4n7jnSxVLd8QioibtTDBDq",
+    "couname": "On My Way",
+    "duration": "193797"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "TV_BestVideos",
+      "XT_Questions",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "2yLa0QULdQr0qAIvVwN6B5",
+    "couname": "...Ready For It?",
+    "duration": "208186"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_BillieEilish",
+      "TV_Halloween",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "4SSnFejRGlZikf02HLewEF",
+    "couname": "bury a friend",
+    "duration": "193143"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_BestVideos",
+      "TV_SpotifyS500",
+      "XT_Karaoke",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "7KXjTSCq5nL1LoYtL7XAwS",
+    "couname": "HUMBLE.",
+    "duration": "177000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d29a5d713277b0b3d517507b",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_BodyParts",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "7wjbSn8QHsxqKXU5M0jXGM",
+    "couname": "Eyes Open",
+    "duration": "244586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b7578013decfa174e30dc298",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Weather",
+      "TV_Top102024"
+    ],
+    "artist": "Luke Combs",
+    "genres": 0,
+    "spotId": "6xHI9KjUjYT0FPtGO8Mxa1",
+    "couname": "Hurricane",
+    "duration": "222533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "2YWtcWi3a83pdEg3Gif4Pd",
+    "couname": "I Think He Knows",
+    "duration": "173386"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Places",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "7wAkQFShJ27V8362MqevQr",
+    "couname": "So Long, London",
+    "duration": "262974"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736da3545a2b0520b5a9a34fa8",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Colors",
+      "TV_Top102024"
+    ],
+    "artist": "Zach Bryan",
+    "genres": 0,
+    "spotId": "5mq4sI6c2SCxwDjHpzvq5E",
+    "couname": "Something in the Orange",
+    "duration": "228013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_MarvelSongs",
+      "XT_Colors",
+      "XT_OffAnimals",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "5qN4HFkapdAOV94XPryVof",
+    "couname": "Black Panther",
+    "duration": "130613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "0y9uTzK9cNKSAEHnpeRG8C",
+    "couname": "DUCKWORTH.",
+    "duration": "248613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "5Psnhdkyanjpgc2P8A5TSM",
+    "couname": "Emotionless",
+    "duration": "302173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27385215306c1fc25ae678f8675",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "46bY52AKBbUrep82FJxI5w",
+    "couname": "Energy",
+    "duration": "181933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Nicki Minaj",
+    "genres": 0,
+    "spotId": "7yfg0Eer6UZZt5tZ1XdsWz",
+    "couname": "Make Me Proud",
+    "duration": "219893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f624fdadb511452a2093694d",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "TV_Top102024"
+    ],
+    "artist": "Nick Drake",
+    "genres": 0,
+    "spotId": "7unUg1rIAVXyYVH5LPHc4R",
+    "couname": "Introduction",
+    "duration": "92306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c697f553a46006a5d8886b2",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "6OkOFxU6j0UufR97VgSnS7",
+    "couname": "untitled 01 | 08.19.2014.",
+    "duration": "247746"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c697f553a46006a5d8886b2",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "3I0FBDc1c1BLNtXWKVjmFg",
+    "couname": "untitled 02 | 06.23.2014.",
+    "duration": "258826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c697f553a46006a5d8886b2",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "2fgAJeky8Cpsr8Cfvn2NVp",
+    "couname": "untitled 03 | 05.28.2013.",
+    "duration": "154346"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c697f553a46006a5d8886b2",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "40IQooNkPRVtn4zlE3ZFpA",
+    "couname": "untitled 07 | 2014",
+    "duration": "496173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar,George Clinton,Thundercat",
+    "genres": 0,
+    "spotId": "7Ks4VCY1wFebnOdJrM13t6",
+    "couname": "Wesley's Theory",
+    "duration": "287360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "4PA16FAl8LPmFmOhARawdV",
+    "couname": "Weston Road Flows",
+    "duration": "253533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27316755a5a392866488c4087f6",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Swae Lee,Drake",
+    "genres": 0,
+    "spotId": "2sqsNXfN0HtgDEgaHXiUTa",
+    "couname": "Won't Be Late",
+    "duration": "218709"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f8fbe43a3801b86826e9341",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "French Montana,Rvssian,Post Malone,Cardi B",
+    "genres": 0,
+    "spotId": "7x9nXsowok1JszkVztI5NI",
+    "couname": "Writing on the Wall",
+    "duration": "201270"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar,U2",
+    "genres": 0,
+    "spotId": "4iYRa2btalAzPZoSYfROqF",
+    "couname": "XXX. FEAT. U2.",
+    "duration": "254200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dc2bacae1dca83d26e2b1949",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "6IG3sQ8s9nfk6TUlVzRhbN",
+    "couname": "Is It Over Now?",
+    "duration": "229477"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "4BHSjbYylfOH5WAGusDyni",
+    "couname": "YAH.",
+    "duration": "160293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736cab41f8c84d6164976400d4",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Lil Baby,Drake",
+    "genres": 0,
+    "spotId": "6vN77lE9LK6HP2DewaN6HZ",
+    "couname": "Yes Indeed",
+    "duration": "142273"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27332f1a3721efb2ddfb91b9c82",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "SZA,Kendrick Lamar",
+    "genres": 0,
+    "spotId": "6Aj2H0Z0v0JgnSfPEwCgW0",
+    "couname": "Babylon",
+    "duration": "234284"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27385215306c1fc25ae678f8675",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "1DkTv22buYWKuAckpTyI0V",
+    "couname": "Legend",
+    "duration": "241853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e9dc25b00ec96141e0090d9f",
+    "pty": 0,
+    "Items": [
+      "BT_Rihanna",
+      "TV_Top102024"
+    ],
+    "artist": "N.E.R.D,Rihanna,Drake",
+    "genres": 0,
+    "spotId": "739vCwA3EpBSkk3uDsI2wB",
+    "couname": "Lemon",
+    "duration": "226106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "0tMSssfxAL2oV8Vri0mFHE",
+    "couname": "listen before i go",
+    "duration": "242652"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "7DpUoxGSdlDHfqCYj0otzU",
+    "couname": "BITTERSUITE",
+    "duration": "298440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bd158c797b1026005c2917bc",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutTime",
+      "XT_Weather",
+      "TV_Top102024"
+    ],
+    "artist": "Nick Drake",
+    "genres": 0,
+    "spotId": "1drLQNS9D5z9lBP4DbtO2R",
+    "couname": "Saturday Sun",
+    "duration": "245013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f624fdadb511452a2093694d",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "XT_AboutTime",
+      "TV_Top102024"
+    ],
+    "artist": "Nick Drake",
+    "genres": 0,
+    "spotId": "0wQPwZhvz0pAq7ezuYYYkS",
+    "couname": "Sunday",
+    "duration": "223080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift,Brendon Urie,Panic! At The Disco",
+    "genres": 0,
+    "spotId": "2Rk4JlNc2TPmZe2af99d45",
+    "couname": "ME!",
+    "duration": "193000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "CT_Norway",
+      "TV_SpotifyS500",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "6DCZcSspjsKoFjzjrWoCdn",
+    "couname": "God's Plan",
+    "duration": "198973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733f3b653b0a7b9e889a712c3d",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Rick Ross",
+    "genres": 0,
+    "spotId": "5ry2OE6R2zPQFDO85XkgRb",
+    "couname": "Money In The Grave",
+    "duration": "205426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "5f5r2N4Lp9WoULWPH9zp2W",
+    "couname": "Can't Have Everything",
+    "duration": "228437"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "1RGasjWLZ4qMN7wbtkLa3u",
+    "couname": "my boy",
+    "duration": "170852"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273954fe13f7c5f4b2f18d066b8",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "2ygvZOXrIeVL4xZmAWJT2C",
+    "couname": "my future",
+    "duration": "208155"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "3Tc57t9l2O8FwQZtQOvPXK",
+    "couname": "my strange addiction",
+    "duration": "179889"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273816673ed1db2aa75cfa91843",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "French Montana,Drake",
+    "genres": 0,
+    "spotId": "04MLEeAMuV9IlHEsD8vF6A",
+    "couname": "No Stylist",
+    "duration": "192172"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f624fdadb511452a2093694d",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "TV_Top102024"
+    ],
+    "artist": "Nick Drake",
+    "genres": 0,
+    "spotId": "3EtIraJEHVSbBvLw5msioH",
+    "couname": "Northern Sky",
+    "duration": "224013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "4T2zre0jqstNJ5Gt0WG9lz",
+    "couname": "Not My Responsibility",
+    "duration": "227679"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dc2bacae1dca83d26e2b1949",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "5QUIK7ZtziW8kGWo8RqopF",
+    "couname": "Now That We Don't Talk",
+    "duration": "146436"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "5SHpuW2qjkQtFRpE6P9Nks",
+    "couname": "The 30th",
+    "duration": "216448"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27302209c3c60b4cc83158ec470",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Colors",
+      "XT_OffAnimals",
+      "TV_Top102024"
+    ],
+    "artist": "Nick Drake",
+    "genres": 0,
+    "spotId": "1ORNDo58BSH2uP0nNXJTT1",
+    "couname": "Black Eyed Dog",
+    "duration": "207653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273429d8ec28f865acf2a927c2d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_BodyParts",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "Luke Combs",
+    "genres": 0,
+    "spotId": "5v6gozUHFv9OoNdFYz6p8V",
+    "couname": "Six Feet Apart",
+    "duration": "199068"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dc2bacae1dca83d26e2b1949",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1OcSfkeCg9hRC2sFKB4IMJ",
+    "couname": "Out Of The Woods",
+    "duration": "235800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736c031afd210aed3084f80956",
+    "pty": 0,
+    "Items": [
+      "TV_SpotifyS500",
+      "XT_Kiss",
+      "TV_Top102024"
+    ],
+    "artist": "Doja Cat,SZA",
+    "genres": 0,
+    "spotId": "748mdHapucXQri7IAO8yFK",
+    "couname": "Kiss Me More",
+    "duration": "208866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "5uSG6fUPRaehaV820zcpsK",
+    "couname": "OverHeated",
+    "duration": "214058"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_Choirs",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "4y5bvROuBDPr5fuwXbIBZR",
+    "couname": "Paper Rings",
+    "duration": "222400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "4t2OeILB07eMGTXSUbMPEu",
+    "couname": "Oxytocin",
+    "duration": "210232"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "3O8NlPh2LByMU9lSRSHedm",
+    "couname": "Controlla",
+    "duration": "245226"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273380c77d3748c454553271961",
+    "pty": 0,
+    "Items": [
+      "GN_ViolinSolo",
+      "TV_Top102024"
+    ],
+    "artist": "HIXTAPE,Joe Diffie,Post Malone",
+    "genres": 0,
+    "spotId": "4MXqpnu9lAqqkjSHVlBVoZ",
+    "couname": "Pickup Man",
+    "duration": "216194"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27385215306c1fc25ae678f8675",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,PARTYNEXTDOOR",
+    "genres": 0,
+    "spotId": "17pGmE11tTqiZZGb4h1NKZ",
+    "couname": "Preach",
+    "duration": "236973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
+    "pty": 0,
+    "Items": [
+      "GN_ViolinSolo",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "6sQckd3Z8NPxVVKUnavY1F",
+    "couname": "‘tis the damn season",
+    "duration": "229840"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "4cRBqWBjuccCowYVHFlXK6",
+    "couname": "Redemption",
+    "duration": "333946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dc2bacae1dca83d26e2b1949",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "3CCRVu4F91Qp2mnGjmWBrf",
+    "couname": "Say Don't Go",
+    "duration": "279833"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a0a916db0206cc4d773f9013",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Zach Bryan,Maggie Rogers",
+    "genres": 0,
+    "spotId": "42TtHTxWk782ZBiqyOi2d1",
+    "couname": "Dawns",
+    "duration": "290892"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730ed05634a469e5cf4789b0a7",
+    "pty": 0,
+    "Items": [
+      "BT_Rihanna",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Rihanna,SZA",
+    "genres": 0,
+    "spotId": "51sAlDiNNssAVlt9eAz99B",
+    "couname": "Consideration",
+    "duration": "161066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "6RRNNciQGZEXnqk8SQ9yv5",
+    "couname": "You Need To Calm Down",
+    "duration": "171360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "6TGd66r0nlPaYm3KIoI7ET",
+    "couname": "THE GREATEST",
+    "duration": "293840"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Lil Wayne",
+    "genres": 0,
+    "spotId": "4Kz4RdRCceaA9VgTqBhBfa",
+    "couname": "The Motto",
+    "duration": "181573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273efa58e65fc9003282883ac51",
+    "pty": 0,
+    "Items": [
+      "TV_Dreamworks",
+      "TV_Top102024"
+    ],
+    "artist": "SZA,Justin Timberlake",
+    "genres": 0,
+    "spotId": "3OegTjM0YVq41T8K0dpDx1",
+    "couname": "The Other Side",
+    "duration": "188186"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "SZA",
+    "genres": 0,
+    "spotId": "6gU9OKjOE7ghfEd55oRO57",
+    "couname": "The Weekend",
+    "duration": "272186"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "07NxDD1iKCHbAldceD7QLP",
+    "couname": "This Is Why We Can't Have Nice Things",
+    "duration": "207133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273deae7d931928fc1543e70203",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Maroon 5,Kendrick Lamar",
+    "genres": 0,
+    "spotId": "5o3GnrcFtvkdf3zFznuSbA",
+    "couname": "Don't Wanna Know",
+    "duration": "214265"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273524aa1b58c9b19480d8ee703",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Anderson .Paak,Kendrick Lamar",
+    "genres": 0,
+    "spotId": "7c3SbTuufigBWURcICnAWy",
+    "couname": "Tints",
+    "duration": "268400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734aa13f6de271d8403a82e4a8",
+    "pty": 0,
+    "Items": [
+      "XT_Running",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "2slqvGLwzZZYsT4K4Y1GBC",
+    "couname": "Only The Young",
+    "duration": "157507"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ba4cad4533efdd06fa843a39",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "5qNh5WtzMbfpSj2jLlBkoD",
+    "couname": "Your Power",
+    "duration": "245896"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "1EaKU4dMbesXXd3BrLCtYG",
+    "couname": "ELEMENT.",
+    "duration": "208733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273963d3c4c660cd5e16f5c8faf",
+    "pty": 0,
+    "Items": [
+      "XT_Love",
+      "TV_Top102024"
+    ],
+    "artist": "Morgan Wallen",
+    "genres": 0,
+    "spotId": "6mcuK40HmzARZP56q9HE40",
+    "couname": "Redneck Love Song",
+    "duration": "189973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273700f7bf79c9f063ad0362bdf",
+    "pty": 0,
+    "Items": [
+      "GN_ViolinSolo",
+      "TV_Top102024"
+    ],
+    "artist": "Sabrina Carpenter",
+    "genres": 0,
+    "spotId": "2qLyo5FeWquE7HBUbcVnEy",
+    "couname": "emails i can’t send",
+    "duration": "104408"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735076e4160d018e378f488c33",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_BodyParts",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "4q5YezDOIPcoLr8R81x9qy",
+    "couname": "I Can Do It With a Broken Heart",
+    "duration": "218004"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737f5a318e3ff35defa8d0e4af",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "SZA,Kendrick Lamar",
+    "genres": 0,
+    "spotId": "3aSWXU6owkZeVhh94XxEWO",
+    "couname": "30 For 30",
+    "duration": "278276"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "5jhBwnqzNNrENXnYrAdoCe",
+    "couname": "Everybody Dies",
+    "duration": "206622"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737a9ca2b596e77061a6aab9ae",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "4haJoBPbPj9QFKNpp9e8kx",
+    "couname": "Diplomatic Immunity",
+    "duration": "255866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "2KvHC9z14GSl4YpkNMX384",
+    "couname": "Do Not Disturb",
+    "duration": "283550"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Water",
+      "TV_Top102024"
+    ],
+    "artist": "SZA,James Fauntleroy",
+    "genres": 0,
+    "spotId": "3LcoHjgdNl4xtWVaJGSA1p",
+    "couname": "Wavy",
+    "duration": "75800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a1fc738279f01eb8086fc44d",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Quavo,Drake",
+    "genres": 0,
+    "spotId": "1rlIrbWboTRGeKfHhgbJRZ",
+    "couname": "FLIP THE SWITCH",
+    "duration": "156195"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Colors",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "4n1bdaKwynQndm47x5HqWX",
+    "couname": "Blue Tint",
+    "duration": "162800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739c1e02d4becb7c5bbca01e2a",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "6C9SwoZ5OrxcvkntgA5t8s",
+    "couname": "4pm in Calabasas",
+    "duration": "240217"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e0b60c608586d88252b8fbc0",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Flying",
+      "XT_Weather",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "0BiqmkasE5FdrChwKfVp8X",
+    "couname": "Bigger Than The Whole Sky",
+    "duration": "218502"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325751b4b32829d6bbfe6be7f",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "GN_ViolinSolo",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift,The National",
+    "genres": 0,
+    "spotId": "4tyX1rw9X309WkEdh2As4B",
+    "couname": "coney island",
+    "duration": "275320"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273907c4fdbf748b825ba097673",
+    "pty": 0,
+    "Items": [
+      "XT_AboutTime",
+      "TV_Top102024"
+    ],
+    "artist": "ILOVEMAKONNEN,Drake",
+    "genres": 0,
+    "spotId": "2znzyzlAUc8Z1Ikq9aFOcx",
+    "couname": "Tuesday",
+    "duration": "321987"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d6adfbd3f091d6f2b9af6507",
+    "pty": 0,
+    "Items": [
+      "XT_Gold",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Future",
+    "genres": 0,
+    "spotId": "2AGottAzfC8bHzF7kEJ3Wa",
+    "couname": "Diamonds Dancing",
+    "duration": "314631"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "05KOgYg8PGeJyyWBPi5ja8",
+    "couname": "Free Smoke",
+    "duration": "218673"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_ViolinSolo",
+      "XT_Numbers",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "6KJqZcs9XDgVck7Lg9QOTC",
+    "couname": "seven",
+    "duration": "208906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27328b996fb1f9c481f3d0e7f0a",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Karaoke",
+      "YR_0009",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "0lfoTtq7sXenoEtdeGaom7",
+    "couname": "You Belong With Me",
+    "duration": "231306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fb023e6073e38a52082cc7b6",
+    "pty": 0,
+    "Items": [
+      "XT_Love",
+      "TV_Top102024"
+    ],
+    "artist": "Summer Walker,Drake",
+    "genres": 0,
+    "spotId": "14SaZBTjxlorHJQxXh01Hu",
+    "couname": "Girls Need Love",
+    "duration": "222374"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273adfb5909ec66db5fbb4d06c8",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "6s64FyS9n0XYbGMLH3LOWU",
+    "couname": "Furthest Thing",
+    "duration": "267373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+    "pty": 0,
+    "Items": [
+      "XT_Gold",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "6VsvKPJ4xjVNKpI8VVZ3SV",
+    "couname": "invisible string",
+    "duration": "252880"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Black Coffee,Jorja Smith",
+    "genres": 0,
+    "spotId": "7y6c07pgjZvtHI9kuMVqk1",
+    "couname": "Get It Together",
+    "duration": "250337"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015",
+    "pty": 0,
+    "Items": [
+      "XT_Gold",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "6XDBA3QWX51lDJ0oZbaJJN",
+    "couname": "Long Live",
+    "duration": "317946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27355404f712deb84d0650a4b41",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone",
+    "genres": 0,
+    "spotId": "5yuShbu70mtHXY0yLzCQLQ",
+    "couname": "Go Flex",
+    "duration": "179613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732e92f776279eaf45d14a33fd",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Mac Miller,Kendrick Lamar",
+    "genres": 0,
+    "spotId": "6hzbRKhJHo6cfCHSnNaDS8",
+    "couname": "God Is Fair, Sexy Nasty",
+    "duration": "500960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273429d8ec28f865acf2a927c2d",
+    "pty": 0,
+    "Items": [
+      "XT_Love",
+      "TV_Top102024"
+    ],
+    "artist": "Luke Combs",
+    "genres": 0,
+    "spotId": "0nYvjcSlCgjcwogQAwIwNp",
+    "couname": "Lovin' On You",
+    "duration": "194866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bf4733171d920f2a62b24713",
+    "pty": 0,
+    "Items": [
+      "XT_Numbers",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Robin Thicke,Kendrick Lamar",
+    "genres": 0,
+    "spotId": "5zDQlhcJ5KOoXeSMGwiuJY",
+    "couname": "Give It 2 U",
+    "duration": "229666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Numbers",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "SZA",
+    "genres": 0,
+    "spotId": "4h6ViRoztTBpWcJ1zFT9Zg",
+    "couname": "20 Something",
+    "duration": "198160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733097b1375ab17ae5bf302a0a",
+    "pty": 0,
+    "Items": [
+      "TV_SpotifyS500",
+      "TV_Top102024"
+    ],
+    "artist": "SZA",
+    "genres": 0,
+    "spotId": "3YJJjQPAbDT7mGpX3WtQ9A",
+    "couname": "Good Days",
+    "duration": "279204"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "3LgWsmilsrWXiPYQFRD0T7",
+    "couname": "goodbye",
+    "duration": "119409"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1ZY1PqizIl78geGM4xWlEA",
+    "couname": "Gorgeous",
+    "duration": "209680"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cd4fbef085542cb698fd598c",
+    "pty": 0,
+    "Items": [
+      "XT_Love",
+      "TV_Top102024"
+    ],
+    "artist": "Summer Walker,SZA",
+    "genres": 0,
+    "spotId": "08SB2OtZkaliju77WYEKxk",
+    "couname": "No Love",
+    "duration": "231497"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+    "pty": 0,
+    "Items": [
+      "GN_ViolinSolo",
+      "TV_SpotifyS500",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "4R2kfaDFhslZEMJqAFNpdd",
+    "couname": "cardigan",
+    "duration": "239560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dca19fcb7a25410224da080b",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Charli xcx,Billie Eilish",
+    "genres": 0,
+    "spotId": "3WOhcATHxK2SLNeP5W3v1v",
+    "couname": "Guess featuring billie eilish",
+    "duration": "143330"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730ed05634a469e5cf4789b0a7",
+    "pty": 0,
+    "Items": [
+      "BT_Rihanna",
+      "TV_SpotifyS500",
+      "TV_Top102024"
+    ],
+    "artist": "Rihanna,Drake",
+    "genres": 0,
+    "spotId": "14WWzenpaEgQZlqPq2nk4v",
+    "couname": "Work",
+    "duration": "219320"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cd88c34f2881b02885642bdc",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_0009",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "3fyMH1t6UPeR5croea9PrR",
+    "couname": "Best I Ever Had",
+    "duration": "257760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_BodyParts",
+      "XT_Colors",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar,Summer Walker,Ghostface Killah",
+    "genres": 0,
+    "spotId": "1REVvAphiSTJyKQ1fDpHa4",
+    "couname": "Purple Hearts",
+    "duration": "329295"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737c22c8b9a5cfe27cd9914c4c",
+    "pty": 0,
+    "Items": [
+      "YR_0009",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Kanye West,Lil Wayne,Eminem",
+    "genres": 0,
+    "spotId": "6HSqyfGnsHYw9MmIpa9zlZ",
+    "couname": "Forever",
+    "duration": "357346"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+    "pty": 0,
+    "Items": [
+      "GN_ViolinSolo",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "4tMzIAFTFdqGBQLdfbPces",
+    "couname": "Haunted",
+    "duration": "245413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f624fdadb511452a2093694d",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "TV_Top102024"
+    ],
+    "artist": "Nick Drake",
+    "genres": 0,
+    "spotId": "1Juj6Rg5MhutU8gW43934B",
+    "couname": "Hazey Jane II",
+    "duration": "226426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b8abc4de41be8b3158a4ef40",
+    "pty": 0,
+    "Items": [
+      "XT_AboutTime",
+      "TV_Top102024"
+    ],
+    "artist": "Big Red Machine,Taylor Swift",
+    "genres": 0,
+    "spotId": "1aU1wpYBSpP0M6IiihY5Ue",
+    "couname": "Renegade",
+    "duration": "254466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "5p3NP9mQblDsVJLdfNZJ3I",
+    "couname": "GOD.",
+    "duration": "248826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "6UjfByV1lDLW0SOVQA4NAi",
+    "couname": "Gyalchester",
+    "duration": "189229"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Fire",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "4BhGTc3Cgay2U1QcTS7vQe",
+    "couname": "Fire & Desire",
+    "duration": "238120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27380c64a084164867806ea617a",
+    "pty": 0,
+    "Items": [
+      "GN_Memes",
+      "XT_Love",
+      "TV_Top102024"
+    ],
+    "artist": "Lil Wayne,Drake,Future",
+    "genres": 0,
+    "spotId": "2XHzzp1j4IfTNp1FTn7YFg",
+    "couname": "Love Me",
+    "duration": "255053"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325751b4b32829d6bbfe6be7f",
+    "pty": 0,
+    "Items": [
+      "GN_ViolinSolo",
+      "XT_Colors",
+      "XT_Gold",
+      "XT_Intros",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "2ZTKWFG6OtHI3ewy9OGNOY",
+    "couname": "gold rush",
+    "duration": "185320"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732e4ec3175d848eca7b76b07f",
+    "pty": 0,
+    "Items": [
+      "XT_AboutTime",
+      "XT_BodyParts",
+      "XT_Intros",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "7lxADouiWFkwR7ZV2GKUcH",
+    "couname": "Back To December",
+    "duration": "293026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273659cd4673230913b3918e0d5",
+    "pty": 0,
+    "Items": [
+      "TV_BestVideos",
+      "TV_SpotifyS500",
+      "TV_Top102024"
+    ],
+    "artist": "Sabrina Carpenter",
+    "genres": 0,
+    "spotId": "2qSkIjg1o9h3YT9RAgYN75",
+    "couname": "Espresso",
+    "duration": "175459"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Water",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "3rWDp9tBPQR9z6U5YyRSK4",
+    "couname": "Midnight Rain",
+    "duration": "174782"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Flying",
+      "XT_Intros",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "6d9IiDcFxtFVIvt9pCqyGH",
+    "couname": "Sparks Fly",
+    "duration": "260933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730432bfd9e6adb616fd8bcc97",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_Karaoke",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1kHEuJRasudLhjvnbfc4yS",
+    "couname": "Blank Space",
+    "duration": "231826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Cars",
+      "XT_Food",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone",
+    "genres": 0,
+    "spotId": "32lItqlMi4LBhb4k0BaSaC",
+    "couname": "Candy Paint",
+    "duration": "227533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27334e5885465afc8a497ac1b7e",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Colors",
+      "YR_0009",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "4jPtq9shRdUv8Zjr0a5xkD",
+    "couname": "White Horse",
+    "duration": "234440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325751b4b32829d6bbfe6be7f",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Numbers",
+      "XT_Plants",
+      "XT_Water",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "3Uo7WG0vmLQ07WB4BDwy7D",
+    "couname": "willow",
+    "duration": "214706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "GN_Choirs",
+      "TV_BestVideos",
+      "TV_Halloween",
+      "TV_SpotifyS500",
+      "XT_OffAnimals",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "6dOtVTDdiauQNBQEDOtlAB",
+    "couname": "BIRDS OF A FEATHER",
+    "duration": "210373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27361520bfb3749817d193d71f4",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "6uqyE384HDSsuwpoF4mjrL",
+    "couname": "NDA",
+    "duration": "195776"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d58e537cea05c2156792c53d",
+    "pty": 0,
+    "Items": [
+      "XT_Food",
+      "XT_Places",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar,Dr. Dre",
+    "genres": 0,
+    "spotId": "1eRBW1HcyM1zPlxO26cScZ",
+    "couname": "The Recipe",
+    "duration": "352853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "GN_Choirs",
+      "XT_Colors",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "0FfqyjhB6Kspvit1oOo7ax",
+    "couname": "GOLDWING",
+    "duration": "151536"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735fce26509342fe7c8f6dad3a",
+    "pty": 0,
+    "Items": [
+      "XT_Plants",
+      "XT_Water",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "5dwQhzeE8LXpl9sbZJZmQS",
+    "couname": "the lakes",
+    "duration": "211798"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273935d8d5369bc55e74a39303e",
+    "pty": 0,
+    "Items": [
+      "TV_SpotifyS500",
+      "TV_Top102024"
+    ],
+    "artist": "Future,Drake",
+    "genres": 0,
+    "spotId": "1K5KBOgreBi5fkEHvg5ap3",
+    "couname": "Life Is Good",
+    "duration": "237918"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "TV_BestVideos",
+      "TV_SpotifyS500",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone,21 Savage",
+    "genres": 0,
+    "spotId": "0e7ipj03S05BNilyu5bRzt",
+    "couname": "rockstar",
+    "duration": "218146"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_Choirs",
+      "XT_Water",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1MgV7FIyNxIG7WzMRJV5HC",
+    "couname": "my tears ricochet",
+    "duration": "255893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f22e1263704f24cb504700ea",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Numbers",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "Sabrina Carpenter",
+    "genres": 0,
+    "spotId": "1xMHC2XPuDyBWU1ULY7eMA",
+    "couname": "Pushing 20",
+    "duration": "166233"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d",
+    "pty": 0,
+    "Items": [
+      "TV_BestVideos",
+      "TV_Rolling500",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "5enxwA8aAbwZbf5qCHORXi",
+    "couname": "All Too Well",
+    "duration": "613026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27320fda84534cced9c16e1b0e7",
+    "pty": 0,
+    "Items": [
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Love",
+      "YR_0009",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "2YtZIbuVU5cgLiHMvpHWOL",
+    "couname": "Love Story",
+    "duration": "236266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736acaae5585628cc2a97f053f",
+    "pty": 0,
+    "Items": [
+      "XT_Running",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Future",
+    "genres": 0,
+    "spotId": "6ApJN7sbsgAKwO29JbSLiK",
+    "couname": "Jumpman",
+    "duration": "205879"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27367ffd8d6bbf399430ba9c044",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_Simpsons120",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "6V2D8Lls36APk0THDjBDfE",
+    "couname": "Started From the Bottom",
+    "duration": "174133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Food",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "5Mtt6tZSZA9cXTHGSGpyh0",
+    "couname": "The Blacker The Berry",
+    "duration": "328826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c6338d684995af10c2bf0533",
+    "pty": 0,
+    "Items": [
+      "XT_Love",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Eminem,Kendrick Lamar",
+    "genres": 0,
+    "spotId": "0iMN420Q45isZVNlAqzPTW",
+    "couname": "Love Game",
+    "duration": "296953"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Numbers",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "12d5QFwzh60IIHlsSnAvps",
+    "couname": "10 Bands",
+    "duration": "177733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_SpotifyS500",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone,Swae Lee",
+    "genres": 0,
+    "spotId": "0RiRZpuVRbi7oqRdSMwhQY",
+    "couname": "Sunflower",
+    "duration": "157560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_BillieEilish",
+      "CT_Norway",
+      "GN_Memes",
+      "TV_BestVideos",
+      "TV_Halloween",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_Karaoke",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "2Fxmhks0bxGSBdJ92vM42m",
+    "couname": "bad guy",
+    "duration": "194087"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273254c8a09649551438b20f4c0",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift,Ed Sheeran",
+    "genres": 0,
+    "spotId": "5PjfMmF06QtxTPZBZHdhoZ",
+    "couname": "Everything Has Changed",
+    "duration": "245413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "The Weeknd,Kendrick Lamar",
+    "genres": 0,
+    "spotId": "77UjLW8j5UAGAGVGhR5oUK",
+    "couname": "Pray For Me",
+    "duration": "211440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f624fdadb511452a2093694d",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "TV_Top102024"
+    ],
+    "artist": "Nick Drake",
+    "genres": 0,
+    "spotId": "0hNVjU6JKydHts0SAjHCno",
+    "couname": "One Of These Things First",
+    "duration": "290733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone",
+    "genres": 0,
+    "spotId": "3fpVWegR6YOS1Yk5HSMYIq",
+    "couname": "Paranoid",
+    "duration": "221786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fd8d7a8d96871e791cb1f626",
+    "pty": 0,
+    "Items": [
+      "TV_BestVideos",
+      "TV_Top102024"
+    ],
+    "artist": "Sabrina Carpenter",
+    "genres": 0,
+    "spotId": "2tHwzyyOLoWSFqYNjeVMzj",
+    "couname": "Please Please Please",
+    "duration": "186365"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f624fdadb511452a2093694d",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "TV_Top102024"
+    ],
+    "artist": "Nick Drake",
+    "genres": 0,
+    "spotId": "2MvmsEPBWo9SMo4w3Ol7tN",
+    "couname": "Poor Boy",
+    "duration": "367426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273112d8a26c36b7a980233673b",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Zach Bryan",
+    "genres": 0,
+    "spotId": "2QfX9Pdz3q66fN3kCXl0Js",
+    "couname": "Revival",
+    "duration": "221250"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27302209c3c60b4cc83158ec470",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "TV_Top102024"
+    ],
+    "artist": "Nick Drake",
+    "genres": 0,
+    "spotId": "4jLxvHa0g3kZV24TuUyOMB",
+    "couname": "Rider On The Wheel",
+    "duration": "157813"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273abf8d5beaed0be5438198d50",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "6Na5uKk5SsqZimk0hAWo8y",
+    "couname": "Signs",
+    "duration": "234373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731a2c9ac2d39bc5c2e22b9555",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Colors",
+      "TV_Top102024"
+    ],
+    "artist": "Zach Bryan",
+    "genres": 0,
+    "spotId": "4ZJ4vzLQekI0WntDbanNC7",
+    "couname": "Pink Skies",
+    "duration": "194920"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27332f1a3721efb2ddfb91b9c82",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_AboutTime",
+      "TV_Top102024"
+    ],
+    "artist": "SZA",
+    "genres": 0,
+    "spotId": "7swGurTfZlwx7mTOE8PpIc",
+    "couname": "Sweet November",
+    "duration": "243744"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273390865a50e24d8763b57d58e",
+    "pty": 0,
+    "Items": [
+      "XT_Love",
+      "TV_Top102024"
+    ],
+    "artist": "Luke Combs",
+    "genres": 0,
+    "spotId": "28n8z9IQKyjMPxmvYMBqZa",
+    "couname": "The Kind of Love We Make",
+    "duration": "224426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c",
+    "pty": 0,
+    "Items": [
+      "XT_Gold",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "6K0CJLVXqbGMeJSmJ4ENKK",
+    "couname": "Tied Together with a Smile",
+    "duration": "248106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_AboutTime",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1HCdems7PQZRj42QDWLA0A",
+    "couname": "Timeless",
+    "duration": "321396"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7",
+    "pty": 0,
+    "Items": [
+      "BT_Adele_Bond",
+      "BT_BillieEilish",
+      "XT_Cars",
+      "XT_Oscars",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "73SpzrcaHk0RQPFP73vqVR",
+    "couname": "No Time To Die",
+    "duration": "242265"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dc2bacae1dca83d26e2b1949",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "6M9ppdfFjR1AbpUl3Y8DcV",
+    "couname": "Suburban Legends",
+    "duration": "171818"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e0b60c608586d88252b8fbc0",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Water",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift,Lana Del Rey",
+    "genres": 0,
+    "spotId": "6ADDIJxxqzM9LMpm78yzQG",
+    "couname": "Snow On The Beach",
+    "duration": "256124"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_BestVideos",
+      "TV_SpotifyS500",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "4RVwu0g32PAqgUiJoXsdF8",
+    "couname": "Happier Than Ever",
+    "duration": "298899"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cb72e6b650004b55da1ffc73",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "4l8FzYt34NDvQP7zE1xCtF",
+    "couname": "Sweeter Than Fiction",
+    "duration": "237640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone,Ozzy Osbourne,Travis Scott",
+    "genres": 0,
+    "spotId": "7CZyCXKG6d5ALeq41sLzbw",
+    "couname": "Take What You Want",
+    "duration": "229573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "1LLUoftvmTjVNBHZoQyveF",
+    "couname": "THE DINER",
+    "duration": "186346"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27337b5f66c15623d83e5a950d8",
+    "pty": 0,
+    "Items": [
+      "XT_Gold",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Rick Ross,Drake",
+    "genres": 0,
+    "spotId": "1rX5L6pyl3rVWb55D8Cprr",
+    "couname": "Gold Roses",
+    "duration": "349600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "4PdLaGZubp4lghChqp8erB",
+    "couname": "The Tortured Poets Department",
+    "duration": "293048"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734a97c76d7b4f6530f439c249",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Colors",
+      "XT_Plants",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "2KkIiEt1WIHOYItqkD30kR",
+    "couname": "Lavender Haze",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737a152619a7b55bc621d07901",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "54bFM56PmE4YLRnqpW6Tha",
+    "couname": "Therefore I Am",
+    "duration": "174321"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar,Bilal,Anna Wise,Thundercat",
+    "genres": 0,
+    "spotId": "7uWVT3UkCAZyANvv0bdyQn",
+    "couname": "These Walls",
+    "duration": "300973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27363d05c2c67a99b055828404e",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "DJ Khaled,Drake",
+    "genres": 0,
+    "spotId": "3pC1ILr9KzmQLMe8Kn5QBG",
+    "couname": "To the Max",
+    "duration": "193901"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d960013860ae4859dfae0682",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "2imoPg5wVO2ZinBFKujxVi",
+    "couname": "Today Was A Fairytale",
+    "duration": "243626"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325751b4b32829d6bbfe6be7f",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_BodyParts",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift,HAIM",
+    "genres": 0,
+    "spotId": "6NriykdkRrjQMZo1sfVYUo",
+    "couname": "no body, no crime",
+    "duration": "215626"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "03L2AoiRbWhvt7BDMx1jUB",
+    "couname": "U With Me?",
+    "duration": "297373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ce873b983a9edf4d41a42e77",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "6cxAXtKofjF6QN7Pr06pyT",
+    "couname": "watch",
+    "duration": "177523"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f30764d5fa1e439ad6a7742f",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar,Taylour Paige",
+    "genres": 0,
+    "spotId": "0RAvy97QRPzO2AfK5Dw6j3",
+    "couname": "We Cry Together",
+    "duration": "341307"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b7578013decfa174e30dc298",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Weather",
+      "TV_Top102024"
+    ],
+    "artist": "Luke Combs",
+    "genres": 0,
+    "spotId": "1mMLMZYXkMueg65jRRWG1l",
+    "couname": "When It Rains It Pours",
+    "duration": "240760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731a300a706fe1963b1800b234",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Water",
+      "TV_Top102024"
+    ],
+    "artist": "Jamie Drake",
+    "genres": 0,
+    "spotId": "3i6kkET7EwzIGx4XdKFXRI",
+    "couname": "When the Tide Comes In",
+    "duration": "268934"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273894a761abf954838a84c8db9",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Colors",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone",
+    "genres": 0,
+    "spotId": "412T6mM56Fsjm8y0xYGWtO",
+    "couname": "White Iverson",
+    "duration": "256532"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f731c8017e36b13e252bd2c6",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions",
+      "TV_Top102024"
+    ],
+    "artist": "YG,Drake,Kamaiyah",
+    "genres": 0,
+    "spotId": "4ezAjoV01phDz1SqO6SzEU",
+    "couname": "Why You Always Hatin?",
+    "duration": "196586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e0b60c608586d88252b8fbc0",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "0aV5uARAknQgYhBaK944FP",
+    "couname": "Would've Could've Should've",
+    "duration": "260361"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Yebba",
+    "genres": 0,
+    "spotId": "1PDP7mLiAMwhfmgIwzhOm2",
+    "couname": "Yebba’s Heartbreak",
+    "duration": "133762"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a48964b5d9a3d6968ae3e0de",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Water",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift,Maren Morris",
+    "genres": 0,
+    "spotId": "4CHpVfAhuxNJ3ibExe6kxO",
+    "couname": "You All Over Me",
+    "duration": "220839"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27373f85e8b4338d2aa07f59f3a",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "7tGEAA1f8MydT7eVbbO9Zy",
+    "couname": "WHEN I WAS OLDER",
+    "duration": "270519"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273705079df9a25a28b452c1fc9",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "Morgan Wallen",
+    "genres": 0,
+    "spotId": "3oZ6dlSfCE9gZ55MGPJctc",
+    "couname": "’98 Braves",
+    "duration": "178704"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731882add8fd275c04e322027d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "SZA",
+    "genres": 0,
+    "spotId": "3vZGtceCbJVh5aDT4XhE0p",
+    "couname": "2AM",
+    "duration": "242823"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "3a8tAZFJxlmBwOtrf5L1oC",
+    "couname": "6 God",
+    "duration": "180666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bea486eafb7121e6d10bc1c2",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_MoonStars",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "76uRNwrrBGGTHb0Iejn6ae",
+    "couname": "Alien Girl",
+    "duration": "239973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738481d8f15859aa5bae75ee17",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "4P9Q0GojKVXpRTJCaL3kyy",
+    "couname": "All Of The Girls You Loved Before",
+    "duration": "221407"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "4QIo4oxwzzafcBWkKjDpXY",
+    "couname": "xanny",
+    "duration": "243725"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273647ad18a07e9e939e399e5a1",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Places",
+      "TV_Top102024"
+    ],
+    "artist": "Zach Bryan",
+    "genres": 0,
+    "spotId": "3c9EsIo34kil8Oj1reaozB",
+    "couname": "American Nights",
+    "duration": "218933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273edf4dcdd6ce73d43e4a562e6",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "The Lonely Island,Adam Levine,Kendrick Lamar",
+    "genres": 0,
+    "spotId": "6XmT1eehtQjAtuZL3gMBNT",
+    "couname": "YOLO",
+    "duration": "184640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "SZA",
+    "genres": 0,
+    "spotId": "0336UwEBwBBao8uWCuugYr",
+    "couname": "Anything",
+    "duration": "149320"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734fe1868aa6838eb595f3673a",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "3CWq0pAKKTWb0K4yiglDc4",
+    "couname": "You’re Losing Me",
+    "duration": "277831"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "0w3Mfe4PIVjuFjJbe3OlYv",
+    "couname": "8am in Charlotte",
+    "duration": "266847"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b1c4b76e23414c9f20242268",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Cars",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone",
+    "genres": 0,
+    "spotId": "1D2L6MefbXon28PzIk9I3r",
+    "couname": "92 Explorer",
+    "duration": "211426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "GN_Choirs",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "3GYlZ7tbxLOxe6ewMNVTkw",
+    "couname": "TV",
+    "duration": "281380"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273adfb5909ec66db5fbb4d06c8",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Sampha",
+    "genres": 0,
+    "spotId": "5LnXWeA9tuWKI2C1H74iiJ",
+    "couname": "Too Much",
+    "duration": "261866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish,Vince Staples",
+    "genres": 0,
+    "spotId": "6X7qcg95CAeJpTjtg1wooM",
+    "couname": "&burn",
+    "duration": "179015"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d66d5ec15dc03aa57b78f5ff",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Fire",
+      "TV_Top102024"
+    ],
+    "artist": "Zach Bryan",
+    "genres": 0,
+    "spotId": "5jfhLCSIFUO4ndzNRh4w4G",
+    "couname": "Burn, Burn, Burn",
+    "duration": "268856"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732ae92030b51fb8135d694af9",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Gambling",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "A$AP Rocky,Drake,2 Chainz,Kendrick Lamar",
+    "genres": 0,
+    "spotId": "4X5f3vT8MRuXF68pfjNte5",
+    "couname": "F**kin' Problems",
+    "duration": "233786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c185e37be2a06b5c6f2dc704",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Colors",
+      "XT_Plants",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "6jYUYDsjnqwd2gsOHiD1uJ",
+    "couname": "Sandra’s Rose",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27370dbc9f47669d120ad874ec1",
+    "pty": 0,
+    "Items": [
+      "XT_Love",
+      "TV_Top102024"
+    ],
+    "artist": "SZA",
+    "genres": 0,
+    "spotId": "1eIXYZWEfJO3Na2LCCnIJE",
+    "couname": "Love Language",
+    "duration": "183893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1rmEsOezwf2lmIZTMAO5Ag",
+    "couname": "Chloe or Sam or Sophia or Marcus",
+    "duration": "213281"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Weather",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "7an1exwMnfYRcdVQm0yDev",
+    "couname": "Cold As You",
+    "duration": "239013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27336977e237a8f70ec6c990636",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Colors",
+      "TV_Top102024"
+    ],
+    "artist": "ScHoolboy Q,Kendrick Lamar",
+    "genres": 0,
+    "spotId": "0zO8ctW0UiuOefR87OeJOZ",
+    "couname": "Collard Greens",
+    "duration": "299960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27373b565ab9d713e8d5586aac2",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Water",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "0cEG04R5cldkTLzK6phlcn",
+    "couname": "Come In With The Rain",
+    "duration": "238093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Places",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "12M5uqx0ZuwkpLp5rJim1a",
+    "couname": "Cornelia Street",
+    "duration": "287266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Weather",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1fzAuUVbzlhZ1lJAx9PtY6",
+    "couname": "Daylight",
+    "duration": "293453"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27375861e9e377638f448d120c0",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Gambling",
+      "TV_Top102024"
+    ],
+    "artist": "TD Drake,Lindsey Vaughan",
+    "genres": 0,
+    "spotId": "284cGNYVO4qT0lJw0yoLUo",
+    "couname": "Deal Me In",
+    "duration": "237975"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d0eae3c1661a96570f0ca7bd",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "3K2es3gElMRJ3qvmPW442g",
+    "couname": "Dear John",
+    "duration": "403933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cee7e49a096a83a5a6b96c20",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Food",
+      "TV_Top102024"
+    ],
+    "artist": "Rick Ross,Wale,Drake",
+    "genres": 0,
+    "spotId": "6BR3i5Czbq8cRqz2exEJ1l",
+    "couname": "Diced Pineapples",
+    "duration": "276200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_OffAnimals",
+      "TV_Top102024"
+    ],
+    "artist": "SZA,Kendrick Lamar",
+    "genres": 0,
+    "spotId": "593W4qZOwwdqF6YnimJjL6",
+    "couname": "Doves In The Wind",
+    "duration": "266080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_MoonStars",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "10eBRyImhfqVvkiVEGf0N0",
+    "couname": "Enchanted",
+    "duration": "352186"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Water",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift,Bon Iver",
+    "genres": 0,
+    "spotId": "4pvb0WLRcMtbPGmtejJJ6y",
+    "couname": "exile",
+    "duration": "285634"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273364c819937072957a9220847",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Gold",
+      "TV_Top102024"
+    ],
+    "artist": "The National,Taylor Swift",
+    "genres": 0,
+    "spotId": "6INztpNwOTlfSKTuPo0HOP",
+    "couname": "The Alcott",
+    "duration": "267773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27360cb9332e8c8c7d8e50854b3",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "6aQrB8kaWyaCj9RYB7Rh5L",
+    "couname": "Fifteen",
+    "duration": "295333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Places",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift,Florence + The Machine",
+    "genres": 0,
+    "spotId": "5ExOm0dh4NyRyAdSAO9hyM",
+    "couname": "Florida!!!",
+    "duration": "215463"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e2aa84b988e58703f8ed4e84",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying",
+      "TV_Top102024"
+    ],
+    "artist": "Zach Bryan",
+    "genres": 0,
+    "spotId": "7oPTiW1fZyvIPeYOZTY4Wh",
+    "couname": "Flying or Crying",
+    "duration": "169961"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "4s8BIKx4Zh6ryAEz8RTlaU",
+    "couname": "Foolish One",
+    "duration": "311765"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bd158c797b1026005c2917bc",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Food",
+      "TV_Top102024"
+    ],
+    "artist": "Nick Drake",
+    "genres": 0,
+    "spotId": "6x3HF1SdlVeZqOb7soisuh",
+    "couname": "Fruit Tree",
+    "duration": "286280"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Plants",
+      "TV_Top102024"
+    ],
+    "artist": "SZA",
+    "genres": 0,
+    "spotId": "19woxaSpjOefa2JnAOoqW5",
+    "couname": "Garden",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "SZA",
+    "genres": 0,
+    "spotId": "6Vmow8PuUaU7W1T2WWLZk2",
+    "couname": "Go Gina",
+    "duration": "161613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737db0d21fc5696a3fcedfb933",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Places",
+      "TV_Top102024"
+    ],
+    "artist": "DJ Khaled,Drake",
+    "genres": 0,
+    "spotId": "35RJhm1pEovTBwnNR0zWad",
+    "couname": "GREECE",
+    "duration": "218901"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27332f1a3721efb2ddfb91b9c82",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "SZA",
+    "genres": 0,
+    "spotId": "4N0VFSI2wJu2NzwUuI0sMz",
+    "couname": "HiiiJack",
+    "duration": "222164"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ccba76fad1c624c09e72bc78",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Places",
+      "TV_Top102024"
+    ],
+    "artist": "Luke Combs",
+    "genres": 0,
+    "spotId": "6guWjUuNYziyNXgjFo1IpF",
+    "couname": "Houston, We Got a Problem",
+    "duration": "191986"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27333d50ba80791b4ed381f5221",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "3RPK9VQuTsiTySY48ldeqx",
+    "couname": "Tammy's Song",
+    "duration": "161670"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a90d170c61fb7d063d47161d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Food",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,JAY-Z",
+    "genres": 0,
+    "spotId": "4NVNapccSX7E5JLiW0uQEy",
+    "couname": "Pound Cake / Paris Morton Music 2",
+    "duration": "432853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325751b4b32829d6bbfe6be7f",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Plants",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "7tXMHAFEOzcUaUQqovRGho",
+    "couname": "ivy",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Colors",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "4c2xt1trwYZpMqPWY35Xi9",
+    "couname": "Jaded",
+    "duration": "262453"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Kiss",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "4h0EXpatqJImv4VRgvX6po",
+    "couname": "Last Kiss",
+    "duration": "367133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27352c75ed37313b889447011ef",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Water",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Lil Durk",
+    "genres": 0,
+    "spotId": "2SAqBLGA283SUiwJ3xOUVI",
+    "couname": "Laugh Now Cry Later",
+    "duration": "261492"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Places",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1LLXZFeAHK9R4xUramtUKw",
+    "couname": "London Boy",
+    "duration": "190240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Colors",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "3eX0NZfLtGzoLUxPNvRfqm",
+    "couname": "Maroon",
+    "duration": "218270"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "2QrQCMel6v2JiLxqrg4p2O",
+    "couname": "Mary's Song",
+    "duration": "213080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "0ZNU020wNYvgW84iljPkPP",
+    "couname": "mirrorball",
+    "duration": "208977"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f4b27b2c8c9e3fd7e6796dd3",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Gambling",
+      "TV_Top102024"
+    ],
+    "artist": "Birdman,Lil Wayne,Drake",
+    "genres": 0,
+    "spotId": "4gaz3uvhKgO078XcdzyPsl",
+    "couname": "Money To Blow",
+    "duration": "258586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273429d8ec28f865acf2a927c2d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_MoonStars",
+      "TV_Top102024"
+    ],
+    "artist": "Luke Combs",
+    "genres": 0,
+    "spotId": "2h4fQzNmlhTrqJmwpGus0N",
+    "couname": "Moon Over Mexico",
+    "duration": "204640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737d6813fd233f3bc4977cceca",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_BodyParts",
+      "TV_Top102024"
+    ],
+    "artist": "Morgan Wallen",
+    "genres": 0,
+    "spotId": "3kOi5KZTcCOdqFlUjF9CDZ",
+    "couname": "Neon Eyes",
+    "duration": "226146"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273332d85510aba3eb28312cfb2",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "6rZVy6FIG7lSJQMFXHo12z",
+    "couname": "New Romantics",
+    "duration": "230466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273563151cc3a0528d8228998c8",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift,Phoebe Bridgers",
+    "genres": 0,
+    "spotId": "44V5YKYkMw9vVqnnYTMMIc",
+    "couname": "Nothing New",
+    "duration": "258812"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d58e537cea05c2156792c53d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Dreaming",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar,Mary J. Blige",
+    "genres": 0,
+    "spotId": "4KjnaUNYPwGnJjoeTFlt91",
+    "couname": "Now Or Never",
+    "duration": "256013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bba7cfaf7c59ff0898acba1f",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Playboi Carti",
+    "genres": 0,
+    "spotId": "6Kj17Afjo1OKJYpf5VzCeo",
+    "couname": "Pain 1993",
+    "duration": "149077"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273646f83d175ae79b3747b6828",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_BodyParts",
+      "TV_Top102024"
+    ],
+    "artist": "French Montana,Rick Ross,Drake,Lil Wayne",
+    "genres": 0,
+    "spotId": "4GVD0FIBo08FSAy3tbIY7g",
+    "couname": "Pop That",
+    "duration": "303533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_OffAnimals",
+      "TV_Top102024"
+    ],
+    "artist": "SZA,Isaiah Rashad",
+    "genres": 0,
+    "spotId": "1IgePMOW0qEe1AViWgkal9",
+    "couname": "Pretty Little Birds",
+    "duration": "245946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731c248e90c3e569f90aef9dec",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Colors",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "4yBEU0askBZzE2XEVdEwmx",
+    "couname": "Red",
+    "duration": "223093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e286ee36b4015afa8832356a",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Colors",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "5Mc8XDfGQCMkOEZm9rS1cE",
+    "couname": "Red Button",
+    "duration": "160049"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273335d581b7a70f0fa41f6520b",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Weather",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "1GP8VW5Wk2w2obkWjGCGXd",
+    "couname": "So High School",
+    "duration": "228800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ba2d83c086616d4199e3762f",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Food",
+      "TV_Top102024"
+    ],
+    "artist": "Ty Dolla $ign,Post Malone",
+    "genres": 0,
+    "spotId": "5nWVyZaCwtfAkBnwDuXjBh",
+    "couname": "Spicy",
+    "duration": "144027"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_MoonStars",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "0nj9Bq5sHDiTxSHunhgkFb",
+    "couname": "squabble up",
+    "duration": "157992"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Weather",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "2ZoOmCSgj0ypVAmGd1ve4y",
+    "couname": "Stay Beautiful",
+    "duration": "236053"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Plants",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "7eQj6r5PIdYKEIZjucBMcq",
+    "couname": "Stay Stay Stay",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27391d2a2d698cf1f10229b8b47",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Water",
+      "TV_Top102024"
+    ],
+    "artist": "Frankie Stew and Harvey Gunn,Eleni Drake",
+    "genres": 0,
+    "spotId": "0Yr702XtwT82GiDzDj789F",
+    "couname": "Tears on my Window",
+    "duration": "191129"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Water",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "4EF6IyONolQy0bIQXm2EmX",
+    "couname": "The Albatross",
+    "duration": "183878"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Colors",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "62E2nR0od0M5HYxuYLaDz7",
+    "couname": "The Black Dog",
+    "duration": "238857"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e0b60c608586d88252b8fbc0",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Plants",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "3UMrglJeju5yWyYIW6o99b",
+    "couname": "The Great War",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273563151cc3a0528d8228998c8",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "6Gr4KvawYKiZBHQWub9n7o",
+    "couname": "The Lucky One",
+    "duration": "240466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e369195caf5d169bf5e9eafc",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Weather",
+      "TV_Top102024"
+    ],
+    "artist": "Nick Drake",
+    "genres": 0,
+    "spotId": "2s89qv9maW8RMCoaxtvNtn",
+    "couname": "Things Behind The Sun",
+    "duration": "234475"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273647ad18a07e9e939e399e5a1",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying",
+      "TV_Top102024"
+    ],
+    "artist": "Zach Bryan",
+    "genres": 0,
+    "spotId": "3XMVk0KYK0Ez8NM91NTqBt",
+    "couname": "Towers",
+    "duration": "170136"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fa8ef63d8bf819b3463528e9",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Food",
+      "TV_Top102024"
+    ],
+    "artist": "Nicki Minaj,Drake,Lil Wayne",
+    "genres": 0,
+    "spotId": "3keUgTGEoZJt0QkzTB6kHg",
+    "couname": "Truffle Butter",
+    "duration": "219226"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27308a2b8e9210f518f6f4fbb8a",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "BOYS LIKE GIRLS,Taylor Swift",
+    "genres": 0,
+    "spotId": "1MaqkdFNIKPdpQGDzme5ss",
+    "couname": "Two Is Better Than One",
+    "duration": "242840"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c697f553a46006a5d8886b2",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "4M2t7bP4Mq87mGMn0PObUX",
+    "couname": "untitled 06 | 06.30.2014.",
+    "duration": "208013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27395c7e3e167ae665f4a95bdf7",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "6QvxTX9zvo4u7XhP9vOP3n",
+    "couname": "untitled 07 | levitate",
+    "duration": "146466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "06FCvd7rrRcF3DdvWH5Isp",
+    "couname": "LUST.",
+    "duration": "307880"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273408b5dbd24ad9f44bb1af72f",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "XT_BodyParts",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "5t3Vk8bRKylx4fjj7qlbib",
+    "couname": "bitches broken hearts",
+    "duration": "176471"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27351baf4fcd5c7b309ed3d4bcc",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Future,Drake",
+    "genres": 0,
+    "spotId": "3V8sM5OOG6YfDuDLa2IIYJ",
+    "couname": "Used to This",
+    "duration": "180520"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27364442a4144ef18be67b37b37",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Dave,Drake",
+    "genres": 0,
+    "spotId": "7bPLo5Fv7h15E2fW3g1mVQ",
+    "couname": "Wanna Know Remix",
+    "duration": "199019"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273429d8ec28f865acf2a927c2d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_BodyParts",
+      "XT_Food",
+      "TV_Top102024"
+    ],
+    "artist": "Luke Combs",
+    "genres": 0,
+    "spotId": "7aEtlGHoiPAfRB084NiDmx",
+    "couname": "Beer Never Broke My Heart",
+    "duration": "186733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
+    "pty": 0,
+    "Items": [
+      "XT_BodyParts",
+      "XT_Gold",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "7I7JbDv63ZJJsSi24DyJrz",
+    "couname": "Dancing With Our Hands Tied",
+    "duration": "211506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732cd55246d935a8a77cb4859e",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_SpotifyS500",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar,Jay Rock",
+    "genres": 0,
+    "spotId": "74tLlkN3rgVzRqQJgPfink",
+    "couname": "Money Trees",
+    "duration": "386906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732090f4f6cc406e6d3c306733",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "5InOp6q2vvx0fShv3bzFLZ",
+    "couname": "Know Yourself",
+    "duration": "275840"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27352b2a3824413eefe9e33817a",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Love",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "2KrOAg6FftbjgSKdd2a4rS",
+    "couname": "You Are In Love",
+    "duration": "267106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737f5a318e3ff35defa8d0e4af",
+    "pty": 0,
+    "Items": [
+      "XT_Dreaming",
+      "XT_MoonStars",
+      "XT_Weather",
+      "TV_Top102024"
+    ],
+    "artist": "SZA",
+    "genres": 0,
+    "spotId": "040I32EKLxQrkuxQu1pqvT",
+    "couname": "Saturn",
+    "duration": "186191"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27330f9688e9bbb56cbb1b6a8a2",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Lil Wayne,Drake",
+    "genres": 0,
+    "spotId": "0MirjRAnvfJr3pumGsTwMi",
+    "couname": "Believe Me",
+    "duration": "337640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar,Travis Scott",
+    "genres": 0,
+    "spotId": "5cXg9IQS34FzLVdHhp7hu7",
+    "couname": "Big Shot",
+    "duration": "221826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27306d32ec41bd05c2afe4d8ec8",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "5r7WvQtyPfy1xch5zMgGRp",
+    "couname": "Behind Barz",
+    "duration": "163120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "2XlHu0HcujBCkWMdIAvrqt",
+    "couname": "Blem",
+    "duration": "216557"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "1n4jwRVXdkK2U34nBDUKKT",
+    "couname": "BLOOD.",
+    "duration": "118066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737fd5d48c3c2765e2dcf90692",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "B.o.B,Taylor Swift",
+    "genres": 0,
+    "spotId": "0IOCGDGD0qfw7ViWrWYxtw",
+    "couname": "Both of Us",
+    "duration": "216120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737d384516b23347e92a587ed1",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "1GpWY5RiInhezB8wGWs6oN",
+    "couname": "7969 Santa",
+    "duration": "259846"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "0zqy3ss4CwD6u4QPksS0nI",
+    "couname": "8 Out Of 10",
+    "duration": "195720"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e1bc852a04501952c765d5cd",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "67Io3gxHwfbUreBf114c0u",
+    "couname": "Mine",
+    "duration": "230773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273adfb5909ec66db5fbb4d06c8",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Jhené Aiko",
+    "genres": 0,
+    "spotId": "2WC4sK0ryyysQhtDok9Ytr",
+    "couname": "From Time",
+    "duration": "322160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "0TlLq3lA83rQOYtrqBqSct",
+    "couname": "Nonstop",
+    "duration": "238614"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "6MbH1QiphMCPTqVEVC7UYi",
+    "couname": "Nothings Into Somethings",
+    "duration": "153724"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fae80fc6c7f60e75cfc519c7",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "XT_BodyParts",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "2VlLbhGLVJgdOW7kKdWWFc",
+    "couname": "Six Feet Under",
+    "duration": "189613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27327eb130d54694a7d31a1a2e0",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_LongSongs",
+      "XT_Numbers",
+      "TV_Top102024"
+    ],
+    "artist": "Nick Drake",
+    "genres": 0,
+    "spotId": "06rDYJo3h0Hb7rzMBgsiUt",
+    "couname": "Three Hours",
+    "duration": "423021"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Quavo,Travis Scott",
+    "genres": 0,
+    "spotId": "2bjwRfXMk4uRgOD9IBYl9h",
+    "couname": "Portland",
+    "duration": "236614"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d4024fdf2c5056be8a08d09c",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "SZA,The Weeknd,Travis Scott,Game of Thrones",
+    "genres": 0,
+    "spotId": "4cbdPT6uaBOgOQe3fLMofl",
+    "couname": "Power is Power",
+    "duration": "211266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,2 Chainz,Young Thug",
+    "genres": 0,
+    "spotId": "0xl1w2q4VLojeXp4JfazPL",
+    "couname": "Sacrifices",
+    "duration": "307593"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739c351de6861e801c1b679d53",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift,The Civil Wars",
+    "genres": 0,
+    "spotId": "4yTqjWF2EoFJM5BbSCe4YW",
+    "couname": "Safe & Sound",
+    "duration": "240066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273007a6a23bf7e0d42cdd3bc2d",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Lil Wayne,Drake",
+    "genres": 0,
+    "spotId": "66cIVXwMJQKw4GnxIiCeP2",
+    "couname": "She Will",
+    "duration": "305840"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "The Weeknd,Kendrick Lamar",
+    "genres": 0,
+    "spotId": "4h90qkbnW1Qq6pBhoPvwko",
+    "couname": "Sidewalks",
+    "duration": "231360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Plants",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "5kI4eCXXzyuIUXjQra0Cxi",
+    "couname": "betty",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a9f6c04ba168640b48aa5795",
+    "pty": 0,
+    "Items": [
+      "BT_BillieEilish",
+      "XT_OffAnimals",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "5w7wuzMzsDer96KqxafeRK",
+    "couname": "COPYCAT",
+    "duration": "194711"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732f8c0fd72a80a93f8c53b96c",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "YR_0009",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "4pJi1rVt9GNegU9kywjg4z",
+    "couname": "Teardrops on My Guitar",
+    "duration": "179066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_BillieEilish",
+      "XT_Plants",
+      "TV_Top102024"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "3QaPy1KgI7nu9FJEQUgn6h",
+    "couname": "WILDFLOWER",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27339ef00336b1a777bfa41de37",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_MoonStars",
+      "TV_Top102024"
+    ],
+    "artist": "Sabrina Carpenter",
+    "genres": 0,
+    "spotId": "7sHk6YJNZd4gPSUXgFPEcT",
+    "couname": "We'll Be The Stars",
+    "duration": "188760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Intros",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "5hQSXkFgbxjZo9uCwd11so",
+    "couname": "False God",
+    "duration": "200306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_Choirs",
+      "XT_Youth",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "214nt20w5wOxJnY462klLw",
+    "couname": "Miss Americana & The Heartbreak Prince",
+    "duration": "234146"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730b04da4f224b51ff86e0a481",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Intros",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "0NwGC0v03ysCYINtg6ns58",
+    "couname": "Better Than Revenge",
+    "duration": "220306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Michael Jackson",
+    "genres": 0,
+    "spotId": "6G8kHiVZ1jW7vHMPVRNZU0",
+    "couname": "Don’t Matter To Me",
+    "duration": "245786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ce159a3ba2096e13fa9d4b4c",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Lil Baby,Gunna,Drake",
+    "genres": 0,
+    "spotId": "6wWaVoUOzLQJHd3bWAUpdZ",
+    "couname": "Never Recover",
+    "duration": "194732"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f2288a34c382ad1c3d9bd91c",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Chris Brown,Drake",
+    "genres": 0,
+    "spotId": "0RSloVO9jxsov41pxuApm3",
+    "couname": "No Guidance",
+    "duration": "260640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake,Giggs",
+    "genres": 0,
+    "spotId": "6CfrYuD3YRDYdYvH9jNtXY",
+    "couname": "No Long Talk",
+    "duration": "149568"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733f3b653b0a7b9e889a712c3d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "3kCwyvhvVTyehIzYN2I0nF",
+    "couname": "Omertà",
+    "duration": "219506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273650f1f9452c0a6721b8242e0",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Lil Wayne,Drake",
+    "genres": 0,
+    "spotId": "6c2Wepr15iM8q7L05P8Fgh",
+    "couname": "Right Above It",
+    "duration": "271946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737d2f918a1b23f98ceb7510fa",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "4skZ8JQK5ZT2F5ym6Y05wI",
+    "couname": "State Of Grace",
+    "duration": "295720"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737d2f918a1b23f98ceb7510fa",
+    "pty": 0,
+    "Items": [
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Taylor Swift,Gary Lightbody",
+    "genres": 0,
+    "spotId": "4qZ8QdfmZluZMtBhq6PXOj",
+    "couname": "The Last Time",
+    "duration": "299013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27311b21e8b868800918d21bb77",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Love",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "4BycRneKmOs6MhYG9THsuX",
+    "couname": "Find Your Love",
+    "duration": "208946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27355404f712deb84d0650a4b41",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "TV_Top102024"
+    ],
+    "artist": "Post Malone",
+    "genres": 0,
+    "spotId": "35r28RDot7nPE7y9K9H7l0",
+    "couname": "Feeling Whitney",
+    "duration": "257265"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c185e37be2a06b5c6f2dc704",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_SpotifyS500",
+      "YR_1019",
+      "TV_Top102024"
+    ],
+    "artist": "Drake",
+    "genres": 0,
+    "spotId": "0h1W19pS59KtEd7aDzF58i",
+    "couname": "In My Feelings",
+    "duration": "217925"
+  }
+]
