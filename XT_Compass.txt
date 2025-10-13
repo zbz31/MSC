@@ -1,0 +1,1212 @@
+[
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cd8475ce0af129a5e5ca179c",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Compass"
+    ],
+    "artist": "Last Kingdom",
+    "genres": 0,
+    "spotId": "48kx5H7stazHpVaVR0ZXbe",
+    "couname": "Chronicles of the North",
+    "duration": "278013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732ad545d5e334210c993c5648",
+    "pty": 0,
+    "Items": [
+      "TV_Mafia",
+      "XT_Compass"
+    ],
+    "artist": "Louis Prima,Keely Smith,Sam Butera & The Witnesses",
+    "genres": 0,
+    "spotId": "3jCLGbY1yiTKGyDztuHc2j",
+    "couname": "Basin Street Blues/When It's Sleepy Time Down South",
+    "duration": "254173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27318f602ebe8fd1566ada8e1de",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "XT_Compass"
+    ],
+    "artist": "Aguaturbia",
+    "genres": 0,
+    "spotId": "0p9crXIYEYw7BUbtjbbe5C",
+    "couname": "Blues On The West Side",
+    "duration": "377560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27315135c916ff889881b1dbc4c",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Compass"
+    ],
+    "artist": "Frozen Crown",
+    "genres": 0,
+    "spotId": "1xXDBblDaKJhbuFg7Z1QTI",
+    "couname": "Call of the North",
+    "duration": "384066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273114a58a1d1c7088cd0d41c5b",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Compass"
+    ],
+    "artist": "Iron Fire",
+    "genres": 0,
+    "spotId": "5NFmi2Uenuiv6GEmR45Dws",
+    "couname": "Cold Chains of the North",
+    "duration": "219533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738602dd298b8881fe56cd2b88",
+    "pty": 0,
+    "Items": [
+      "BT_HansZimmer",
+      "XT_Compass"
+    ],
+    "artist": "Gladiator: 20th Anniversary Edition - Hans Zimmer,Lisa Gerrard,Gavin Greenaway,The Lyndhurst Orchestra",
+    "genres": 0,
+    "spotId": "35sdDt4t44vTlE9v4OksZ3",
+    "couname": "Duduk Of The North",
+    "duration": "333333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739d35b400e0dc059848288420",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "XT_Compass"
+    ],
+    "artist": "The Paul Butterfield Blues Band",
+    "genres": 0,
+    "spotId": "7wpowBfuFWuspA9dToSrTn",
+    "couname": "East-West",
+    "duration": "791800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5bbb2e1a021d992152df707",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "XT_Compass"
+    ],
+    "artist": "Billy Paul",
+    "genres": 0,
+    "spotId": "7czybjNI9bQw8DvdmOdH37",
+    "couname": "East",
+    "duration": "387426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c7434ecd4cab47f1568add1c",
+    "pty": 0,
+    "Items": [
+      "BT_FrankSinatra",
+      "XT_Compass"
+    ],
+    "artist": "Frank Sinatra",
+    "genres": 0,
+    "spotId": "4jsr3b9dQcrSYYcciRL9rS",
+    "couname": "East Of The Sun",
+    "duration": "203173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b09b66f946c452b2a6bb065",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Compass",
+      "YR7079"
+    ],
+    "artist": "The Brecker Brothers",
+    "genres": 0,
+    "spotId": "0lk0jabcrQoK0LOrSRj2z3",
+    "couname": "East River",
+    "duration": "215546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a7e4977d8829b6fc741820a9",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "XT_Compass"
+    ],
+    "artist": "Bert Jansch,John Renbourn",
+    "genres": 0,
+    "spotId": "28xIU8mpgm4OW3TiJCeHKl",
+    "couname": "East Wind",
+    "duration": "88985"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739d6ee4590d050ec9563daa92",
+    "pty": 0,
+    "Items": [
+      "BT_RollingStones",
+      "XT_Compass"
+    ],
+    "artist": "The Rolling Stones",
+    "genres": 0,
+    "spotId": "4KoBKbnRh4BywqvY5VPkts",
+    "couname": "2120 South Michigan Avenue",
+    "duration": "218466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27381034d51e8cafb628d37251c",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Compass",
+      "YR7079"
+    ],
+    "artist": "Voyage",
+    "genres": 0,
+    "spotId": "4QYgMqceFF2EJYkuwKX2l2",
+    "couname": "From East To West",
+    "duration": "424666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273baa238cd0e44a2a357057a6a",
+    "pty": 0,
+    "Items": [
+      "TV_Mafia",
+      "XT_Compass"
+    ],
+    "artist": "Howard Tate",
+    "genres": 0,
+    "spotId": "5L4lJpXV9mspG5IFVpEBAo",
+    "couname": "Girl of the North Country",
+    "duration": "224760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734956b1c6464afbb693faf5ac",
+    "pty": 0,
+    "Items": [
+      "BT_ElvisPresley",
+      "XT_Compass"
+    ],
+    "artist": "Elvis Presley",
+    "genres": 0,
+    "spotId": "6nkEZSWQlNOGJ5wEpm406z",
+    "couname": "Go East, Young Man",
+    "duration": "146746"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ac5c2986b5df534d208c0521",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Compass",
+      "YR7079"
+    ],
+    "artist": "Richard Barnes",
+    "genres": 0,
+    "spotId": "5byNysI1Mf6Nagky7Lz3vg",
+    "couname": "Go North",
+    "duration": "227013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27398153025754be7b3d83c7783",
+    "pty": 0,
+    "Items": [
+      "TV_Western",
+      "XT_Compass"
+    ],
+    "artist": "Stelvio Cipriani",
+    "genres": 0,
+    "spotId": "16b4Zp9osIumyjQzhSYCNa",
+    "couname": "Il west ti va stretto",
+    "duration": "152186"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733dae5c9cf336a67a5b490608",
+    "pty": 0,
+    "Items": [
+      "TV_Western",
+      "XT_Compass"
+    ],
+    "artist": "Woody Jackson",
+    "genres": 0,
+    "spotId": "7aIsf4K7rEuX8uRUYoFmuD",
+    "couname": "Outlaws From The West",
+    "duration": "296626"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bd81a0ac3160b74d000ef82d",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Compass",
+      "YR7079"
+    ],
+    "artist": "Bohannon",
+    "genres": 0,
+    "spotId": "5YrMsx8iB2SRDSUntdhAMU",
+    "couname": "South African Man",
+    "duration": "364386"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730b4c9d84cc83626849bfbff0",
+    "pty": 0,
+    "Items": [
+      "BT_LedZeppelin",
+      "XT_Compass"
+    ],
+    "artist": "Led Zeppelin",
+    "genres": 0,
+    "spotId": "7fUMMlG7qYfpIzi5YnsSpi",
+    "couname": "South Bound Saurez",
+    "duration": "253920"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733bad8f8f8c92ab585fb3a52b",
+    "pty": 0,
+    "Items": [
+      "BT_Queen_DavidBowie",
+      "XT_Compass"
+    ],
+    "artist": "David Bowie",
+    "genres": 0,
+    "spotId": "0kWQtfnhCtfqFntCdQo9hR",
+    "couname": "South Horizon",
+    "duration": "323573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273247bba379dd1511a5e934ed8",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Compass"
+    ],
+    "artist": "Slayer",
+    "genres": 0,
+    "spotId": "1f2nJKg780VxYIveVq6Xej",
+    "couname": "South Of Heaven",
+    "duration": "298533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731c2e5a8e25a9af5016e8522c",
+    "pty": 0,
+    "Items": [
+      "XT_Compass",
+      "YR1019"
+    ],
+    "artist": "Ed Sheeran,Camila Cabello,Cardi B",
+    "genres": 0,
+    "spotId": "1pPWLAfELypeAmi0bMdEXu",
+    "couname": "South of the Border",
+    "duration": "204466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273872256a8e66f3f50c890626c",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Female",
+      "XT_Compass",
+      "YR6069"
+    ],
+    "artist": "The Orlons",
+    "genres": 0,
+    "spotId": "2yoTFqvgtJgEK68lfUC9Kp",
+    "couname": "South Street",
+    "duration": "132453"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_Compass"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "6IQY3GEMC2B3mchMvi4NZj",
+    "couname": "The Ring Goes South",
+    "duration": "123000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e36459b9d2155a8115f35180",
+    "pty": 0,
+    "Items": [
+      "XT_Compass",
+      "YR9099"
+    ],
+    "artist": "Will Smith,Dru Hill,Kool Moe Dee",
+    "genres": 0,
+    "spotId": "78ZzF9pK3foniEnK64XzX5",
+    "couname": "Wild Wild West",
+    "duration": "245533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a8b6b93e8fc2dd4d6ab12c03",
+    "pty": 0,
+    "Items": [
+      "GN_DrumSolo",
+      "XT_Compass"
+    ],
+    "artist": "Andrew Cyrille",
+    "genres": 0,
+    "spotId": "7n4nlmTmumjPxUa6fpCfaL",
+    "couname": "Enter From The East",
+    "duration": "177973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738aea41bc69ce6adfabb4ab20",
+    "pty": 0,
+    "Items": [
+      "TV_Themes",
+      "XT_Compass"
+    ],
+    "artist": "Daniel Caine Orchestra",
+    "genres": 0,
+    "spotId": "1cu2Je3spMuwSijpATNPoY",
+    "couname": "North and South",
+    "duration": "158826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b0c9b7fbfeac390d2d43be81",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "NULL",
+      "XT_Compass",
+      "XT_Plants"
+    ],
+    "artist": "ODESZA",
+    "genres": 0,
+    "spotId": "083lOftWDnrpSSL7u9p53d",
+    "couname": "North Garden",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27354e112f49f2564738b42f462",
+    "pty": 0,
+    "Items": [
+      "TV_BreakingBad",
+      "XT_Compass"
+    ],
+    "artist": "Jacques Mercier,Chris Lancry",
+    "genres": 0,
+    "spotId": "1xSiaHScRrLP5RlVg1a1YB",
+    "couname": "South Of The Border",
+    "duration": "166733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273793cdc4e5b0f7bf3ca40dda6",
+    "pty": 0,
+    "Items": [
+      "TV_BreakingBad",
+      "XT_Compass"
+    ],
+    "artist": "Richard Rodgers,José Carreras,Jonathan Tunick,London Symphony Orchestra,Sarah Vaughan",
+    "genres": 0,
+    "spotId": "2lIvlDMinObNGgc67uJzlh",
+    "couname": "South Pacific: Bali Ha'i",
+    "duration": "270640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735d2a7b03059fcd53517b3d19",
+    "pty": 0,
+    "Items": [
+      "TV_Themes",
+      "XT_Compass"
+    ],
+    "artist": "The Hollywood Prime Time Orchestra",
+    "genres": 0,
+    "spotId": "50BUaAkJbyfb6NNxygJCRM",
+    "couname": "Wild Wild West",
+    "duration": "85906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739c45dbd6b15c94502b49d377",
+    "pty": 0,
+    "Items": [
+      "GN_Disco",
+      "XT_Compass",
+      "YR7079"
+    ],
+    "artist": "Village People",
+    "genres": 0,
+    "spotId": "5v67uga7IFT3FQhDDBgaY8",
+    "couname": "Go West",
+    "duration": "251466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273068a5559744d17bd5e871740",
+    "pty": 0,
+    "Items": [
+      "BT_FrankSinatra",
+      "TV_Simpsons120",
+      "XT_Compass"
+    ],
+    "artist": "Frank Sinatra",
+    "genres": 0,
+    "spotId": "7CcbRvjwz2f2a8p48rXf4X",
+    "couname": "South Of The Border",
+    "duration": "170240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b23062e3b70cc2725b4f960",
+    "pty": 0,
+    "Items": [
+      "BT_EnnioMorricone",
+      "TV_Western",
+      "XT_Compass"
+    ],
+    "artist": "Ennio Morricone",
+    "genres": 0,
+    "spotId": "6qrfppobi2DHs3Hu65Lvpr",
+    "couname": "Once Upon a Time in the West",
+    "duration": "248186"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732aebf42d8901fbcd14c9eca8",
+    "pty": 0,
+    "Items": [
+      "XT_Compass",
+      "XT_Intros",
+      "XT_Water"
+    ],
+    "artist": "Tom Misch",
+    "genres": 0,
+    "spotId": "5w3yxRRxy5pvZdUvBJF6ve",
+    "couname": "South of the River",
+    "duration": "269815"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cfd044717c71ac2e1d55e9d1",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "Rachel Bloom",
+    "genres": 0,
+    "spotId": "7B7UlzXUuVbj5gdrv8WtiY",
+    "couname": "West Covina",
+    "duration": "199191"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739ffa0bb50967ca396e356373",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "Grateful Dead",
+    "genres": 0,
+    "spotId": "4Jv7xJqocJSTV1kLSALWH6",
+    "couname": "West L.A. Fadeaway",
+    "duration": "398849"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f5e9d575b1727f2ce6fec86e",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_LongSongs"
+    ],
+    "artist": "Steely Dan",
+    "genres": 0,
+    "spotId": "5vX6EEjC11MiFdiEtH3qUz",
+    "couname": "West of Hollywood",
+    "duration": "501600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735a4111d1fdeb9ca9d544a3ce",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Numbers"
+    ],
+    "artist": "AJ Tracey,Mabel",
+    "genres": 0,
+    "spotId": "33EGYJLLwz56YIP5Ex9VKs",
+    "couname": "West Ten",
+    "duration": "213692"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735d1459643f3df6b93546fb03",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "Greyson Chance",
+    "genres": 0,
+    "spotId": "3oFjK8zslTcoCskyzt1sI8",
+    "couname": "west texas",
+    "duration": "216333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d90b523a3571d51a284347ea",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_LongSongs"
+    ],
+    "artist": "Prince",
+    "genres": 0,
+    "spotId": "1jRqB4K4z2NMlTfwO9qvoF",
+    "couname": "East",
+    "duration": "840000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b4b328a05f50da7cded33d4d",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "NULL",
+      "XT_Cars",
+      "XT_Compass"
+    ],
+    "artist": "Jerry Reed",
+    "genres": 0,
+    "spotId": "4NzlpYVrTYG1eo8BCu3MLB",
+    "couname": "East Bound and Down",
+    "duration": "168466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273764267bc39adb669faa9ff75",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "Beirut",
+    "genres": 0,
+    "spotId": "3QaM3srTDYXfPKmBf9ZYMU",
+    "couname": "East Harlem",
+    "duration": "238546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ba6b36bfd63afd21d01fde3e",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "Female",
+      "XT_Compass",
+      "XT_History"
+    ],
+    "artist": "Joan Baez",
+    "genres": 0,
+    "spotId": "7cOXUx0Q5PYafyNFriFajr",
+    "couname": "East Virginia",
+    "duration": "223733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737d214af8499aa95ad220f573",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "Bob Dylan",
+    "genres": 0,
+    "spotId": "739sLmfUkVFoyPtb0C3263",
+    "couname": "Girl from the North Country",
+    "duration": "199573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27300aeb09aca2a56423ca14ec1",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "Phil Ochs",
+    "genres": 0,
+    "spotId": "0OvW5WjO0lnOKoPmkg92no",
+    "couname": "Hills of West Virginia",
+    "duration": "201000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ebcd2b8434d8d5652329368e",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "NULL",
+      "XT_Cars",
+      "XT_Compass"
+    ],
+    "artist": "Big K.R.I.T.",
+    "genres": 0,
+    "spotId": "58Jcftr5PvnPK2Kj2z4hK6",
+    "couname": "King Of The South",
+    "duration": "212093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273308ccdc2a4be8fda99f739b6",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Numbers"
+    ],
+    "artist": "Electric Light Orchestra",
+    "genres": 0,
+    "spotId": "7HaWwDYwk3c6lMHI6RAyk0",
+    "couname": "Latitude 88 North",
+    "duration": "203440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b19d4966c5ae497d9ec29e12",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "The Byrds",
+    "genres": 0,
+    "spotId": "4jzLmw7CQ2QzN9eMPl64tN",
+    "couname": "Nashville West",
+    "duration": "148906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c761387d83c7c615da7008a8",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "Sleeping At Last",
+    "genres": 0,
+    "spotId": "7HQCXYyaBmhugyRDvy4V7m",
+    "couname": "North",
+    "duration": "259375"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d90b523a3571d51a284347ea",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_LongSongs"
+    ],
+    "artist": "Prince",
+    "genres": 0,
+    "spotId": "1exi62wPUvFIWcvejpQlC6",
+    "couname": "North",
+    "duration": "840106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738d0cb2fc1d6ed82ff673cfa7",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "Lyle Lovett",
+    "genres": 0,
+    "spotId": "4JwBDp0psRP2pbmNVjPc8E",
+    "couname": "North Dakota",
+    "duration": "342573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739bff2e22af79eb21e0a1775b",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "Pharmacist",
+    "genres": 0,
+    "spotId": "0SzDVyiiUDpuhzrphnoejr",
+    "couname": "North Memphis",
+    "duration": "135826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a621f9c7728040fd47c7809d",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_MoonStars"
+    ],
+    "artist": "Searows",
+    "genres": 0,
+    "spotId": "1I217z6y8ooPgifWY2612M",
+    "couname": "North Star",
+    "duration": "307220"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bfa23b13d0504fb90c37b39",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "Baby Keem",
+    "genres": 0,
+    "spotId": "7HyAAmp8lsDoDHxyvaEaDK",
+    "couname": "south africa",
+    "duration": "174502"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b2a56d039901f1f38b9e1000",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "The Celtic Connection",
+    "genres": 0,
+    "spotId": "3lhCHpneojSLs6Try466BN",
+    "couname": "South Australia",
+    "duration": "134026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273939d22b4aceedbe3fc03c876",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "Koi",
+    "genres": 0,
+    "spotId": "5qchVqzmmSEQ3DXVLCMYmO",
+    "couname": "south dakota",
+    "duration": "115764"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f08aee948962158909923355",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "Bee Gees",
+    "genres": 0,
+    "spotId": "6Qmx84uFTW9owAIrcOT0y5",
+    "couname": "South Dakota Morning",
+    "duration": "146133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c79929aa51144d4f9a691948",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "Future,Travis Scott",
+    "genres": 0,
+    "spotId": "2C11qhXSCvVzGogwOTP6aZ",
+    "couname": "SOUTH OF FRANCE",
+    "duration": "183919"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737c66279746c33b8f9ccac1aa",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "GN_Disco",
+      "XT_Compass",
+      "YR8089",
+      "YR9099"
+    ],
+    "artist": "Pet Shop Boys",
+    "genres": 0,
+    "spotId": "33gDIKlrUnY1dTWYsm5BFL",
+    "couname": "Go West",
+    "duration": "304080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27352d782510a9469bfd0cbda40",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "TV_OneHit",
+      "XT_Compass",
+      "YR8089"
+    ],
+    "artist": "The Escape Club",
+    "genres": 0,
+    "spotId": "4Qn1QhHhUT01LfpBnC7xnf",
+    "couname": "Wild Wild West",
+    "duration": "244826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733540f5cb8e1e7a54125f84db",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "GN_Synth",
+      "TV_Rolling500",
+      "TV_Simpsons120",
+      "XT_Compass",
+      "XT_Intros",
+      "XT_Places",
+      "YR8089"
+    ],
+    "artist": "Pet Shop Boys",
+    "genres": 0,
+    "spotId": "2Di0qFNb7ATroCGB3q0Ka7",
+    "couname": "West End Girls",
+    "duration": "285906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730ce5d7d679f7daa2db983154",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "TV_BestVideos",
+      "XT_Compass",
+      "YR1019"
+    ],
+    "artist": "Lana Del Rey",
+    "genres": 0,
+    "spotId": "5TOwCJuRa9H82eklOv2nj6",
+    "couname": "West Coast",
+    "duration": "256768"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e3e7de1f129aad1365f576d4",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Compass"
+    ],
+    "artist": "Astral Domine",
+    "genres": 0,
+    "spotId": "3faJJxFGwUndO2IpDe8LMj",
+    "couname": "King of North",
+    "duration": "373760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739e39b5f6cfeb4c7742e0435e",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Compass"
+    ],
+    "artist": "Satyricon",
+    "genres": 0,
+    "spotId": "79iREiH6mrODItQGLaidt8",
+    "couname": "Mother North",
+    "duration": "385413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734bf83bf54d9c6b55caf8d7ad",
+    "pty": 0,
+    "Items": [
+      "TV_March",
+      "XT_Compass"
+    ],
+    "artist": "Medal of Honor: Allied Assault - Michael Giacchino",
+    "genres": 0,
+    "spotId": "1kIDUSWY2uLKuNm3f9Oojw",
+    "couname": "North Africa",
+    "duration": "199466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735d36cadf22a29a8e1c291016",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Compass"
+    ],
+    "artist": "A Hero for the World",
+    "genres": 0,
+    "spotId": "4vucE4SAlppCLt0rNptsRY",
+    "couname": "Outlaw in the Wild West",
+    "duration": "444743"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fcc00e96a52d6b2ff53406c2",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Compass",
+      "YR0009"
+    ],
+    "artist": "JAY-Z",
+    "genres": 0,
+    "spotId": "5M8nEsWqUkwUwCp58ydE4W",
+    "couname": "Run This Town [Jay-Z + Rihanna + Kanye West]",
+    "duration": "267520"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b1530e2a9e09ba823089cf61",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Compass"
+    ],
+    "artist": "Stormwarrior",
+    "genres": 0,
+    "spotId": "1kzawvsCJ7BKvvqCaOsvux",
+    "couname": "Storm of the North",
+    "duration": "343093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dbbcc8edce5fe0527b2a738f",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Compass"
+    ],
+    "artist": "Bloodbound",
+    "genres": 0,
+    "spotId": "2h1nhjGCI0otQYmkp0f4gw",
+    "couname": "Tales from the North",
+    "duration": "339000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273df45d02a765f203fe9a434ea",
+    "pty": 0,
+    "Items": [
+      "TV_March",
+      "XT_Compass"
+    ],
+    "artist": "West Point On The March - US Military Academy Band",
+    "genres": 0,
+    "spotId": "0WbsWNU5PjuumdfnxTc8uk",
+    "couname": "The Official West Point March",
+    "duration": "233400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d7e473ff29e4c76f98fcc462",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Compass"
+    ],
+    "artist": "Burning Witches",
+    "genres": 0,
+    "spotId": "4V5RPGO7burCpqLYg3EFBj",
+    "couname": "The Witch of the North",
+    "duration": "329872"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325d97235fd57bdb6c4fa6403",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Compass",
+      "YR7079"
+    ],
+    "artist": "Electric Light Orchestra",
+    "genres": 0,
+    "spotId": "3XmkkvAtfdUcTQsidUG4xb",
+    "couname": "Wild West Hero",
+    "duration": "280893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27390a8b0503d1f18099d599dfe",
+    "pty": 0,
+    "Items": [
+      "BT_RollingStones",
+      "XT_Compass"
+    ],
+    "artist": "The Rolling Stones",
+    "genres": 0,
+    "spotId": "7sMYoSEOYql0EwuWvchgD9",
+    "couname": "The Under Assistant West Coast Promotion Man",
+    "duration": "187866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738f6a72470fc5c0d26a4f614a",
+    "pty": 0,
+    "Items": [
+      "BT_PhilCollins_Genesis",
+      "XT_Compass"
+    ],
+    "artist": "Phil Collins",
+    "genres": 0,
+    "spotId": "5zp1WxYQYX2mHm9ZVPx1mz",
+    "couname": "The West Side",
+    "duration": "302253"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5534e2bc70ea7b5aa99329e",
+    "pty": 0,
+    "Items": [
+      "TV_Mafia",
+      "XT_Compass"
+    ],
+    "artist": "Louis Armstrong",
+    "genres": 0,
+    "spotId": "50NrNGRGjJer9v3Tpbi8Ad",
+    "couname": "When It's Sleepy Time Down South",
+    "duration": "197746"
+  },
+  {
+    "img": "https://i.scdn.co/image/b3d021301abbbd0154cbf669d2aee7feab1e3549",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Compass"
+    ],
+    "artist": "Dragony",
+    "genres": 0,
+    "spotId": "2KRe2SmJSiYbpQqy67xpeP",
+    "couname": "Wolves of the North",
+    "duration": "382040"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737a3b87abbc16511639439ac2",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "The Neighbourhood",
+    "genres": 0,
+    "spotId": "4TaY35s44Bf6OQnRK4R8Y5",
+    "couname": "West Coast",
+    "duration": "253520"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b680aa328dd314fc7aff1051",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "Daniel Johnston",
+    "genres": 0,
+    "spotId": "5WeKep4cLMI4V8iaYeqa2C",
+    "couname": "Wild West Virginia",
+    "duration": "159800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732c0d6032df4fada08c966f9b",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_LongSongs"
+    ],
+    "artist": "Alfred Newman",
+    "genres": 0,
+    "spotId": "575nMT6EdkD75Hq5ygT1w8",
+    "couname": "HOW THE WEST WAS WON",
+    "duration": "431800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dcb1773e1f8d182ea736e54c",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "Johnny Horton",
+    "genres": 0,
+    "spotId": "3JLJ0n5ZFd8oOwvQv7LUEt",
+    "couname": "North To Alaska*",
+    "duration": "169760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734169327dcda169b6c0daed3b",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Compass",
+      "XT_Places"
+    ],
+    "artist": "Iron & Wine",
+    "genres": 0,
+    "spotId": "1KBUrBf50QNhi7mqmo6FjQ",
+    "couname": "Sodom, South Georgia",
+    "duration": "299453"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428",
+    "pty": 0,
+    "Items": [
+      "XT_LordRings",
+      "XT_Compass",
+      "XT_Oscars"
+    ],
+    "artist": "Annie Lennox",
+    "genres": 0,
+    "spotId": "0gSEyG7pOFuHM05433EibX",
+    "couname": "Into the West",
+    "duration": "347600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b4328d3686bc947bb15a5e11",
+    "pty": 0,
+    "Items": [
+      "XT_AboutTime",
+      "XT_Compass"
+    ],
+    "artist": "Leonard Bernstein,Carol Lawrence,Larry Kert,West Side Story Original Broadway Cast",
+    "genres": 0,
+    "spotId": "0XLOP4XdEgKpvjEZfOW833",
+    "couname": "West Side Story",
+    "duration": "232933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27389301f334a16faded58fdaef",
+    "pty": 0,
+    "Items": [
+      "XT_Compass",
+      "XT_IrishFemale"
+    ],
+    "artist": "Lumiere",
+    "genres": 0,
+    "spotId": "6FgYVCPnr9q6mdc9tqUuCm",
+    "couname": "The West's Awake",
+    "duration": "240533"
+  }
+]
