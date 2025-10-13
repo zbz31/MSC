@@ -1,18 +1,77 @@
 [
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732faa6001afcf5d3d8129f671",
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbc4a33d735b9bfdc3bd3b11",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "XT_Colors",
+      "XT_Science"
+    ],
+    "artist": "Ayria",
+    "genres": 0,
+    "spotId": "2dCo7RyH48kR2ZAd1OVcEv",
+    "couname": "Red Shift",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d0aeaa615ed3f16a39868570",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_BodyParts",
+      "XT_Science"
+    ],
+    "artist": "Jonathan Coulton",
+    "genres": 0,
+    "spotId": "0iruN3KwhLXkcE42Hf3atf",
+    "couname": "Artificial Heart",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f958fdfa181b79454c1ed44b",
     "pty": 0,
     "Items": [
       "Band",
       "Male",
-      "YR1019",
-      "XT_Science",
+      "XT_BodyParts",
       "XT_Science"
     ],
-    "artist": "Muse",
+    "artist": "Springworks",
     "genres": 0,
-    "spotId": "4AIazttPmHpd7p7pwJw692",
-    "couname": "Neutron Star Collision",
+    "spotId": "7E8F16rquy4WnK6HuddGVQ",
+    "couname": "Faraday Eyes",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b5b8cc071f275542924c573a",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_BodyParts",
+      "XT_Science"
+    ],
+    "artist": "Count Zero",
+    "genres": 0,
+    "spotId": "1F3I4qglTmYElBOd8TSa5W",
+    "couname": "Radium Eyes",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737bcc78f88610d99eaa8c9b50",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_MoonStars",
+      "XT_Science",
+      "YR8089",
+      "YR9099"
+    ],
+    "artist": "Beastie Boys",
+    "genres": 0,
+    "spotId": "0rVd7bTGtrQUW34xSLzozd",
+    "couname": "Intergalactic",
     "duration": ""
   },
   {
@@ -20,16 +79,13 @@
     "pty": 0,
     "Items": [
       "Male",
-      "XT_Science",
-      "YR8089",
-      "TV_Simpsons120",
-      "TV_OneHit",
-      "TV_BreakingBad",
-      "XT_Water",
       "GN_Synth",
       "TV_BreakingBad",
       "TV_OneHit",
-      "XT_Science"
+      "TV_Simpsons120",
+      "XT_Science",
+      "XT_Water",
+      "YR8089"
     ],
     "artist": "Thomas Dolby",
     "genres": 0,
@@ -41,16 +97,14 @@
     "img": "https://i.scdn.co/image/ab67616d0000b273415fbef5ab55f63b2fc53507",
     "pty": 0,
     "Items": [
-      "XT_Science",
-      "XT_Karaoke",
-      "YR8089",
-      "TV_Simpsons120",
-      "TV_OneHit",
-      "XT_Intros",
-      "GN_Synth",
       "GN_Disco",
+      "GN_Synth",
       "TV_OneHit",
-      "XT_Science"
+      "TV_Simpsons120",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Science",
+      "YR8089"
     ],
     "artist": "Men Without Hats",
     "genres": 0,
@@ -64,12 +118,11 @@
     "Items": [
       "Band",
       "Male",
-      "XT_Science",
       "GN_Japan",
-      "YR8089",
-      "TV_Simpsons120",
       "GN_Synth",
-      "XT_Science"
+      "TV_Simpsons120",
+      "XT_Science",
+      "YR8089"
     ],
     "artist": "Styx",
     "genres": 0,
@@ -81,12 +134,11 @@
     "img": "https://i.scdn.co/image/ab67616d0000b27340140de1d22877a411c030bd",
     "pty": 0,
     "Items": [
-      "XT_Science",
+      "GN_BalladRock",
       "GN_Piano",
+      "TV_BestVideos",
       "TV_SpotifyS500",
       "XT_Intros",
-      "GN_BalladRock",
-      "TV_BestVideos",
       "XT_Science"
     ],
     "artist": "Coldplay",
@@ -101,10 +153,8 @@
     "Items": [
       "Band",
       "Male",
-      "XT_Science",
+      "TV_Themes",
       "XT_History",
-      "TV_Themes",
-      "TV_Themes",
       "XT_Science"
     ],
     "artist": "Barenaked Ladies",
@@ -114,29 +164,9 @@
     "duration": "105266"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737bcc78f88610d99eaa8c9b50",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Science",
-      "YR9099",
-      "YR8089",
-      "XT_MoonStars",
-      "XT_Science"
-    ],
-    "artist": "Beastie Boys",
-    "genres": 0,
-    "spotId": "0rVd7bTGtrQUW34xSLzozd",
-    "couname": "Intergalactic",
-    "duration": ""
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273117c53d4921791280aad03ba",
     "pty": 0,
     "Items": [
-      "XT_Science",
-      "TV_Halloween",
       "GN_Synth",
       "TV_Halloween",
       "XT_Science"
@@ -151,9 +181,8 @@
     "img": "https://i.scdn.co/image/ab67616d0000b273a7f385020b236836c3ed5d91",
     "pty": 0,
     "Items": [
-      "XT_Science",
-      "XT_MoonStars",
       "GN_PsychedelicRock",
+      "XT_MoonStars",
       "XT_Science"
     ],
     "artist": "Pink Floyd",
@@ -168,8 +197,6 @@
     "Items": [
       "Band",
       "Male",
-      "XT_Science",
-      "TV_OneHit",
       "TV_OneHit",
       "XT_Science"
     ],
@@ -180,29 +207,13 @@
     "duration": ""
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273069607cb9de2d8342199def9",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Female",
-      "XT_Science",
-      "YR8089",
-      "GN_Disco",
-      "XT_Science"
-    ],
-    "artist": "The Pointer Sisters",
-    "genres": 0,
-    "spotId": "3Uyxe1fbF4zWSEwy38qgMw",
-    "couname": "Neutron Dance",
-    "duration": ""
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273407bd04707c463bbb3410737",
     "pty": 0,
     "Items": [
-      "XT_Science",
-      "XT_Karaoke",
+      "Band",
+      "Male",
       "TV_SpotifyS500",
+      "XT_Karaoke",
       "XT_Science"
     ],
     "artist": "Imagine Dragons",
@@ -212,12 +223,26 @@
     "duration": "186813"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273069607cb9de2d8342199def9",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Female",
+      "GN_Disco",
+      "XT_Science",
+      "YR8089"
+    ],
+    "artist": "The Pointer Sisters",
+    "genres": 0,
+    "spotId": "3Uyxe1fbF4zWSEwy38qgMw",
+    "couname": "Neutron Dance",
+    "duration": ""
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b27382ae42267bc169a709ef3b59",
     "pty": 0,
     "Items": [
       "Male",
-      "XT_Science",
-      "TV_BreakingBad",
       "TV_BreakingBad",
       "XT_Science"
     ],
@@ -231,7 +256,6 @@
     "img": "https://i.scdn.co/image/ab67616d0000b273a012346ea07d0b1d6fc22a87",
     "pty": 0,
     "Items": [
-      "XT_Science",
       "XT_MoonStars",
       "XT_Science"
     ],
@@ -245,7 +269,6 @@
     "img": "https://i.scdn.co/image/ab67616d0000b27315086372f25956a1ab8d4621",
     "pty": 0,
     "Items": [
-      "XT_Science",
       "XT_MoonStars",
       "XT_Science"
     ],
@@ -260,7 +283,6 @@
     "pty": 0,
     "Items": [
       "Female",
-      "XT_Science",
       "XT_Numbers",
       "XT_Science"
     ],
@@ -277,55 +299,68 @@
       "Band",
       "Male",
       "XT_Science",
-      "XT_Science"
+      "YR1019"
     ],
-    "artist": "Glass Eyes",
+    "artist": "Muse",
     "genres": 0,
-    "spotId": "12l32zLXzbjMLbJ6MHbgpR",
-    "couname": "Bill Nye the Science Guy Theme Song",
+    "spotId": "4AIazttPmHpd7p7pwJw692",
+    "couname": "Neutron Star Collision",
     "duration": ""
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27394457c82c168829c0c743295",
+    "img": "https://i.scdn.co/image/ab67616d0000b273af308a92e982c2242b23f758",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
+      "GN_Memes",
+      "TV_Themes",
       "XT_Science"
     ],
-    "artist": "Dojo",
+    "artist": "Mr Dooves",
     "genres": 0,
-    "spotId": "6aA2IbD1mv7Pha5c2FfnQa",
-    "couname": "Mitochondrial Eve",
+    "spotId": "6L33GgWMpd53M1vldLstrW",
+    "couname": "Bill Nye the Science Guy",
+    "duration": "31307"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b41086153ab80deec249900c",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Love",
+      "XT_Science"
+    ],
+    "artist": "Suto Takatsugu",
+    "genres": 0,
+    "spotId": "5Zm4LxWZvhBb8JjkDe9f0c",
+    "couname": "Falling in Love with Mitochondria",
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738b559d4fd548c05c57854f43",
+    "img": "https://i.scdn.co/image/ab67616d0000b27397f1e459b475d83d8fee569d",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
-      "XT_Science"
+      "Female",
+      "XT_Science",
+      "XT_Weather"
     ],
-    "artist": "Bemular",
+    "artist": "Björk",
     "genres": 0,
-    "spotId": "4rmE1YjNlIVrKvtP6RO4Bj",
-    "couname": "Scientific Method",
-    "duration": null
+    "spotId": "3jGG6W6sfApvwbnKtli2nk",
+    "couname": "Cosmogony",
+    "duration": ""
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273902dfb3533c4a94e94e79bbc",
+    "img": "https://i.scdn.co/image/ab67616d0000b273693a8b9eff32f44a792e5de6",
     "pty": 0,
     "Items": [
-      "TV_OneHit",
-      "TV_OneHit",
+      "TV_Themes",
       "XT_Science"
     ],
-    "artist": "Timbuk 3",
+    "artist": "Bowling For Soup",
     "genres": 0,
-    "spotId": "4EfZ2eaFjn1MQbKZD8urIz",
-    "couname": "The Future's So Bright, I Gotta Wear Shades",
-    "duration": "204240"
+    "spotId": "7sDuvU5T8Hu3MtdmP2fBuO",
+    "couname": "Jimmy Neutron Theme",
+    "duration": "127933"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2736b7932b1fbdf8f1ad71142d0",
@@ -338,48 +373,6 @@
     "genres": 0,
     "spotId": "4NaGY243CJk0aNbxvgLBQJ",
     "couname": "The Moss",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273693a8b9eff32f44a792e5de6",
-    "pty": 0,
-    "Items": [
-      "TV_Themes",
-      "TV_Themes",
-      "XT_Science"
-    ],
-    "artist": "Bowling For Soup",
-    "genres": 0,
-    "spotId": "7sDuvU5T8Hu3MtdmP2fBuO",
-    "couname": "Jimmy Neutron Theme",
-    "duration": "127933"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27371d7b02a0bbec1a10a88c587",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Female",
-      "XT_Science"
-    ],
-    "artist": "Hiatus Kaiyote",
-    "genres": 0,
-    "spotId": "0IJRZMfavEmJOx5AiuDSlm",
-    "couname": "Blood And Marrow",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d29b9ead409a2ce8833831a1",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Female",
-      "XT_Science"
-    ],
-    "artist": "Freezepop",
-    "genres": 0,
-    "spotId": "4Ikx41qbihgzs9nPsQYaUm",
-    "couname": "Science Genius Girl",
     "duration": null
   },
   {
@@ -397,20 +390,6 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732c114601edb3df8a2c6d61b1",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Female",
-      "XT_Science"
-    ],
-    "artist": "TWICE",
-    "genres": 0,
-    "spotId": "0BJMgVrnWIvgYsjq8KaPeh",
-    "couname": "SCIENTIST",
-    "duration": null
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273de6d804825d184e767218a9b",
     "pty": 0,
     "Items": [
@@ -422,6 +401,264 @@
     "genres": 0,
     "spotId": "73MYXXOV9DKwq8MVuSOpMT",
     "couname": "SPRORGNSM",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27381e226ee946ae2f3781d4109",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "The White Stripes",
+    "genres": 0,
+    "spotId": "09BvTBiQgHnIcNVs6r25Uq",
+    "couname": "Girl You Have No Faith In Medicine",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a0aaef33ea96e93f8b9e7de3",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Public Service Broadcasting",
+    "genres": 0,
+    "spotId": "4p4RAxxV9DkBHSEMzZHgzn",
+    "couname": "Go!",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a422d871dbfd354dede7e0e4",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "King Gizzard & The Lizard Wizard",
+    "genres": 0,
+    "spotId": "1d7amkMBfY5jwDaVYpWKUv",
+    "couname": "Kepler",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed9e5ba890f4d19568f0fe31",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "They Might Be Giants (For Kids)",
+    "genres": 0,
+    "spotId": "283jMW2RQzMYITrmzxBjvN",
+    "couname": "Meet the Elements",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27392aaebde29ce70235b6863cf",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "The Cat Empire",
+    "genres": 0,
+    "spotId": "4foHrLnu7mtWV0DMLimH9p",
+    "couname": "Protons Neutrons Electrons",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273958769ddb56ce1b683c10c11",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Hawkwind",
+    "genres": 0,
+    "spotId": "0hWgkkwXG8VaBT5oemXy0o",
+    "couname": "Quark Strangeness & Charm",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273290a9d9531e5cfac3d618ec0",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Hawkwind",
+    "genres": 0,
+    "spotId": "5xJNLzUpirXbk9oZ9NtTIh",
+    "couname": "Quark Strangeness and Charm",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27383e97f279460340e4328bcf2",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "The Postal Service",
+    "genres": 0,
+    "spotId": "0xn9WsyWhNbfI82Ipnpwqa",
+    "couname": "We Will Become Silhouettes",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ec2b7f0ff68408d5d7a9eb92",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "They Might Be Giants (For Kids)",
+    "genres": 0,
+    "spotId": "6xlOPL8hJyyAf8FkX9aKJk",
+    "couname": "What Is a Shooting Star?",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c9ae94476106e3cf59aba8a6",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "The Flaming Lips",
+    "genres": 0,
+    "spotId": "5KoyXFZuJICHNDNiqfSvDn",
+    "couname": "What Is the Light?",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732faa6001afcf5d3d8129f671",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "They Might Be Giants (For Kids)",
+    "genres": 0,
+    "spotId": "1wfa3vAiIAbSxHbzKoSPuS",
+    "couname": "Why Does the Sun Shine?",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736d2cfeaf32f36fc360aef7ef",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Dan Reeder",
+    "genres": 0,
+    "spotId": "3vVOudi9x1B6DReej2JFQr",
+    "couname": "God Bless the Scientist",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b309faadec53c9a4eceaaf9f",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "XT_Science"
+    ],
+    "artist": "Noemi Black",
+    "genres": 0,
+    "spotId": "4jeTN67GmbddFHON9U7qAC",
+    "couname": "Polonium",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27303fe0549bde8d11f4ea696f4",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "XT_Science"
+    ],
+    "artist": "Björk",
+    "genres": 0,
+    "spotId": "6i0qr28saykn5EtvOAlotI",
+    "couname": "Virus",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736cd42ba7ac24d120c46fbff5",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Jonathan Coulton",
+    "genres": 0,
+    "spotId": "1KOV7p4LBEFkTitQ0vcmgy",
+    "couname": "Mandelbrot Set",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ea3d0b6716ef1b010c2f4835",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Mose Allison",
+    "genres": 0,
+    "spotId": "34XBMJrZquEg8xTyjIpD2f",
+    "couname": "Your Molecular Structure",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f958fdfa181b79454c1ed44b",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Aesop Rock",
+    "genres": 0,
+    "spotId": "44xKVpZoZpSecxpysTLh2E",
+    "couname": "Mindful Solutionism",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732288f4cd4bf3a8764624a0d2",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Carl Sagan",
+    "genres": 0,
+    "spotId": "2aBpM2g1EsuNcSjsUqcOeH",
+    "couname": "A Glorious Dawn",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27380c6db47e75d58e25b72f2ca",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Andrew Bird",
+    "genres": 0,
+    "spotId": "75LxTAe7BD4e5le9g0DL5z",
+    "couname": "Atomized",
     "duration": null
   },
   {
@@ -439,6 +676,33 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739ac90eafcda7dab52cf8aac3",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Flight of the Conchords",
+    "genres": 0,
+    "spotId": "29wO9Q5ERmpRcDS2NvmjFR",
+    "couname": "Robots",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732faa6001afcf5d3d8129f671",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Glass Eyes",
+    "genres": 0,
+    "spotId": "12l32zLXzbjMLbJ6MHbgpR",
+    "couname": "Bill Nye the Science Guy Theme Song",
+    "duration": ""
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b27329597e919e62c8936886f9de",
     "pty": 0,
     "Items": [
@@ -450,6 +714,46 @@
     "genres": 0,
     "spotId": "7lO9tP0xDvZDWI5a9b8LzF",
     "couname": "Birding",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736424da6cd484e865318cb094",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Cosmo Sheldrake",
+    "genres": 0,
+    "spotId": "2IrPJS5I21gpLydn0HgyiJ",
+    "couname": "Birthday Suit",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a53f06a45b489abe8f577134",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Will Wood",
+    "genres": 0,
+    "spotId": "1WeNLbQCDJ1JnF5LjReC8t",
+    "couname": "BlackBoxWarrior",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27371d7b02a0bbec1a10a88c587",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Female",
+      "XT_Science"
+    ],
+    "artist": "Hiatus Kaiyote",
+    "genres": 0,
+    "spotId": "0IJRZMfavEmJOx5AiuDSlm",
+    "couname": "Blood And Marrow",
     "duration": null
   },
   {
@@ -478,6 +782,19 @@
     "genres": 0,
     "spotId": "0dYPai8q5ybsvWcGE1qmbO",
     "couname": "Cells",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273157830dc62daffb4f00953c1",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Sun Kil Moon",
+    "genres": 0,
+    "spotId": "47MLKnVQpYNzHQps6EfULG",
+    "couname": "Neverending Math Equation",
     "duration": null
   },
   {
@@ -523,45 +840,146 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f958fdfa181b79454c1ed44b",
+    "img": "https://i.scdn.co/image/ab67616d0000b27332a57eb1fae94aa3fed0c49b",
     "pty": 0,
     "Items": [
-      "Band",
       "Male",
       "XT_Science"
     ],
-    "artist": "Springworks",
+    "artist": "Samsa",
     "genres": 0,
-    "spotId": "7E8F16rquy4WnK6HuddGVQ",
-    "couname": "Faraday Eyes",
+    "spotId": "30Tn4kOvy73lYzp4mMFIKH",
+    "couname": "Anthropocene",
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27381e226ee946ae2f3781d4109",
+    "img": "https://i.scdn.co/image/ab67616d0000b273899badde28f70e1a07ae74b5",
     "pty": 0,
     "Items": [
-      "Band",
       "Male",
       "XT_Science"
     ],
-    "artist": "The White Stripes",
+    "artist": "Cadamole",
     "genres": 0,
-    "spotId": "09BvTBiQgHnIcNVs6r25Uq",
-    "couname": "Girl You Have No Faith In Medicine",
+    "spotId": "7gQ9jNZndIe9fcZhQJ1G73",
+    "couname": "A Biologist's Mother's Day Song",
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a0aaef33ea96e93f8b9e7de3",
+    "img": "https://i.scdn.co/image/ab67616d0000b27373eef2e5d5c258e5ed454c91",
     "pty": 0,
     "Items": [
-      "Band",
       "Male",
       "XT_Science"
     ],
-    "artist": "Public Service Broadcasting",
+    "artist": "Jonathan Coulton",
     "genres": 0,
-    "spotId": "4p4RAxxV9DkBHSEMzZHgzn",
-    "couname": "Go!",
+    "spotId": "3cLqK3LPVrTIzfENVmYLoU",
+    "couname": "Code Monkey",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273210c8f856757abec0806209c",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Greydon Square",
+    "genres": 0,
+    "spotId": "2tWfr2p0KZhSleXqdfCtWH",
+    "couname": "Dopamine Notes",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739f4d7234ff0323b3139c6135",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Dr. Octagon",
+    "genres": 0,
+    "spotId": "6kk1yZ50i2i5E6rZ6WWL0f",
+    "couname": "Earth People",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737ca383d064ccfae1999757cf",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Robin Walling",
+    "genres": 0,
+    "spotId": "77HjhweJRl7yd8ndJFtpIZ",
+    "couname": "Elements Song / Periodic Table",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f27ec0147adbc8b7084c8dfb",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "MC Hawking",
+    "genres": 0,
+    "spotId": "24x0LMAICxr6F6Eu2L1i8L",
+    "couname": "Entropy",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735b2e4e5f4f13c263ad282a80",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Will Wood and the Tapeworms",
+    "genres": 0,
+    "spotId": "7Hzk5C8Na4cO37Rgafr1CG",
+    "couname": "Skeleton Appreciation Day in Vestal N.Y.",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737bf5a21b4cf1d79d08397539",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Chris Hadfield",
+    "genres": 0,
+    "spotId": "5kBAk4dSQX4aXbTqjaPvF6",
+    "couname": "Space Oddity",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f7e6320a489ff582b8df9861",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Josh Ritter",
+    "genres": 0,
+    "spotId": "6VvIHXPCA5F8IEpqoaxdPA",
+    "couname": "Stuck to You",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738a5cca4b5eb88a0ab5e6af7b",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "A Capella Science",
+    "genres": 0,
+    "spotId": "574emiJLt2LD35Y99jUmOo",
+    "couname": "Evo",
     "duration": null
   },
   {
@@ -593,6 +1011,45 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f22631c9b31a53b96a4a5010",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Nick Cave & The Bad Seeds",
+    "genres": 0,
+    "spotId": "03QzpztcWhNvRb9zHPg5Q3",
+    "couname": "Higgs Boson Blues",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732faa6001afcf5d3d8129f671",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Leonard Nimoy",
+    "genres": 0,
+    "spotId": "5jtlLYjyvAem8wIZoXTBWP",
+    "couname": "Highly Illogical",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d529688291f9840c7acac7f2",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Jens Lekman",
+    "genres": 0,
+    "spotId": "5rvIhvcSN2K5cdsu7NqOhM",
+    "couname": "How We Met the Long Version",
+    "duration": null
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273523cea8f1a9ff4158b4fd408",
     "pty": 0,
     "Items": [
@@ -607,17 +1064,16 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a422d871dbfd354dede7e0e4",
+    "img": "https://i.scdn.co/image/ab67616d0000b273d8cc4c3207c94c7e19e4922f",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
+      "Female",
       "XT_Science"
     ],
-    "artist": "King Gizzard & The Lizard Wizard",
+    "artist": "Kinneret",
     "genres": 0,
-    "spotId": "1d7amkMBfY5jwDaVYpWKUv",
-    "couname": "Kepler",
+    "spotId": "3UlnzdTjgC7zZE91HGmjml",
+    "couname": "Lab Error?",
     "duration": null
   },
   {
@@ -649,17 +1105,17 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ed9e5ba890f4d19568f0fe31",
+    "img": "https://i.scdn.co/image/ab67616d0000b27394457c82c168829c0c743295",
     "pty": 0,
     "Items": [
       "Band",
       "Male",
       "XT_Science"
     ],
-    "artist": "They Might Be Giants (For Kids)",
+    "artist": "Dojo",
     "genres": 0,
-    "spotId": "283jMW2RQzMYITrmzxBjvN",
-    "couname": "Meet the Elements",
+    "spotId": "6aA2IbD1mv7Pha5c2FfnQa",
+    "couname": "Mitochondrial Eve",
     "duration": null
   },
   {
@@ -747,6 +1203,19 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b27377e2a4d4d0b5ed5591f8ce25",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Weird Al Yankovic",
+    "genres": 0,
+    "spotId": "1laOHvnWEgzbS1TTKxvr3D",
+    "couname": "Pancreas",
+    "duration": null
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b27387eaa4a9454c95c83ae8b427",
     "pty": 0,
     "Items": [
@@ -761,45 +1230,16 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27392aaebde29ce70235b6863cf",
+    "img": "https://i.scdn.co/image/ab67616d0000b273422a887c54922a7d1a894b3d",
     "pty": 0,
     "Items": [
-      "Band",
       "Male",
       "XT_Science"
     ],
-    "artist": "The Cat Empire",
+    "artist": "Hard 'n Phirm",
     "genres": 0,
-    "spotId": "4foHrLnu7mtWV0DMLimH9p",
-    "couname": "Protons Neutrons Electrons",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273958769ddb56ce1b683c10c11",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Hawkwind",
-    "genres": 0,
-    "spotId": "0hWgkkwXG8VaBT5oemXy0o",
-    "couname": "Quark Strangeness & Charm",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273290a9d9531e5cfac3d618ec0",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Hawkwind",
-    "genres": 0,
-    "spotId": "5xJNLzUpirXbk9oZ9NtTIh",
-    "couname": "Quark Strangeness and Charm",
+    "spotId": "5f28lzpxjiyLVY60yEtgE9",
+    "couname": "Pi",
     "duration": null
   },
   {
@@ -814,20 +1254,6 @@
     "genres": 0,
     "spotId": "1RZlGlz8eXT1KmJYpqFRzH",
     "couname": "Race for the Prize",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b5b8cc071f275542924c573a",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Count Zero",
-    "genres": 0,
-    "spotId": "1F3I4qglTmYElBOd8TSa5W",
-    "couname": "Radium Eyes",
     "duration": null
   },
   {
@@ -856,6 +1282,20 @@
     "genres": 0,
     "spotId": "1Yd4xh2rgyiqhbvEGDjfTo",
     "couname": "Science Fair",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d29b9ead409a2ce8833831a1",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Female",
+      "XT_Science"
+    ],
+    "artist": "Freezepop",
+    "genres": 0,
+    "spotId": "4Ikx41qbihgzs9nPsQYaUm",
+    "couname": "Science Genius Girl",
     "duration": null
   },
   {
@@ -898,6 +1338,34 @@
     "genres": 0,
     "spotId": "5H5yhDwOJqVEbrievwqyox",
     "couname": "scientific method",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738b559d4fd548c05c57854f43",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Bemular",
+    "genres": 0,
+    "spotId": "4rmE1YjNlIVrKvtP6RO4Bj",
+    "couname": "Scientific Method",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732c114601edb3df8a2c6d61b1",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Female",
+      "XT_Science"
+    ],
+    "artist": "TWICE",
+    "genres": 0,
+    "spotId": "0BJMgVrnWIvgYsjq8KaPeh",
+    "couname": "SCIENTIST",
     "duration": null
   },
   {
@@ -957,6 +1425,19 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273210c8f856757abec0806209c",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "Cosmo Sheldrake",
+    "genres": 0,
+    "spotId": "0Y4vbaneUQNALYqmcaQylg",
+    "couname": "Tardigrade Song",
+    "duration": null
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273ee6a6266197a3b28bd78eb04",
     "pty": 0,
     "Items": [
@@ -999,6 +1480,19 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c8b62f52404ffa2aa6c698f6",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Science"
+    ],
+    "artist": "A Capella Science",
+    "genres": 0,
+    "spotId": "5HXLA7Jfmtg4o85uRyerRh",
+    "couname": "The Molecular Shape of You",
+    "duration": null
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273dde311ea3551fa25470e605d",
     "pty": 0,
     "Items": [
@@ -1010,75 +1504,6 @@
     "genres": 0,
     "spotId": "033N3Mf87ODmORg6YO61cm",
     "couname": "The Sounds Of Science",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27383e97f279460340e4328bcf2",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "The Postal Service",
-    "genres": 0,
-    "spotId": "0xn9WsyWhNbfI82Ipnpwqa",
-    "couname": "We Will Become Silhouettes",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ec2b7f0ff68408d5d7a9eb92",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "They Might Be Giants (For Kids)",
-    "genres": 0,
-    "spotId": "6xlOPL8hJyyAf8FkX9aKJk",
-    "couname": "What Is a Shooting Star?",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c9ae94476106e3cf59aba8a6",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "The Flaming Lips",
-    "genres": 0,
-    "spotId": "5KoyXFZuJICHNDNiqfSvDn",
-    "couname": "What Is the Light?",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732faa6001afcf5d3d8129f671",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "They Might Be Giants (For Kids)",
-    "genres": 0,
-    "spotId": "1wfa3vAiIAbSxHbzKoSPuS",
-    "couname": "Why Does the Sun Shine?",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c8b62f52404ffa2aa6c698f6",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "A Capella Science",
-    "genres": 0,
-    "spotId": "5HXLA7Jfmtg4o85uRyerRh",
-    "couname": "The Molecular Shape of You",
     "duration": null
   },
   {
@@ -1108,461 +1533,16 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ea3d0b6716ef1b010c2f4835",
+    "img": "https://i.scdn.co/image/ab67616d0000b273902dfb3533c4a94e94e79bbc",
     "pty": 0,
     "Items": [
-      "Male",
+      "TV_OneHit",
       "XT_Science"
     ],
-    "artist": "Mose Allison",
+    "artist": "Timbuk 3",
     "genres": 0,
-    "spotId": "34XBMJrZquEg8xTyjIpD2f",
-    "couname": "Your Molecular Structure",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27397f1e459b475d83d8fee569d",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Science",
-      "XT_Weather",
-      "XT_Science"
-    ],
-    "artist": "Björk",
-    "genres": 0,
-    "spotId": "3jGG6W6sfApvwbnKtli2nk",
-    "couname": "Cosmogony",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d8cc4c3207c94c7e19e4922f",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Science"
-    ],
-    "artist": "Kinneret",
-    "genres": 0,
-    "spotId": "3UlnzdTjgC7zZE91HGmjml",
-    "couname": "Lab Error?",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b309faadec53c9a4eceaaf9f",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Science"
-    ],
-    "artist": "Noemi Black",
-    "genres": 0,
-    "spotId": "4jeTN67GmbddFHON9U7qAC",
-    "couname": "Polonium",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273bbc4a33d735b9bfdc3bd3b11",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Science"
-    ],
-    "artist": "Ayria",
-    "genres": 0,
-    "spotId": "2dCo7RyH48kR2ZAd1OVcEv",
-    "couname": "Red Shift",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27303fe0549bde8d11f4ea696f4",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Science"
-    ],
-    "artist": "Björk",
-    "genres": 0,
-    "spotId": "6i0qr28saykn5EtvOAlotI",
-    "couname": "Virus",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273899badde28f70e1a07ae74b5",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Cadamole",
-    "genres": 0,
-    "spotId": "7gQ9jNZndIe9fcZhQJ1G73",
-    "couname": "A Biologist's Mother's Day Song",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732288f4cd4bf3a8764624a0d2",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Carl Sagan",
-    "genres": 0,
-    "spotId": "2aBpM2g1EsuNcSjsUqcOeH",
-    "couname": "A Glorious Dawn",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27332a57eb1fae94aa3fed0c49b",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Samsa",
-    "genres": 0,
-    "spotId": "30Tn4kOvy73lYzp4mMFIKH",
-    "couname": "Anthropocene",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d0aeaa615ed3f16a39868570",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Jonathan Coulton",
-    "genres": 0,
-    "spotId": "0iruN3KwhLXkcE42Hf3atf",
-    "couname": "Artificial Heart",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27380c6db47e75d58e25b72f2ca",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Andrew Bird",
-    "genres": 0,
-    "spotId": "75LxTAe7BD4e5le9g0DL5z",
-    "couname": "Atomized",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736424da6cd484e865318cb094",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Cosmo Sheldrake",
-    "genres": 0,
-    "spotId": "2IrPJS5I21gpLydn0HgyiJ",
-    "couname": "Birthday Suit",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a53f06a45b489abe8f577134",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Will Wood",
-    "genres": 0,
-    "spotId": "1WeNLbQCDJ1JnF5LjReC8t",
-    "couname": "BlackBoxWarrior",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27373eef2e5d5c258e5ed454c91",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Jonathan Coulton",
-    "genres": 0,
-    "spotId": "3cLqK3LPVrTIzfENVmYLoU",
-    "couname": "Code Monkey",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273210c8f856757abec0806209c",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Greydon Square",
-    "genres": 0,
-    "spotId": "2tWfr2p0KZhSleXqdfCtWH",
-    "couname": "Dopamine Notes",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2739f4d7234ff0323b3139c6135",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Dr. Octagon",
-    "genres": 0,
-    "spotId": "6kk1yZ50i2i5E6rZ6WWL0f",
-    "couname": "Earth People",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737ca383d064ccfae1999757cf",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Robin Walling",
-    "genres": 0,
-    "spotId": "77HjhweJRl7yd8ndJFtpIZ",
-    "couname": "Elements Song / Periodic Table",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f27ec0147adbc8b7084c8dfb",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "MC Hawking",
-    "genres": 0,
-    "spotId": "24x0LMAICxr6F6Eu2L1i8L",
-    "couname": "Entropy",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738a5cca4b5eb88a0ab5e6af7b",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "A Capella Science",
-    "genres": 0,
-    "spotId": "574emiJLt2LD35Y99jUmOo",
-    "couname": "Evo",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b41086153ab80deec249900c",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Suto Takatsugu",
-    "genres": 0,
-    "spotId": "5Zm4LxWZvhBb8JjkDe9f0c",
-    "couname": "Falling in Love with Mitochondria",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736d2cfeaf32f36fc360aef7ef",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Dan Reeder",
-    "genres": 0,
-    "spotId": "3vVOudi9x1B6DReej2JFQr",
-    "couname": "God Bless the Scientist",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f22631c9b31a53b96a4a5010",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Nick Cave & The Bad Seeds",
-    "genres": 0,
-    "spotId": "03QzpztcWhNvRb9zHPg5Q3",
-    "couname": "Higgs Boson Blues",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732faa6001afcf5d3d8129f671",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Leonard Nimoy",
-    "genres": 0,
-    "spotId": "5jtlLYjyvAem8wIZoXTBWP",
-    "couname": "Highly Illogical",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d529688291f9840c7acac7f2",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Jens Lekman",
-    "genres": 0,
-    "spotId": "5rvIhvcSN2K5cdsu7NqOhM",
-    "couname": "How We Met the Long Version",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736cd42ba7ac24d120c46fbff5",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Jonathan Coulton",
-    "genres": 0,
-    "spotId": "1KOV7p4LBEFkTitQ0vcmgy",
-    "couname": "Mandelbrot Set",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f958fdfa181b79454c1ed44b",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Aesop Rock",
-    "genres": 0,
-    "spotId": "44xKVpZoZpSecxpysTLh2E",
-    "couname": "Mindful Solutionism",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273157830dc62daffb4f00953c1",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Sun Kil Moon",
-    "genres": 0,
-    "spotId": "47MLKnVQpYNzHQps6EfULG",
-    "couname": "Neverending Math Equation",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27377e2a4d4d0b5ed5591f8ce25",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Weird Al Yankovic",
-    "genres": 0,
-    "spotId": "1laOHvnWEgzbS1TTKxvr3D",
-    "couname": "Pancreas",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273422a887c54922a7d1a894b3d",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Hard 'n Phirm",
-    "genres": 0,
-    "spotId": "5f28lzpxjiyLVY60yEtgE9",
-    "couname": "Pi",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2739ac90eafcda7dab52cf8aac3",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Flight of the Conchords",
-    "genres": 0,
-    "spotId": "29wO9Q5ERmpRcDS2NvmjFR",
-    "couname": "Robots",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735b2e4e5f4f13c263ad282a80",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Will Wood and the Tapeworms",
-    "genres": 0,
-    "spotId": "7Hzk5C8Na4cO37Rgafr1CG",
-    "couname": "Skeleton Appreciation Day in Vestal N.Y.",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737bf5a21b4cf1d79d08397539",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Chris Hadfield",
-    "genres": 0,
-    "spotId": "5kBAk4dSQX4aXbTqjaPvF6",
-    "couname": "Space Oddity",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f7e6320a489ff582b8df9861",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Josh Ritter",
-    "genres": 0,
-    "spotId": "6VvIHXPCA5F8IEpqoaxdPA",
-    "couname": "Stuck to You",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273210c8f856757abec0806209c",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Science"
-    ],
-    "artist": "Cosmo Sheldrake",
-    "genres": 0,
-    "spotId": "0Y4vbaneUQNALYqmcaQylg",
-    "couname": "Tardigrade Song",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273af308a92e982c2242b23f758",
-    "pty": 0,
-    "Items": [
-      "GN_Memes",
-      "TV_Themes",
-      "XT_Science"
-    ],
-    "artist": "Mr Dooves",
-    "genres": 0,
-    "spotId": "6L33GgWMpd53M1vldLstrW",
-    "couname": "Bill Nye the Science Guy",
-    "duration": "31307"
+    "spotId": "4EfZ2eaFjn1MQbKZD8urIz",
+    "couname": "The Future's So Bright, I Gotta Wear Shades",
+    "duration": "204240"
   }
 ]
