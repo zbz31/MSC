@@ -1,107 +1,9 @@
 [
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2739501e0da720f84d993c4b10f",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "The Cowsills",
-    "genres": 0,
-    "spotId": "4mf07kgBgBt4nChjn5M9SE",
-    "couname": "We Can Fly",
-    "duration": "135160"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731117ea2635da726231e32ddd",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "BT_Madonna",
-      "CT_Norway",
-      "GN_Choirs",
-      "GN_Synth",
-      "TV_OneHit",
-      "TV_Rolling500",
-      "XT_Flying",
-      "XT_Intros",
-      "XT_Karaoke",
-      "YR8089"
-    ],
-    "artist": "Madonna",
-    "genres": 0,
-    "spotId": "0ECZ5rta27stj0q4SNuM0D",
-    "couname": "Like a Prayer",
-    "duration": "323769"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27335d2e2896ba7cf1e76069404",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "GN_ViolinSolo",
-      "XT_Animals",
-      "XT_Flying",
-      "XT_OffAnimals",
-      "YR0009"
-    ],
-    "artist": "Nelly Furtado",
-    "genres": 0,
-    "spotId": "2ze7s5CrESggiWA3RpDYIy",
-    "couname": "I'm Like A Bird",
-    "duration": "243160"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2739b4275c2e7153d19d45884fa",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "GN_FrenchElectro",
-      "XT_Flying"
-    ],
-    "artist": "M83",
-    "genres": 0,
-    "spotId": "44jJCNW8frQLEWpYuAQz47",
-    "couname": "We Own The Sky",
-    "duration": "304906"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273cadba04ee5fa8612182151c6",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying",
-      "XT_Water"
-    ],
-    "artist": "Jason Isbell",
-    "genres": 0,
-    "spotId": "6ir7zILdiI4f2USpROWTDe",
-    "couname": "Flying over Water",
-    "duration": "240480"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273e0b60c608586d88252b8fbc0",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Flying",
-      "XT_Weather"
-    ],
-    "artist": "Taylor Swift",
-    "genres": 0,
-    "spotId": "0BiqmkasE5FdrChwKfVp8X",
-    "couname": "Bigger Than The Whole Sky",
-    "duration": "218502"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2737a1cb3fa39a383468d5cadfc",
     "pty": 0,
     "Items": [
-      "Male",
+      "DUDE",
       "XT_Flying",
       "XT_Water"
     ],
@@ -112,23 +14,261 @@
     "duration": "191040"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732da5c7f20a33bf0d4d048ae3",
+    "img": "https://i.scdn.co/image/ab67616d0000b27382553135f696b573f09a9a7d",
     "pty": 0,
     "Items": [
-      "BT_FrankSinatra",
+      "BAND",
+      "DUDE",
+      "girl",
       "XT_Flying"
     ],
-    "artist": "Frank Sinatra",
+    "artist": "Plain White T's",
     "genres": 0,
-    "spotId": "3VlukUEPHy3Pw9mdZMMGY1",
-    "couname": "Come Fly With Me",
-    "duration": "131133"
+    "spotId": "38WErIeVQbRoP0DUhndeIE",
+    "couname": "Airplane",
+    "duration": "138426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f1157b7dcd21bae0c2c75d89",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_GuitarSolo",
+      "XT_Flying",
+      "XT_Intros",
+      "XT_OffAnimals",
+      "YR_9099"
+    ],
+    "artist": "Lenny Kravitz",
+    "genres": 0,
+    "spotId": "1OxcIUqVmVYxT6427tbhDW",
+    "couname": "Fly Away",
+    "duration": "221332"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a9faa50c369e10f759bf9c8e",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Blondshell",
+    "genres": 0,
+    "spotId": "69FLUxsRLs9d7W4jyE8fzG",
+    "couname": "Tarmac",
+    "duration": "227634"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273240447f2da1433d8f4303596",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_SpotifyS500",
+      "XT_Flying",
+      "XT_Food",
+      "XT_Gold"
+    ],
+    "artist": "BTS",
+    "genres": 0,
+    "spotId": "1mWdTewIgB3gtBM3TOSFhB",
+    "couname": "Butter",
+    "duration": "164441"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731a81e3abee4b067492baaf44",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_Choirs",
+      "XT_Flying",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_OffAnimals",
+      "YR_9099"
+    ],
+    "artist": "R. Kelly",
+    "genres": 0,
+    "spotId": "2RzJwBCXsS1VnjDm2jKKAa",
+    "couname": "I Believe I Can Fly",
+    "duration": "320666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456",
+    "pty": 0,
+    "Items": [
+      "GN_GuitarSolo",
+      "XT_Cars",
+      "XT_Dreaming",
+      "XT_Flying",
+      "XT_Gambling",
+      "XT_MoonStars",
+      "XT_Running"
+    ],
+    "artist": "Tom Petty",
+    "genres": 0,
+    "spotId": "4AiMaeCXwsldpwvA5wu5gM",
+    "couname": "Runnin' Down A Dream",
+    "duration": "292000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27334a4ab124ec70f633f23a891",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Angus & Julia Stone",
+    "genres": 0,
+    "spotId": "3WGsYiBXmaT8XyY4Fmry2v",
+    "couname": "Big Jet Plane",
+    "duration": "239146"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f5e30500f0eec7d92b159eae",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Europe",
+    "genres": 0,
+    "spotId": "2Gah9qQMVdxCZJllU9HmnZ",
+    "couname": "Cherokee",
+    "duration": "252933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f5601676db551cb2a09e70a0",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Florida Georgia Line",
+    "genres": 0,
+    "spotId": "0i5el041vd6nxrGEU8QRxy",
+    "couname": "Cruise",
+    "duration": "208960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e80e7dbce3996a1ae5967751",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "OneRepublic",
+    "genres": 0,
+    "spotId": "22PSLtxaajzAAOPiOzcViz",
+    "couname": "Don't Look Down",
+    "duration": "99760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273107f762c9af4526bc6c5e82f",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Maddie & Tae",
+    "genres": 0,
+    "spotId": "1ewLdzcpSQkU9wpFdqFauw",
+    "couname": "Fly",
+    "duration": "217293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273238126ab96db7ed3324a625c",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Last Dinosaurs",
+    "genres": 0,
+    "spotId": "1n7Nk7EETXFePv0MJASaA8",
+    "couname": "Flying",
+    "duration": "208011"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a53f06a45b489abe8f577134",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Pearl Jam",
+    "genres": 0,
+    "spotId": "3vL9lPWBuv0ZR3c5YmdhDl",
+    "couname": "Given to Fly",
+    "duration": "238866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27311079bb97e1f95d1a917ce0b",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Cars",
+      "XT_Flying"
+    ],
+    "artist": "Rush",
+    "genres": 0,
+    "spotId": "54TaGh2JKs1pO9daXNXI5q",
+    "couname": "Fly By Night",
+    "duration": "202200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27300b6bd69c1f774408b60947b",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "O.A.R.",
+    "genres": 0,
+    "spotId": "559r5jzQgpbEMdXst1yOKG",
+    "couname": "In the Clouds",
+    "duration": "212047"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730225711dc520d382bf0d0b45",
+    "pty": 0,
+    "Items": [
+      "GN_Synth",
+      "TV_OneHit",
+      "XT_Flying",
+      "XT_Karaoke",
+      "XT_Love",
+      "YR_8089"
+    ],
+    "artist": "Steve Winwood",
+    "genres": 0,
+    "spotId": "17Ng10tIgnYmAitl0SgT3R",
+    "couname": "Higher Love",
+    "duration": "252226"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273b36949bee43217351961ffbc",
     "pty": 0,
     "Items": [
-      "Male",
+      "DUDE",
       "XT_Flying",
       "XT_OffAnimals"
     ],
@@ -142,7 +282,7 @@
     "img": "https://i.scdn.co/image/ab67616d0000b273ae2fcfd361e13fd65a47363e",
     "pty": 0,
     "Items": [
-      "Male",
+      "DUDE",
       "GN_Piano",
       "XT_Flying"
     ],
@@ -153,123 +293,36 @@
     "duration": "238435"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27357b7f789d328c205b4d15893",
+    "img": "https://i.scdn.co/image/ab67616d0000b2739501e0da720f84d993c4b10f",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
-      "GN_GuitarSolo",
+      "BAND",
+      "DUDE",
+      "girl",
       "XT_Flying"
     ],
-    "artist": "Greta Van Fleet",
+    "artist": "The Cowsills",
     "genres": 0,
-    "spotId": "7aOor99o8NNLZYElOXlBG1",
-    "couname": "Highway Tune",
-    "duration": "180640"
+    "spotId": "4mf07kgBgBt4nChjn5M9SE",
+    "couname": "We Can Fly",
+    "duration": "135160"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273632b907273dba6a6062fb780",
+    "img": "https://i.scdn.co/image/ab67616d0000b27335742f766a4d2c34437d9539",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
-      "XT_Cars",
-      "XT_Flying"
-    ],
-    "artist": "Steve Miller Band",
-    "genres": 0,
-    "spotId": "2zI3bUYn2pcF27of6i2oqK",
-    "couname": "Jet Airliner",
-    "duration": "215666"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731347a977c64ddc78563f9e49",
-    "pty": 0,
-    "Items": [
-      "Male",
+      "BAND",
+      "DUDE",
+      "TV_OneHit",
+      "XT_AboutTime",
       "XT_Flying",
-      "XT_MoonStars"
+      "YR_7079"
     ],
-    "artist": "Labrinth",
+    "artist": "Pilot",
     "genres": 0,
-    "spotId": "3ZcLmonVVD1MTQtmQb8yf3",
-    "couname": "Lift Off",
-    "duration": "184933"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f1157b7dcd21bae0c2c75d89",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "GN_GuitarSolo",
-      "XT_Flying",
-      "XT_Intros",
-      "XT_OffAnimals",
-      "YR9099"
-    ],
-    "artist": "Lenny Kravitz",
-    "genres": 0,
-    "spotId": "1OxcIUqVmVYxT6427tbhDW",
-    "couname": "Fly Away",
-    "duration": "221332"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Flying",
-      "YR1019"
-    ],
-    "artist": "Taylor Swift",
-    "genres": 0,
-    "spotId": "3pHkh7d0lzM2AldUtz2x37",
-    "couname": "The Archer",
-    "duration": "211240"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Flying",
-      "XT_Intros"
-    ],
-    "artist": "Taylor Swift",
-    "genres": 0,
-    "spotId": "6d9IiDcFxtFVIvt9pCqyGH",
-    "couname": "Sparks Fly",
-    "duration": "260933"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737c8f18614002cc5542f6c7aa",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Flying",
-      "YR9099"
-    ],
-    "artist": "Oasis",
-    "genres": 0,
-    "spotId": "01Ox3uPKBqENtiWNlVaRdD",
-    "couname": "Supersonic",
-    "duration": "283744"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735f4604aff952dc7b0a8e511e",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Flying",
-      "YR6069"
-    ],
-    "artist": "The Box Tops",
-    "genres": 0,
-    "spotId": "6RJK553YhstRzyKA4mug09",
-    "couname": "The Letter",
-    "duration": "112800"
+    "spotId": "37ncw2kChEJzbmmKMzGAoE",
+    "couname": "January",
+    "duration": "211920"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273785bd27fa71c420deda4d02c",
@@ -285,102 +338,128 @@
     "duration": "151400"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27316659de824475701b97f6ae9",
+    "img": "https://i.scdn.co/image/ab67616d0000b273ee2adcb549769a040c204071",
     "pty": 0,
     "Items": [
-      "Male",
-      "XT_Flying",
-      "XT_Water",
-      "XT_Weather"
-    ],
-    "artist": "Gordon Lightfoot",
-    "genres": 0,
-    "spotId": "5M1gX3DQvgc7GI6dBWX9FL",
-    "couname": "Early Morning Rain",
-    "duration": "198066"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "BT_TheBeatles",
-      "GN_PsychedelicRock",
+      "BAND",
+      "DUDE",
+      "girl",
       "XT_Flying"
     ],
-    "artist": "The Beatles",
+    "artist": "The Record Company",
     "genres": 0,
-    "spotId": "1itLKsCWHtLnxALkgBk1Fa",
-    "couname": "Flying",
-    "duration": "135520"
+    "spotId": "3xRzUblYGZhVs52fMjii7R",
+    "couname": "Off The Ground",
+    "duration": "253746"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27379580ca073c40aa4235b1e84",
+    "img": "https://i.scdn.co/image/ab67616d0000b27335d2e2896ba7cf1e76069404",
     "pty": 0,
     "Items": [
-      "Male",
+      "girl",
+      "GN_ViolinSolo",
+      "XT_Animals",
       "XT_Flying",
-      "XT_Kiss",
-      "YR1019"
+      "XT_OffAnimals",
+      "YR_0009"
     ],
-    "artist": "Jason Derulo",
+    "artist": "Nelly Furtado",
     "genres": 0,
-    "spotId": "0LiEC0RZvGaUISWv7lYsJL",
-    "couname": "Kiss the Sky",
-    "duration": "222386"
+    "spotId": "2ze7s5CrESggiWA3RpDYIy",
+    "couname": "I'm Like A Bird",
+    "duration": "243160"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
+    "img": "https://i.scdn.co/image/ab67616d0000b27314233ab50b7ec842b7d43b76",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
-      "XT_Fire",
-      "XT_Flying",
-      "XT_Kiss"
-    ],
-    "artist": "Coldplay",
-    "genres": 0,
-    "spotId": "7D0RhFcb3CrfPuTJ0obrod",
-    "couname": "Sparks",
-    "duration": "227093"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b269ec0b3d9be9abe5ccdba4",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Cars",
-      "XT_Flying",
-      "XT_Oscars"
-    ],
-    "artist": "H.E.R.",
-    "genres": 0,
-    "spotId": "7y5JL5ORUmqHHZQuhZI5JI",
-    "couname": "The Journey",
-    "duration": "262062"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a9faa50c369e10f759bf9c8e",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "Female",
+      "BAND",
+      "DUDE",
+      "girl",
       "XT_Flying"
     ],
-    "artist": "Blondshell",
+    "artist": "Greta Van Fleet",
     "genres": 0,
-    "spotId": "69FLUxsRLs9d7W4jyE8fzG",
-    "couname": "Tarmac",
-    "duration": "227634"
+    "spotId": "2hrcMPuyXEg3IPhYlNA6Xw",
+    "couname": "Runway Blues",
+    "duration": "77363"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325d97235fd57bdb6c4fa6403",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_Memes",
+      "GN_ViolinSolo",
+      "TV_Dreamworks",
+      "TV_MarvelSongs",
+      "XT_Colors",
+      "XT_Flying",
+      "XT_Intros",
+      "XT_MoonStars",
+      "XT_Weather",
+      "YR_7079"
+    ],
+    "artist": "Electric Light Orchestra",
+    "genres": 0,
+    "spotId": "10lbGsWnStCm9AirQiOTp4",
+    "couname": "Mr. Blue Sky",
+    "duration": "302080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737dcb91fdf6abf314e2051e41",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "The Irish Rovers",
+    "genres": 0,
+    "spotId": "0pFS3h6oeZtNAnOlsNp6nn",
+    "couname": "The Biplane Evermore",
+    "duration": "170266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cadba04ee5fa8612182151c6",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying",
+      "XT_Water"
+    ],
+    "artist": "Jason Isbell",
+    "genres": 0,
+    "spotId": "6ir7zILdiI4f2USpROWTDe",
+    "couname": "Flying over Water",
+    "duration": "240480"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733637233ec327b2eb0a63bc50",
+    "pty": 0,
+    "Items": [
+      "TV_Rolling500",
+      "XT_Flying",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Youth",
+      "YR_7079"
+    ],
+    "artist": "Elton John",
+    "genres": 0,
+    "spotId": "1MfoBTOChu8cUZqYcqEiw9",
+    "couname": "Bennie And The Jets",
+    "duration": "322548"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
+      "BAND",
+      "DUDE",
       "BT_TheBeatles",
       "XT_Flying",
       "XT_History",
@@ -393,20 +472,45 @@
     "duration": "138386"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27399d8109289b446fb40af8435",
+    "img": "https://i.scdn.co/image/ab67616d0000b273559769036607549f92579d08",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
-      "TV_OneHit",
+      "DUDE",
+      "TV_Mafia",
+      "TV_Simpsons120",
+      "XT_Cars",
       "XT_Flying",
-      "YR9099"
+      "XT_Intros",
+      "XT_Oscars",
+      "YR_8089"
     ],
-    "artist": "Sugar Ray",
+    "artist": "Bill Conti",
     "genres": 0,
-    "spotId": "3uPfVXcjnpOjyzI3jb3js4",
-    "couname": "Fly",
-    "duration": "244640"
+    "spotId": "6C2PfemHQul77DVpnvuAIs",
+    "couname": "Gonna Fly Now",
+    "duration": "170240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "BT_PhilCollins_Genesis",
+      "GN_BalladRock",
+      "GN_Disco",
+      "GN_DrumSolo",
+      "TV_Rolling500",
+      "XT_AboutTime",
+      "XT_Dreaming",
+      "XT_Flying",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089"
+    ],
+    "artist": "Phil Collins",
+    "genres": 0,
+    "spotId": "6mYXXXgFZZmk2mgejwSwdN",
+    "couname": "In the Air Tonight",
+    "duration": "331053"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27301a1935c1ed2495f672b2960",
@@ -427,8 +531,8 @@
     "img": "https://i.scdn.co/image/ab67616d0000b2735675e83f707f1d7271e5cf8a",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
+      "BAND",
+      "DUDE",
       "XT_Flying",
       "XT_Running",
       "XT_Weather"
@@ -440,37 +544,1401 @@
     "duration": "232906"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
+    "img": "https://i.scdn.co/image/ab67616d0000b273287e2cf62977ea9cac9619aa",
     "pty": 0,
     "Items": [
-      "Female",
-      "TV_Dreamworks",
-      "XT_Dreaming",
+      "GN_PsychedelicRock",
+      "TV_Simpsons120",
+      "XT_Cars",
+      "XT_Flying"
+    ],
+    "artist": "Steppenwolf",
+    "genres": 0,
+    "spotId": "25ttbACknSKxdXAZchsIne",
+    "couname": "Magic Carpet Ride",
+    "duration": "267933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731f7077ae1018b5fbab08dfa8",
+    "pty": 0,
+    "Items": [
+      "BT_Queen_DavidBowie",
+      "GN_Choirs",
+      "GN_GuitarSolo",
+      "GN_Piano",
+      "TV_Mafia",
+      "TV_Simpsons120",
       "XT_Flying",
-      "YR1019"
+      "XT_Intros",
+      "YR_7079"
+    ],
+    "artist": "Queen",
+    "genres": 0,
+    "spotId": "1lCRw5FEZ1gPDNPzy1K4zW",
+    "couname": "We Are The Champions",
+    "duration": "179200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27319db9ac54c80a898a179f0f1",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_Simpsons120",
+      "XT_Cars",
+      "XT_Flying",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089"
+    ],
+    "artist": "Kenny Loggins",
+    "genres": 0,
+    "spotId": "34x6hEJgGAOQvmlMql5Ige",
+    "couname": "Danger Zone",
+    "duration": "215133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733ef7ac5a82dc411eca6badc5",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_Piano",
+      "TV_Simpsons120",
+      "XT_Flying",
+      "XT_Karaoke",
+      "XT_Weather",
+      "YR_8089"
+    ],
+    "artist": "Bette Midler",
+    "genres": 0,
+    "spotId": "4ErUhFToT1yX52MeHqH8OY",
+    "couname": "Wind Beneath My Wings",
+    "duration": "293853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ee22d40f0a4575b22f0c4d5c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Owl City",
+    "genres": 0,
+    "spotId": "0MchaPGaBrtKl9QkJbMENf",
+    "couname": "Air Traffic",
+    "duration": "181640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d382cf35635df5d90684f551",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Justin Moore",
+    "genres": 0,
+    "spotId": "4YINZLgqkHIQyniu8Cky8B",
+    "couname": "Airport Bar",
+    "duration": "174020"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731f7077ae1018b5fbab08dfa8",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "BT_Queen_DavidBowie",
+      "XT_Flying",
+      "YR_7079"
+    ],
+    "artist": "Queen",
+    "genres": 0,
+    "spotId": "0nUCaKwNqO5whVAhEX1A1R",
+    "couname": "Spread Your Wings",
+    "duration": "274226"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273325a7a7ece16f5befc1b7b98",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Alan Walker",
+    "genres": 0,
+    "spotId": "0NBD4g9Zwy1rMAMWBYS6Ju",
+    "couname": "Avem",
+    "duration": "199314"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a83fae781614461b3d813453",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Stoney LaRue",
+    "genres": 0,
+    "spotId": "0l5xmY796ctZcTEuKNFhjI",
+    "couname": "Aviator",
+    "duration": "229586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b84b0516d901f95461bb5165",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Eminem",
+    "genres": 0,
+    "spotId": "3eMsgWDRq5dKl5SBTYGv2J",
+    "couname": "Higher",
+    "duration": "222036"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273474dfc80905c0ff428aa652d",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Jonas Brothers",
+    "genres": 0,
+    "spotId": "4l61TlfmTwxt7PdzEe28rz",
+    "couname": "Wings",
+    "duration": "118993"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273148e0913532c37cb660ab973",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "REO Speedwagon",
+    "genres": 0,
+    "spotId": "6nYhYNWcJrTDhJIxobQwK8",
+    "couname": "You Can Fly",
+    "duration": "256146"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736fac2a178c651974d2349b56",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Roger Miller",
+    "genres": 0,
+    "spotId": "1hurVn9sV1Y6AovmPveCI3",
+    "couname": "Boeing Boeing 707",
+    "duration": "82173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Johnny Cash",
+    "genres": 0,
+    "spotId": "2HR7vkmbt2jrNdYbi7Hh5d",
+    "couname": "Bonanza!",
+    "duration": "140306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734c8e60cf5f8f176cc1940ca7",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Cars",
+      "XT_Flying",
+      "XT_Places"
+    ],
+    "artist": "Johnny Cash",
+    "genres": 0,
+    "spotId": "59J3FhCGYl18G3ouDReUge",
+    "couname": "I've Been Everywhere",
+    "duration": "196733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Kanye West",
+    "genres": 0,
+    "spotId": "4UQMOPSUVJVicIQzjAcRRZ",
+    "couname": "Champion",
+    "duration": "167600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Demi Lovato",
+    "genres": 0,
+    "spotId": "7nCBOm2WiTUPAx3TeG2rZA",
+    "couname": "Warrior",
+    "duration": "231173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734971e41391323fb2b8c5c4ba",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Johnny Horton",
+    "genres": 0,
+    "spotId": "0Z1yhoFE0VwdlwLfjTwoZI",
+    "couname": "Cherokee Boogie",
+    "duration": "147960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730572dd2cbcfb6e5cd511bf5e",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Greyson Chance",
+    "genres": 0,
+    "spotId": "13GExmzEdeLg3iL1n8MQ6b",
+    "couname": "Cheyenne",
+    "duration": "175533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739b3603a52b6de69e8ad618cb",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Gary Allan",
+    "genres": 0,
+    "spotId": "63u5QGp9dKXAoYTVKUKBYn",
+    "couname": "Watching Airplanes",
+    "duration": "242946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734edc8860386d72ba88aac3b9",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Ian Munsick",
+    "genres": 0,
+    "spotId": "1mSfv49faBuYmPCScqxpP6",
+    "couname": "Cheyenne",
+    "duration": "231933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Jason Derulo",
+    "genres": 0,
+    "spotId": "3EofjRgUI1WrzqqtLb8NoF",
+    "couname": "Cheyenne",
+    "duration": "215107"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737f3dcf99224570b053294ccf",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Red Hot Chili Peppers",
+    "genres": 0,
+    "spotId": "0VLdJcQUsqHBBwqPp4CIKJ",
+    "couname": "Aeroplane",
+    "duration": "285066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cba44c10e994e15a9668a911",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Tom Petty and the Heartbreakers",
+    "genres": 0,
+    "spotId": "6NCVV4Y4iwdXO1uEnioytR",
+    "couname": "Airport",
+    "duration": "57666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d1e9e466944a579572b3871d",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Guster",
+    "genres": 0,
+    "spotId": "32RcJbkHOPGSAVNmiILOuW",
+    "couname": "Airport Song",
+    "duration": "204533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e4c398a13afc0a9ed688677b",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "The Handsome Family",
+    "genres": 0,
+    "spotId": "3FsMvCgJGJdyEpqbFD7X7e",
+    "couname": "All the Time in Airports",
+    "duration": "223493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27308c3459da0ec44b7e790555d",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Midland",
+    "genres": 0,
+    "spotId": "4XSLXwwLskeFy1k6ec4tBg",
+    "couname": "Altitude Adjustment",
+    "duration": "206040"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273de2e30cf7205b45a0ba3877f",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Chris Stapleton",
+    "genres": 0,
+    "spotId": "1qEisXw50Y8TdFxf03jj08",
+    "couname": "Crosswind",
+    "duration": "203920"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273276077468780c310413f8450",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_Piano",
+      "XT_Flying",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Water"
+    ],
+    "artist": "Styx",
+    "genres": 0,
+    "spotId": "11G0yprQtMU53BLPMSr093",
+    "couname": "Come Sail Away",
+    "duration": "365000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f5fa25f25e06af71a7e061f6",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Hans Zimmer",
+    "genres": 0,
+    "spotId": "1mUG7ftwIxuq5fhMPkyM02",
+    "couname": "Flight",
+    "duration": "258148"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273536f3b6f6b46e6e97742673b",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Ramin Djawadi",
+    "genres": 0,
+    "spotId": "4OG2BR10XdGsOjWNiOdVjr",
+    "couname": "Flight of Dragons",
+    "duration": "171561"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738cbe65eb023c2f2b5cdf5a91",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Mac Miller",
+    "genres": 0,
+    "spotId": "7BCzMKLKQwVSLtZcDGJTJt",
+    "couname": "Floating",
+    "duration": "254099"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738fb79948870fc9314eccac4b",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Tones And I",
+    "genres": 0,
+    "spotId": "5ri4zqtWhG07hIuNNDWP76",
+    "couname": "Fly Away",
+    "duration": "178156"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27330fb8097859c939e15124037",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Jason Aldean",
+    "genres": 0,
+    "spotId": "17X2tSzibD9n9QRjdExcWT",
+    "couname": "Fly Over States",
+    "duration": "218200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ccbe93ce9eda066d4bf5c9ba",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Tom Odell",
+    "genres": 0,
+    "spotId": "1XkqKUud7mKBjnjhPBhZm3",
+    "couname": "Flying :))",
+    "duration": "179157"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cb21faf4229aff3992ed479f",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Ozzy Osbourne",
+    "genres": 0,
+    "spotId": "3VPcxdwwo9TcjAOYZa5ZrP",
+    "couname": "Flying High Again",
+    "duration": "284106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e2aa84b988e58703f8ed4e84",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Zach Bryan",
+    "genres": 0,
+    "spotId": "7oPTiW1fZyvIPeYOZTY4Wh",
+    "couname": "Flying or Crying",
+    "duration": "169961"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b7c6c5af0af9fc1a9714b36",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Kane Brown",
+    "genres": 0,
+    "spotId": "4bRZoRhAQfqGLOkqAFDPp5",
+    "couname": "Go Around",
+    "duration": "203666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27386064414660714cb73247b78",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Jason Aldean",
+    "genres": 0,
+    "spotId": "6bhHZqn36qmNlUk3fLkNGg",
+    "couname": "God Made Airplanes",
+    "duration": "219906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Imagine Dragons",
+    "genres": 0,
+    "spotId": "6Tvzf3VEi16JMhAgOwdt2y",
+    "couname": "Birds",
+    "duration": "219440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fe6a98e875958c7d7080584e",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Alicia Keys",
+    "genres": 0,
+    "spotId": "7ahSkRJouFINMWokIywAwG",
+    "couname": "How It Feels to Fly",
+    "duration": "282613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27377315aee20fa8f9eb70f1cd8",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "George Strait",
+    "genres": 0,
+    "spotId": "7yQMZQeiSKnvEgimeGPVhi",
+    "couname": "I Can Still Make Cheyenne",
+    "duration": "256066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Mac Miller",
+    "genres": 0,
+    "spotId": "2JmFRXaJrkAUD2cs6U20KG",
+    "couname": "Jet Fuel",
+    "duration": "345213"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342c9a04eb3dbd93d96081591",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "John Denver",
+    "genres": 0,
+    "spotId": "1qYsHkUBFSRrGEQqkogO6U",
+    "couname": "Leaving On a Jet Plane",
+    "duration": "244600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27350bd47cf6d44bddcd546a951",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Fall Out Boy",
+    "genres": 0,
+    "spotId": "1DRUwJSt2YOUUEz965OJ66",
+    "couname": "Champion",
+    "duration": "192533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735d7d7120db1b859d5077e1d2",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Anderson .Paak",
+    "genres": 0,
+    "spotId": "4lMLL0QOt8dLRp5UGXjZLi",
+    "couname": "Off The Ground",
+    "duration": "288052"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731d5bc475ce4886f8d2e6e93e",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Chris Stapleton",
+    "genres": 0,
+    "spotId": "0FImli3RNN8VB3y8EYn2Xc",
+    "couname": "Parachute",
+    "duration": "253200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273aea5f17bbea18d74b711f169",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Jason Mraz",
+    "genres": 0,
+    "spotId": "5N2WULg6bU9oDNJHVwvZS1",
+    "couname": "Plane",
+    "duration": "313946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27379d1be381026d9bbd0de591b",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Johnny Cash",
+    "genres": 0,
+    "spotId": "3I1vEQhGwRK7URrTq4BqNl",
+    "couname": "Riders in the Sky",
+    "duration": "224813"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734b453e65ac05cc5455c884a1",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Gary Allan",
+    "genres": 0,
+    "spotId": "3hfMKCMfKcKctpjtH0TB76",
+    "couname": "Right Where I Need To Be",
+    "duration": "182103"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b25a6f8bac702391f3e59129",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Khalid",
+    "genres": 0,
+    "spotId": "1QxIFMs4M8qd5cbJJu80v4",
+    "couname": "Skyline",
+    "duration": "182895"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Bazzi",
+    "genres": 0,
+    "spotId": "4pabDIdwjv80lbsx7XcNwZ",
+    "couname": "Soarin",
+    "duration": "177104"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27330fd5c0c49d9c1913e7eb38b",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "John Legend",
+    "genres": 0,
+    "spotId": "7IGepWkogA3SeO2oLmQLnq",
+    "couname": "So High",
+    "duration": "307400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273de5205ea928d5dc91feee2f9",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Doja Cat",
+    "genres": 0,
+    "spotId": "1yvSMyZn27M4wEslpSvB0D",
+    "couname": "So High",
+    "duration": "199746"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737cd872c7701c4737b2f81d87",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Christina Aguilera",
+    "genres": 0,
+    "spotId": "0pCNNLJjW3VXiHRgrPONEr",
+    "couname": "Soar",
+    "duration": "285440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Juice WRLD",
+    "genres": 0,
+    "spotId": "21CkzgKCBCq5V4XKjiGSIj",
+    "couname": "Stay High",
+    "duration": "168684"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731810fae76a2aed44fadb8fe3",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Townes Van Zandt",
+    "genres": 0,
+    "spotId": "31kaoIv1FU5Ddcv1hJJk2d",
+    "couname": "To Live Is To Fly",
+    "duration": "195640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273935d8d5369bc55e74a39303e",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Future",
+    "genres": 0,
+    "spotId": "29s4u1adFGLWtGehbR5xkq",
+    "couname": "Touch The Sky",
+    "duration": "144361"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273647ad18a07e9e939e399e5a1",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Zach Bryan",
+    "genres": 0,
+    "spotId": "3XMVk0KYK0Ez8NM91NTqBt",
+    "couname": "Towers",
+    "duration": "170136"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273540fc1d083eac5bcff8dad21",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Chris Stapleton",
+    "genres": 0,
+    "spotId": "178OI1A3qjROeFeh8lmNwW",
+    "couname": "Traveller",
+    "duration": "222413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737c8f18614002cc5542f6c7aa",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Flying",
+      "YR_9099"
+    ],
+    "artist": "Oasis",
+    "genres": 0,
+    "spotId": "01Ox3uPKBqENtiWNlVaRdD",
+    "couname": "Supersonic",
+    "duration": "283744"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c734a8abb8bfddb0825824a5",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Jordan Davis",
+    "genres": 0,
+    "spotId": "2hNQDbZcN3vqRAuwiz7poI",
+    "couname": "Tucson Too Late",
+    "duration": "172853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735b8cf73dd4eebd286d9a2c78",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "P!nk",
+    "genres": 0,
+    "spotId": "1dJzTNm46rtvQR2A3GZU8F",
+    "couname": "Turbulence",
+    "duration": "206453"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27399d8109289b446fb40af8435",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_OneHit",
+      "XT_Flying",
+      "YR_9099"
+    ],
+    "artist": "Sugar Ray",
+    "genres": 0,
+    "spotId": "3uPfVXcjnpOjyzI3jb3js4",
+    "couname": "Fly",
+    "duration": "244640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273787674b6a114f98cad6f834b",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "CT_Norway",
+      "GN_BalladRock",
+      "GN_GuitarSolo",
+      "TV_BestVideos",
+      "XT_Flying",
+      "XT_History",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Weather",
+      "YR_9099"
+    ],
+    "artist": "Scorpions",
+    "genres": 0,
+    "spotId": "3ovjw5HZZv43SxTwApooCM",
+    "couname": "Wind Of Change",
+    "duration": "312360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dadd32061ed455719bd196d1",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "CAKE",
+    "genres": 0,
+    "spotId": "7AbWkvrK7kajTYSqy4QgPn",
+    "couname": "Comanche",
+    "duration": "129466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730fdb7379076fe5c08ac55c38",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_OneHit",
+      "XT_Colors",
+      "XT_Flying",
+      "XT_Intros",
+      "XT_OffAnimals",
+      "YR_9099"
+    ],
+    "artist": "The Offspring",
+    "genres": 0,
+    "spotId": "15HadeuRG9THazDGzLH8ZU",
+    "couname": "Pretty Fly",
+    "duration": "188106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273136d7250568820409f8fdd60",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_OneHit",
+      "XT_Flying",
+      "YR_9099"
+    ],
+    "artist": "Foo Fighters",
+    "genres": 0,
+    "spotId": "0mWiuXuLAJ3Brin3Or2x6v",
+    "couname": "Learn to Fly",
+    "duration": "234800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e0b60c608586d88252b8fbc0",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Flying",
+      "XT_Weather"
     ],
     "artist": "Taylor Swift",
     "genres": 0,
-    "spotId": "59HjlYCeBsxdI0fcm3zglw",
-    "couname": "Wildest Dreams",
-    "duration": "220440"
+    "spotId": "0BiqmkasE5FdrChwKfVp8X",
+    "couname": "Bigger Than The Whole Sky",
+    "duration": "218502"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273240447f2da1433d8f4303596",
+    "img": "https://i.scdn.co/image/ab67616d0000b2732088112ea9cf2508ff950559",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
-      "TV_SpotifyS500",
-      "XT_Flying",
-      "XT_Food",
-      "XT_Gold"
+      "GN_PsychedelicRock",
+      "XT_Cars",
+      "XT_Flying"
     ],
-    "artist": "BTS",
+    "artist": "Grateful Dead",
     "genres": 0,
-    "spotId": "1mWdTewIgB3gtBM3TOSFhB",
-    "couname": "Butter",
-    "duration": "164441"
+    "spotId": "6jNi0f1BiBHi1lK1Wwy9Oi",
+    "couname": "Truckin'",
+    "duration": "302200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273293e8055dd8814fcdf4742f7",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Flying",
+      "YR_1019"
+    ],
+    "artist": "Jason Derulo",
+    "genres": 0,
+    "spotId": "6OEolOOk9Gh9bqkdpfIOl0",
+    "couname": "Ridin' Solo",
+    "duration": "215746"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731e792c9c9def609333ba1c9a",
+    "pty": 0,
+    "Items": [
+      "XT_Dreaming",
+      "XT_Flying",
+      "XT_Karaoke",
+      "YR_0009"
+    ],
+    "artist": "Creed",
+    "genres": 0,
+    "spotId": "0J39Z0d8WCrHdFFlF9Xxbu",
+    "couname": "Higher",
+    "duration": "316733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27341e3fa25309cab1990ef9bea",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "BT_FrankSinatra",
+      "XT_Colors",
+      "XT_Flying",
+      "XT_Weather"
+    ],
+    "artist": "Frank Sinatra",
+    "genres": 0,
+    "spotId": "5cdBPBfYeRFDZWHAk4UPOH",
+    "couname": "Blue Skies",
+    "duration": "147560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739b4275c2e7153d19d45884fa",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_FrenchElectro",
+      "XT_Flying"
+    ],
+    "artist": "M83",
+    "genres": 0,
+    "spotId": "44jJCNW8frQLEWpYuAQz47",
+    "couname": "We Own The Sky",
+    "duration": "304906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731563a0079cc5f2d4bdeb5706",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Flying",
+      "XT_OffAnimals"
+    ],
+    "artist": "Birdy",
+    "genres": 0,
+    "spotId": "1D4XFKolp63mNqqMXJJL1V",
+    "couname": "Wings",
+    "duration": "252106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736afc19da3f2a77ec9e9eda47",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Boston",
+    "genres": 0,
+    "spotId": "5xy6EutTYrw9HJZE2ZYWth",
+    "couname": "Cool The Engines",
+    "duration": "263400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c1fadcc997a65384f34d694",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "TV_Dreamworks",
+      "TV_Mafia",
+      "TV_OneHit",
+      "TV_Rolling500",
+      "XT_Flying",
+      "XT_Karaoke",
+      "YR_7079"
+    ],
+    "artist": "Boston",
+    "genres": 0,
+    "spotId": "1QEEqeFIZktqIpPI4jSVSF",
+    "couname": "More Than a Feeling",
+    "duration": "285133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27361beb2302cbc4177de6d711a",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Between You & Me",
+    "genres": 0,
+    "spotId": "0PW18AbooKhtFzZ5LUuMsW",
+    "couname": "Dakota",
+    "duration": "183495"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b6625c328c66fa05182c8258",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Red Leather",
+    "genres": 0,
+    "spotId": "188q79afHYkyQIZ9jNs3Xv",
+    "couname": "DAKOTA",
+    "duration": "166220"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f875c8285d7f26a42baaa2a0",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_OneHit",
+      "XT_Flying",
+      "XT_Karaoke",
+      "YR_9099"
+    ],
+    "artist": "Tal Bachman",
+    "genres": 0,
+    "spotId": "7mnGQesk1TzQLzQ9bYWZPR",
+    "couname": "She's so High",
+    "duration": "224693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27336ebc4c2a3b9058914c01ad6",
+    "pty": 0,
+    "Items": [
+      "XT_Flying",
+      "XT_OffAnimals"
+    ],
+    "artist": "Seal",
+    "genres": 0,
+    "spotId": "1Y5IKAs7tuIqLHxUVjphup",
+    "couname": "Fly Like an Eagle",
+    "duration": "254706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734cf663d87d1831002fea4158",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Snow Patrol",
+    "genres": 0,
+    "spotId": "0h1DGF0VZcqPiPNbeWrFmP",
+    "couname": "Engines",
+    "duration": "307613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732da5c7f20a33bf0d4d048ae3",
+    "pty": 0,
+    "Items": [
+      "BT_FrankSinatra",
+      "XT_Flying"
+    ],
+    "artist": "Frank Sinatra",
+    "genres": 0,
+    "spotId": "3VlukUEPHy3Pw9mdZMMGY1",
+    "couname": "Come Fly With Me",
+    "duration": "131133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27357b7f789d328c205b4d15893",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_GuitarSolo",
+      "XT_Flying"
+    ],
+    "artist": "Greta Van Fleet",
+    "genres": 0,
+    "spotId": "7aOor99o8NNLZYElOXlBG1",
+    "couname": "Highway Tune",
+    "duration": "180640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273632b907273dba6a6062fb780",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Cars",
+      "XT_Flying"
+    ],
+    "artist": "Steve Miller Band",
+    "genres": 0,
+    "spotId": "2zI3bUYn2pcF27of6i2oqK",
+    "couname": "Jet Airliner",
+    "duration": "215666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e11a75a2f2ff39cec788a015",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Flying",
+      "XT_Intros"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "6d9IiDcFxtFVIvt9pCqyGH",
+    "couname": "Sparks Fly",
+    "duration": "260933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735f4604aff952dc7b0a8e511e",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Flying",
+      "YR6069"
+    ],
+    "artist": "The Box Tops",
+    "genres": 0,
+    "spotId": "6RJK553YhstRzyKA4mug09",
+    "couname": "The Letter",
+    "duration": "112800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27316659de824475701b97f6ae9",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Flying",
+      "XT_Water",
+      "XT_Weather"
+    ],
+    "artist": "Gordon Lightfoot",
+    "genres": 0,
+    "spotId": "5M1gX3DQvgc7GI6dBWX9FL",
+    "couname": "Early Morning Rain",
+    "duration": "198066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "BT_TheBeatles",
+      "GN_PsychedelicRock",
+      "XT_Flying"
+    ],
+    "artist": "The Beatles",
+    "genres": 0,
+    "spotId": "1itLKsCWHtLnxALkgBk1Fa",
+    "couname": "Flying",
+    "duration": "135520"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d3f1a043d50d8e664ff215a8",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Living Colour",
+    "genres": 0,
+    "spotId": "0m8Aa7jtTkVETeWPfQrRqC",
+    "couname": "Flying",
+    "duration": "264573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Fire",
+      "XT_Flying",
+      "XT_Kiss"
+    ],
+    "artist": "Coldplay",
+    "genres": 0,
+    "spotId": "7D0RhFcb3CrfPuTJ0obrod",
+    "couname": "Sparks",
+    "duration": "227093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b269ec0b3d9be9abe5ccdba4",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Cars",
+      "XT_Flying",
+      "XT_Oscars"
+    ],
+    "artist": "H.E.R.",
+    "genres": 0,
+    "spotId": "7y5JL5ORUmqHHZQuhZI5JI",
+    "couname": "The Journey",
+    "duration": "262062"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732aba4a59fd6154fa19bf309f",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Pilot",
+    "genres": 0,
+    "spotId": "0tFoG3Ct8lP1gERQA9YZ1n",
+    "couname": "Get Up and Go",
+    "duration": "215200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_Rolling500",
+      "XT_AboutTime",
+      "XT_Flying",
+      "XT_Karaoke",
+      "XT_MoonStars",
+      "YR_7079"
+    ],
+    "artist": "Elton John",
+    "genres": 0,
+    "spotId": "3gdewACMIVMEWVbyb8O9sY",
+    "couname": "Rocket Man",
+    "duration": "281613"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2730897255051c2f5e8a461ec84",
@@ -492,68 +1960,19 @@
     "img": "https://i.scdn.co/image/ab67616d0000b273182cfcd0cc42013557f64c89",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
+      "BAND",
+      "DUDE",
       "GN_Choirs",
       "XT_BodyParts",
       "XT_Flying",
       "XT_Weather",
-      "YR8089"
+      "YR_8089"
     ],
     "artist": "The Alan Parsons Project",
     "genres": 0,
     "spotId": "39qYD4J4BKvZMQgxfXl5bv",
     "couname": "Eye In The Sky",
     "duration": "276280"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273899723466c43d2fe91244f52",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "TV_OneHit",
-      "XT_Flying",
-      "XT_Intros",
-      "YR7079"
-    ],
-    "artist": "Pilot",
-    "genres": 0,
-    "spotId": "500h8jAdr7LvzzXlm1qxtK",
-    "couname": "Magic",
-    "duration": "186333"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273287e2cf62977ea9cac9619aa",
-    "pty": 0,
-    "Items": [
-      "GN_PsychedelicRock",
-      "TV_Simpsons120",
-      "XT_Cars",
-      "XT_Flying"
-    ],
-    "artist": "Steppenwolf",
-    "genres": 0,
-    "spotId": "25ttbACknSKxdXAZchsIne",
-    "couname": "Magic Carpet Ride",
-    "duration": "267933"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273310d9098fbbde47bf7785637",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "GN_Choirs",
-      "TV_Rolling500",
-      "XT_Flying",
-      "XT_Karaoke",
-      "YR0009"
-    ],
-    "artist": "M.I.A.",
-    "genres": 0,
-    "spotId": "1ixbwbeBi5ufN4noUKmW5a",
-    "couname": "Paper Planes",
-    "duration": "205200"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2737f570d8b2e794f1493dca2ca",
@@ -571,209 +1990,92 @@
     "duration": "294693"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f875c8285d7f26a42baaa2a0",
+    "img": "https://i.scdn.co/image/ab67616d0000b27327bd7d234a31296df34b9a64",
     "pty": 0,
     "Items": [
-      "Male",
-      "TV_OneHit",
-      "XT_Flying",
-      "XT_Karaoke",
-      "YR9099"
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
     ],
-    "artist": "Tal Bachman",
+    "artist": "Tom Petty and the Heartbreakers",
     "genres": 0,
-    "spotId": "7mnGQesk1TzQLzQ9bYWZPR",
-    "couname": "She's so High",
-    "duration": "224693"
+    "spotId": "63xBnyUVKIupzjHno4wFs3",
+    "couname": "Into The Great Wide Open",
+    "duration": "223333"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731a81e3abee4b067492baaf44",
+    "img": "https://i.scdn.co/image/ab67616d0000b273802255bd535533c0e2ba5ad2",
     "pty": 0,
     "Items": [
-      "Male",
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "New York Dolls",
+    "genres": 0,
+    "spotId": "7h72gwGqjwnJC83qCja93c",
+    "couname": "Jet Boy",
+    "duration": "280400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273efbcab3253cf66cc8ca42172",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Flying",
+      "XT_Karaoke",
+      "XT_Water",
+      "YR_0009"
+    ],
+    "artist": "Uncle Kracker",
+    "genres": 0,
+    "spotId": "0RFgvrhkf9FiDRLA0BhzpZ",
+    "couname": "Drift Away",
+    "duration": "255560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731f0663c9fa0d96f4ba07ce3b",
+    "pty": 0,
+    "Items": [
+      "DUDE",
       "GN_Choirs",
-      "XT_Flying",
-      "XT_Intros",
-      "XT_Karaoke",
-      "XT_OffAnimals",
-      "YR9099"
-    ],
-    "artist": "R. Kelly",
-    "genres": 0,
-    "spotId": "2RzJwBCXsS1VnjDm2jKKAa",
-    "couname": "I Believe I Can Fly",
-    "duration": "320666"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27335742f766a4d2c34437d9539",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "TV_OneHit",
-      "XT_AboutTime",
-      "XT_Flying",
-      "YR7079"
-    ],
-    "artist": "Pilot",
-    "genres": 0,
-    "spotId": "37ncw2kChEJzbmmKMzGAoE",
-    "couname": "January",
-    "duration": "211920"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d16ee0b4fef011c59bcfb2f1",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "TV_BestVideos",
-      "TV_SpotifyS500",
-      "XT_Flying",
-      "XT_Intros",
-      "XT_MoonStars",
-      "XT_Weather",
-      "YR1019"
-    ],
-    "artist": "Coldplay",
-    "genres": 0,
-    "spotId": "6HFbq7cewJ7rPiffV0ciil",
-    "couname": "A Sky Full of Stars",
-    "duration": "267866"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27319db9ac54c80a898a179f0f1",
-    "pty": 0,
-    "Items": [
-      "Male",
+      "GN_Piano",
+      "GN_ViolinSolo",
+      "TV_MarvelSongs",
       "TV_Simpsons120",
-      "XT_Cars",
-      "XT_Flying",
-      "XT_Intros",
-      "XT_Karaoke",
-      "YR8089"
-    ],
-    "artist": "Kenny Loggins",
-    "genres": 0,
-    "spotId": "34x6hEJgGAOQvmlMql5Ige",
-    "couname": "Danger Zone",
-    "duration": "215133"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730fdb7379076fe5c08ac55c38",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "TV_OneHit",
       "XT_Colors",
       "XT_Flying",
-      "XT_Intros",
-      "XT_OffAnimals",
-      "YR9099"
-    ],
-    "artist": "The Offspring",
-    "genres": 0,
-    "spotId": "15HadeuRG9THazDGzLH8ZU",
-    "couname": "Pretty Fly",
-    "duration": "188106"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "TV_Rolling500",
-      "XT_AboutTime",
-      "XT_Flying",
-      "XT_Karaoke",
-      "XT_MoonStars",
-      "YR7079"
+      "XT_Places",
+      "YR_7079"
     ],
     "artist": "Elton John",
     "genres": 0,
-    "spotId": "3gdewACMIVMEWVbyb8O9sY",
-    "couname": "Rocket Man",
-    "duration": "281613"
+    "spotId": "1IywC3FcPZekfT7MS1TZMS",
+    "couname": "Goodbye Yellow Brick Road",
+    "duration": "192826"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733ef7ac5a82dc411eca6badc5",
+    "img": "https://i.scdn.co/image/ab67616d0000b273e345458751c029f411db3d5b",
     "pty": 0,
     "Items": [
-      "Female",
-      "GN_Piano",
-      "TV_Simpsons120",
+      "girl",
       "XT_Flying",
-      "XT_Karaoke",
-      "XT_Weather",
-      "YR8089"
+      "XT_OffAnimals"
     ],
-    "artist": "Bette Midler",
+    "artist": "Miley Cyrus",
     "genres": 0,
-    "spotId": "4ErUhFToT1yX52MeHqH8OY",
-    "couname": "Wind Beneath My Wings",
-    "duration": "293853"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273559769036607549f92579d08",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "TV_Mafia",
-      "TV_Simpsons120",
-      "XT_Cars",
-      "XT_Flying",
-      "XT_Intros",
-      "XT_Oscars",
-      "YR8089"
-    ],
-    "artist": "Bill Conti",
-    "genres": 0,
-    "spotId": "6C2PfemHQul77DVpnvuAIs",
-    "couname": "Gonna Fly Now",
-    "duration": "170240"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730225711dc520d382bf0d0b45",
-    "pty": 0,
-    "Items": [
-      "GN_Synth",
-      "TV_OneHit",
-      "XT_Flying",
-      "XT_Karaoke",
-      "XT_Love",
-      "YR8089"
-    ],
-    "artist": "Steve Winwood",
-    "genres": 0,
-    "spotId": "17Ng10tIgnYmAitl0SgT3R",
-    "couname": "Higher Love",
-    "duration": "252226"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456",
-    "pty": 0,
-    "Items": [
-      "GN_GuitarSolo",
-      "XT_Cars",
-      "XT_Dreaming",
-      "XT_Flying",
-      "XT_Gambling",
-      "XT_MoonStars",
-      "XT_Running"
-    ],
-    "artist": "Tom Petty",
-    "genres": 0,
-    "spotId": "4AiMaeCXwsldpwvA5wu5gM",
-    "couname": "Runnin' Down A Dream",
-    "duration": "292000"
+    "spotId": "2f6s0AcBRBE0vIOU0NMdXw",
+    "couname": "Fly On The Wall",
+    "duration": "151800"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273287e2cf62977ea9cac9619aa",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
+      "BAND",
+      "DUDE",
       "GN_PsychedelicRock",
       "TV_Simpsons120",
       "XT_Cars",
@@ -790,167 +2092,25 @@
     "duration": "209400"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738c1fadcc997a65384f34d694",
+    "img": "https://i.scdn.co/image/ab67616d0000b27377315aee20fa8f9eb70f1cd8",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
-      "GN_BalladRock",
-      "TV_Dreamworks",
-      "TV_Mafia",
-      "TV_OneHit",
-      "TV_Rolling500",
-      "XT_Flying",
-      "XT_Karaoke",
-      "YR7079"
-    ],
-    "artist": "Boston",
-    "genres": 0,
-    "spotId": "1QEEqeFIZktqIpPI4jSVSF",
-    "couname": "More Than a Feeling",
-    "duration": "285133"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731ba82db99d8fce7e3fb63bc5",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "GN_GuitarSolo",
-      "GN_PsychedelicRock",
-      "TV_Rolling500",
-      "TV_SpotifyS500",
-      "XT_Flying",
-      "XT_Gambling",
-      "XT_History",
-      "XT_Intros",
-      "XT_Karaoke",
-      "YR8089"
-    ],
-    "artist": "Creedence Clearwater Revival",
-    "genres": 0,
-    "spotId": "3yI282DoIJyERd0vGukMoB",
-    "couname": "Fortunate Son",
-    "duration": "140773"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731f0663c9fa0d96f4ba07ce3b",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "GN_Choirs",
-      "GN_Piano",
-      "GN_ViolinSolo",
-      "TV_MarvelSongs",
-      "TV_Simpsons120",
+      "DUDE",
+      "girl",
       "XT_Colors",
-      "XT_Flying",
-      "XT_Places",
-      "YR7079"
-    ],
-    "artist": "Elton John",
-    "genres": 0,
-    "spotId": "1IywC3FcPZekfT7MS1TZMS",
-    "couname": "Goodbye Yellow Brick Road",
-    "duration": "192826"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731f7077ae1018b5fbab08dfa8",
-    "pty": 0,
-    "Items": [
-      "BT_Queen_DavidBowie",
-      "GN_Choirs",
-      "GN_GuitarSolo",
-      "GN_Piano",
-      "TV_Mafia",
-      "TV_Simpsons120",
-      "XT_Flying",
-      "XT_Intros",
-      "YR7079"
-    ],
-    "artist": "Queen",
-    "genres": 0,
-    "spotId": "1lCRw5FEZ1gPDNPzy1K4zW",
-    "couname": "We Are The Champions",
-    "duration": "179200"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-    "pty": 0,
-    "Items": [
-      "BT_PhilCollins_Genesis",
-      "GN_BalladRock",
-      "GN_Disco",
-      "GN_DrumSolo",
-      "TV_Rolling500",
-      "XT_AboutTime",
-      "XT_Dreaming",
-      "XT_Flying",
-      "XT_Intros",
-      "XT_Karaoke",
-      "YR8089"
-    ],
-    "artist": "Phil Collins",
-    "genres": 0,
-    "spotId": "6mYXXXgFZZmk2mgejwSwdN",
-    "couname": "In the Air Tonight",
-    "duration": "331053"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273232a795d6a5f8b86d5f0dbcb",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "TV_MarvelSongs",
-      "TV_OneHit",
-      "TV_Rolling500",
-      "TV_Simpsons120",
-      "XT_Flying",
-      "XT_Food",
-      "XT_Intros",
-      "YR7079"
-    ],
-    "artist": "Norman Greenbaum",
-    "genres": 0,
-    "spotId": "0Y2SrByf4G3kbq2nBEHQRn",
-    "couname": "Spirit in the Sky",
-    "duration": "239600"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273474dfc80905c0ff428aa652d",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
       "XT_Flying"
     ],
-    "artist": "Jonas Brothers",
+    "artist": "George Strait",
     "genres": 0,
-    "spotId": "4l61TlfmTwxt7PdzEe28rz",
-    "couname": "Wings",
-    "duration": "118993"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273148e0913532c37cb660ab973",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "REO Speedwagon",
-    "genres": 0,
-    "spotId": "6nYhYNWcJrTDhJIxobQwK8",
-    "couname": "You Can Fly",
-    "duration": "256146"
+    "spotId": "59MIR30ATtW8kTaX3SCpq0",
+    "couname": "Blue Clear Sky",
+    "duration": "174866"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27340e4681b2685c5126175e05c",
     "pty": 0,
     "Items": [
-      "Male",
+      "DUDE",
       "XT_Colors",
       "XT_Flying",
       "XT_Weather"
@@ -965,8 +2125,8 @@
     "img": "https://i.scdn.co/image/ab67616d0000b273bdb5ae22dba4fb9c0b5e8614",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
+      "BAND",
+      "DUDE",
       "XT_Colors",
       "XT_Flying",
       "XT_Weather"
@@ -978,35 +2138,26 @@
     "duration": "223320"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27325d97235fd57bdb6c4fa6403",
+    "img": "https://i.scdn.co/image/ab67616d0000b2731347a977c64ddc78563f9e49",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
-      "GN_Memes",
-      "GN_ViolinSolo",
-      "TV_Dreamworks",
-      "TV_MarvelSongs",
-      "XT_Colors",
+      "DUDE",
       "XT_Flying",
-      "XT_Intros",
-      "XT_MoonStars",
-      "XT_Weather",
-      "YR7079"
+      "XT_MoonStars"
     ],
-    "artist": "Electric Light Orchestra",
+    "artist": "Labrinth",
     "genres": 0,
-    "spotId": "10lbGsWnStCm9AirQiOTp4",
-    "couname": "Mr. Blue Sky",
-    "duration": "302080"
+    "spotId": "3ZcLmonVVD1MTQtmQb8yf3",
+    "couname": "Lift Off",
+    "duration": "184933"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2734bc9f9e91d7562e4b08493f5",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
-      "NULL",
+      "BAND",
+      "DUDE",
+      "girl",
       "XT_Colors",
       "XT_Flying"
     ],
@@ -1017,554 +2168,32 @@
     "duration": "311703"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d",
+    "img": "https://i.scdn.co/image/ab67616d0000b2734c7ae22b19306ca59f8a74ca",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
-      "TV_Mafia",
-      "XT_Flying"
-    ],
-    "artist": "Journey",
-    "genres": 0,
-    "spotId": "215wUTQQUo2PElJFEFoB0d",
-    "couname": "Wheel in the Sky",
-    "duration": "252240"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27377315aee20fa8f9eb70f1cd8",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Colors",
-      "XT_Flying"
-    ],
-    "artist": "George Strait",
-    "genres": 0,
-    "spotId": "59MIR30ATtW8kTaX3SCpq0",
-    "couname": "Blue Clear Sky",
-    "duration": "174866"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Flying",
-      "YR1019"
-    ],
-    "artist": "Imagine Dragons",
-    "genres": 0,
-    "spotId": "1lgN0A2Vki2FTON5PYq42m",
-    "couname": "Warriors",
-    "duration": "170066"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273aadb13ae608f6af20528409b",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "Female",
-      "XT_Flying"
-    ],
-    "artist": "Demi Lovato",
-    "genres": 0,
-    "spotId": "7nCBOm2WiTUPAx3TeG2rZA",
-    "couname": "Warrior",
-    "duration": "231173"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2739b3603a52b6de69e8ad618cb",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Gary Allan",
-    "genres": 0,
-    "spotId": "63u5QGp9dKXAoYTVKUKBYn",
-    "couname": "Watching Airplanes",
-    "duration": "242946"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273128450651c9f0442780d8eb8",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "GN_BalladRock",
-      "GN_Memes",
-      "GN_PsychedelicRock",
-      "TV_Rolling500",
-      "TV_Simpsons120",
-      "XT_Animals",
-      "XT_Flying",
-      "XT_Gambling",
-      "XT_History",
-      "XT_Intros",
-      "XT_Karaoke",
-      "XT_LongSongs",
-      "XT_OffAnimals",
-      "YR7079"
-    ],
-    "artist": "Lynyrd Skynyrd",
-    "genres": 0,
-    "spotId": "5EWPGh7jbTNO2wakv8LjUI",
-    "couname": "Free Bird",
-    "duration": "547106"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731822eba1e490cb8550eea60f",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Animals",
-      "XT_Flying",
-      "XT_OffAnimals",
-      "YR1019"
-    ],
-    "artist": "Sia",
-    "genres": 0,
-    "spotId": "5ocP1cIe1dOc9A0q1MDNl2",
-    "couname": "Bird Set Free",
-    "duration": "252813"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27341e3fa25309cab1990ef9bea",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "BT_FrankSinatra",
-      "XT_Colors",
       "XT_Flying",
       "XT_Weather"
     ],
-    "artist": "Frank Sinatra",
+    "artist": "NF",
     "genres": 0,
-    "spotId": "5cdBPBfYeRFDZWHAk4UPOH",
-    "couname": "Blue Skies",
-    "duration": "147560"
+    "spotId": "5UMMPHPp6vRP6ghPpSUOzp",
+    "couname": "CLOUDS",
+    "duration": "243750"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737f3dcf99224570b053294ccf",
+    "img": "https://i.scdn.co/image/ab67616d0000b2731dafc6a372d45eaf72635c5e",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
-      "NULL",
+      "BAND",
+      "DUDE",
+      "girl",
       "XT_Flying"
     ],
-    "artist": "Red Hot Chili Peppers",
+    "artist": "Bowling For Soup",
     "genres": 0,
-    "spotId": "0VLdJcQUsqHBBwqPp4CIKJ",
-    "couname": "Aeroplane",
-    "duration": "285066"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27382553135f696b573f09a9a7d",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Plain White T's",
-    "genres": 0,
-    "spotId": "38WErIeVQbRoP0DUhndeIE",
-    "couname": "Airplane",
-    "duration": "138426"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273cba44c10e994e15a9668a911",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Tom Petty and the Heartbreakers",
-    "genres": 0,
-    "spotId": "6NCVV4Y4iwdXO1uEnioytR",
-    "couname": "Airport",
-    "duration": "57666"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d1e9e466944a579572b3871d",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Guster",
-    "genres": 0,
-    "spotId": "32RcJbkHOPGSAVNmiILOuW",
-    "couname": "Airport Song",
-    "duration": "204533"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273e4c398a13afc0a9ed688677b",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "The Handsome Family",
-    "genres": 0,
-    "spotId": "3FsMvCgJGJdyEpqbFD7X7e",
-    "couname": "All the Time in Airports",
-    "duration": "223493"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27308c3459da0ec44b7e790555d",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Midland",
-    "genres": 0,
-    "spotId": "4XSLXwwLskeFy1k6ec4tBg",
-    "couname": "Altitude Adjustment",
-    "duration": "206040"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273e345458751c029f411db3d5b",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Flying",
-      "XT_OffAnimals"
-    ],
-    "artist": "Miley Cyrus",
-    "genres": 0,
-    "spotId": "2f6s0AcBRBE0vIOU0NMdXw",
-    "couname": "Fly On The Wall",
-    "duration": "151800"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731563a0079cc5f2d4bdeb5706",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Flying",
-      "XT_OffAnimals"
-    ],
-    "artist": "Birdy",
-    "genres": 0,
-    "spotId": "1D4XFKolp63mNqqMXJJL1V",
-    "couname": "Wings",
-    "duration": "252106"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734c8e60cf5f8f176cc1940ca7",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Cars",
-      "XT_Flying",
-      "XT_Places"
-    ],
-    "artist": "Johnny Cash",
-    "genres": 0,
-    "spotId": "59J3FhCGYl18G3ouDReUge",
-    "couname": "I've Been Everywhere",
-    "duration": "196733"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27334a4ab124ec70f633f23a891",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "NULL",
-      "Female",
-      "XT_Flying"
-    ],
-    "artist": "Angus & Julia Stone",
-    "genres": 0,
-    "spotId": "3WGsYiBXmaT8XyY4Fmry2v",
-    "couname": "Big Jet Plane",
-    "duration": "239146"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273da6f73a25f4c79d0e6b4a8bd",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Imagine Dragons",
-    "genres": 0,
-    "spotId": "6Tvzf3VEi16JMhAgOwdt2y",
-    "couname": "Birds",
-    "duration": "219440"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27350bd47cf6d44bddcd546a951",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Fall Out Boy",
-    "genres": 0,
-    "spotId": "1DRUwJSt2YOUUEz965OJ66",
-    "couname": "Champion",
-    "duration": "192533"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f5e30500f0eec7d92b159eae",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Europe",
-    "genres": 0,
-    "spotId": "2Gah9qQMVdxCZJllU9HmnZ",
-    "couname": "Cherokee",
-    "duration": "252933"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dadd32061ed455719bd196d1",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "CAKE",
-    "genres": 0,
-    "spotId": "7AbWkvrK7kajTYSqy4QgPn",
-    "couname": "Comanche",
-    "duration": "129466"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736afc19da3f2a77ec9e9eda47",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Boston",
-    "genres": 0,
-    "spotId": "5xy6EutTYrw9HJZE2ZYWth",
-    "couname": "Cool The Engines",
-    "duration": "263400"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f5601676db551cb2a09e70a0",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Florida Georgia Line",
-    "genres": 0,
-    "spotId": "0i5el041vd6nxrGEU8QRxy",
-    "couname": "Cruise",
-    "duration": "208960"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27361beb2302cbc4177de6d711a",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Between You & Me",
-    "genres": 0,
-    "spotId": "0PW18AbooKhtFzZ5LUuMsW",
-    "couname": "Dakota",
-    "duration": "183495"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b6625c328c66fa05182c8258",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Red Leather",
-    "genres": 0,
-    "spotId": "188q79afHYkyQIZ9jNs3Xv",
-    "couname": "DAKOTA",
-    "duration": "166220"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273e80e7dbce3996a1ae5967751",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "OneRepublic",
-    "genres": 0,
-    "spotId": "22PSLtxaajzAAOPiOzcViz",
-    "couname": "Don't Look Down",
-    "duration": "99760"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734cf663d87d1831002fea4158",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Snow Patrol",
-    "genres": 0,
-    "spotId": "0h1DGF0VZcqPiPNbeWrFmP",
-    "couname": "Engines",
-    "duration": "307613"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273107f762c9af4526bc6c5e82f",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "NULL",
-      "Female",
-      "XT_Flying"
-    ],
-    "artist": "Maddie & Tae",
-    "genres": 0,
-    "spotId": "1ewLdzcpSQkU9wpFdqFauw",
-    "couname": "Fly",
-    "duration": "217293"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273238126ab96db7ed3324a625c",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Last Dinosaurs",
-    "genres": 0,
-    "spotId": "1n7Nk7EETXFePv0MJASaA8",
-    "couname": "Flying",
-    "duration": "208011"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d3f1a043d50d8e664ff215a8",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Living Colour",
-    "genres": 0,
-    "spotId": "0m8Aa7jtTkVETeWPfQrRqC",
-    "couname": "Flying",
-    "duration": "264573"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732aba4a59fd6154fa19bf309f",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Pilot",
-    "genres": 0,
-    "spotId": "0tFoG3Ct8lP1gERQA9YZ1n",
-    "couname": "Get Up and Go",
-    "duration": "215200"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a53f06a45b489abe8f577134",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Pearl Jam",
-    "genres": 0,
-    "spotId": "3vL9lPWBuv0ZR3c5YmdhDl",
-    "couname": "Given to Fly",
-    "duration": "238866"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27300b6bd69c1f774408b60947b",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "O.A.R.",
-    "genres": 0,
-    "spotId": "559r5jzQgpbEMdXst1yOKG",
-    "couname": "In the Clouds",
-    "duration": "212047"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27327bd7d234a31296df34b9a64",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Tom Petty and the Heartbreakers",
-    "genres": 0,
-    "spotId": "63xBnyUVKIupzjHno4wFs3",
-    "couname": "Into The Great Wide Open",
-    "duration": "223333"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273802255bd535533c0e2ba5ad2",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "New York Dolls",
-    "genres": 0,
-    "spotId": "7h72gwGqjwnJC83qCja93c",
-    "couname": "Jet Boy",
-    "duration": "280400"
+    "spotId": "3r2CBXCKtLv46KrtjMRvVS",
+    "couname": "Turbulence",
+    "duration": "240866"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27338fa0dfe55b1ff2e8c962bae",
@@ -1580,147 +2209,34 @@
     "duration": "226626"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27311079bb97e1f95d1a917ce0b",
+    "img": "https://i.scdn.co/image/ab67616d0000b2731ba82db99d8fce7e3fb63bc5",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
-      "XT_Cars",
-      "XT_Flying"
-    ],
-    "artist": "Rush",
-    "genres": 0,
-    "spotId": "54TaGh2JKs1pO9daXNXI5q",
-    "couname": "Fly By Night",
-    "duration": "202200"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27336ebc4c2a3b9058914c01ad6",
-    "pty": 0,
-    "Items": [
-      "XT_Flying",
-      "XT_OffAnimals"
-    ],
-    "artist": "Seal",
-    "genres": 0,
-    "spotId": "1Y5IKAs7tuIqLHxUVjphup",
-    "couname": "Fly Like an Eagle",
-    "duration": "254706"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ee2adcb549769a040c204071",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "The Record Company",
-    "genres": 0,
-    "spotId": "3xRzUblYGZhVs52fMjii7R",
-    "couname": "Off The Ground",
-    "duration": "253746"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731f7077ae1018b5fbab08dfa8",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "BT_Queen_DavidBowie",
-      "XT_Flying",
-      "YR7079"
-    ],
-    "artist": "Queen",
-    "genres": 0,
-    "spotId": "0nUCaKwNqO5whVAhEX1A1R",
-    "couname": "Spread Your Wings",
-    "duration": "274226"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732088112ea9cf2508ff950559",
-    "pty": 0,
-    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_GuitarSolo",
       "GN_PsychedelicRock",
-      "XT_Cars",
-      "XT_Flying"
-    ],
-    "artist": "Grateful Dead",
-    "genres": 0,
-    "spotId": "6jNi0f1BiBHi1lK1Wwy9Oi",
-    "couname": "Truckin'",
-    "duration": "302200"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27314233ab50b7ec842b7d43b76",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Greta Van Fleet",
-    "genres": 0,
-    "spotId": "2hrcMPuyXEg3IPhYlNA6Xw",
-    "couname": "Runway Blues",
-    "duration": "77363"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273276077468780c310413f8450",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "GN_Piano",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
       "XT_Flying",
+      "XT_Gambling",
+      "XT_History",
       "XT_Intros",
       "XT_Karaoke",
-      "XT_Water"
+      "YR_8089"
     ],
-    "artist": "Styx",
+    "artist": "Creedence Clearwater Revival",
     "genres": 0,
-    "spotId": "11G0yprQtMU53BLPMSr093",
-    "couname": "Come Sail Away",
-    "duration": "365000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737dcb91fdf6abf314e2051e41",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "The Irish Rovers",
-    "genres": 0,
-    "spotId": "0pFS3h6oeZtNAnOlsNp6nn",
-    "couname": "The Biplane Evermore",
-    "duration": "170266"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731dafc6a372d45eaf72635c5e",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Bowling For Soup",
-    "genres": 0,
-    "spotId": "3r2CBXCKtLv46KrtjMRvVS",
-    "couname": "Turbulence",
-    "duration": "240866"
+    "spotId": "3yI282DoIJyERd0vGukMoB",
+    "couname": "Fortunate Son",
+    "duration": "140773"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2732fc23e78e87d793054bba090",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
+      "BAND",
+      "DUDE",
       "XT_Flying",
       "XT_OffAnimals",
       "XT_Water"
@@ -1730,527 +2246,6 @@
     "spotId": "3e0FzZjTXOUtiJGSClOBrI",
     "couname": "Fly Like An Eagle",
     "duration": "282693"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ee22d40f0a4575b22f0c4d5c",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Owl City",
-    "genres": 0,
-    "spotId": "0MchaPGaBrtKl9QkJbMENf",
-    "couname": "Air Traffic",
-    "duration": "181640"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d382cf35635df5d90684f551",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Justin Moore",
-    "genres": 0,
-    "spotId": "4YINZLgqkHIQyniu8Cky8B",
-    "couname": "Airport Bar",
-    "duration": "174020"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273325a7a7ece16f5befc1b7b98",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Alan Walker",
-    "genres": 0,
-    "spotId": "0NBD4g9Zwy1rMAMWBYS6Ju",
-    "couname": "Avem",
-    "duration": "199314"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a83fae781614461b3d813453",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Stoney LaRue",
-    "genres": 0,
-    "spotId": "0l5xmY796ctZcTEuKNFhjI",
-    "couname": "Aviator",
-    "duration": "229586"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f6e36c5147681093d71b3efe",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Akon",
-    "genres": 0,
-    "spotId": "1bqZ94bPrrHyIpYux7rVj7",
-    "couname": "Bananza",
-    "duration": "238493"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736fac2a178c651974d2349b56",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Roger Miller",
-    "genres": 0,
-    "spotId": "1hurVn9sV1Y6AovmPveCI3",
-    "couname": "Boeing Boeing 707",
-    "duration": "82173"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dfe4bfe695c4192e547e72c7",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Johnny Cash",
-    "genres": 0,
-    "spotId": "2HR7vkmbt2jrNdYbi7Hh5d",
-    "couname": "Bonanza!",
-    "duration": "140306"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Kanye West",
-    "genres": 0,
-    "spotId": "4UQMOPSUVJVicIQzjAcRRZ",
-    "couname": "Champion",
-    "duration": "167600"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734971e41391323fb2b8c5c4ba",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Johnny Horton",
-    "genres": 0,
-    "spotId": "0Z1yhoFE0VwdlwLfjTwoZI",
-    "couname": "Cherokee Boogie",
-    "duration": "147960"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730572dd2cbcfb6e5cd511bf5e",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Greyson Chance",
-    "genres": 0,
-    "spotId": "13GExmzEdeLg3iL1n8MQ6b",
-    "couname": "Cheyenne",
-    "duration": "175533"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734edc8860386d72ba88aac3b9",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Ian Munsick",
-    "genres": 0,
-    "spotId": "1mSfv49faBuYmPCScqxpP6",
-    "couname": "Cheyenne",
-    "duration": "231933"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273519241bcfc352fc3eaaac5db",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Jason Derulo",
-    "genres": 0,
-    "spotId": "3EofjRgUI1WrzqqtLb8NoF",
-    "couname": "Cheyenne",
-    "duration": "215107"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273de2e30cf7205b45a0ba3877f",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Chris Stapleton",
-    "genres": 0,
-    "spotId": "1qEisXw50Y8TdFxf03jj08",
-    "couname": "Crosswind",
-    "duration": "203920"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273293e8055dd8814fcdf4742f7",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Flying",
-      "YR1019"
-    ],
-    "artist": "Jason Derulo",
-    "genres": 0,
-    "spotId": "6OEolOOk9Gh9bqkdpfIOl0",
-    "couname": "Ridin' Solo",
-    "duration": "215746"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f5fa25f25e06af71a7e061f6",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Hans Zimmer",
-    "genres": 0,
-    "spotId": "1mUG7ftwIxuq5fhMPkyM02",
-    "couname": "Flight",
-    "duration": "258148"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273536f3b6f6b46e6e97742673b",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Ramin Djawadi",
-    "genres": 0,
-    "spotId": "4OG2BR10XdGsOjWNiOdVjr",
-    "couname": "Flight of Dragons",
-    "duration": "171561"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738cbe65eb023c2f2b5cdf5a91",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Mac Miller",
-    "genres": 0,
-    "spotId": "7BCzMKLKQwVSLtZcDGJTJt",
-    "couname": "Floating",
-    "duration": "254099"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738fb79948870fc9314eccac4b",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "Female",
-      "XT_Flying"
-    ],
-    "artist": "Tones And I",
-    "genres": 0,
-    "spotId": "5ri4zqtWhG07hIuNNDWP76",
-    "couname": "Fly Away",
-    "duration": "178156"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27330fb8097859c939e15124037",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Jason Aldean",
-    "genres": 0,
-    "spotId": "17X2tSzibD9n9QRjdExcWT",
-    "couname": "Fly Over States",
-    "duration": "218200"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ccbe93ce9eda066d4bf5c9ba",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Tom Odell",
-    "genres": 0,
-    "spotId": "1XkqKUud7mKBjnjhPBhZm3",
-    "couname": "Flying :))",
-    "duration": "179157"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273cb21faf4229aff3992ed479f",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Ozzy Osbourne",
-    "genres": 0,
-    "spotId": "3VPcxdwwo9TcjAOYZa5ZrP",
-    "couname": "Flying High Again",
-    "duration": "284106"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273e2aa84b988e58703f8ed4e84",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Zach Bryan",
-    "genres": 0,
-    "spotId": "7oPTiW1fZyvIPeYOZTY4Wh",
-    "couname": "Flying or Crying",
-    "duration": "169961"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733b7c6c5af0af9fc1a9714b36",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Kane Brown",
-    "genres": 0,
-    "spotId": "4bRZoRhAQfqGLOkqAFDPp5",
-    "couname": "Go Around",
-    "duration": "203666"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27386064414660714cb73247b78",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Jason Aldean",
-    "genres": 0,
-    "spotId": "6bhHZqn36qmNlUk3fLkNGg",
-    "couname": "God Made Airplanes",
-    "duration": "219906"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b84b0516d901f95461bb5165",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Eminem",
-    "genres": 0,
-    "spotId": "3eMsgWDRq5dKl5SBTYGv2J",
-    "couname": "Higher",
-    "duration": "222036"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273fe6a98e875958c7d7080584e",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "Female",
-      "XT_Flying"
-    ],
-    "artist": "Alicia Keys",
-    "genres": 0,
-    "spotId": "7ahSkRJouFINMWokIywAwG",
-    "couname": "How It Feels to Fly",
-    "duration": "282613"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27377315aee20fa8f9eb70f1cd8",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "George Strait",
-    "genres": 0,
-    "spotId": "7yQMZQeiSKnvEgimeGPVhi",
-    "couname": "I Can Still Make Cheyenne",
-    "duration": "256066"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273175c577a61aa13d4fb4b6534",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Mac Miller",
-    "genres": 0,
-    "spotId": "2JmFRXaJrkAUD2cs6U20KG",
-    "couname": "Jet Fuel",
-    "duration": "345213"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27342c9a04eb3dbd93d96081591",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "John Denver",
-    "genres": 0,
-    "spotId": "1qYsHkUBFSRrGEQqkogO6U",
-    "couname": "Leaving On a Jet Plane",
-    "duration": "244600"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ea3d0b6716ef1b010c2f4835",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "Female",
-      "XT_Flying"
-    ],
-    "artist": "Kinneret",
-    "genres": 0,
-    "spotId": "5zgkOLH6HfY5w8thZoS2jP",
-    "couname": "No Wind Resistance!",
-    "duration": "198922"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735d7d7120db1b859d5077e1d2",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Anderson .Paak",
-    "genres": 0,
-    "spotId": "4lMLL0QOt8dLRp5UGXjZLi",
-    "couname": "Off The Ground",
-    "duration": "288052"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731d5bc475ce4886f8d2e6e93e",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Chris Stapleton",
-    "genres": 0,
-    "spotId": "0FImli3RNN8VB3y8EYn2Xc",
-    "couname": "Parachute",
-    "duration": "253200"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731e792c9c9def609333ba1c9a",
-    "pty": 0,
-    "Items": [
-      "XT_Dreaming",
-      "XT_Flying",
-      "XT_Karaoke",
-      "YR0009"
-    ],
-    "artist": "Creed",
-    "genres": 0,
-    "spotId": "0J39Z0d8WCrHdFFlF9Xxbu",
-    "couname": "Higher",
-    "duration": "316733"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273136d7250568820409f8fdd60",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "TV_OneHit",
-      "XT_Flying",
-      "YR9099"
-    ],
-    "artist": "Foo Fighters",
-    "genres": 0,
-    "spotId": "0mWiuXuLAJ3Brin3Or2x6v",
-    "couname": "Learn to Fly",
-    "duration": "234800"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273aea5f17bbea18d74b711f169",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Jason Mraz",
-    "genres": 0,
-    "spotId": "5N2WULg6bU9oDNJHVwvZS1",
-    "couname": "Plane",
-    "duration": "313946"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27379d1be381026d9bbd0de591b",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Johnny Cash",
-    "genres": 0,
-    "spotId": "3I1vEQhGwRK7URrTq4BqNl",
-    "couname": "Riders in the Sky",
-    "duration": "224813"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734b453e65ac05cc5455c884a1",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Gary Allan",
-    "genres": 0,
-    "spotId": "3hfMKCMfKcKctpjtH0TB76",
-    "couname": "Right Where I Need To Be",
-    "duration": "182103"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2736dee21d6cd1823e4d6231d37",
@@ -2269,201 +2264,24 @@
     "duration": "225146"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b25a6f8bac702391f3e59129",
+    "img": "https://i.scdn.co/image/ab67616d0000b273f6e36c5147681093d71b3efe",
     "pty": 0,
     "Items": [
-      "Male",
-      "NULL",
+      "DUDE",
+      "girl",
       "XT_Flying"
     ],
-    "artist": "Khalid",
+    "artist": "Akon",
     "genres": 0,
-    "spotId": "1QxIFMs4M8qd5cbJJu80v4",
-    "couname": "Skyline",
-    "duration": "182895"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27330fd5c0c49d9c1913e7eb38b",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "John Legend",
-    "genres": 0,
-    "spotId": "7IGepWkogA3SeO2oLmQLnq",
-    "couname": "So High",
-    "duration": "307400"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273de5205ea928d5dc91feee2f9",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "Female",
-      "XT_Flying"
-    ],
-    "artist": "Doja Cat",
-    "genres": 0,
-    "spotId": "1yvSMyZn27M4wEslpSvB0D",
-    "couname": "So High",
-    "duration": "199746"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737cd872c7701c4737b2f81d87",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "Female",
-      "XT_Flying"
-    ],
-    "artist": "Christina Aguilera",
-    "genres": 0,
-    "spotId": "0pCNNLJjW3VXiHRgrPONEr",
-    "couname": "Soar",
-    "duration": "285440"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f9f2d43ff44bdfbe8c556f8d",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Bazzi",
-    "genres": 0,
-    "spotId": "4pabDIdwjv80lbsx7XcNwZ",
-    "couname": "Soarin",
-    "duration": "177104"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733e0698e4ae5ffb82a005aeeb",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Juice WRLD",
-    "genres": 0,
-    "spotId": "21CkzgKCBCq5V4XKjiGSIj",
-    "couname": "Stay High",
-    "duration": "168684"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731810fae76a2aed44fadb8fe3",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Townes Van Zandt",
-    "genres": 0,
-    "spotId": "31kaoIv1FU5Ddcv1hJJk2d",
-    "couname": "To Live Is To Fly",
-    "duration": "195640"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273935d8d5369bc55e74a39303e",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Future",
-    "genres": 0,
-    "spotId": "29s4u1adFGLWtGehbR5xkq",
-    "couname": "Touch The Sky",
-    "duration": "144361"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273647ad18a07e9e939e399e5a1",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Zach Bryan",
-    "genres": 0,
-    "spotId": "3XMVk0KYK0Ez8NM91NTqBt",
-    "couname": "Towers",
-    "duration": "170136"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273540fc1d083eac5bcff8dad21",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Chris Stapleton",
-    "genres": 0,
-    "spotId": "178OI1A3qjROeFeh8lmNwW",
-    "couname": "Traveller",
-    "duration": "222413"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c734a8abb8bfddb0825824a5",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Flying"
-    ],
-    "artist": "Jordan Davis",
-    "genres": 0,
-    "spotId": "2hNQDbZcN3vqRAuwiz7poI",
-    "couname": "Tucson Too Late",
-    "duration": "172853"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735b8cf73dd4eebd286d9a2c78",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "Female",
-      "XT_Flying"
-    ],
-    "artist": "P!nk",
-    "genres": 0,
-    "spotId": "1dJzTNm46rtvQR2A3GZU8F",
-    "couname": "Turbulence",
-    "duration": "206453"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273787674b6a114f98cad6f834b",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "CT_Norway",
-      "GN_BalladRock",
-      "GN_GuitarSolo",
-      "TV_BestVideos",
-      "XT_Flying",
-      "XT_History",
-      "XT_Intros",
-      "XT_Karaoke",
-      "XT_Weather",
-      "YR9099"
-    ],
-    "artist": "Scorpions",
-    "genres": 0,
-    "spotId": "3ovjw5HZZv43SxTwApooCM",
-    "couname": "Wind Of Change",
-    "duration": "312360"
+    "spotId": "1bqZ94bPrrHyIpYux7rVj7",
+    "couname": "Bananza",
+    "duration": "238493"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273a37843580292303fda614a8f",
     "pty": 0,
     "Items": [
-      "Male",
+      "DUDE",
       "XT_Colors",
       "XT_Flying",
       "XT_Weather"
@@ -2475,49 +2293,231 @@
     "duration": "213440"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734c7ae22b19306ca59f8a74ca",
+    "img": "https://i.scdn.co/image/ab67616d0000b273899723466c43d2fe91244f52",
     "pty": 0,
     "Items": [
+      "BAND",
+      "DUDE",
+      "TV_OneHit",
       "XT_Flying",
-      "XT_Weather"
+      "XT_Intros",
+      "YR_7079"
     ],
-    "artist": "NF",
+    "artist": "Pilot",
     "genres": 0,
-    "spotId": "5UMMPHPp6vRP6ghPpSUOzp",
-    "couname": "CLOUDS",
-    "duration": "243750"
+    "spotId": "500h8jAdr7LvzzXlm1qxtK",
+    "couname": "Magic",
+    "duration": "186333"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273efbcab3253cf66cc8ca42172",
+    "img": "https://i.scdn.co/image/ab67616d0000b273310d9098fbbde47bf7785637",
     "pty": 0,
     "Items": [
-      "Male",
+      "girl",
+      "GN_Choirs",
+      "TV_Rolling500",
       "XT_Flying",
       "XT_Karaoke",
-      "XT_Water",
-      "YR0009"
+      "YR_0009"
     ],
-    "artist": "Uncle Kracker",
+    "artist": "M.I.A.",
     "genres": 0,
-    "spotId": "0RFgvrhkf9FiDRLA0BhzpZ",
-    "couname": "Drift Away",
-    "duration": "255560"
+    "spotId": "1ixbwbeBi5ufN4noUKmW5a",
+    "couname": "Paper Planes",
+    "duration": "205200"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733637233ec327b2eb0a63bc50",
+    "img": "https://i.scdn.co/image/ab67616d0000b2731117ea2635da726231e32ddd",
     "pty": 0,
     "Items": [
+      "girl",
+      "BT_Madonna",
+      "CT_Norway",
+      "GN_Choirs",
+      "GN_Synth",
+      "TV_OneHit",
       "TV_Rolling500",
       "XT_Flying",
       "XT_Intros",
       "XT_Karaoke",
-      "XT_Youth",
-      "YR7079"
+      "YR_8089"
     ],
-    "artist": "Elton John",
+    "artist": "Madonna",
     "genres": 0,
-    "spotId": "1MfoBTOChu8cUZqYcqEiw9",
-    "couname": "Bennie And The Jets",
-    "duration": "322548"
+    "spotId": "0ECZ5rta27stj0q4SNuM0D",
+    "couname": "Like a Prayer",
+    "duration": "323769"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273128450651c9f0442780d8eb8",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Memes",
+      "GN_PsychedelicRock",
+      "TV_Rolling500",
+      "TV_Simpsons120",
+      "XT_Animals",
+      "XT_Flying",
+      "XT_Gambling",
+      "XT_History",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_LongSongs",
+      "XT_OffAnimals",
+      "YR_7079"
+    ],
+    "artist": "Lynyrd Skynyrd",
+    "genres": 0,
+    "spotId": "5EWPGh7jbTNO2wakv8LjUI",
+    "couname": "Free Bird",
+    "duration": "547106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273232a795d6a5f8b86d5f0dbcb",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "TV_Rolling500",
+      "TV_Simpsons120",
+      "XT_Flying",
+      "XT_Food",
+      "XT_Intros",
+      "YR_7079"
+    ],
+    "artist": "Norman Greenbaum",
+    "genres": 0,
+    "spotId": "0Y2SrByf4G3kbq2nBEHQRn",
+    "couname": "Spirit in the Sky",
+    "duration": "239600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731b2a9188ac775e16998eb78d",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_Mafia",
+      "XT_Flying"
+    ],
+    "artist": "Journey",
+    "genres": 0,
+    "spotId": "215wUTQQUo2PElJFEFoB0d",
+    "couname": "Wheel in the Sky",
+    "duration": "252240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d16ee0b4fef011c59bcfb2f1",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_BestVideos",
+      "TV_SpotifyS500",
+      "XT_Flying",
+      "XT_Intros",
+      "XT_MoonStars",
+      "XT_Weather",
+      "YR_1019"
+    ],
+    "artist": "Coldplay",
+    "genres": 0,
+    "spotId": "6HFbq7cewJ7rPiffV0ciil",
+    "couname": "A Sky Full of Stars",
+    "duration": "267866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731822eba1e490cb8550eea60f",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Animals",
+      "XT_Flying",
+      "XT_OffAnimals",
+      "YR_1019"
+    ],
+    "artist": "Sia",
+    "genres": 0,
+    "spotId": "5ocP1cIe1dOc9A0q1MDNl2",
+    "couname": "Bird Set Free",
+    "duration": "252813"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27379580ca073c40aa4235b1e84",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Flying",
+      "XT_Kiss",
+      "YR_1019"
+    ],
+    "artist": "Jason Derulo",
+    "genres": 0,
+    "spotId": "0LiEC0RZvGaUISWv7lYsJL",
+    "couname": "Kiss the Sky",
+    "duration": "222386"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Flying",
+      "YR_1019"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "3pHkh7d0lzM2AldUtz2x37",
+    "couname": "The Archer",
+    "duration": "211240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "TV_Dreamworks",
+      "XT_Dreaming",
+      "XT_Flying",
+      "YR_1019"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "59HjlYCeBsxdI0fcm3zglw",
+    "couname": "Wildest Dreams",
+    "duration": "220440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731551c93dfa33ea4f30ef4eea",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Flying",
+      "YR_1019"
+    ],
+    "artist": "Imagine Dragons",
+    "genres": 0,
+    "spotId": "1lgN0A2Vki2FTON5PYq42m",
+    "couname": "Warriors",
+    "duration": "170066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ea3d0b6716ef1b010c2f4835",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Flying"
+    ],
+    "artist": "Kinneret",
+    "genres": 0,
+    "spotId": "5zgkOLH6HfY5w8thZoS2jP",
+    "couname": "No Wind Resistance!",
+    "duration": "198922"
   }
 ]
