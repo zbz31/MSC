@@ -1,38 +1,24 @@
 [
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f2651ad6c2b8c509055f410e",
+    "img": "https://i.scdn.co/image/ab67616d0000b273f0ef8ce0db61b981468f7db7",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
+      "girl",
+      "BT_Madonna",
       "XT_Questions"
     ],
-    "artist": "Metallica",
+    "artist": "Madonna",
     "genres": 0,
-    "spotId": "3LR0MLRmhiPpD15HDWc0uM",
-    "couname": "Am I Savage?",
-    "duration": "389662"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Limp Bizkit",
-    "genres": 0,
-    "spotId": "6HPfnF7B4JyvVuG45yLPi8",
-    "couname": "Trust?",
-    "duration": "299400"
+    "spotId": "2oyafgAFOVZLx3tFjbZpCx",
+    "couname": "Did You Do It?",
+    "duration": "294160"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27308a1b1e0674086d3f1995e1b",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
+      "DUDE",
+      "girl",
       "XT_Questions"
     ],
     "artist": "Green Day",
@@ -42,104 +28,210 @@
     "duration": "257213"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27300164c96548a622d34b39828",
+    "img": "https://i.scdn.co/image/ab67616d0000b27381e66f0aa00989cbe6030d57",
     "pty": 0,
     "Items": [
-      "Female",
-      "GN_Piano",
-      "XT_Questions"
-    ],
-    "artist": "P!nk",
-    "genres": 0,
-    "spotId": "0Qh38w01QRXK6KHIv0e3hb",
-    "couname": "What About Us",
-    "duration": "269600"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27313fc3babdcbe7a5268fd96a1",
-    "pty": 0,
-    "Items": [
-      "TV_Mafia",
-      "XT_Questions"
-    ],
-    "artist": "George Harrison",
-    "genres": 0,
-    "spotId": "1zZdGnwXDLfVe8V2bclJQh",
-    "couname": "What Is Life",
-    "duration": "264413"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_AboutTime",
-      "XT_Questions"
-    ],
-    "artist": "The Strokes",
-    "genres": 0,
-    "spotId": "1aOxOpH4AkGAd8OMrKjyNY",
-    "couname": "Why Are Sundays So Depressing",
-    "duration": "275666"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f4b69b957a5e949a4076c656",
-    "pty": 0,
-    "Items": [
-      "TV_OneHit",
-      "XT_Questions"
-    ],
-    "artist": "Liz Phair",
-    "genres": 0,
-    "spotId": "4z4PB23xYTg1oANmyZovsw",
-    "couname": "Why Can't I?",
-    "duration": "208360"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a07cc88003498f7559787673",
-    "pty": 0,
-    "Items": [
-      "TV_OneHit",
-      "TV_Simpsons120",
-      "XT_Questions"
-    ],
-    "artist": "War",
-    "genres": 0,
-    "spotId": "6x959m2QDvatSwUAVCHIuf",
-    "couname": "Why Can't We Be Friends",
-    "duration": "230106"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273409373691d3c2025c7d5f846",
-    "pty": 0,
-    "Items": [
-      "TV_Rolling500",
-      "TV_Simpsons120",
+      "BAND",
+      "DUDE",
       "XT_Love",
       "XT_Questions",
-      "YR7079"
+      "YR_8089"
     ],
-    "artist": "Buzzcocks",
+    "artist": "Van Halen",
     "genres": 0,
-    "spotId": "5YUJMvTg4AWHKjqQidTsGK",
-    "couname": "Ever Fallen in Love",
-    "duration": "163693"
+    "spotId": "0TaT50ZZxT4ytZxuqkE3A9",
+    "couname": "Why Can't This Be Love",
+    "duration": "227693"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737a7488aa1b29804e86b3f7d9",
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b9f8b18cc685e1502128aa8",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
+      "BT_MichaelJackson",
+      "XT_Questions"
+    ],
+    "artist": "Michael Jackson,The Cleveland Orchestra",
+    "genres": 0,
+    "spotId": "1igW25R8lnb5ze9GWbuVsl",
+    "couname": "Beat It",
+    "duration": "460000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273542d87e4d1512bf7facb3860",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_GuitarSolo",
+      "XT_Intros",
+      "XT_Questions",
+      "YR_9099"
+    ],
+    "artist": "Lenny Kravitz",
+    "genres": 0,
+    "spotId": "45Ia1U4KtIjAPPU7Wv1Sea",
+    "couname": "Are You Gonna Go My Way",
+    "duration": "211933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27390d2b261a3bdff9f2b6ed208",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_Piano",
+      "XT_Karaoke",
+      "XT_Questions",
+      "YR_9099"
+    ],
+    "artist": "Michael Bolton",
+    "genres": 0,
+    "spotId": "19us48grixRwQkw1oRCFbp",
+    "couname": "How Am I Supposed to Live Without You",
+    "duration": "253986"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_Rolling500",
+      "XT_Intros",
+      "XT_Questions",
+      "YR_9099"
+    ],
+    "artist": "A Tribe Called Quest",
+    "genres": 0,
+    "spotId": "3Ti0GdlrotgwsAVBBugv0I",
+    "couname": "Can I Kick It?",
+    "duration": "251573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+    "pty": 0,
+    "Items": [
+      "TV_SpotifyS500",
+      "XT_Dreaming",
+      "XT_Intros",
+      "XT_Questions",
+      "YR_1019"
+    ],
+    "artist": "Arctic Monkeys",
+    "genres": 0,
+    "spotId": "5FVd6KXrgO9B3JPmC8OPst",
+    "couname": "Do I Wanna Know?",
+    "duration": "272394"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Dreaming",
+      "XT_Questions"
+    ],
+    "artist": "Lil Nas X,Miley Cyrus",
+    "genres": 0,
+    "spotId": "6isTQfKXhNO3EyJd9mSxx8",
+    "couname": "AM I DREAMING",
+    "duration": "183241"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733bcc42fdc5fd354a3e58a03c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Karaoke",
+      "XT_Questions"
+    ],
+    "artist": "Josh Turner",
+    "genres": 0,
+    "spotId": "2p07VcUwRZ5sru3mJ0JogS",
+    "couname": "Why Don't We Just Dance",
+    "duration": "192800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737d158ed56294d4fcc2d00190",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Questions"
+    ],
+    "artist": "The Flaming Lips",
+    "genres": 0,
+    "spotId": "1GjpSlPPKzrCFD0n8Zjhp3",
+    "couname": "Do You Realize??",
+    "duration": "212693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dbeec63ad914c973e75c24df",
+    "pty": 0,
+    "Items": [
+      "BT_TheBeatles",
+      "XT_Questions"
+    ],
+    "artist": "The Beatles",
+    "genres": 0,
+    "spotId": "7Aobt67JnaF7qN8jCCKvHq",
+    "couname": "Do You Want To Know A Secret",
+    "duration": "117013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732e0602f8d0c03e380a1f3e62",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
       "XT_BodyParts",
       "XT_Questions"
     ],
-    "artist": "Jonas Brothers",
+    "artist": "Waylon Jennings",
     "genres": 0,
-    "spotId": "5nhW8I46uDE5sc5ouEbzao",
-    "couname": "Who's In Your Head",
-    "duration": "183536"
+    "spotId": "1woGeMgjOIAF2OnH6qGGhX",
+    "couname": "Don't You Think This Outlaw Bit's Done Got out of Hand",
+    "duration": "177880"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Limp Bizkit",
+    "genres": 0,
+    "spotId": "6HPfnF7B4JyvVuG45yLPi8",
+    "couname": "Trust?",
+    "duration": "299400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Questions",
+      "YR_9099"
+    ],
+    "artist": "Radiohead",
+    "genres": 0,
+    "spotId": "5qsgK2wcodYCEbgbdCpYOG",
+    "couname": "How Do You?",
+    "duration": "132173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27336f6918170afcb7fe66130e5",
+    "pty": 0,
+    "Items": [
+      "GN_ViolinSolo",
+      "XT_Questions"
+    ],
+    "artist": "MARINA",
+    "genres": 0,
+    "spotId": "411Hvulc0PrGQLOHljTYed",
+    "couname": "Are You Satisfied?",
+    "duration": "201186"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2734ef7c7c40071800beb18d627",
@@ -156,55 +248,67 @@
     "duration": "213333"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27373b063d18cd9be91eb12284a",
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d",
     "pty": 0,
     "Items": [
-      "XT_BodyParts",
+      "BT_MichaelJackson",
+      "XT_Questions"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "03RIjKsE4DUbZgKJxHyn4n",
+    "couname": "Who Is It",
+    "duration": "189733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27354e863427f6d665cf3713d6e",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
       "XT_Questions",
-      "YR9099"
+      "YR_7079"
     ],
-    "artist": "Moby",
+    "artist": "The Chi-Lites",
     "genres": 0,
-    "spotId": "3llxqT4IdBS7i2CCIPImww",
-    "couname": "Why Does My Heart Feel so Bad?",
-    "duration": "263560"
+    "spotId": "01cQPNCptd662nikuY42zw",
+    "couname": "Have You Seen Her",
+    "duration": "310746"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27314c931756aedbf0b2619ce76",
+    "img": "https://i.scdn.co/image/ab67616d0000b2735f40be7506754451d1e61e16",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
-      "XT_Love",
-      "XT_Questions"
+      "TV_Simpsons120",
+      "XT_Questions",
+      "YR_7079"
     ],
-    "artist": "Julia Stone",
+    "artist": "Joe Jackson",
     "genres": 0,
-    "spotId": "3oCSGvlLhjM6tKfOQ0J4kk",
-    "couname": "Where Does The Love Go?",
-    "duration": "303400"
+    "spotId": "29SRvYOKbMLOZeOubNGtLb",
+    "couname": "Is She Really Going Out With Him?",
+    "duration": "215066"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273eb67e403f9776e34ef084706",
+    "img": "https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
-      "XT_Love",
-      "XT_Questions"
+      "TV_Themes",
+      "XT_Questions",
+      "YR_7079"
     ],
-    "artist": "George Thorogood & The Destroyers",
+    "artist": "The Who",
     "genres": 0,
-    "spotId": "6EMImSrB2kkbz0ZHtMa7zj",
-    "couname": "Who Do You Love?",
-    "duration": "260160"
+    "spotId": "23IJ5wLRhEZ9DOuia5mPiZ",
+    "couname": "Who Are You",
+    "duration": "381626"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27338a0101350d5d0c951688b93",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
+      "DUDE",
+      "girl",
       "XT_Love",
       "XT_Questions"
     ],
@@ -218,8 +322,8 @@
     "img": "https://i.scdn.co/image/ab67616d0000b273779063301154e835a91a35e0",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
+      "DUDE",
+      "girl",
       "XT_Love",
       "XT_Questions"
     ],
@@ -230,11 +334,2175 @@
     "duration": "255213"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273171b303f51648c484b906a47",
+    "pty": 0,
+    "Items": [
+      "TV_Rolling500",
+      "XT_Intros",
+      "XT_Questions"
+    ],
+    "artist": "Marvin Gaye",
+    "genres": 0,
+    "spotId": "6h2vZPWSWsRJ0ps91epUgT",
+    "couname": "What's Going On",
+    "duration": "232750"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732bace4cf1388fa974fcdc14c",
+    "pty": 0,
+    "Items": [
+      "XT_Love",
+      "XT_Questions"
+    ],
+    "artist": "Cocteau Twins,Harold Budd",
+    "genres": 0,
+    "spotId": "6mnDez8mWJqlTyp6GjCKKR",
+    "couname": "Why Do You Love Me?",
+    "duration": "291600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27381da893e9d3cfec49b3cf2e7",
+    "pty": 0,
+    "Items": [
+      "GN_Disco",
+      "GN_Memes",
+      "TV_Simpsons120",
+      "XT_Questions",
+      "YR_8089"
+    ],
+    "artist": "Men At Work",
+    "genres": 0,
+    "spotId": "3vaNWWfsLDex3RSgMrqI0Q",
+    "couname": "Who Can It Be Now?",
+    "duration": "200293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733236b9c08b319f7e50e74f53",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Questions",
+      "YR_8089"
+    ],
+    "artist": "Culture Club",
+    "genres": 0,
+    "spotId": "1I6q6nwNjNgik1Qe8Oi0Y7",
+    "couname": "Do You Really Want To Hurt Me",
+    "duration": "262173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731a3903c1aa8122f7720f5d71",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "GN_GuitarSolo",
+      "GN_Memes",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "XT_BodyParts",
+      "XT_Intros",
+      "XT_Questions",
+      "YR_8089"
+    ],
+    "artist": "Pixies",
+    "genres": 0,
+    "spotId": "6mcxQ1Y3uQRU0IHsvdNLH1",
+    "couname": "Where Is My Mind?",
+    "duration": "236973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f4956c3ceefc6fa1cffc6da6",
+    "pty": 0,
+    "Items": [
+      "TV_SpotifyS500",
+      "TV_Tomorrowland",
+      "XT_Love",
+      "XT_Questions",
+      "YR_1019"
+    ],
+    "artist": "Calvin Harris,Disciples",
+    "genres": 0,
+    "spotId": "22mek4IiqubGD9ctzxc69s",
+    "couname": "How Deep Is Your Love",
+    "duration": "212640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27331f17f2b636f0f1c8d83dc42",
+    "pty": 0,
+    "Items": [
+      "GN_Synth",
+      "XT_Questions",
+      "YR_8089"
+    ],
+    "artist": "Pet Shop Boys,Dusty Springfield",
+    "genres": 0,
+    "spotId": "0en6SFmN4eaErErH126wbJ",
+    "couname": "What Have I Done to Deserve This?",
+    "duration": "263240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_Choirs",
+      "GN_DrumSolo",
+      "GN_GuitarSolo",
+      "XT_Questions",
+      "YR_1019"
+    ],
+    "artist": "Arctic Monkeys",
+    "genres": 0,
+    "spotId": "2AT8iROs4FQueDv2c8q2KE",
+    "couname": "R U Mine?",
+    "duration": "201726"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273786b44c75ebf915866523f5b",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_Rolling500",
+      "XT_LongSongs",
+      "XT_Questions",
+      "YR_8089"
+    ],
+    "artist": "The Smiths",
+    "genres": 0,
+    "spotId": "1YrnDTqvcnUKxAIeXyaEmU",
+    "couname": "How Soon Is Now?",
+    "duration": "408173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739015296f9afabfc102989521",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_Disco",
+      "GN_Synth",
+      "XT_Questions",
+      "YR_8089"
+    ],
+    "artist": "Whitney Houston",
+    "genres": 0,
+    "spotId": "5tdKaKLnC4SgtDZ6RlWeal",
+    "couname": "How Will I Know",
+    "duration": "269696"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27349c982dae436bac27c336f45",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Love",
+      "XT_Questions",
+      "YR_8089"
+    ],
+    "artist": "Soft Cell",
+    "genres": 0,
+    "spotId": "26T1CapkR2Eud51nRouhdr",
+    "couname": "Where Did Our Love Go?",
+    "duration": "193800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736a817ca96f7ea6f5ba63be05",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Karaoke",
+      "XT_Love",
+      "XT_Questions",
+      "YR_8089"
+    ],
+    "artist": "Chicago",
+    "genres": 0,
+    "spotId": "3gtl3znXC28K5apBChEOja",
+    "couname": "Will You Still Love Me?",
+    "duration": "343533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737a73cc006248544e1a9882ea",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Jonas Brothers",
+    "genres": 0,
+    "spotId": "4wNIkl5XGiAACjFBlDWuSd",
+    "couname": "What A Man Gotta Do",
+    "duration": "180644"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273786b44c75ebf915866523f5b",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "The Smiths",
+    "genres": 0,
+    "spotId": "65E3ajL0Yz7kljk89Qdm6Q",
+    "couname": "What Difference Does It Make?",
+    "duration": "192200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27373515f3eb78e7555f15e5102",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Insane Clown Posse",
+    "genres": 0,
+    "spotId": "1Zc9TBoPG8U5epucXYcEFa",
+    "couname": "What Is A Juggalo?",
+    "duration": "237600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730bec1533865be49ee3229621",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Slant 6",
+    "genres": 0,
+    "spotId": "31rO0CUenJkH4XMrFounQs",
+    "couname": "What Kind of Monster Are You?",
+    "duration": "123240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f7108342ef45a402af8206b2",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Tate McRae",
+    "genres": 0,
+    "spotId": "4ewmHD3aRBmLyTsbGreNLw",
+    "couname": "what would you do?",
+    "duration": "166946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bef689c979e00435de750075",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Gwen Stefani",
+    "genres": 0,
+    "spotId": "7icROppj4Z12Nr0xGgxWFJ",
+    "couname": "What You Waiting For?",
+    "duration": "221226"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "A Tribe Called Quest",
+    "genres": 0,
+    "spotId": "2ZCwz8omYluRWa9QyznFAy",
+    "couname": "What?",
+    "duration": "148706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ee83254432bbea156d10763f",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "R.E.M.",
+    "genres": 0,
+    "spotId": "7ywlnXV5O0h8T5pCRUN1f5",
+    "couname": "What’s The Frequency, Kenneth?",
+    "duration": "240306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bcd424e2d975ee2e79820ccf",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Thomas Rhett",
+    "genres": 0,
+    "spotId": "4oR2cCQGs0Yt0Mgr2diV6V",
+    "couname": "What’s Your Country Song",
+    "duration": "171333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e792452ac547e58ee7433f23",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Mac Miller",
+    "genres": 0,
+    "spotId": "7qVKgpQctmYfxic2tJPSZZ",
+    "couname": "What's the Use?",
+    "duration": "288640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735a89b59fec31efd8f780a6bb",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Le Tigre",
+    "genres": 0,
+    "spotId": "7wf1TSAMltO6oOncQ3vzh1",
+    "couname": "What's Yr Take On Cassavetes?",
+    "duration": "142573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736fba239d8fdb3f7125e19091",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Owl City",
+    "genres": 0,
+    "spotId": "5ZkAx8zjLiSs1nMmBwJoZS",
+    "couname": "When Can I See You Again?",
+    "duration": "218093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27388a2441649ccaf6bca846fdc",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Laura Marling",
+    "genres": 0,
+    "spotId": "0eBWCKd03aFxbKpoPfKNvS",
+    "couname": "Where Can I Go?",
+    "duration": "220705"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273483a98632e23f6d2623ab75c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Fall Out Boy",
+    "genres": 0,
+    "spotId": "3Q7jFW6nxqhwbUctqqthSa",
+    "couname": "Where Did The Party Go",
+    "duration": "243040"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273490a887b85a95378ea66b41d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Jax Jones,MNEK",
+    "genres": 0,
+    "spotId": "3sa06xVNmLLYIxdNNmVQN8",
+    "couname": "Where Did You Go?",
+    "duration": "177689"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273699a422d25adc550dc5aa11c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Nickelback",
+    "genres": 0,
+    "spotId": "2v2sGRSFz1rAWijOlkbZtz",
+    "couname": "Where Do I Hide",
+    "duration": "218000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27371b1ae73b9db22a41907d982",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Filter",
+    "genres": 0,
+    "spotId": "0iU9Qfn7hoJHbBleOaMOAt",
+    "couname": "Where Do We Go From Here",
+    "duration": "334933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b4f61150b316a4f1336755dd",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Lil Nas X",
+    "genres": 0,
+    "spotId": "0jeRoIMD1LHhUkQEbjkXQv",
+    "couname": "Where Do We Go Now?",
+    "duration": "195470"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d424a2675b400a7d2dac48b9",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Tegan and Sara",
+    "genres": 0,
+    "spotId": "0L7QCEXQBDAtEyK1x72Sw0",
+    "couname": "Where Does the Good Go",
+    "duration": "217253"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27378b860d90b266bfcd7e4c0be",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Nine Inch Nails",
+    "genres": 0,
+    "spotId": "3igeWkfoyimX5hfD3DbpER",
+    "couname": "Where Is Everybody?",
+    "duration": "340200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273258152311d36cc59f779c3a7",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "David Byrne,St. Vincent",
+    "genres": 0,
+    "spotId": "55iwrKssfMLNfKvEviQCRB",
+    "couname": "Who",
+    "duration": "229960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735d6059d17e7ce28f40a7a3a3",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "NEEDTOBREATHE",
+    "genres": 0,
+    "spotId": "1KKTKUFmFLZmEhbUyj47jN",
+    "couname": "Who Am I",
+    "duration": "207066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273733af86f8dea9692a3f59d29",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Snoop Dogg",
+    "genres": 0,
+    "spotId": "0eO8MW9YSTK3CjdaTYKlhF",
+    "couname": "Who Am I",
+    "duration": "246200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d2140b20357358b336708622",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "The Garden",
+    "genres": 0,
+    "spotId": "2JoSSnUIv4Gwn2UmzuO0mh",
+    "couname": "Who Am I Going To Share All Of This Wine With?",
+    "duration": "209000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27327936b60ce72b901eed401e7",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Gladys Knight & The Pips",
+    "genres": 0,
+    "spotId": "7aqJzVdVIAwCokmju1Oid8",
+    "couname": "Who Is She",
+    "duration": "253693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "The Notorious B.I.G.",
+    "genres": 0,
+    "spotId": "2KFg8kjYy0rYjWsXGhEQHN",
+    "couname": "Who Shot Ya?",
+    "duration": "319360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273589ec44d5100ca02311d1b3b",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Smokie",
+    "genres": 0,
+    "spotId": "6UkQ1pqvo3oQBIYwi3MS48",
+    "couname": "Who The F*** Is Alice?",
+    "duration": "218493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b75dd1b7de969ef4e3a497c2",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "TEYA,SALENA",
+    "genres": 0,
+    "spotId": "3gUC7tGDPVLOq42vvTUVdI",
+    "couname": "Who the Hell Is Edgar?",
+    "duration": "159417"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e4b11ed8d17500cd073a92fc",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Soko",
+    "genres": 0,
+    "spotId": "1EXQ6TBsJDxWWOvoeai8fw",
+    "couname": "Who Wears The Pants??",
+    "duration": "184306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735458ff868557bb3c7410afaa",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Panic Shack",
+    "genres": 0,
+    "spotId": "4FejEr29UH0WmDdio6MbaT",
+    "couname": "Who's Got My Lighter?",
+    "duration": "190333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a6b3afcdd15b2b561e684337",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "The Moldy Peaches",
+    "genres": 0,
+    "spotId": "3kgMLkf1yMaTvpcmJLUPkM",
+    "couname": "Who's Got The Crack",
+    "duration": "205293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "The Jackson 5",
+    "genres": 0,
+    "spotId": "6cZrsaNb4Zo9E5KHk7gcz5",
+    "couname": "Who's Lovin' You",
+    "duration": "235640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738aa3cab41954fe2158a19933",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Orla Gartland",
+    "genres": 0,
+    "spotId": "0z29wv0x2IXrpWxNgICET7",
+    "couname": "Why Am I Like This?",
+    "duration": "212713"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27361c64749ffd8f6728d55332b",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "The Smashing Pumpkins",
+    "genres": 0,
+    "spotId": "2NcwY37AUVm4rRt3Vojeer",
+    "couname": "Why Am I So Tired",
+    "duration": "913640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273258110fcbfd27611e4c535f2",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Mew,J Mascis",
+    "genres": 0,
+    "spotId": "3JnzIKYCJoyxUPEdPTFECJ",
+    "couname": "Why Are You Looking Grave?",
+    "duration": "230533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f4f9accdc0fb8ddee29e32b7",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Weezer",
+    "genres": 0,
+    "spotId": "43Qr1YBCY3vSVCvZuR0PCb",
+    "couname": "Why Bother?",
+    "duration": "128400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27310dfc5830b62c3bc5c0a580f",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "The Cure",
+    "genres": 0,
+    "spotId": "4yvLuzn3JWfasEnHFVBbdM",
+    "couname": "Why Can't I Be You?",
+    "duration": "193200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273257f81958be25db29f328159",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Mitski",
+    "genres": 0,
+    "spotId": "6yReUDu8b6PDNdLc0Z0djO",
+    "couname": "Why Didn't You Stop Me?",
+    "duration": "141978"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27313bcd4bbfcf1fab9644e0f7b",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Santana,Chad Kroeger",
+    "genres": 0,
+    "spotId": "43LdgobPlcCc5g9Kmactvy",
+    "couname": "Why Don't You & I",
+    "duration": "274360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c7d00568db33ae806cfdcbdf",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Soko",
+    "genres": 0,
+    "spotId": "1yPzAaU1FIH3KJDolwK9v3",
+    "couname": "Why Don't You Eat Me Now You Can",
+    "duration": "88760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Simon & Garfunkel",
+    "genres": 0,
+    "spotId": "0nNI8eyMjDGjPDuQq87aJb",
+    "couname": "Why Don't You Write Me",
+    "duration": "166173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735553dc80f4bbd9092850373c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Reba McEntire",
+    "genres": 0,
+    "spotId": "2PEjcDh3G6QAbmvCDPTWuM",
+    "couname": "Why Haven't I Heard From You",
+    "duration": "208533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27345fa3fddca835d0d7c854146",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Hilary Duff",
+    "genres": 0,
+    "spotId": "1jypmXUJgxWKWJZdDsJiXQ",
+    "couname": "Why Not",
+    "duration": "179533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273512991c038c5dccb4a21d68d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Dan Hartman,Charlie Midnight,Billy Joel",
+    "genres": 0,
+    "spotId": "3gH3AxHKptBuYVcJilLCeR",
+    "couname": "Why Should I Worry",
+    "duration": "212880"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d6b982d520742d1b41a3ebfa",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Alice Merton",
+    "genres": 0,
+    "spotId": "1FBzp2RXC04zE31DSCOqAY",
+    "couname": "Why so Serious",
+    "duration": "227266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Ariana Grande",
+    "genres": 0,
+    "spotId": "40fHWRL8bKcl5J4t4OKUiW",
+    "couname": "Why Try",
+    "duration": "211880"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273370c12f82872c9cfaee80193",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Tame Impala",
+    "genres": 0,
+    "spotId": "6IM45SqAURH6PrvziDs1RQ",
+    "couname": "Why Won't They Talk To Me?",
+    "duration": "286093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273260407c9941e10a0d74f7d91",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Tame Impala",
+    "genres": 0,
+    "spotId": "6VuuRQz7JX22KsW04SYYX5",
+    "couname": "Why Won't You Make Up Your Mind?",
+    "duration": "199320"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f0722706190993eadd8ad6aa",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Hozier",
+    "genres": 0,
+    "spotId": "4oHFmfo0VVpcIA9AewhOZB",
+    "couname": "Why Would You Be Loved",
+    "duration": "248333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f731c8017e36b13e252bd2c6",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "YG,Drake,Kamaiyah",
+    "genres": 0,
+    "spotId": "4ezAjoV01phDz1SqO6SzEU",
+    "couname": "Why You Always Hatin?",
+    "duration": "196586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27390b8a540137ee2a718a369f9",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Tracy Chapman",
+    "genres": 0,
+    "spotId": "0M8Xggmk34Ntg1wY5wd5A3",
+    "couname": "Why?",
+    "duration": "126400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731c029648c4055aef619443b3",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Josh.",
+    "genres": 0,
+    "spotId": "1ISJk9M74ZHdlyQC2AiEdl",
+    "couname": "Wo bist du",
+    "duration": "200173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734ea617c398a01a5228069744",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Rammstein",
+    "genres": 0,
+    "spotId": "2mZ7SXzf5mZkohPfDFIUET",
+    "couname": "Wo bist du",
+    "duration": "235360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738b9d4820655b6bf032ed41f3",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Eurythmics,Annie Lennox,Dave Stewart",
+    "genres": 0,
+    "spotId": "1lJZSsMoWEbrgaY6CxPMf8",
+    "couname": "Would I Lie to You?",
+    "duration": "268240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736b0b6e20fdb1ee07de7e92d6",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Ariana Grande",
+    "genres": 0,
+    "spotId": "7gaA3wERFkFkgivjwbSvkG",
+    "couname": "yes, and?",
+    "duration": "214994"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731c40418d1c37d727e8e91b04",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_Disco",
+      "TV_Rolling500",
+      "XT_Love",
+      "XT_Questions",
+      "YR_8089"
+    ],
+    "artist": "Bob Marley & The Wailers",
+    "genres": 0,
+    "spotId": "5O4erNlJ74PIF6kGol1ZrC",
+    "couname": "Could You Be Loved",
+    "duration": "237000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27359aef3c9d3e09a736f441a63",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "CT_Norway",
+      "GN_Disco",
+      "GN_Memes",
+      "TV_OneHit",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Love",
+      "XT_Questions",
+      "YR_0009",
+      "YR_9099"
+    ],
+    "artist": "Haddaway",
+    "genres": 0,
+    "spotId": "33iAwBBb962LFQei4J0b0b",
+    "couname": "What Is Love",
+    "duration": "269000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27323d2440ec4729f7feb61f9fb",
+    "pty": 0,
+    "Items": [
+      "GN_Synth",
+      "TV_Rolling500",
+      "XT_Karaoke",
+      "XT_Love",
+      "XT_Questions",
+      "YR_8089"
+    ],
+    "artist": "Tina Turner",
+    "genres": 0,
+    "spotId": "4QjjabJx7K14tHwxEVI0Xc",
+    "couname": "What's Love Got To Do WIth It",
+    "duration": "228733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Questions",
+      "YR_1019"
+    ],
+    "artist": "Florence + The Machine",
+    "genres": 0,
+    "spotId": "2ZE1EiHnmtdiv9KAJTGeRq",
+    "couname": "What Kind Of Man",
+    "duration": "216176"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736ef210d5fb2e1c34196c8408",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Gary Numan,Tubeway Army",
+    "genres": 0,
+    "spotId": "7JyuLsDvmTxJt4wfCQUqeR",
+    "couname": "Are 'Friends' Electric?",
+    "duration": "325200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731dac750f0cef6ca2615cb2db",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "The Drums",
+    "genres": 0,
+    "spotId": "1kPR4Qbb8CZ0oj5kYf66ma",
+    "couname": "Are U Fucked",
+    "duration": "239093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a75b31b8d6a2156991171314",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Bratmobile",
+    "genres": 0,
+    "spotId": "73OdRjy6wdplkhR7E8Pbgr",
+    "couname": "Are You a Lady?",
+    "duration": "145493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731b0a938e89c13b34512eb0b1",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Soko",
+    "genres": 0,
+    "spotId": "68vWpMS0w4BcX2B6wg5lWT",
+    "couname": "Are You a Magician?",
+    "duration": "230253"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c9adfbd773852e286faed040",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Jimi Hendrix",
+    "genres": 0,
+    "spotId": "02POyqtbrdmYQ3RxsTrYMD",
+    "couname": "Are You Experienced?",
+    "duration": "255613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Incubus",
+    "genres": 0,
+    "spotId": "1MvJno497VkQR3RsiJcRVm",
+    "couname": "Are You In?",
+    "duration": "264200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738399047ff71200928f5b6508",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "AC/DC",
+    "genres": 0,
+    "spotId": "7A1odihHBrI8n9k0Fefh2j",
+    "couname": "Are You Ready",
+    "duration": "250333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dbc892b8194e35ca3524e767",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Måneskin",
+    "genres": 0,
+    "spotId": "2Du09hJBFkE49xA4JqWvXS",
+    "couname": "Are You Ready?",
+    "duration": "153946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273377453abefeab743c5633fcc",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Tegan and Sara",
+    "genres": 0,
+    "spotId": "7jjX6UPbGwK9AMGjkeSwPj",
+    "couname": "Are You Ten Years Ago",
+    "duration": "197600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273aa9fdcc0d9fa66c203b0b24c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Cate Le Bon",
+    "genres": 0,
+    "spotId": "04C6HjFwhRtEnh0MQt1DKe",
+    "couname": "Are You with Me Now?",
+    "duration": "260573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325a4df452a3c42ccc2e9288b",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_GuitarSolo",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "XT_Cars",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Questions",
+      "YR_8089"
+    ],
+    "artist": "The Clash",
+    "genres": 0,
+    "spotId": "39shmbIHICJ2Wxnk1fPSdz",
+    "couname": "Should I Stay or Should I Go",
+    "duration": "188986"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731da6e1da33a17f14599641d5",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "BT_ABBA",
+      "XT_Questions",
+      "YR_7079"
+    ],
+    "artist": "ABBA",
+    "genres": 0,
+    "spotId": "2VsVI2mOkZ5s0eEA9MQLN4",
+    "couname": "Does Your Mother Know",
+    "duration": "194720"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed26ef1d65d71c994c27d7cd",
+    "pty": 0,
+    "Items": [
+      "GN_Synth",
+      "XT_Intros",
+      "XT_Questions",
+      "YR_8089"
+    ],
+    "artist": "Tubeway Army",
+    "genres": 0,
+    "spotId": "6Y0gqGszwuiaa10jYPyYRV",
+    "couname": "Are 'Friends' Electric?",
+    "duration": "325200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273adf3bc60599fe1ab1901b708",
+    "pty": 0,
+    "Items": [
+      "TV_OneHit",
+      "XT_Questions",
+      "YR_9099"
+    ],
+    "artist": "Jimmy Ray",
+    "genres": 0,
+    "spotId": "7okiYQAeZSOae23iZd9OD3",
+    "couname": "Are You Jimmy Ray?",
+    "duration": "201200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273381371cb8ce680d0dc324600",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "girl",
+      "CT_Norway",
+      "TV_BestVideos",
+      "TV_OneHit",
+      "XT_Karaoke",
+      "XT_Questions",
+      "YR_9099"
+    ],
+    "artist": "4 Non Blondes",
+    "genres": 0,
+    "spotId": "0jWgAnTrNZmOGmqgvHhZEm",
+    "couname": "What's Up?",
+    "duration": "295533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a8711533b0258fb126fc7670",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Nena",
+    "genres": 0,
+    "spotId": "2pjAcvI28KfLWOFchlyomD",
+    "couname": "?",
+    "duration": "270546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732f6b7d9f0b6e91bd1a3a785e",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "George Michael",
+    "genres": 0,
+    "spotId": "64FUuN6B1v8W3a1hZd0j5m",
+    "couname": "Brother Can You Spare a Dime?",
+    "duration": "263506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737ad6c9807e0d35d115958345",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Kaki King",
+    "genres": 0,
+    "spotId": "7m8r2qf43ts777tMT2yEUR",
+    "couname": "Can Anyone Who Has Heard This Music Really Be a Bad Person?",
+    "duration": "310506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739700390e9c33c62cfcd915ce",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "JAY-Z,Amil,Ja Rule",
+    "genres": 0,
+    "spotId": "4LGMSdeKOUoy5Wf75Je0Hl",
+    "couname": "Can I Get A...",
+    "duration": "309773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737d699d4f54daa52839fd567d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Porridge Radio",
+    "genres": 0,
+    "spotId": "5Rb5qfc0VJ42PBBiafQWiB",
+    "couname": "Can U Hear Me Now?",
+    "duration": "453426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732dc63e977bd5101072adcef6",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "System Of A Down",
+    "genres": 0,
+    "spotId": "5Q7m1Km199HHMB926xxbrs",
+    "couname": "War?",
+    "duration": "160493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed40dfcb36ec534e5eec9657",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Rolli und Rita",
+    "genres": 0,
+    "spotId": "7LhpmzL28LAXUgLd6QasR0",
+    "couname": "Was Ist Dein Lieblingsfach?",
+    "duration": "71076"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736df6bcadd98e76f156fcb331",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Sleater-Kinney",
+    "genres": 0,
+    "spotId": "5c1xd6hOphtRuS8Xp8hkHV",
+    "couname": "Was It a Lie?",
+    "duration": "195853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738740e6343acb0f12c075c541",
+    "pty": 0,
+    "Items": [
+      "GN_Memes",
+      "XT_Questions",
+      "YR_0009"
+    ],
+    "artist": "Jason Derulo",
+    "genres": 0,
+    "spotId": "2zJZwWF7BTGIIvrAlgzJEx",
+    "couname": "Whatcha Say",
+    "duration": "221253"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c7b95c090b6382a85f77f06b",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Elvis Costello",
+    "genres": 0,
+    "spotId": "1CyL9ksOBBftdxXxUWpd9k",
+    "couname": "Daddy Can I Turn This?",
+    "duration": "221826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e9cadc388fb402ae89508fc5",
+    "pty": 0,
+    "Items": [
+      "BT_PhilCollins_Genesis",
+      "XT_Questions"
+    ],
+    "artist": "Genesis",
+    "genres": 0,
+    "spotId": "6IX8h56M29MTVCPT1sKZN9",
+    "couname": "Wot Gorilla?",
+    "duration": "199706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f313291eef1f1dcc2479253a",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Chet Atkins",
+    "genres": 0,
+    "spotId": "31xqbaSu7ozgcK8desDuMK",
+    "couname": "Do I Ever Cross Your Mind",
+    "duration": "158853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273154b7335f52189bf3d895879",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Tedeschi Trucks Band",
+    "genres": 0,
+    "spotId": "1JFdocYRMthec2BNrkOF1b",
+    "couname": "Do I Look Worried",
+    "duration": "273693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732d50a845cd4b8d7863320bff",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Chaos Chaos",
+    "genres": 0,
+    "spotId": "3lOok0REf4j3790abX26PR",
+    "couname": "Do You Feel It?",
+    "duration": "250712"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27306b42768ebe736eec21336ea",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Jack Johnson",
+    "genres": 0,
+    "spotId": "1EZJBB6bvCcrvYRlOyoHuf",
+    "couname": "Do You Remember",
+    "duration": "144013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737ed5367900f7596d7c14345a",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Ramones",
+    "genres": 0,
+    "spotId": "1jvzmNw7sVTSDnprPuEi0D",
+    "couname": "Do You Wanna Dance?",
+    "duration": "115706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27392c508bc5a40ea588bcaed38",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Franz Ferdinand",
+    "genres": 0,
+    "spotId": "6WrnSlcN0dzTO80mVVbBto",
+    "couname": "Do You Want To",
+    "duration": "215000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Chicago",
+    "genres": 0,
+    "spotId": "6Q6YqGj1Ku1CUGHWSFwSHY",
+    "couname": "Does Anybody Really Know What Time It Is?",
+    "duration": "202133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27300036a842bbc54f47ef682fd",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Marianas Trench",
+    "genres": 0,
+    "spotId": "49cMvxwJyXAGHAoXRi1cBn",
+    "couname": "Don't Miss Me?",
+    "duration": "240898"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Fall Out Boy",
+    "genres": 0,
+    "spotId": "3HOGZQbzokUiYHuWhxOBjx",
+    "couname": "Don't You Know Who I Think I Am?",
+    "duration": "171960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f7ffbe10773c3f572b532cab",
+    "pty": 0,
+    "Items": [
+      "GN_ViolinSolo",
+      "XT_Questions"
+    ],
+    "artist": "dodie",
+    "genres": 0,
+    "spotId": "161iaO13CvAJ3IZC2EtAEQ",
+    "couname": "When",
+    "duration": "223108"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d23c71c684a6e4d669e8deff",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Mudvayne",
+    "genres": 0,
+    "spotId": "0INUE1K7cEiE8VH63Rv5RJ",
+    "couname": "Happy?",
+    "duration": "216426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Jimi Hendrix",
+    "genres": 0,
+    "spotId": "3Yh64aiu2ANBwDFztyPDkT",
+    "couname": "Have You Ever Been",
+    "duration": "130039"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27371f0bfbebb2b2588a67be2db",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "WOOZE",
+    "genres": 0,
+    "spotId": "61UgaEv932jgKqdJlYeZ4z",
+    "couname": "Hello Can You Go",
+    "duration": "218306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c7d00568db33ae806cfdcbdf",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Soko",
+    "genres": 0,
+    "spotId": "787N2RX3InwNcwXsDpbXxW",
+    "couname": "How Are You",
+    "duration": "225946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273331083bb4e260edf65d47d60",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Marvin Gaye",
+    "genres": 0,
+    "spotId": "3RMY4zmjyswFiFUq8CfaqQ",
+    "couname": "How Can I Forget",
+    "duration": "124226"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731f92f4126ab3cb835f8c14bd",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "They Might Be Giants",
+    "genres": 0,
+    "spotId": "3Vi7KFP0xxpl9c79BOJN21",
+    "couname": "How Can I Sing like a Girl?",
+    "duration": "268240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "2Pac,K-Ci & JoJo",
+    "genres": 0,
+    "spotId": "1ZB2zIoc8AjSuyqKRcJgbO",
+    "couname": "How Do U Want It",
+    "duration": "287760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734142d75b2090697d0f3d9738",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Boom",
+    "genres": 0,
+    "spotId": "6gINt9hAqkIXafTF3zIErw",
+    "couname": "How Do You Do",
+    "duration": "211573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735bec8b1a6a96e731dbd6f94f",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Little Mix,Missy Elliott",
+    "genres": 0,
+    "spotId": "457VLDn6a4MuwJhvqceLjj",
+    "couname": "How Ya Doin'?",
+    "duration": "213173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27361834aa14b97a7d9c693134f",
+    "pty": 0,
+    "Items": [
+      "XT_Questions",
+      "XT_Water",
+      "XT_Weather"
+    ],
+    "artist": "Creedence Clearwater Revival",
+    "genres": 0,
+    "spotId": "3Bh6uInhcVBVvLraGZdkKD",
+    "couname": "Who'll Stop The Rain",
+    "duration": "147493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e17969dceed6ced1c671d323",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Pink Floyd",
+    "genres": 0,
+    "spotId": "0tUD6UKwB7fxaeL9q5dXDL",
+    "couname": "In The Flesh?",
+    "duration": "198221"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed3953f8af1f764a146b7583",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "The Smiths",
+    "genres": 0,
+    "spotId": "4nZYj9yVJFb0yd58kxmcXv",
+    "couname": "Is It Really so Strange?",
+    "duration": "188013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737c7012e8a13517c7f3a7fdc9",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Pixies",
+    "genres": 0,
+    "spotId": "3Ao3tTpiXLSmch1kTJZ7Fx",
+    "couname": "Is She Weird",
+    "duration": "181093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f34e8811de255b34c56301d8",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Pink Floyd",
+    "genres": 0,
+    "spotId": "2rKcC5vlTsDM94RWTPoyHV",
+    "couname": "Is There Anybody Out There?",
+    "duration": "161786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dd581da310e984c03cb5b874",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "PJ Harvey",
+    "genres": 0,
+    "spotId": "3aCBclArxmfMQBwJa0HyKY",
+    "couname": "Is This Desire?",
+    "duration": "205666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273310da7709bd26c2edbfeb9d2",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "J. Karjalainen",
+    "genres": 0,
+    "spotId": "4POiVEKmbznRTn9t3rFkZi",
+    "couname": "Koska taas nähdä sut saan?",
+    "duration": "298120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273533fd0b248052d04e6b732c0",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Questions"
+    ],
+    "artist": "Metallica",
+    "genres": 0,
+    "spotId": "4PVipA5hOmX3Su0pQJNt7Y",
+    "couname": "Am I Evil?",
+    "duration": "470133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fa7341a0b60e3e4f90cb458b",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Spiritualized",
+    "genres": 0,
+    "spotId": "2rVPFb0pIFAwUct9YD1O5B",
+    "couname": "Lord Can You Hear Me",
+    "duration": "337666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27376bc8abf6974b4f6d490d034",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Stevie Ray Vaughan",
+    "genres": 0,
+    "spotId": "01CIueRxPGWmkQjjzT70wi",
+    "couname": "May I Have a Talk with You",
+    "duration": "348160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730baccdb04adb47d94bf96c7e",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "BEHM,Keko Salata",
+    "genres": 0,
+    "spotId": "5Lx0fYuwOCQupkPVPA2ioM",
+    "couname": "Minä vai maailma",
+    "duration": "205851"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27329e7d4966ce2ec927224b730",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Red Hot Chili Peppers",
+    "genres": 0,
+    "spotId": "6DvCkB04CgSj9t9zd2mBY9",
+    "couname": "Mommy Where's Daddy",
+    "duration": "211333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f0ef8ce0db61b981468f7db7",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_Madonna",
+      "XT_Questions"
+    ],
+    "artist": "Madonna",
+    "genres": 0,
+    "spotId": "6YD308WeQENDTHpH7nQZp3",
+    "couname": "Why's It so Hard",
+    "duration": "323466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27391d3c1bbca2e796ad70dc1d1",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Questions"
+    ],
+    "artist": "Sonic Youth",
+    "genres": 0,
+    "spotId": "4gwldzmnRISqpY599yNY4d",
+    "couname": "Nevermind",
+    "duration": "334000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27373b063d18cd9be91eb12284a",
+    "pty": 0,
+    "Items": [
+      "XT_BodyParts",
+      "XT_Questions",
+      "YR_9099"
+    ],
+    "artist": "Moby",
+    "genres": 0,
+    "spotId": "3llxqT4IdBS7i2CCIPImww",
+    "couname": "Why Does My Heart Feel so Bad?",
+    "duration": "263560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273078cb66b9d88b1fd72cc4514",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Questions",
+      "YR_9099"
+    ],
+    "artist": "Oasis",
+    "genres": 0,
+    "spotId": "2oIIfPAl99XhH8ZHKiexrg",
+    "couname": "D'You Know What I Mean?",
+    "duration": "463213"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325f35a3c475262d16d851727",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Questions",
+      "YR_9099"
+    ],
+    "artist": "blink-182",
+    "genres": 0,
+    "spotId": "2CYbSzQA7HRYJluYZFvl3u",
+    "couname": "What's My Age Again?",
+    "duration": "148373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730a7d1e9face30d0357e21dcd",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Questions",
+      "YR_9099"
+    ],
+    "artist": "Pulp",
+    "genres": 0,
+    "spotId": "0txLC5NA64M8siGn3mnET0",
+    "couname": "Do You Remember The First Time?",
+    "duration": "262826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27395018a272307007d4a6639f5",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "BT_ABBA",
+      "XT_Questions"
+    ],
+    "artist": "ABBA",
+    "genres": 0,
+    "spotId": "5oOiJLDulv10XcTroBu4Q4",
+    "couname": "Why Did It Have To Be Me?",
+    "duration": "200746"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27336c901204dd54a716c64932b",
+    "pty": 0,
+    "Items": [
+      "TV_OneHit",
+      "TV_Simpsons120",
+      "XT_OffAnimals",
+      "XT_Questions"
+    ],
+    "artist": "Baha Men",
+    "genres": 0,
+    "spotId": "1H5tvpoApNDxvxDexoaAUo",
+    "couname": "Who Let The Dogs Out",
+    "duration": "198400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27300164c96548a622d34b39828",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_Piano",
+      "XT_Questions"
+    ],
+    "artist": "P!nk",
+    "genres": 0,
+    "spotId": "0Qh38w01QRXK6KHIv0e3hb",
+    "couname": "What About Us",
+    "duration": "269600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732ad687830500e5e2acd48ef0",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "girl",
+      "XT_Questions",
+      "YR_9099"
+    ],
+    "artist": "Spice Girls",
+    "genres": 0,
+    "spotId": "1PwkP2h9Q3BqYgcnAdJMxl",
+    "couname": "Who Do You Think You Are",
+    "duration": "226000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ec8be21d32e663885fbb244e",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Questions",
+      "XT_Youth"
+    ],
+    "artist": "Declan McKenna",
+    "genres": 0,
+    "spotId": "5Bge1Dsqjc14hhGguYML5w",
+    "couname": "Why Do You Feel So Down",
+    "duration": "220706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27336adde683a3b172bf8eb6ab1",
+    "pty": 0,
+    "Items": [
+      "BT_LedZeppelin",
+      "XT_Questions"
+    ],
+    "artist": "Led Zeppelin",
+    "genres": 0,
+    "spotId": "2AqsxgflV63VWMfDAUUJCw",
+    "couname": "Hey, Hey, What Can I Do",
+    "duration": "236760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f2651ad6c2b8c509055f410e",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Questions"
+    ],
+    "artist": "Metallica",
+    "genres": 0,
+    "spotId": "3LR0MLRmhiPpD15HDWc0uM",
+    "couname": "Am I Savage?",
+    "duration": "389662"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "TV_BestVideos",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "XT_Questions",
+      "XT_Water",
+      "XT_Weather",
+      "YR_7079"
+    ],
+    "artist": "Creedence Clearwater Revival",
+    "genres": 0,
+    "spotId": "2LawezPeJhN4AWuSB0GtAU",
+    "couname": "Have You Ever Seen The Rain",
+    "duration": "160133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27315ea897e0c5e117421dcab0e",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_Disco",
+      "GN_ViolinSolo",
+      "TV_BestVideos",
+      "XT_Karaoke",
+      "XT_Love",
+      "XT_Questions",
+      "YR_7079"
+    ],
+    "artist": "Bee Gees",
+    "genres": 0,
+    "spotId": "7HEuCPbIOqcKpMpBO6hFzq",
+    "couname": "How Deep Is Your Love",
+    "duration": "245200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_AboutTime",
+      "XT_Questions"
+    ],
+    "artist": "The Strokes",
+    "genres": 0,
+    "spotId": "1aOxOpH4AkGAd8OMrKjyNY",
+    "couname": "Why Are Sundays So Depressing",
+    "duration": "275666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a07cc88003498f7559787673",
+    "pty": 0,
+    "Items": [
+      "TV_OneHit",
+      "TV_Simpsons120",
+      "XT_Questions"
+    ],
+    "artist": "War",
+    "genres": 0,
+    "spotId": "6x959m2QDvatSwUAVCHIuf",
+    "couname": "Why Can't We Be Friends",
+    "duration": "230106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273053fd263e6b98c41210bff2c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_AboutTime",
+      "XT_Questions",
+      "XT_Youth"
+    ],
+    "artist": "Dayglow",
+    "genres": 0,
+    "spotId": "15RPEE4Xjz1dQK71zdAJSA",
+    "couname": "Can I Call You Tonight?",
+    "duration": "278769"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737a7488aa1b29804e86b3f7d9",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_BodyParts",
+      "XT_Questions"
+    ],
+    "artist": "Jonas Brothers",
+    "genres": 0,
+    "spotId": "5nhW8I46uDE5sc5ouEbzao",
+    "couname": "Who's In Your Head",
+    "duration": "183536"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27314c931756aedbf0b2619ce76",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Love",
+      "XT_Questions"
+    ],
+    "artist": "Julia Stone",
+    "genres": 0,
+    "spotId": "3oCSGvlLhjM6tKfOQ0J4kk",
+    "couname": "Where Does The Love Go?",
+    "duration": "303400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273eb67e403f9776e34ef084706",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Love",
+      "XT_Questions"
+    ],
+    "artist": "George Thorogood & The Destroyers",
+    "genres": 0,
+    "spotId": "6EMImSrB2kkbz0ZHtMa7zj",
+    "couname": "Who Do You Love?",
+    "duration": "260160"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2739fa34c252ff2ded009b55117",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
+      "DUDE",
+      "girl",
       "XT_Love",
       "XT_Questions"
     ],
@@ -248,8 +2516,8 @@
     "img": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
+      "DUDE",
+      "girl",
       "XT_Love",
       "XT_Questions"
     ],
@@ -263,8 +2531,8 @@
     "img": "https://i.scdn.co/image/ab67616d0000b273456da3f56b7b592893ae0c6a",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
+      "DUDE",
+      "girl",
       "XT_Love",
       "XT_Questions"
     ],
@@ -275,71 +2543,11 @@
     "duration": "269986"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27381e66f0aa00989cbe6030d57",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Love",
-      "XT_Questions",
-      "YR8089"
-    ],
-    "artist": "Van Halen",
-    "genres": 0,
-    "spotId": "0TaT50ZZxT4ytZxuqkE3A9",
-    "couname": "Why Can't This Be Love",
-    "duration": "227693"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27316a312d3a18f48077f778a4c",
-    "pty": 0,
-    "Items": [
-      "XT_Intros",
-      "XT_Love",
-      "XT_Questions"
-    ],
-    "artist": "Frankie Lymon,The Teenagers",
-    "genres": 0,
-    "spotId": "2xKfXRhw5xaUXfevJJspZf",
-    "couname": "Why Do Fools Fall in Love",
-    "duration": "139666"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273fc6b7160550354d9266b1f09",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Love",
-      "XT_Questions",
-      "YR1019"
-    ],
-    "artist": "Beyoncé",
-    "genres": 0,
-    "spotId": "4qwT6ISA0clmfsFSTjd9Hb",
-    "couname": "Why Don't You Love Me",
-    "duration": "217280"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a71ed2406440cfb50fc93b79",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Love",
-      "XT_Questions"
-    ],
-    "artist": "Marianas Trench",
-    "genres": 0,
-    "spotId": "5KAgd2yW7tktrKDsJhO9Fr",
-    "couname": "Who Do You Love",
-    "duration": "232099"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273d94c45e0a0549a4673282851",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
+      "DUDE",
+      "girl",
       "XT_Love",
       "XT_Questions"
     ],
@@ -362,48 +2570,6 @@
     "spotId": "57RA3JGafJm5zRtKJiKPIm",
     "couname": "Are You Bored Yet?",
     "duration": "178000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27395018a272307007d4a6639f5",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "Female",
-      "BT_ABBA",
-      "XT_Questions"
-    ],
-    "artist": "ABBA",
-    "genres": 0,
-    "spotId": "5oOiJLDulv10XcTroBu4Q4",
-    "couname": "Why Did It Have To Be Me?",
-    "duration": "200746"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27336adde683a3b172bf8eb6ab1",
-    "pty": 0,
-    "Items": [
-      "BT_LedZeppelin",
-      "XT_Questions"
-    ],
-    "artist": "Led Zeppelin",
-    "genres": 0,
-    "spotId": "2AqsxgflV63VWMfDAUUJCw",
-    "couname": "Hey, Hey, What Can I Do",
-    "duration": "236760"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27336f6918170afcb7fe66130e5",
-    "pty": 0,
-    "Items": [
-      "GN_ViolinSolo",
-      "XT_Questions"
-    ],
-    "artist": "MARINA",
-    "genres": 0,
-    "spotId": "411Hvulc0PrGQLOHljTYed",
-    "couname": "Are You Satisfied?",
-    "duration": "201186"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2738042003320e8a38e59624846",
@@ -432,36 +2598,6 @@
     "duration": "674573"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273078cb66b9d88b1fd72cc4514",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Questions",
-      "YR9099"
-    ],
-    "artist": "Oasis",
-    "genres": 0,
-    "spotId": "2oIIfPAl99XhH8ZHKiexrg",
-    "couname": "D'You Know What I Mean?",
-    "duration": "463213"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273df55e326ed144ab4f5cecf95",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Questions",
-      "YR9099"
-    ],
-    "artist": "Radiohead",
-    "genres": 0,
-    "spotId": "5qsgK2wcodYCEbgbdCpYOG",
-    "couname": "How Do You?",
-    "duration": "132173"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27313f2466b83507515291acce4",
     "pty": 0,
     "Items": [
@@ -473,34 +2609,6 @@
     "spotId": "0jBE7Fn78EAvmIs3dCd6GO",
     "couname": "Is This It",
     "duration": "151333"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735900bef2dc2cf0381f4e4e1f",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Questions",
-      "YR7079"
-    ],
-    "artist": "Buzzcocks",
-    "genres": 0,
-    "spotId": "1neVv0ccWpzu8oLrqbr1kT",
-    "couname": "What Do I Get?",
-    "duration": "176293"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d",
-    "pty": 0,
-    "Items": [
-      "BT_MichaelJackson",
-      "XT_Questions"
-    ],
-    "artist": "Michael Jackson",
-    "genres": 0,
-    "spotId": "03RIjKsE4DUbZgKJxHyn4n",
-    "couname": "Who Is It",
-    "duration": "189733"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27325f6f5bfcfe4e5d3f8a75034",
@@ -529,26 +2637,6 @@
     "duration": "172771"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731a3903c1aa8122f7720f5d71",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "GN_GuitarSolo",
-      "GN_Memes",
-      "TV_MarvelSongs",
-      "TV_Rolling500",
-      "XT_BodyParts",
-      "XT_Intros",
-      "XT_Questions",
-      "YR8089"
-    ],
-    "artist": "Pixies",
-    "genres": 0,
-    "spotId": "6mcxQ1Y3uQRU0IHsvdNLH1",
-    "couname": "Where Is My Mind?",
-    "duration": "236973"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273580da30167c82db5fcc5f798",
     "pty": 0,
     "Items": [
@@ -560,47 +2648,6 @@
     "spotId": "3mfER4ORePHvN35cbZ3dkV",
     "couname": "Where Are You Now",
     "duration": "149066"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273134096a56d7114e71651939e",
-    "pty": 0,
-    "Items": [
-      "XT_BodyParts",
-      "XT_Questions"
-    ],
-    "artist": "Basement Jaxx",
-    "genres": 0,
-    "spotId": "6cOyq898FB1fYOewPOwjyS",
-    "couname": "Where's Your Head At",
-    "duration": "285533"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008",
-    "pty": 0,
-    "Items": [
-      "GN_Choirs",
-      "XT_Questions"
-    ],
-    "artist": "Original Broadway Cast of Hamilton",
-    "genres": 0,
-    "spotId": "7EsSVPxaYoAZjQwhspJBs2",
-    "couname": "Who Lives, Who Dies, Who Tells Your Story",
-    "duration": "217229"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27319324615cf14ac7445545c2e",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Questions",
-      "YR0009"
-    ],
-    "artist": "Bon Jovi",
-    "genres": 0,
-    "spotId": "0JdFRxgLyehXiktgSH0MKB",
-    "couname": "Who Says You Can't Go Home",
-    "duration": "280693"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2736f9a8dec1d51edfa0004babe",
@@ -632,7 +2679,7 @@
     "img": "https://i.scdn.co/image/ab67616d0000b2738848d57cbfa7751e028f4dc9",
     "pty": 0,
     "Items": [
-      "Male",
+      "DUDE",
       "XT_Names",
       "XT_Places",
       "XT_Questions"
@@ -642,131 +2689,6 @@
     "spotId": "1c7UYTut2SBOPq64o2t0uN",
     "couname": "Why Georgia",
     "duration": "268973"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734b290fbf9bf98ce55b0610a4",
-    "pty": 0,
-    "Items": [
-      "XT_Questions",
-      "YR6069",
-      "YR7079"
-    ],
-    "artist": "Jimmy Ruffin",
-    "genres": 0,
-    "spotId": "09Nlhtnn087cbbhMzuInxy",
-    "couname": "What Becomes Of The Brokenhearted",
-    "duration": "175693"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27331f17f2b636f0f1c8d83dc42",
-    "pty": 0,
-    "Items": [
-      "GN_Synth",
-      "XT_Questions",
-      "YR8089"
-    ],
-    "artist": "Pet Shop Boys,Dusty Springfield",
-    "genres": 0,
-    "spotId": "0en6SFmN4eaErErH126wbJ",
-    "couname": "What Have I Done to Deserve This?",
-    "duration": "263240"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273749edeb8bb7308fcb146badc",
-    "pty": 0,
-    "Items": [
-      "GN_Choirs",
-      "XT_Questions",
-      "YR1019"
-    ],
-    "artist": "Florence + The Machine",
-    "genres": 0,
-    "spotId": "2ZE1EiHnmtdiv9KAJTGeRq",
-    "couname": "What Kind Of Man",
-    "duration": "216176"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27372c9f7a7c75eba39726106a6",
-    "pty": 0,
-    "Items": [
-      "XT_Fire",
-      "XT_Questions",
-      "YR1019"
-    ],
-    "artist": "Avril Lavigne",
-    "genres": 0,
-    "spotId": "2z4U9d5OAA4YLNXoCgioxo",
-    "couname": "What the Hell",
-    "duration": "220706"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738740e6343acb0f12c075c541",
-    "pty": 0,
-    "Items": [
-      "GN_Memes",
-      "XT_Questions",
-      "YR0009"
-    ],
-    "artist": "Jason Derulo",
-    "genres": 0,
-    "spotId": "2zJZwWF7BTGIIvrAlgzJEx",
-    "couname": "Whatcha Say",
-    "duration": "221253"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273171b303f51648c484b906a47",
-    "pty": 0,
-    "Items": [
-      "TV_Rolling500",
-      "XT_Intros",
-      "XT_Questions"
-    ],
-    "artist": "Marvin Gaye",
-    "genres": 0,
-    "spotId": "6h2vZPWSWsRJ0ps91epUgT",
-    "couname": "What's Going On",
-    "duration": "232750"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732ed326786e4c61c6b1dbf222",
-    "pty": 0,
-    "Items": [
-      "BT_Rihanna",
-      "XT_Questions",
-      "YR1019"
-    ],
-    "artist": "Rihanna,Drake",
-    "genres": 0,
-    "spotId": "5FTCKvxzqy72ceS4Ujux4N",
-    "couname": "What's My Name?",
-    "duration": "263173"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27361834aa14b97a7d9c693134f",
-    "pty": 0,
-    "Items": [
-      "XT_Questions",
-      "XT_Water",
-      "XT_Weather"
-    ],
-    "artist": "Creedence Clearwater Revival",
-    "genres": 0,
-    "spotId": "3Bh6uInhcVBVvLraGZdkKD",
-    "couname": "Who'll Stop The Rain",
-    "duration": "147493"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732bace4cf1388fa974fcdc14c",
-    "pty": 0,
-    "Items": [
-      "XT_Love",
-      "XT_Questions"
-    ],
-    "artist": "Cocteau Twins,Harold Budd",
-    "genres": 0,
-    "spotId": "6mnDez8mWJqlTyp6GjCKKR",
-    "couname": "Why Do You Love Me?",
-    "duration": "291600"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
@@ -810,178 +2732,6 @@
     "duration": "297293"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ed26ef1d65d71c994c27d7cd",
-    "pty": 0,
-    "Items": [
-      "GN_Synth",
-      "XT_Intros",
-      "XT_Questions",
-      "YR8089"
-    ],
-    "artist": "Tubeway Army",
-    "genres": 0,
-    "spotId": "6Y0gqGszwuiaa10jYPyYRV",
-    "couname": "Are 'Friends' Electric?",
-    "duration": "325200"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273542d87e4d1512bf7facb3860",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "GN_GuitarSolo",
-      "XT_Intros",
-      "XT_Questions",
-      "YR9099"
-    ],
-    "artist": "Lenny Kravitz",
-    "genres": 0,
-    "spotId": "45Ia1U4KtIjAPPU7Wv1Sea",
-    "couname": "Are You Gonna Go My Way",
-    "duration": "211933"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273adf3bc60599fe1ab1901b708",
-    "pty": 0,
-    "Items": [
-      "TV_OneHit",
-      "XT_Questions",
-      "YR9099"
-    ],
-    "artist": "Jimmy Ray",
-    "genres": 0,
-    "spotId": "7okiYQAeZSOae23iZd9OD3",
-    "couname": "Are You Jimmy Ray?",
-    "duration": "201200"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273053fd263e6b98c41210bff2c",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_AboutTime",
-      "XT_Questions",
-      "XT_Youth"
-    ],
-    "artist": "Dayglow",
-    "genres": 0,
-    "spotId": "15RPEE4Xjz1dQK71zdAJSA",
-    "couname": "Can I Call You Tonight?",
-    "duration": "278769"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27390d2b261a3bdff9f2b6ed208",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "GN_Piano",
-      "XT_Karaoke",
-      "XT_Questions",
-      "YR9099"
-    ],
-    "artist": "Michael Bolton",
-    "genres": 0,
-    "spotId": "19us48grixRwQkw1oRCFbp",
-    "couname": "How Am I Supposed to Live Without You",
-    "duration": "253986"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27325dc779021d9a6e423354692",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "TV_OneHit",
-      "XT_Questions",
-      "YR7079"
-    ],
-    "artist": "Ace",
-    "genres": 0,
-    "spotId": "5C5q6K1OEbzYn3OYynnTC5",
-    "couname": "How Long",
-    "duration": "206379"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273786b44c75ebf915866523f5b",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "TV_Rolling500",
-      "XT_LongSongs",
-      "XT_Questions",
-      "YR8089"
-    ],
-    "artist": "The Smiths",
-    "genres": 0,
-    "spotId": "1YrnDTqvcnUKxAIeXyaEmU",
-    "couname": "How Soon Is Now?",
-    "duration": "408173"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2739015296f9afabfc102989521",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "GN_Disco",
-      "GN_Synth",
-      "XT_Questions",
-      "YR8089"
-    ],
-    "artist": "Whitney Houston",
-    "genres": 0,
-    "spotId": "5tdKaKLnC4SgtDZ6RlWeal",
-    "couname": "How Will I Know",
-    "duration": "269696"
-  },
-  {
-    "img": "https://i.scdn.co/image/35bc49f45c244fa7a8611c9a8975702c298e84b5",
-    "pty": 0,
-    "Items": [
-      "TV_OneHit",
-      "XT_Questions",
-      "YR0009"
-    ],
-    "artist": "Fat Joe,Ja Rule,Ashanti",
-    "genres": 0,
-    "spotId": "2mKouqwAIdQnMP43zxR89r",
-    "couname": "What's Luv?",
-    "duration": "267093"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27325f35a3c475262d16d851727",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Intros",
-      "XT_Karaoke",
-      "XT_Questions",
-      "YR9099"
-    ],
-    "artist": "blink-182",
-    "genres": 0,
-    "spotId": "2CYbSzQA7HRYJluYZFvl3u",
-    "couname": "What's My Age Again?",
-    "duration": "148373"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27349c982dae436bac27c336f45",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Love",
-      "XT_Questions",
-      "YR8089"
-    ],
-    "artist": "Soft Cell",
-    "genres": 0,
-    "spotId": "26T1CapkR2Eud51nRouhdr",
-    "couname": "Where Did Our Love Go?",
-    "duration": "193800"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27346ed71f4f0ab02c72179b15d",
     "pty": 0,
     "Items": [
@@ -1000,8 +2750,8 @@
     "img": "https://i.scdn.co/image/ab67616d0000b273142116a6c5ed50b5c7c5351e",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
+      "BAND",
+      "DUDE",
       "XT_AboutTime",
       "XT_Intros",
       "XT_Questions"
@@ -1013,27 +2763,25 @@
     "duration": "169026"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736a817ca96f7ea6f5ba63be05",
+    "img": "https://i.scdn.co/image/35bc49f45c244fa7a8611c9a8975702c298e84b5",
     "pty": 0,
     "Items": [
-      "GN_BalladRock",
-      "XT_Karaoke",
-      "XT_Love",
+      "TV_OneHit",
       "XT_Questions",
-      "YR8089"
+      "YR_0009"
     ],
-    "artist": "Chicago",
+    "artist": "Fat Joe,Ja Rule,Ashanti",
     "genres": 0,
-    "spotId": "3gtl3znXC28K5apBChEOja",
-    "couname": "Will You Still Love Me?",
-    "duration": "343533"
+    "spotId": "2mKouqwAIdQnMP43zxR89r",
+    "couname": "What's Luv?",
+    "duration": "267093"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2731cd131e5e9ad887ad8c1ecb7",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
+      "BAND",
+      "DUDE",
       "GN_GuitarSolo",
       "TV_MarvelSongs",
       "XT_Karaoke",
@@ -1044,39 +2792,6 @@
     "spotId": "5sFDReWLrZHLFZFjHsjUTS",
     "couname": "Would?",
     "duration": "206773"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
-    "pty": 0,
-    "Items": [
-      "TV_SpotifyS500",
-      "XT_Dreaming",
-      "XT_Intros",
-      "XT_Questions",
-      "YR1019"
-    ],
-    "artist": "Arctic Monkeys",
-    "genres": 0,
-    "spotId": "5FVd6KXrgO9B3JPmC8OPst",
-    "couname": "Do I Wanna Know?",
-    "duration": "272394"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "BT_BillieEilish",
-      "GN_Piano",
-      "XT_Cars",
-      "XT_Oscars",
-      "XT_Questions"
-    ],
-    "artist": "Billie Eilish",
-    "genres": 0,
-    "spotId": "6wf7Yu7cxBSPrRlWeSeK0Q",
-    "couname": "What Was I Made For?",
-    "duration": "222369"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273285f29b5417922f6e72bc2c7",
@@ -1094,47 +2809,16 @@
     "duration": "153680"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef",
-    "pty": 0,
-    "Items": [
-      "BT_Rihanna",
-      "GN_Choirs",
-      "TV_Tomorrowland",
-      "XT_Questions",
-      "YR1019"
-    ],
-    "artist": "Rihanna",
-    "genres": 0,
-    "spotId": "3tyPOhuVnt5zd5kGfxbCyL",
-    "couname": "Where Have You Been",
-    "duration": "242680"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735e90ff76fd49a23f7333de76",
-    "pty": 0,
-    "Items": [
-      "XT_Intros",
-      "XT_Love",
-      "XT_Questions",
-      "YR1019"
-    ],
-    "artist": "The Chainsmokers,5 Seconds of Summer",
-    "genres": 0,
-    "spotId": "2fVHrSxsQbJUuj9MW9zG1e",
-    "couname": "Who Do You Love",
-    "duration": "226733"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27376ccf87cba2e754a5138cc23",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
+      "BAND",
+      "DUDE",
       "TV_OneHit",
       "XT_Intros",
       "XT_Karaoke",
       "XT_Questions",
-      "YR0009"
+      "YR_0009"
     ],
     "artist": "Jet",
     "genres": 0,
@@ -1143,160 +2827,100 @@
     "duration": "213800"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731c40418d1c37d727e8e91b04",
+    "img": "https://i.scdn.co/image/ab67616d0000b2735579d8a505c727349a203074",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
-      "GN_Disco",
-      "TV_Rolling500",
-      "XT_Love",
-      "XT_Questions",
-      "YR8089"
-    ],
-    "artist": "Bob Marley & The Wailers",
-    "genres": 0,
-    "spotId": "5O4erNlJ74PIF6kGol1ZrC",
-    "couname": "Could You Be Loved",
-    "duration": "237000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f4956c3ceefc6fa1cffc6da6",
-    "pty": 0,
-    "Items": [
-      "TV_SpotifyS500",
-      "TV_Tomorrowland",
-      "XT_Love",
-      "XT_Questions",
-      "YR1019"
-    ],
-    "artist": "Calvin Harris,Disciples",
-    "genres": 0,
-    "spotId": "22mek4IiqubGD9ctzxc69s",
-    "couname": "How Deep Is Your Love",
-    "duration": "212640"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273078f1176c3c725de8e95f490",
-    "pty": 0,
-    "Items": [
+      "BAND",
+      "girl",
       "CT_Norway",
-      "XT_OffAnimals",
-      "XT_Questions",
-      "YR1019"
-    ],
-    "artist": "Ylvis",
-    "genres": 0,
-    "spotId": "5HOpkTTVcmZHnthgyxrIL8",
-    "couname": "The Fox",
-    "duration": "213708"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "GN_Choirs",
-      "GN_DrumSolo",
-      "GN_GuitarSolo",
-      "XT_Questions",
-      "YR1019"
-    ],
-    "artist": "Arctic Monkeys",
-    "genres": 0,
-    "spotId": "2AT8iROs4FQueDv2c8q2KE",
-    "couname": "R U Mine?",
-    "duration": "201726"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273137c52bef1a7b917847fa108",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "CT_Norway",
-      "TV_BestVideos",
-      "TV_SpotifyS500",
-      "XT_Intros",
-      "XT_Questions",
-      "YR1019"
-    ],
-    "artist": "Justin Bieber",
-    "genres": 0,
-    "spotId": "1ds2QsfhAAfRiaFMGDzrdb",
-    "couname": "What Do You Mean?",
-    "duration": "207546"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730acf7f2eefe5bd36efbc26b4",
-    "pty": 0,
-    "Items": [
-      "TV_SpotifyS500",
-      "XT_Gambling",
-      "XT_Intros",
-      "XT_OffAnimals",
-      "XT_Questions",
-      "YR1019"
-    ],
-    "artist": "Arctic Monkeys",
-    "genres": 0,
-    "spotId": "48q0vSHcJdhK3IiXH8C5WJ",
-    "couname": "Why'd You Only Call Me When You're High?",
-    "duration": "161123"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273757a1aa49c9dfedf621cb855",
-    "pty": 0,
-    "Items": [
-      "Male",
       "GN_Disco",
-      "TV_Rolling500",
-      "TV_Simpsons120",
-      "XT_Intros",
-      "XT_Questions",
-      "YR7079"
-    ],
-    "artist": "Rod Stewart",
-    "genres": 0,
-    "spotId": "42GthmiW6mIvcyaJHdMk30",
-    "couname": "Da Ya Think I'm Sexy?",
-    "duration": "329146"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27323d2440ec4729f7feb61f9fb",
-    "pty": 0,
-    "Items": [
       "GN_Synth",
-      "TV_Rolling500",
+      "TV_OneHit",
+      "XT_Intros",
       "XT_Karaoke",
-      "XT_Love",
-      "XT_Questions",
-      "YR8089"
+      "XT_LongSongs",
+      "XT_Questions"
     ],
-    "artist": "Tina Turner",
+    "artist": "The Human League",
     "genres": 0,
-    "spotId": "4QjjabJx7K14tHwxEVI0Xc",
-    "couname": "What's Love Got To Do WIth It",
-    "duration": "228733"
+    "spotId": "3L7RtEcu1Hw3OXrpnthngx",
+    "couname": "Don't You Want Me",
+    "duration": "236920"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273381371cb8ce680d0dc324600",
+    "img": "https://i.scdn.co/image/ab67616d0000b27319324615cf14ac7445545c2e",
     "pty": 0,
     "Items": [
-      "Band",
-      "Female",
-      "CT_Norway",
-      "TV_BestVideos",
-      "TV_OneHit",
-      "XT_Karaoke",
+      "BAND",
+      "DUDE",
       "XT_Questions",
-      "YR9099"
+      "YR_0009"
     ],
-    "artist": "4 Non Blondes",
+    "artist": "Bon Jovi",
     "genres": 0,
-    "spotId": "0jWgAnTrNZmOGmqgvHhZEm",
-    "couname": "What's Up?",
-    "duration": "295533"
+    "spotId": "0JdFRxgLyehXiktgSH0MKB",
+    "couname": "Who Says You Can't Go Home",
+    "duration": "280693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732856ca088c34c55fe61eb637",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Love",
+      "XT_Questions"
+    ],
+    "artist": "Fly By Midnight",
+    "genres": 0,
+    "spotId": "4j9F9K3pSOzMSqyCk6LBXq",
+    "couname": "What If I Wasn't Done Loving You?",
+    "duration": "175562"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730c27b37ae46e814878cb1ef9",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Love",
+      "XT_Questions"
+    ],
+    "artist": "The Doors",
+    "genres": 0,
+    "spotId": "1x1ydyq0lvyQFHXQmIRVyD",
+    "couname": "Who Do You Love",
+    "duration": "354026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f4b69b957a5e949a4076c656",
+    "pty": 0,
+    "Items": [
+      "TV_OneHit",
+      "XT_Questions"
+    ],
+    "artist": "Liz Phair",
+    "genres": 0,
+    "spotId": "4z4PB23xYTg1oANmyZovsw",
+    "couname": "Why Can't I?",
+    "duration": "208360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed317ec13d3de9e01fb99c9e",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_BillieEilish",
+      "GN_Piano",
+      "XT_Cars",
+      "XT_Oscars",
+      "XT_Questions"
+    ],
+    "artist": "Billie Eilish",
+    "genres": 0,
+    "spotId": "6wf7Yu7cxBSPrRlWeSeK0Q",
+    "couname": "What Was I Made For?",
+    "duration": "222369"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27350eb0c521d2d3b2f599bff04",
@@ -1314,541 +2938,6 @@
     "spotId": "4IHc6SzGPnzSPuHVEPzpJc",
     "couname": "Wouldn't It Be Nice",
     "duration": "153240"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "GN_BalladRock",
-      "TV_BestVideos",
-      "TV_SpotifyS500",
-      "XT_Intros",
-      "XT_Questions",
-      "XT_Water",
-      "XT_Weather",
-      "YR7079"
-    ],
-    "artist": "Creedence Clearwater Revival",
-    "genres": 0,
-    "spotId": "2LawezPeJhN4AWuSB0GtAU",
-    "couname": "Have You Ever Seen The Rain",
-    "duration": "160133"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27315ea897e0c5e117421dcab0e",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "GN_Disco",
-      "GN_ViolinSolo",
-      "TV_BestVideos",
-      "XT_Karaoke",
-      "XT_Love",
-      "XT_Questions",
-      "YR7079"
-    ],
-    "artist": "Bee Gees",
-    "genres": 0,
-    "spotId": "7HEuCPbIOqcKpMpBO6hFzq",
-    "couname": "How Deep Is Your Love",
-    "duration": "245200"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27325a4df452a3c42ccc2e9288b",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "GN_GuitarSolo",
-      "TV_MarvelSongs",
-      "TV_Rolling500",
-      "XT_Cars",
-      "XT_Intros",
-      "XT_Karaoke",
-      "XT_Questions",
-      "YR8089"
-    ],
-    "artist": "The Clash",
-    "genres": 0,
-    "spotId": "39shmbIHICJ2Wxnk1fPSdz",
-    "couname": "Should I Stay or Should I Go",
-    "duration": "188986"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735579d8a505c727349a203074",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Female",
-      "CT_Norway",
-      "GN_Disco",
-      "GN_Synth",
-      "TV_OneHit",
-      "XT_Intros",
-      "XT_Karaoke",
-      "XT_LongSongs",
-      "XT_Questions"
-    ],
-    "artist": "The Human League",
-    "genres": 0,
-    "spotId": "3L7RtEcu1Hw3OXrpnthngx",
-    "couname": "Don't You Want Me",
-    "duration": "236920"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27359aef3c9d3e09a736f441a63",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "CT_Norway",
-      "GN_Disco",
-      "GN_Memes",
-      "TV_OneHit",
-      "XT_Intros",
-      "XT_Karaoke",
-      "XT_Love",
-      "XT_Questions",
-      "YR0009",
-      "YR9099"
-    ],
-    "artist": "Haddaway",
-    "genres": 0,
-    "spotId": "33iAwBBb962LFQei4J0b0b",
-    "couname": "What Is Love",
-    "duration": "269000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733bcc42fdc5fd354a3e58a03c",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Karaoke",
-      "XT_Questions"
-    ],
-    "artist": "Josh Turner",
-    "genres": 0,
-    "spotId": "2p07VcUwRZ5sru3mJ0JogS",
-    "couname": "Why Don't We Just Dance",
-    "duration": "192800"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27316600a80fdd9381eca5442f9",
-    "pty": 0,
-    "Items": [
-      "CT_Norway",
-      "TV_OneHit",
-      "XT_Intros",
-      "XT_Love",
-      "XT_Questions",
-      "YR0009"
-    ],
-    "artist": "Black Eyed Peas",
-    "genres": 0,
-    "spotId": "1FreAz1lmnDi5aKLB6GdFM",
-    "couname": "Where Is The Love?",
-    "duration": "272533"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f0ef8ce0db61b981468f7db7",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "BT_Madonna",
-      "XT_Questions"
-    ],
-    "artist": "Madonna",
-    "genres": 0,
-    "spotId": "2oyafgAFOVZLx3tFjbZpCx",
-    "couname": "Did You Do It?",
-    "duration": "294160"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f7ffbe10773c3f572b532cab",
-    "pty": 0,
-    "Items": [
-      "GN_ViolinSolo",
-      "XT_Questions"
-    ],
-    "artist": "dodie",
-    "genres": 0,
-    "spotId": "161iaO13CvAJ3IZC2EtAEQ",
-    "couname": "When",
-    "duration": "223108"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a8711533b0258fb126fc7670",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Nena",
-    "genres": 0,
-    "spotId": "2pjAcvI28KfLWOFchlyomD",
-    "couname": "?",
-    "duration": "270546"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732856ca088c34c55fe61eb637",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Love",
-      "XT_Questions"
-    ],
-    "artist": "Fly By Midnight",
-    "genres": 0,
-    "spotId": "4j9F9K3pSOzMSqyCk6LBXq",
-    "couname": "What If I Wasn't Done Loving You?",
-    "duration": "175562"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730c27b37ae46e814878cb1ef9",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Love",
-      "XT_Questions"
-    ],
-    "artist": "The Doors",
-    "genres": 0,
-    "spotId": "1x1ydyq0lvyQFHXQmIRVyD",
-    "couname": "Who Do You Love",
-    "duration": "354026"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f0ef8ce0db61b981468f7db7",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "BT_Madonna",
-      "XT_Questions"
-    ],
-    "artist": "Madonna",
-    "genres": 0,
-    "spotId": "6YD308WeQENDTHpH7nQZp3",
-    "couname": "Why's It so Hard",
-    "duration": "323466"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732e0602f8d0c03e380a1f3e62",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_BodyParts",
-      "XT_Questions"
-    ],
-    "artist": "Waylon Jennings",
-    "genres": 0,
-    "spotId": "1woGeMgjOIAF2OnH6qGGhX",
-    "couname": "Don't You Think This Outlaw Bit's Done Got out of Hand",
-    "duration": "177880"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732dc63e977bd5101072adcef6",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "System Of A Down",
-    "genres": 0,
-    "spotId": "5Q7m1Km199HHMB926xxbrs",
-    "couname": "War?",
-    "duration": "160493"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ed40dfcb36ec534e5eec9657",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Rolli und Rita",
-    "genres": 0,
-    "spotId": "7LhpmzL28LAXUgLd6QasR0",
-    "couname": "Was Ist Dein Lieblingsfach?",
-    "duration": "71076"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736df6bcadd98e76f156fcb331",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Sleater-Kinney",
-    "genres": 0,
-    "spotId": "5c1xd6hOphtRuS8Xp8hkHV",
-    "couname": "Was It a Lie?",
-    "duration": "195853"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27354e863427f6d665cf3713d6e",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Questions",
-      "YR7079"
-    ],
-    "artist": "The Chi-Lites",
-    "genres": 0,
-    "spotId": "01cQPNCptd662nikuY42zw",
-    "couname": "Have You Seen Her",
-    "duration": "310746"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730b6b12fd915f73fce8082de3",
-    "pty": 0,
-    "Items": [
-      "XT_Intros",
-      "XT_Questions"
-    ],
-    "artist": "The Lovin' Spoonful",
-    "genres": 0,
-    "spotId": "1udKn1oNKYQSQ9OmiIWCMu",
-    "couname": "Do You Believe in Magic?",
-    "duration": "125826"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737d158ed56294d4fcc2d00190",
-    "pty": 0,
-    "Items": [
-      "TV_MarvelSongs",
-      "XT_Questions"
-    ],
-    "artist": "The Flaming Lips",
-    "genres": 0,
-    "spotId": "1GjpSlPPKzrCFD0n8Zjhp3",
-    "couname": "Do You Realize??",
-    "duration": "212693"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733236b9c08b319f7e50e74f53",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Questions",
-      "YR8089"
-    ],
-    "artist": "Culture Club",
-    "genres": 0,
-    "spotId": "1I6q6nwNjNgik1Qe8Oi0Y7",
-    "couname": "Do You Really Want To Hurt Me",
-    "duration": "262173"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dbeec63ad914c973e75c24df",
-    "pty": 0,
-    "Items": [
-      "BT_TheBeatles",
-      "XT_Questions"
-    ],
-    "artist": "The Beatles",
-    "genres": 0,
-    "spotId": "7Aobt67JnaF7qN8jCCKvHq",
-    "couname": "Do You Want To Know A Secret",
-    "duration": "117013"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273e3a383b116eabe5dcbf132b4",
-    "pty": 0,
-    "Items": [
-      "BT_Queen_DavidBowie",
-      "XT_Questions",
-      "YR1019"
-    ],
-    "artist": "David Bowie",
-    "genres": 0,
-    "spotId": "6GrDJu7q8VAxbKdUlYzezT",
-    "couname": "Where Are We Now?",
-    "duration": "249213"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730a7d1e9face30d0357e21dcd",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Questions",
-      "YR9099"
-    ],
-    "artist": "Pulp",
-    "genres": 0,
-    "spotId": "0txLC5NA64M8siGn3mnET0",
-    "couname": "Do You Remember The First Time?",
-    "duration": "262826"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273533fd0b248052d04e6b732c0",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Questions"
-    ],
-    "artist": "Metallica",
-    "genres": 0,
-    "spotId": "4PVipA5hOmX3Su0pQJNt7Y",
-    "couname": "Am I Evil?",
-    "duration": "470133"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735084cb3fdc277a00c5ae18b6",
-    "pty": 0,
-    "Items": [
-      "BT_FrankSinatra",
-      "XT_Questions"
-    ],
-    "artist": "Frank Sinatra",
-    "genres": 0,
-    "spotId": "6lVujyowViARZXPNf5pyO3",
-    "couname": "How Deep Is The Ocean?",
-    "duration": "195800"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27376bc1c851462191faec76bf8",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Questions",
-      "YR1019"
-    ],
-    "artist": "Sam Smith",
-    "genres": 0,
-    "spotId": "6b2RcmUt1g9N9mQ3CbjX2Y",
-    "couname": "How Do You Sleep?",
-    "duration": "202204"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Female",
-      "XT_Love",
-      "XT_Questions",
-      "YR1019"
-    ],
-    "artist": "Little Mix",
-    "genres": 0,
-    "spotId": "6VXzA05dET772n5rGq63Cz",
-    "couname": "Is Your Love Enough?",
-    "duration": "224600"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732ad687830500e5e2acd48ef0",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Female",
-      "XT_Questions",
-      "YR9099"
-    ],
-    "artist": "Spice Girls",
-    "genres": 0,
-    "spotId": "1PwkP2h9Q3BqYgcnAdJMxl",
-    "couname": "Who Do You Think You Are",
-    "duration": "226000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273e9cadc388fb402ae89508fc5",
-    "pty": 0,
-    "Items": [
-      "BT_PhilCollins_Genesis",
-      "XT_Questions"
-    ],
-    "artist": "Genesis",
-    "genres": 0,
-    "spotId": "6IX8h56M29MTVCPT1sKZN9",
-    "couname": "Wot Gorilla?",
-    "duration": "199706"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27364ec8eeee5a2b8817f8e28c0",
-    "pty": 0,
-    "Items": [
-      "XT_Places",
-      "XT_Questions",
-      "YR6069"
-    ],
-    "artist": "Dionne Warwick",
-    "genres": 0,
-    "spotId": "1YIWYzMq84I46LmgX1vpye",
-    "couname": "Do You Know the Way to San Jose",
-    "duration": "179440"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "TV_BestVideos",
-      "XT_Questions",
-      "YR1019"
-    ],
-    "artist": "Taylor Swift",
-    "genres": 0,
-    "spotId": "2yLa0QULdQr0qAIvVwN6B5",
-    "couname": "...Ready For It?",
-    "duration": "208186"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735f40be7506754451d1e61e16",
-    "pty": 0,
-    "Items": [
-      "TV_Simpsons120",
-      "XT_Questions",
-      "YR7079"
-    ],
-    "artist": "Joe Jackson",
-    "genres": 0,
-    "spotId": "29SRvYOKbMLOZeOubNGtLb",
-    "couname": "Is She Really Going Out With Him?",
-    "duration": "215066"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27381da893e9d3cfec49b3cf2e7",
-    "pty": 0,
-    "Items": [
-      "GN_Disco",
-      "GN_Memes",
-      "TV_Simpsons120",
-      "XT_Questions",
-      "YR8089"
-    ],
-    "artist": "Men At Work",
-    "genres": 0,
-    "spotId": "3vaNWWfsLDex3RSgMrqI0Q",
-    "couname": "Who Can It Be Now?",
-    "duration": "200293"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27336c901204dd54a716c64932b",
-    "pty": 0,
-    "Items": [
-      "TV_OneHit",
-      "TV_Simpsons120",
-      "XT_OffAnimals",
-      "XT_Questions"
-    ],
-    "artist": "Baha Men",
-    "genres": 0,
-    "spotId": "1H5tvpoApNDxvxDexoaAUo",
-    "couname": "Who Let The Dogs Out",
-    "duration": "198400"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
@@ -1869,39 +2958,24 @@
     "duration": "230773"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737a73cc006248544e1a9882ea",
+    "img": "https://i.scdn.co/image/ab67616d0000b2730b6b12fd915f73fce8082de3",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
+      "XT_Intros",
       "XT_Questions"
     ],
-    "artist": "Jonas Brothers",
+    "artist": "The Lovin' Spoonful",
     "genres": 0,
-    "spotId": "4wNIkl5XGiAACjFBlDWuSd",
-    "couname": "What A Man Gotta Do",
-    "duration": "180644"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273786b44c75ebf915866523f5b",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "The Smiths",
-    "genres": 0,
-    "spotId": "65E3ajL0Yz7kljk89Qdm6Q",
-    "couname": "What Difference Does It Make?",
-    "duration": "192200"
+    "spotId": "1udKn1oNKYQSQ9OmiIWCMu",
+    "couname": "Do You Believe in Magic?",
+    "duration": "125826"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2730f35726025e0f025da4c688f",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
+      "DUDE",
+      "girl",
       "XT_Questions"
     ],
     "artist": "The Strokes",
@@ -1911,347 +2985,11 @@
     "duration": "169506"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27373515f3eb78e7555f15e5102",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Insane Clown Posse",
-    "genres": 0,
-    "spotId": "1Zc9TBoPG8U5epucXYcEFa",
-    "couname": "What Is A Juggalo?",
-    "duration": "237600"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730bec1533865be49ee3229621",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Slant 6",
-    "genres": 0,
-    "spotId": "31rO0CUenJkH4XMrFounQs",
-    "couname": "What Kind of Monster Are You?",
-    "duration": "123240"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f7108342ef45a402af8206b2",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Tate McRae",
-    "genres": 0,
-    "spotId": "4ewmHD3aRBmLyTsbGreNLw",
-    "couname": "what would you do?",
-    "duration": "166946"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273bef689c979e00435de750075",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Gwen Stefani",
-    "genres": 0,
-    "spotId": "7icROppj4Z12Nr0xGgxWFJ",
-    "couname": "What You Waiting For?",
-    "duration": "221226"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f38c6b37a21334e22005b1f7",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "A Tribe Called Quest",
-    "genres": 0,
-    "spotId": "2ZCwz8omYluRWa9QyznFAy",
-    "couname": "What?",
-    "duration": "148706"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ee83254432bbea156d10763f",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "R.E.M.",
-    "genres": 0,
-    "spotId": "7ywlnXV5O0h8T5pCRUN1f5",
-    "couname": "What’s The Frequency, Kenneth?",
-    "duration": "240306"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273bcd424e2d975ee2e79820ccf",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Thomas Rhett",
-    "genres": 0,
-    "spotId": "4oR2cCQGs0Yt0Mgr2diV6V",
-    "couname": "What’s Your Country Song",
-    "duration": "171333"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273e792452ac547e58ee7433f23",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Mac Miller",
-    "genres": 0,
-    "spotId": "7qVKgpQctmYfxic2tJPSZZ",
-    "couname": "What's the Use?",
-    "duration": "288640"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735a89b59fec31efd8f780a6bb",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Le Tigre",
-    "genres": 0,
-    "spotId": "7wf1TSAMltO6oOncQ3vzh1",
-    "couname": "What's Yr Take On Cassavetes?",
-    "duration": "142573"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736fba239d8fdb3f7125e19091",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Owl City",
-    "genres": 0,
-    "spotId": "5ZkAx8zjLiSs1nMmBwJoZS",
-    "couname": "When Can I See You Again?",
-    "duration": "218093"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27388a2441649ccaf6bca846fdc",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Laura Marling",
-    "genres": 0,
-    "spotId": "0eBWCKd03aFxbKpoPfKNvS",
-    "couname": "Where Can I Go?",
-    "duration": "220705"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273483a98632e23f6d2623ab75c",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Fall Out Boy",
-    "genres": 0,
-    "spotId": "3Q7jFW6nxqhwbUctqqthSa",
-    "couname": "Where Did The Party Go",
-    "duration": "243040"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273490a887b85a95378ea66b41d",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Jax Jones,MNEK",
-    "genres": 0,
-    "spotId": "3sa06xVNmLLYIxdNNmVQN8",
-    "couname": "Where Did You Go?",
-    "duration": "177689"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273699a422d25adc550dc5aa11c",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Nickelback",
-    "genres": 0,
-    "spotId": "2v2sGRSFz1rAWijOlkbZtz",
-    "couname": "Where Do I Hide",
-    "duration": "218000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27371b1ae73b9db22a41907d982",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Filter",
-    "genres": 0,
-    "spotId": "0iU9Qfn7hoJHbBleOaMOAt",
-    "couname": "Where Do We Go From Here",
-    "duration": "334933"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b4f61150b316a4f1336755dd",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Lil Nas X",
-    "genres": 0,
-    "spotId": "0jeRoIMD1LHhUkQEbjkXQv",
-    "couname": "Where Do We Go Now?",
-    "duration": "195470"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d424a2675b400a7d2dac48b9",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Tegan and Sara",
-    "genres": 0,
-    "spotId": "0L7QCEXQBDAtEyK1x72Sw0",
-    "couname": "Where Does the Good Go",
-    "duration": "217253"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27378b860d90b266bfcd7e4c0be",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Nine Inch Nails",
-    "genres": 0,
-    "spotId": "3igeWkfoyimX5hfD3DbpER",
-    "couname": "Where Is Everybody?",
-    "duration": "340200"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273258152311d36cc59f779c3a7",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "David Byrne,St. Vincent",
-    "genres": 0,
-    "spotId": "55iwrKssfMLNfKvEviQCRB",
-    "couname": "Who",
-    "duration": "229960"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735d6059d17e7ce28f40a7a3a3",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "NEEDTOBREATHE",
-    "genres": 0,
-    "spotId": "1KKTKUFmFLZmEhbUyj47jN",
-    "couname": "Who Am I",
-    "duration": "207066"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273733af86f8dea9692a3f59d29",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Snoop Dogg",
-    "genres": 0,
-    "spotId": "0eO8MW9YSTK3CjdaTYKlhF",
-    "couname": "Who Am I",
-    "duration": "246200"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d2140b20357358b336708622",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "The Garden",
-    "genres": 0,
-    "spotId": "2JoSSnUIv4Gwn2UmzuO0mh",
-    "couname": "Who Am I Going To Share All Of This Wine With?",
-    "duration": "209000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27327936b60ce72b901eed401e7",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Gladys Knight & The Pips",
-    "genres": 0,
-    "spotId": "7aqJzVdVIAwCokmju1Oid8",
-    "couname": "Who Is She",
-    "duration": "253693"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737d2055190ae60ffa4c74d13c",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Barenaked Ladies",
-    "genres": 0,
-    "spotId": "1UvKzaiR8r4Lxot0pVA8bh",
-    "couname": "Who Needs Sleep?",
-    "duration": "224106"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2731e3dbe4453ed61633c472fbe",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
+      "DUDE",
+      "girl",
       "XT_Questions"
     ],
     "artist": "John Mayer",
@@ -2261,893 +2999,54 @@
     "duration": "175480"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830",
+    "img": "https://i.scdn.co/image/ab67616d0000b2735084cb3fdc277a00c5ae18b6",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
+      "BT_FrankSinatra",
       "XT_Questions"
     ],
-    "artist": "The Notorious B.I.G.",
+    "artist": "Frank Sinatra",
     "genres": 0,
-    "spotId": "2KFg8kjYy0rYjWsXGhEQHN",
-    "couname": "Who Shot Ya?",
-    "duration": "319360"
+    "spotId": "6lVujyowViARZXPNf5pyO3",
+    "couname": "How Deep Is The Ocean?",
+    "duration": "195800"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273589ec44d5100ca02311d1b3b",
+    "img": "https://i.scdn.co/image/ab67616d0000b27364ec8eeee5a2b8817f8e28c0",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
+      "XT_Places",
+      "XT_Questions",
+      "YR6069"
     ],
-    "artist": "Smokie",
+    "artist": "Dionne Warwick",
     "genres": 0,
-    "spotId": "6UkQ1pqvo3oQBIYwi3MS48",
-    "couname": "Who The F*** Is Alice?",
-    "duration": "218493"
+    "spotId": "1YIWYzMq84I46LmgX1vpye",
+    "couname": "Do You Know the Way to San Jose",
+    "duration": "179440"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b75dd1b7de969ef4e3a497c2",
+    "img": "https://i.scdn.co/image/ab67616d0000b2737d2055190ae60ffa4c74d13c",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
+      "DUDE",
+      "girl",
+      "XT_Dreaming",
       "XT_Questions"
     ],
-    "artist": "TEYA,SALENA",
+    "artist": "Barenaked Ladies",
     "genres": 0,
-    "spotId": "3gUC7tGDPVLOq42vvTUVdI",
-    "couname": "Who the Hell Is Edgar?",
-    "duration": "159417"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273e4b11ed8d17500cd073a92fc",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Soko",
-    "genres": 0,
-    "spotId": "1EXQ6TBsJDxWWOvoeai8fw",
-    "couname": "Who Wears The Pants??",
-    "duration": "184306"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735458ff868557bb3c7410afaa",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Panic Shack",
-    "genres": 0,
-    "spotId": "4FejEr29UH0WmDdio6MbaT",
-    "couname": "Who's Got My Lighter?",
-    "duration": "190333"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a6b3afcdd15b2b561e684337",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "The Moldy Peaches",
-    "genres": 0,
-    "spotId": "3kgMLkf1yMaTvpcmJLUPkM",
-    "couname": "Who's Got The Crack",
-    "duration": "205293"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "The Jackson 5",
-    "genres": 0,
-    "spotId": "6cZrsaNb4Zo9E5KHk7gcz5",
-    "couname": "Who's Lovin' You",
-    "duration": "235640"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738aa3cab41954fe2158a19933",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Orla Gartland",
-    "genres": 0,
-    "spotId": "0z29wv0x2IXrpWxNgICET7",
-    "couname": "Why Am I Like This?",
-    "duration": "212713"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27361c64749ffd8f6728d55332b",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "The Smashing Pumpkins",
-    "genres": 0,
-    "spotId": "2NcwY37AUVm4rRt3Vojeer",
-    "couname": "Why Am I So Tired",
-    "duration": "913640"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273258110fcbfd27611e4c535f2",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Mew,J Mascis",
-    "genres": 0,
-    "spotId": "3JnzIKYCJoyxUPEdPTFECJ",
-    "couname": "Why Are You Looking Grave?",
-    "duration": "230533"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f4f9accdc0fb8ddee29e32b7",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Weezer",
-    "genres": 0,
-    "spotId": "43Qr1YBCY3vSVCvZuR0PCb",
-    "couname": "Why Bother?",
-    "duration": "128400"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27310dfc5830b62c3bc5c0a580f",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "The Cure",
-    "genres": 0,
-    "spotId": "4yvLuzn3JWfasEnHFVBbdM",
-    "couname": "Why Can't I Be You?",
-    "duration": "193200"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273257f81958be25db29f328159",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Mitski",
-    "genres": 0,
-    "spotId": "6yReUDu8b6PDNdLc0Z0djO",
-    "couname": "Why Didn't You Stop Me?",
-    "duration": "141978"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27313bcd4bbfcf1fab9644e0f7b",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Santana,Chad Kroeger",
-    "genres": 0,
-    "spotId": "43LdgobPlcCc5g9Kmactvy",
-    "couname": "Why Don't You & I",
-    "duration": "274360"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c7d00568db33ae806cfdcbdf",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Soko",
-    "genres": 0,
-    "spotId": "1yPzAaU1FIH3KJDolwK9v3",
-    "couname": "Why Don't You Eat Me Now You Can",
-    "duration": "88760"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ba7fe7dd76cd4307e57dd75f",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Simon & Garfunkel",
-    "genres": 0,
-    "spotId": "0nNI8eyMjDGjPDuQq87aJb",
-    "couname": "Why Don't You Write Me",
-    "duration": "166173"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735553dc80f4bbd9092850373c",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Reba McEntire",
-    "genres": 0,
-    "spotId": "2PEjcDh3G6QAbmvCDPTWuM",
-    "couname": "Why Haven't I Heard From You",
-    "duration": "208533"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27345fa3fddca835d0d7c854146",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Hilary Duff",
-    "genres": 0,
-    "spotId": "1jypmXUJgxWKWJZdDsJiXQ",
-    "couname": "Why Not",
-    "duration": "179533"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273512991c038c5dccb4a21d68d",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Dan Hartman,Charlie Midnight,Billy Joel",
-    "genres": 0,
-    "spotId": "3gH3AxHKptBuYVcJilLCeR",
-    "couname": "Why Should I Worry",
-    "duration": "212880"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d6b982d520742d1b41a3ebfa",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Alice Merton",
-    "genres": 0,
-    "spotId": "1FBzp2RXC04zE31DSCOqAY",
-    "couname": "Why so Serious",
-    "duration": "227266"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Ariana Grande",
-    "genres": 0,
-    "spotId": "40fHWRL8bKcl5J4t4OKUiW",
-    "couname": "Why Try",
-    "duration": "211880"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273370c12f82872c9cfaee80193",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Tame Impala",
-    "genres": 0,
-    "spotId": "6IM45SqAURH6PrvziDs1RQ",
-    "couname": "Why Won't They Talk To Me?",
-    "duration": "286093"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273260407c9941e10a0d74f7d91",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Tame Impala",
-    "genres": 0,
-    "spotId": "6VuuRQz7JX22KsW04SYYX5",
-    "couname": "Why Won't You Make Up Your Mind?",
-    "duration": "199320"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f0722706190993eadd8ad6aa",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Hozier",
-    "genres": 0,
-    "spotId": "4oHFmfo0VVpcIA9AewhOZB",
-    "couname": "Why Would You Be Loved",
-    "duration": "248333"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f731c8017e36b13e252bd2c6",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "YG,Drake,Kamaiyah",
-    "genres": 0,
-    "spotId": "4ezAjoV01phDz1SqO6SzEU",
-    "couname": "Why You Always Hatin?",
-    "duration": "196586"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27390b8a540137ee2a718a369f9",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Tracy Chapman",
-    "genres": 0,
-    "spotId": "0M8Xggmk34Ntg1wY5wd5A3",
-    "couname": "Why?",
-    "duration": "126400"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731c029648c4055aef619443b3",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Josh.",
-    "genres": 0,
-    "spotId": "1ISJk9M74ZHdlyQC2AiEdl",
-    "couname": "Wo bist du",
-    "duration": "200173"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734ea617c398a01a5228069744",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Rammstein",
-    "genres": 0,
-    "spotId": "2mZ7SXzf5mZkohPfDFIUET",
-    "couname": "Wo bist du",
-    "duration": "235360"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738b9d4820655b6bf032ed41f3",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Eurythmics,Annie Lennox,Dave Stewart",
-    "genres": 0,
-    "spotId": "1lJZSsMoWEbrgaY6CxPMf8",
-    "couname": "Would I Lie to You?",
-    "duration": "268240"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736b0b6e20fdb1ee07de7e92d6",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Ariana Grande",
-    "genres": 0,
-    "spotId": "7gaA3wERFkFkgivjwbSvkG",
-    "couname": "yes, and?",
-    "duration": "214994"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Lil Nas X,Miley Cyrus",
-    "genres": 0,
-    "spotId": "6isTQfKXhNO3EyJd9mSxx8",
-    "couname": "AM I DREAMING",
-    "duration": "183241"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736ef210d5fb2e1c34196c8408",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Gary Numan,Tubeway Army",
-    "genres": 0,
-    "spotId": "7JyuLsDvmTxJt4wfCQUqeR",
-    "couname": "Are 'Friends' Electric?",
-    "duration": "325200"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731dac750f0cef6ca2615cb2db",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "The Drums",
-    "genres": 0,
-    "spotId": "1kPR4Qbb8CZ0oj5kYf66ma",
-    "couname": "Are U Fucked",
-    "duration": "239093"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a75b31b8d6a2156991171314",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Bratmobile",
-    "genres": 0,
-    "spotId": "73OdRjy6wdplkhR7E8Pbgr",
-    "couname": "Are You a Lady?",
-    "duration": "145493"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731b0a938e89c13b34512eb0b1",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Soko",
-    "genres": 0,
-    "spotId": "68vWpMS0w4BcX2B6wg5lWT",
-    "couname": "Are You a Magician?",
-    "duration": "230253"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c9adfbd773852e286faed040",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Jimi Hendrix",
-    "genres": 0,
-    "spotId": "02POyqtbrdmYQ3RxsTrYMD",
-    "couname": "Are You Experienced?",
-    "duration": "255613"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273289320ef78f164a472698926",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Incubus",
-    "genres": 0,
-    "spotId": "1MvJno497VkQR3RsiJcRVm",
-    "couname": "Are You In?",
-    "duration": "264200"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738399047ff71200928f5b6508",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "AC/DC",
-    "genres": 0,
-    "spotId": "7A1odihHBrI8n9k0Fefh2j",
-    "couname": "Are You Ready",
-    "duration": "250333"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dbc892b8194e35ca3524e767",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Måneskin",
-    "genres": 0,
-    "spotId": "2Du09hJBFkE49xA4JqWvXS",
-    "couname": "Are You Ready?",
-    "duration": "153946"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273377453abefeab743c5633fcc",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Tegan and Sara",
-    "genres": 0,
-    "spotId": "7jjX6UPbGwK9AMGjkeSwPj",
-    "couname": "Are You Ten Years Ago",
-    "duration": "197600"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273aa9fdcc0d9fa66c203b0b24c",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Cate Le Bon",
-    "genres": 0,
-    "spotId": "04C6HjFwhRtEnh0MQt1DKe",
-    "couname": "Are You with Me Now?",
-    "duration": "260573"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732f6b7d9f0b6e91bd1a3a785e",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "George Michael",
-    "genres": 0,
-    "spotId": "64FUuN6B1v8W3a1hZd0j5m",
-    "couname": "Brother Can You Spare a Dime?",
-    "duration": "263506"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737ad6c9807e0d35d115958345",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Kaki King",
-    "genres": 0,
-    "spotId": "7m8r2qf43ts777tMT2yEUR",
-    "couname": "Can Anyone Who Has Heard This Music Really Be a Bad Person?",
-    "duration": "310506"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2739700390e9c33c62cfcd915ce",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "JAY-Z,Amil,Ja Rule",
-    "genres": 0,
-    "spotId": "4LGMSdeKOUoy5Wf75Je0Hl",
-    "couname": "Can I Get A...",
-    "duration": "309773"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737d699d4f54daa52839fd567d",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Porridge Radio",
-    "genres": 0,
-    "spotId": "5Rb5qfc0VJ42PBBiafQWiB",
-    "couname": "Can U Hear Me Now?",
-    "duration": "453426"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c7b95c090b6382a85f77f06b",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Elvis Costello",
-    "genres": 0,
-    "spotId": "1CyL9ksOBBftdxXxUWpd9k",
-    "couname": "Daddy Can I Turn This?",
-    "duration": "221826"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f313291eef1f1dcc2479253a",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Chet Atkins",
-    "genres": 0,
-    "spotId": "31xqbaSu7ozgcK8desDuMK",
-    "couname": "Do I Ever Cross Your Mind",
-    "duration": "158853"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273154b7335f52189bf3d895879",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Tedeschi Trucks Band",
-    "genres": 0,
-    "spotId": "1JFdocYRMthec2BNrkOF1b",
-    "couname": "Do I Look Worried",
-    "duration": "273693"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732d50a845cd4b8d7863320bff",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Chaos Chaos",
-    "genres": 0,
-    "spotId": "3lOok0REf4j3790abX26PR",
-    "couname": "Do You Feel It?",
-    "duration": "250712"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27306b42768ebe736eec21336ea",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Jack Johnson",
-    "genres": 0,
-    "spotId": "1EZJBB6bvCcrvYRlOyoHuf",
-    "couname": "Do You Remember",
-    "duration": "144013"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737ed5367900f7596d7c14345a",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Ramones",
-    "genres": 0,
-    "spotId": "1jvzmNw7sVTSDnprPuEi0D",
-    "couname": "Do You Wanna Dance?",
-    "duration": "115706"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27392c508bc5a40ea588bcaed38",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Franz Ferdinand",
-    "genres": 0,
-    "spotId": "6WrnSlcN0dzTO80mVVbBto",
-    "couname": "Do You Want To",
-    "duration": "215000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730ac413b28547dbc45412a3ce",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Chicago",
-    "genres": 0,
-    "spotId": "6Q6YqGj1Ku1CUGHWSFwSHY",
-    "couname": "Does Anybody Really Know What Time It Is?",
-    "duration": "202133"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27300036a842bbc54f47ef682fd",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Marianas Trench",
-    "genres": 0,
-    "spotId": "49cMvxwJyXAGHAoXRi1cBn",
-    "couname": "Don't Miss Me?",
-    "duration": "240898"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273da071ae7564949fbbfc6904d",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Fall Out Boy",
-    "genres": 0,
-    "spotId": "3HOGZQbzokUiYHuWhxOBjx",
-    "couname": "Don't You Know Who I Think I Am?",
-    "duration": "171960"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d23c71c684a6e4d669e8deff",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Mudvayne",
-    "genres": 0,
-    "spotId": "0INUE1K7cEiE8VH63Rv5RJ",
-    "couname": "Happy?",
-    "duration": "216426"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Jimi Hendrix",
-    "genres": 0,
-    "spotId": "3Yh64aiu2ANBwDFztyPDkT",
-    "couname": "Have You Ever Been",
-    "duration": "130039"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27371f0bfbebb2b2588a67be2db",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "WOOZE",
-    "genres": 0,
-    "spotId": "61UgaEv932jgKqdJlYeZ4z",
-    "couname": "Hello Can You Go",
-    "duration": "218306"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c7d00568db33ae806cfdcbdf",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Soko",
-    "genres": 0,
-    "spotId": "787N2RX3InwNcwXsDpbXxW",
-    "couname": "How Are You",
-    "duration": "225946"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273331083bb4e260edf65d47d60",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Marvin Gaye",
-    "genres": 0,
-    "spotId": "3RMY4zmjyswFiFUq8CfaqQ",
-    "couname": "How Can I Forget",
-    "duration": "124226"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731f92f4126ab3cb835f8c14bd",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "They Might Be Giants",
-    "genres": 0,
-    "spotId": "3Vi7KFP0xxpl9c79BOJN21",
-    "couname": "How Can I Sing like a Girl?",
-    "duration": "268240"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "2Pac,K-Ci & JoJo",
-    "genres": 0,
-    "spotId": "1ZB2zIoc8AjSuyqKRcJgbO",
-    "couname": "How Do U Want It",
-    "duration": "287760"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734142d75b2090697d0f3d9738",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Boom",
-    "genres": 0,
-    "spotId": "6gINt9hAqkIXafTF3zIErw",
-    "couname": "How Do You Do",
-    "duration": "211573"
+    "spotId": "1UvKzaiR8r4Lxot0pVA8bh",
+    "couname": "Who Needs Sleep?",
+    "duration": "224106"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273a5a932da2fc13defad4b7fba",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
+      "DUDE",
+      "girl",
+      "XT_Dreaming",
       "XT_Questions"
     ],
     "artist": "LCD Soundsystem",
@@ -3157,25 +3056,12 @@
     "duration": "552240"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735bec8b1a6a96e731dbd6f94f",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Little Mix,Missy Elliott",
-    "genres": 0,
-    "spotId": "457VLDn6a4MuwJhvqceLjj",
-    "couname": "How Ya Doin'?",
-    "duration": "213173"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27330e5af0ab55dbfa49af947a2",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
+      "DUDE",
+      "girl",
+      "XT_Dreaming",
       "XT_Questions"
     ],
     "artist": "Carpenters",
@@ -3183,177 +3069,6 @@
     "spotId": "6NCGT87wcrDDZHJxjmzFey",
     "couname": "I Can Dream, Can't I?",
     "duration": "300000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273e17969dceed6ced1c671d323",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Pink Floyd",
-    "genres": 0,
-    "spotId": "0tUD6UKwB7fxaeL9q5dXDL",
-    "couname": "In The Flesh?",
-    "duration": "198221"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ed3953f8af1f764a146b7583",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "The Smiths",
-    "genres": 0,
-    "spotId": "4nZYj9yVJFb0yd58kxmcXv",
-    "couname": "Is It Really so Strange?",
-    "duration": "188013"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737c7012e8a13517c7f3a7fdc9",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Pixies",
-    "genres": 0,
-    "spotId": "3Ao3tTpiXLSmch1kTJZ7Fx",
-    "couname": "Is She Weird",
-    "duration": "181093"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f34e8811de255b34c56301d8",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Pink Floyd",
-    "genres": 0,
-    "spotId": "2rKcC5vlTsDM94RWTPoyHV",
-    "couname": "Is There Anybody Out There?",
-    "duration": "161786"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dd581da310e984c03cb5b874",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "PJ Harvey",
-    "genres": 0,
-    "spotId": "3aCBclArxmfMQBwJa0HyKY",
-    "couname": "Is This Desire?",
-    "duration": "205666"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273310da7709bd26c2edbfeb9d2",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "J. Karjalainen",
-    "genres": 0,
-    "spotId": "4POiVEKmbznRTn9t3rFkZi",
-    "couname": "Koska taas nähdä sut saan?",
-    "duration": "298120"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273fa7341a0b60e3e4f90cb458b",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Spiritualized",
-    "genres": 0,
-    "spotId": "2rVPFb0pIFAwUct9YD1O5B",
-    "couname": "Lord Can You Hear Me",
-    "duration": "337666"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734ba1fe238a517021ebcc2ace",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "TV_Rolling500",
-      "XT_Intros",
-      "XT_Questions",
-      "YR9099"
-    ],
-    "artist": "A Tribe Called Quest",
-    "genres": 0,
-    "spotId": "3Ti0GdlrotgwsAVBBugv0I",
-    "couname": "Can I Kick It?",
-    "duration": "251573"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27376bc8abf6974b4f6d490d034",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Stevie Ray Vaughan",
-    "genres": 0,
-    "spotId": "01CIueRxPGWmkQjjzT70wi",
-    "couname": "May I Have a Talk with You",
-    "duration": "348160"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730baccdb04adb47d94bf96c7e",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "BEHM,Keko Salata",
-    "genres": 0,
-    "spotId": "5Lx0fYuwOCQupkPVPA2ioM",
-    "couname": "Minä vai maailma",
-    "duration": "205851"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27329e7d4966ce2ec927224b730",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Red Hot Chili Peppers",
-    "genres": 0,
-    "spotId": "6DvCkB04CgSj9t9zd2mBY9",
-    "couname": "Mommy Where's Daddy",
-    "duration": "211333"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27391d3c1bbca2e796ad70dc1d1",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Questions"
-    ],
-    "artist": "Sonic Youth",
-    "genres": 0,
-    "spotId": "4gwldzmnRISqpY599yNY4d",
-    "couname": "Nevermind",
-    "duration": "334000"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57",
@@ -3367,23 +3082,6 @@
     "spotId": "5TxRUOsGeWeRl3xOML59Ai",
     "couname": "ARE WE STILL FRIENDS?",
     "duration": "265480"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731da6e1da33a17f14599641d5",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "Female",
-      "BT_ABBA",
-      "XT_Questions",
-      "YR7079"
-    ],
-    "artist": "ABBA",
-    "genres": 0,
-    "spotId": "2VsVI2mOkZ5s0eEA9MQLN4",
-    "couname": "Does Your Mother Know",
-    "duration": "194720"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
@@ -3412,20 +3110,6 @@
     "duration": "545194"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ec8be21d32e663885fbb244e",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Questions",
-      "XT_Youth"
-    ],
-    "artist": "Declan McKenna",
-    "genres": 0,
-    "spotId": "5Bge1Dsqjc14hhGguYML5w",
-    "couname": "Why Do You Feel So Down",
-    "duration": "220706"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27399a8a855ac40fff859d63b06",
     "pty": 0,
     "Items": [
@@ -3442,8 +3126,8 @@
     "img": "https://i.scdn.co/image/ab67616d0000b2731b7849a8dcdb5cc8ea473316",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
+      "DUDE",
+      "girl",
       "XT_Love",
       "XT_Questions"
     ],
@@ -3454,30 +3138,351 @@
     "duration": "181680"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273238b25b3d5884cb4f6027663",
+    "img": "https://i.scdn.co/image/ab67616d0000b27313fc3babdcbe7a5268fd96a1",
     "pty": 0,
     "Items": [
-      "TV_Themes",
-      "XT_Questions",
-      "YR7079"
-    ],
-    "artist": "The Who",
-    "genres": 0,
-    "spotId": "23IJ5wLRhEZ9DOuia5mPiZ",
-    "couname": "Who Are You",
-    "duration": "381626"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733b9f8b18cc685e1502128aa8",
-    "pty": 0,
-    "Items": [
-      "BT_MichaelJackson",
+      "TV_Mafia",
       "XT_Questions"
     ],
-    "artist": "Michael Jackson,The Cleveland Orchestra",
+    "artist": "George Harrison",
     "genres": 0,
-    "spotId": "1igW25R8lnb5ze9GWbuVsl",
-    "couname": "Beat It",
-    "duration": "460000"
+    "spotId": "1zZdGnwXDLfVe8V2bclJQh",
+    "couname": "What Is Life",
+    "duration": "264413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273409373691d3c2025c7d5f846",
+    "pty": 0,
+    "Items": [
+      "TV_Rolling500",
+      "TV_Simpsons120",
+      "XT_Love",
+      "XT_Questions",
+      "YR_7079"
+    ],
+    "artist": "Buzzcocks",
+    "genres": 0,
+    "spotId": "5YUJMvTg4AWHKjqQidTsGK",
+    "couname": "Ever Fallen in Love",
+    "duration": "163693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735900bef2dc2cf0381f4e4e1f",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Questions",
+      "YR_7079"
+    ],
+    "artist": "Buzzcocks",
+    "genres": 0,
+    "spotId": "1neVv0ccWpzu8oLrqbr1kT",
+    "couname": "What Do I Get?",
+    "duration": "176293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734b290fbf9bf98ce55b0610a4",
+    "pty": 0,
+    "Items": [
+      "XT_Questions",
+      "YR_7079",
+      "YR6069"
+    ],
+    "artist": "Jimmy Ruffin",
+    "genres": 0,
+    "spotId": "09Nlhtnn087cbbhMzuInxy",
+    "couname": "What Becomes Of The Brokenhearted",
+    "duration": "175693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325dc779021d9a6e423354692",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_OneHit",
+      "XT_Questions",
+      "YR_7079"
+    ],
+    "artist": "Ace",
+    "genres": 0,
+    "spotId": "5C5q6K1OEbzYn3OYynnTC5",
+    "couname": "How Long",
+    "duration": "206379"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273757a1aa49c9dfedf621cb855",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_Disco",
+      "TV_Rolling500",
+      "TV_Simpsons120",
+      "XT_Intros",
+      "XT_Questions",
+      "YR_7079"
+    ],
+    "artist": "Rod Stewart",
+    "genres": 0,
+    "spotId": "42GthmiW6mIvcyaJHdMk30",
+    "couname": "Da Ya Think I'm Sexy?",
+    "duration": "329146"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27316600a80fdd9381eca5442f9",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "TV_OneHit",
+      "XT_Intros",
+      "XT_Love",
+      "XT_Questions",
+      "YR_0009"
+    ],
+    "artist": "Black Eyed Peas",
+    "genres": 0,
+    "spotId": "1FreAz1lmnDi5aKLB6GdFM",
+    "couname": "Where Is The Love?",
+    "duration": "272533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a71ed2406440cfb50fc93b79",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Love",
+      "XT_Questions"
+    ],
+    "artist": "Marianas Trench",
+    "genres": 0,
+    "spotId": "5KAgd2yW7tktrKDsJhO9Fr",
+    "couname": "Who Do You Love",
+    "duration": "232099"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27316a312d3a18f48077f778a4c",
+    "pty": 0,
+    "Items": [
+      "XT_Intros",
+      "XT_Love",
+      "XT_Questions"
+    ],
+    "artist": "Frankie Lymon,The Teenagers",
+    "genres": 0,
+    "spotId": "2xKfXRhw5xaUXfevJJspZf",
+    "couname": "Why Do Fools Fall in Love",
+    "duration": "139666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273134096a56d7114e71651939e",
+    "pty": 0,
+    "Items": [
+      "XT_BodyParts",
+      "XT_Questions"
+    ],
+    "artist": "Basement Jaxx",
+    "genres": 0,
+    "spotId": "6cOyq898FB1fYOewPOwjyS",
+    "couname": "Where's Your Head At",
+    "duration": "285533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d72fb5571087bca0a2fed008",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Questions"
+    ],
+    "artist": "Original Broadway Cast of Hamilton",
+    "genres": 0,
+    "spotId": "7EsSVPxaYoAZjQwhspJBs2",
+    "couname": "Who Lives, Who Dies, Who Tells Your Story",
+    "duration": "217229"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732ed326786e4c61c6b1dbf222",
+    "pty": 0,
+    "Items": [
+      "BT_Rihanna",
+      "XT_Questions",
+      "YR_1019"
+    ],
+    "artist": "Rihanna,Drake",
+    "genres": 0,
+    "spotId": "5FTCKvxzqy72ceS4Ujux4N",
+    "couname": "What's My Name?",
+    "duration": "263173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fc6b7160550354d9266b1f09",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Love",
+      "XT_Questions",
+      "YR_1019"
+    ],
+    "artist": "Beyoncé",
+    "genres": 0,
+    "spotId": "4qwT6ISA0clmfsFSTjd9Hb",
+    "couname": "Why Don't You Love Me",
+    "duration": "217280"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27376bc1c851462191faec76bf8",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Dreaming",
+      "XT_Questions",
+      "YR_1019"
+    ],
+    "artist": "Sam Smith",
+    "genres": 0,
+    "spotId": "6b2RcmUt1g9N9mQ3CbjX2Y",
+    "couname": "How Do You Sleep?",
+    "duration": "202204"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273078f1176c3c725de8e95f490",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "XT_OffAnimals",
+      "XT_Questions",
+      "YR_1019"
+    ],
+    "artist": "Ylvis",
+    "genres": 0,
+    "spotId": "5HOpkTTVcmZHnthgyxrIL8",
+    "couname": "The Fox",
+    "duration": "213708"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27372c9f7a7c75eba39726106a6",
+    "pty": 0,
+    "Items": [
+      "XT_Fire",
+      "XT_Questions",
+      "YR_1019"
+    ],
+    "artist": "Avril Lavigne",
+    "genres": 0,
+    "spotId": "2z4U9d5OAA4YLNXoCgioxo",
+    "couname": "What the Hell",
+    "duration": "220706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731c5eacf6965d328c2c795cef",
+    "pty": 0,
+    "Items": [
+      "BT_Rihanna",
+      "GN_Choirs",
+      "TV_Tomorrowland",
+      "XT_Questions",
+      "YR_1019"
+    ],
+    "artist": "Rihanna",
+    "genres": 0,
+    "spotId": "3tyPOhuVnt5zd5kGfxbCyL",
+    "couname": "Where Have You Been",
+    "duration": "242680"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735e90ff76fd49a23f7333de76",
+    "pty": 0,
+    "Items": [
+      "XT_Intros",
+      "XT_Love",
+      "XT_Questions",
+      "YR_1019"
+    ],
+    "artist": "The Chainsmokers,5 Seconds of Summer",
+    "genres": 0,
+    "spotId": "2fVHrSxsQbJUuj9MW9zG1e",
+    "couname": "Who Do You Love",
+    "duration": "226733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273137c52bef1a7b917847fa108",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "CT_Norway",
+      "TV_BestVideos",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "XT_Questions",
+      "YR_1019"
+    ],
+    "artist": "Justin Bieber",
+    "genres": 0,
+    "spotId": "1ds2QsfhAAfRiaFMGDzrdb",
+    "couname": "What Do You Mean?",
+    "duration": "207546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730acf7f2eefe5bd36efbc26b4",
+    "pty": 0,
+    "Items": [
+      "TV_SpotifyS500",
+      "XT_Gambling",
+      "XT_Intros",
+      "XT_OffAnimals",
+      "XT_Questions",
+      "YR_1019"
+    ],
+    "artist": "Arctic Monkeys",
+    "genres": 0,
+    "spotId": "48q0vSHcJdhK3IiXH8C5WJ",
+    "couname": "Why'd You Only Call Me When You're High?",
+    "duration": "161123"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e3a383b116eabe5dcbf132b4",
+    "pty": 0,
+    "Items": [
+      "BT_Queen_DavidBowie",
+      "XT_Questions",
+      "YR_1019"
+    ],
+    "artist": "David Bowie",
+    "genres": 0,
+    "spotId": "6GrDJu7q8VAxbKdUlYzezT",
+    "couname": "Where Are We Now?",
+    "duration": "249213"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733042c53026e29faf3a21c9f9",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "girl",
+      "XT_Love",
+      "XT_Questions",
+      "YR_1019"
+    ],
+    "artist": "Little Mix",
+    "genres": 0,
+    "spotId": "6VXzA05dET772n5rGq63Cz",
+    "couname": "Is Your Love Enough?",
+    "duration": "224600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273da5d5aeeabacacc1263c0f4b",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "TV_BestVideos",
+      "XT_Questions",
+      "YR_1019"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "2yLa0QULdQr0qAIvVwN6B5",
+    "couname": "...Ready For It?",
+    "duration": "208186"
   }
 ]
