@@ -16,6 +16,1966 @@
     "duration": "286813"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b27398258f51def6c1dfdb170048",
+    "pty": 0,
+    "Items": [
+      "BT_RollingStones",
+      "XT_Dreaming"
+    ],
+    "artist": "The Rolling Stones",
+    "genres": 0,
+    "spotId": "0psaJz21V9Zdlld8NHcMN6",
+    "couname": "Who's Been Sleeping Here?",
+    "duration": "235333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739bb82a861e3041679e1910f3",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "YR8089",
+      "XT_Dreaming"
+    ],
+    "artist": "Simple Minds",
+    "genres": 0,
+    "spotId": "3DzHyhcpdr1AW5FjfR7ych",
+    "couname": "Big Sleep",
+    "duration": "300744"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273696ca1f08eda5ccfd0a95814",
+    "pty": 0,
+    "Items": [
+      "TV_Western",
+      "XT_Dreaming"
+    ],
+    "artist": "Piero Piccioni",
+    "genres": 0,
+    "spotId": "6Nm0rAKmNftfSu5EWjPgH5",
+    "couname": "Arizona Dreaming",
+    "duration": "68560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738a56b7de0f2ab570fb4d7131",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "Female",
+      "YR6069",
+      "XT_Dreaming"
+    ],
+    "artist": "Bobbie Gentry,Glen Campbell",
+    "genres": 0,
+    "spotId": "5vPnao9eP7SKq9rxZIMFFQ",
+    "couname": "All I Have to Do Is Dream",
+    "duration": "151426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e36768f4b07a00638a2bd318",
+    "pty": 0,
+    "Items": [
+      "TV_Mafia",
+      "XT_Dreaming"
+    ],
+    "artist": "Little Feat,Linda Ronstadt",
+    "genres": 0,
+    "spotId": "3KYRDZd40yQcvp2XfWCwNg",
+    "couname": "All That You Dream",
+    "duration": "213466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736ed9aef791159496b286179f",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Dreaming"
+    ],
+    "artist": "Metro Boomin,A$AP Rocky,Roisee",
+    "genres": 0,
+    "spotId": "6Ec5LeRzkisa5KJtwLfOoW",
+    "couname": "Am I Dreaming",
+    "duration": "256026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dd9f56e38fd3010f4a91fc5c",
+    "pty": 0,
+    "Items": [
+      "YR8089",
+      "XT_Dreaming"
+    ],
+    "artist": "Nitty Gritty Dirt Band,Linda Ronstadt",
+    "genres": 0,
+    "spotId": "6sKCQNq6guDXIi0Oubjdso",
+    "couname": "An American Dream",
+    "duration": "212573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dfd165103fba4a50789afc91",
+    "pty": 0,
+    "Items": [
+      "BT_JohnWilliams",
+      "XT_Dreaming"
+    ],
+    "artist": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack) - John Williams,London Symphony Orchestra",
+    "genres": 0,
+    "spotId": "3BFpYgwm0tCdI2S3LGZwUf",
+    "couname": "Anakin's Dream",
+    "duration": "284720"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735340c85cf8c382368ee63292",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Dreaming"
+    ],
+    "artist": "Slayer",
+    "genres": 0,
+    "spotId": "6KB4wFWZ6QZ7WU741Wvboz",
+    "couname": "At Dawn They Sleep",
+    "duration": "377360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c5248cc7506440f2a5fc0b4f",
+    "pty": 0,
+    "Items": [
+      "YR1019",
+      "XT_Dreaming"
+    ],
+    "artist": "Underworld,Dockhead Choir,Evelyn Glennie,Only Men Aloud,Elizabeth Roberts,Alex Trimble,Esme Smith",
+    "genres": 0,
+    "spotId": "35tFtpWUzic6fC8yNLZIug",
+    "couname": "Caliban's Dream",
+    "duration": "435900"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d7d3f0459258168466fb17c9",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_LongSongs",
+      "XT_Numbers",
+      "XT_Dreaming"
+    ],
+    "artist": "Sigur Rós",
+    "genres": 0,
+    "spotId": "79HureofovkK4R8a2Wg65n",
+    "couname": "Sleep 9",
+    "duration": "1520800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27344286a77a801798e06c99829",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "YR9099",
+      "XT_Dreaming"
+    ],
+    "artist": "The Beautiful South",
+    "genres": 0,
+    "spotId": "0feda4eDGG4ayxedzyXy9o",
+    "couname": "Dream A Little Dream",
+    "duration": "214493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27308cf955cc7f37e9baae4a6cd",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "YR6069",
+      "XT_Dreaming"
+    ],
+    "artist": "Anita Harris",
+    "genres": 0,
+    "spotId": "2lMAvcsf4Bwmq01jQTve4F",
+    "couname": "Dream A Little Dream Of Me",
+    "duration": "180613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27362d66bccf1b59741c51287ac",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "XT_Dreaming"
+    ],
+    "artist": "Dusty Springfield",
+    "genres": 0,
+    "spotId": "3a97LukmvJqUQBVgGbDPML",
+    "couname": "Come For A Dream",
+    "duration": "212373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27388cad1831fd30db7f0f1c473",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "YR6069",
+      "XT_Dreaming"
+    ],
+    "artist": "Cass Elliot",
+    "genres": 0,
+    "spotId": "3cOWCcBKwiwUs5PCYirwMI",
+    "couname": "Dream A Little Dream Of Me",
+    "duration": "221373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f5264c9b7d046b941a0bab8f",
+    "pty": 0,
+    "Items": [
+      "GN_SurfRock",
+      "XT_Dreaming"
+    ],
+    "artist": "The Surfaris",
+    "genres": 0,
+    "spotId": "6tQolAPBogk3X6e6O7KFWK",
+    "couname": "Dream at Dusk",
+    "duration": "177400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27338ac3b7d189cf4209a5dd7ca",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "XT_Dreaming"
+    ],
+    "artist": "AfterGlow",
+    "genres": 0,
+    "spotId": "5C4as3WMTB78vRgEDRx6Rh",
+    "couname": "Dream Away",
+    "duration": "146090"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f4b198a7d4d3ab72e029b466",
+    "pty": 0,
+    "Items": [
+      "BT_FrankSinatra",
+      "XT_Dreaming"
+    ],
+    "artist": "Frank Sinatra",
+    "genres": 0,
+    "spotId": "4BTsqgiJmw0K8M3K2iqAaa",
+    "couname": "Dream Away",
+    "duration": "258440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f5f7ec58b558278af1058cc4",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Dreaming"
+    ],
+    "artist": "Highlord",
+    "genres": 0,
+    "spotId": "3Xydu9HsB5yXqr282Q5jqU",
+    "couname": "Dream Chaser",
+    "duration": "301786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27344a8eefeebef6d26c807cde1",
+    "pty": 0,
+    "Items": [
+      "BT_JohnWilliams",
+      "XT_Dreaming"
+    ],
+    "artist": "The BFG (Original Motion Picture Soundtrack) - John Williams",
+    "genres": 0,
+    "spotId": "6Sxz71i5ZuzcTPjbDdebHB",
+    "couname": "Dream Country",
+    "duration": "610280"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Dreaming"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "7kjzAKTVd9umvnChTkzTNd",
+    "couname": "Dream Dancing",
+    "duration": "256280"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27348eb0694ad3980c72017f284",
+    "pty": 0,
+    "Items": [
+      "GN_FrenchElectro",
+      "XT_Dreaming"
+    ],
+    "artist": "Madeon",
+    "genres": 0,
+    "spotId": "1oUbYmF4SYYHorKY1wKo0K",
+    "couname": "Dream Dream Dream",
+    "duration": "234933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735fd9e21618182df7d70b2186",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Dreaming"
+    ],
+    "artist": "Florence + The Machine",
+    "genres": 0,
+    "spotId": "7GtOjSSp5Qyi3gNbNDZgja",
+    "couname": "Dream Girl Evil",
+    "duration": "227374"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731a4b23d64ef996b521ff298d",
+    "pty": 0,
+    "Items": [
+      "YR1019",
+      "XT_Dreaming"
+    ],
+    "artist": "BTS,Charli xcx",
+    "genres": 0,
+    "spotId": "4c1WgUnHXq2LEncGHKgj1I",
+    "couname": "Dream Glow",
+    "duration": "187457"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a883e26f90ab617c91b90e56",
+    "pty": 0,
+    "Items": [
+      "BT_HansZimmer",
+      "XT_Dreaming"
+    ],
+    "artist": "Inception (Music from the Motion Picture) - Hans Zimmer",
+    "genres": 0,
+    "spotId": "5xKVYMxOHB2XRLCUafFrz6",
+    "couname": "Dream Is Collapsing",
+    "duration": "143804"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27344a8eefeebef6d26c807cde1",
+    "pty": 0,
+    "Items": [
+      "BT_JohnWilliams",
+      "XT_Dreaming"
+    ],
+    "artist": "The BFG (Original Motion Picture Soundtrack) - John Williams",
+    "genres": 0,
+    "spotId": "3kgBlHlZ3469aCYhSfc3QQ",
+    "couname": "Dream Jars",
+    "duration": "210493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732d588e1c094362633bb48412",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Dreaming"
+    ],
+    "artist": "Iron Maiden",
+    "genres": 0,
+    "spotId": "3W5NyzcnWlzUWR6WRNyxRP",
+    "couname": "Dream of Mirrors",
+    "duration": "561213"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27308c5f117334d04c59b221071",
+    "pty": 0,
+    "Items": [
+      "GN_ViolinSolo",
+      "XT_Dreaming"
+    ],
+    "artist": "Calum Bowie",
+    "genres": 0,
+    "spotId": "3SeLGDrrtGxGyqVVkU5jYl",
+    "couname": "Dream Of My Own",
+    "duration": "196924"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273395c957cae20aeb1fd4008e9",
+    "pty": 0,
+    "Items": [
+      "YR1019",
+      "XT_Dreaming"
+    ],
+    "artist": "Glee Cast,Neil Patrick Harris",
+    "genres": 0,
+    "spotId": "6cNSOKvw5hYVrOCrLw8joJ",
+    "couname": "Dream On",
+    "duration": "274133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273deab462fad5329ff29e4fcf9",
+    "pty": 0,
+    "Items": [
+      "GN_SurfRock",
+      "XT_Dreaming"
+    ],
+    "artist": "The Invaders",
+    "genres": 0,
+    "spotId": "005JZBqrlaU9lmKf8TzV51",
+    "couname": "Dream On",
+    "duration": "184520"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fb7929e341831d0f78311c4c",
+    "pty": 0,
+    "Items": [
+      "YR9099",
+      "XT_Dreaming"
+    ],
+    "artist": "The Brand New Heavies",
+    "genres": 0,
+    "spotId": "3STruEx3jCXJPJOIedFtAP",
+    "couname": "Dream On Dreamer",
+    "duration": "240760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a883e26f90ab617c91b90e56",
+    "pty": 0,
+    "Items": [
+      "BT_HansZimmer",
+      "XT_Dreaming"
+    ],
+    "artist": "Inception (Music from the Motion Picture) - Hans Zimmer",
+    "genres": 0,
+    "spotId": "7ifWgqspqvPpQWXCfyrho4",
+    "couname": "Dream Within a Dream",
+    "duration": "304309"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "XT_Dreaming"
+    ],
+    "artist": "The Monkees",
+    "genres": 0,
+    "spotId": "7CrcxnGKSsHw8jC5x0wpGg",
+    "couname": "Dream World",
+    "duration": "198959"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_Dreaming"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "6BEkaQDf8HOBD8woRzSmIH",
+    "couname": "Éowyn's Dream",
+    "duration": "84306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c08151b0d17141a02f7678d2",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "YR7079",
+      "XT_Dreaming"
+    ],
+    "artist": "Cliff Richard",
+    "genres": 0,
+    "spotId": "015N7QSN2YMgOYn5IQdzLQ",
+    "couname": "Hey Mr. Dream Maker",
+    "duration": "289400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27351bf7dcc726ebb1ccba13790",
+    "pty": 0,
+    "Items": [
+      "BT_FrankSinatra",
+      "XT_Dreaming"
+    ],
+    "artist": "Frank Sinatra",
+    "genres": 0,
+    "spotId": "7yNEHpa6d8rGLTVy9YtTdn",
+    "couname": "I Guess I’ll Have to Dream the Rest",
+    "duration": "212506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f82c39776fceb4e27bac2b57",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Animals",
+      "XT_OffAnimals",
+      "XT_Dreaming"
+    ],
+    "artist": "Pixies",
+    "genres": 0,
+    "spotId": "0o80AT7kN2IZAjIS3yW6mf",
+    "couname": "Bird Dream of the Olympus Mons",
+    "duration": "168133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c574dc72611d61885ac9669a",
+    "pty": 0,
+    "Items": [
+      "GN_FrenchElectro",
+      "XT_Dreaming"
+    ],
+    "artist": "M83,Anthony Gonzalez,Joseph Trapanese",
+    "genres": 0,
+    "spotId": "23hwmf8pb3L5ZP5c9AU8hn",
+    "couname": "Jack's Dream",
+    "duration": "82582"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273344dc3755d4738652506d88e",
+    "pty": 0,
+    "Items": [
+      "BT_JohnWilliams",
+      "XT_Dreaming"
+    ],
+    "artist": "Far And Away (Original Motion Picture Soundtrack) - John Williams",
+    "genres": 0,
+    "spotId": "0zM9X6L4n971JaPpVlGWg3",
+    "couname": "Joseph's Dream",
+    "duration": "191093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27312b2aba8f6c48eb5c36afa39",
+    "pty": 0,
+    "Items": [
+      "GN_SurfRock",
+      "XT_Dreaming"
+    ],
+    "artist": "The Atlantics",
+    "genres": 0,
+    "spotId": "2zpsuI748qZsv6nEdqYQJC",
+    "couname": "Kings Can Dream",
+    "duration": "164973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735f2c61f3d6985899d3abc9d3",
+    "pty": 0,
+    "Items": [
+      "BT_Queen_DavidBowie",
+      "XT_Dreaming"
+    ],
+    "artist": "David Bowie",
+    "genres": 0,
+    "spotId": "0RUfhZ6d1s6OZHyqShsc5u",
+    "couname": "Let Me Sleep Beside You",
+    "duration": "185376"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734d3d62edc831b0a900c79468",
+    "pty": 0,
+    "Items": [
+      "TV_Mafia",
+      "XT_Dreaming"
+    ],
+    "artist": "The Harptones",
+    "genres": 0,
+    "spotId": "0SNWZJH1sBjl9GNcjsFVeg",
+    "couname": "Life Is But a Dream",
+    "duration": "161760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731d39d6314f33bf316a230ce0",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "YR1019",
+      "XT_Dreaming"
+    ],
+    "artist": "John Newman",
+    "genres": 0,
+    "spotId": "4Xr11pTqji0zl9LSwEPDom",
+    "couname": "Losing Sleep",
+    "duration": "282028"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273867ad01de22eed133dca5ad9",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "YR6069",
+      "XT_Dreaming"
+    ],
+    "artist": "Malcolm Roberts",
+    "genres": 0,
+    "spotId": "77l6ajqA5KI5D1kAb6LNtt",
+    "couname": "May I Have the Next Dream with You",
+    "duration": "166653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e88d6ec3b69c0607b5b91700",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Dreaming"
+    ],
+    "artist": "Grimgotts",
+    "genres": 0,
+    "spotId": "38Q9ynxFaNmmcqRhgozvwh",
+    "couname": "My Crown's but a Dream",
+    "duration": "316160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27305198e999c20aeecb5d58711",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Dreaming"
+    ],
+    "artist": "Stratovarius",
+    "genres": 0,
+    "spotId": "3pi04uHvAAsYzvpqM1Diq1",
+    "couname": "My Eternal Dream",
+    "duration": "363926"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273688a33b8bbf70e99f029f9e1",
+    "pty": 0,
+    "Items": [
+      "TV_Tomorrowland",
+      "XT_Dreaming"
+    ],
+    "artist": "Kaskade,Tess Comrie,CID",
+    "genres": 0,
+    "spotId": "4i8LZTtcv9IRMNCv5YifOn",
+    "couname": "Never Sleep Alone",
+    "duration": "306785"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c27e997313531dbc7b01b247",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "GN_Japan",
+      "XT_Dreaming"
+    ],
+    "artist": "EDO BOYS",
+    "genres": 0,
+    "spotId": "6tinyeimCbUv1CPuPBBQOH",
+    "couname": "NO ONE SLEEP IN TOKYO",
+    "duration": "302033"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739d5a692b7a70508595e944ba",
+    "pty": 0,
+    "Items": [
+      "TV_Tomorrowland",
+      "XT_Dreaming"
+    ],
+    "artist": "Martin Garrix,Bonn,DubVision",
+    "genres": 0,
+    "spotId": "0mV5JWhyUFANd9qpwLkM8d",
+    "couname": "No Sleep",
+    "duration": "239062"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ff1dee50180eff24a0716c91",
+    "pty": 0,
+    "Items": [
+      "YR1019",
+      "XT_Dreaming"
+    ],
+    "artist": "Sway,KSI,Tigger Da Author,Peter Dale",
+    "genres": 0,
+    "spotId": "1vZliuxMMZa4aYmnL0Fy5v",
+    "couname": "No Sleep",
+    "duration": "206893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ddd96016e04e8de0750443eb",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Dreaming"
+    ],
+    "artist": "The Faders",
+    "genres": 0,
+    "spotId": "6bUEmANV1obk0t9NkMDDIg",
+    "couname": "No Sleep Tonight",
+    "duration": "177933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b9eeb2705c983089c2412a80",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "YR1019",
+      "XT_Dreaming"
+    ],
+    "artist": "Leona Lewis",
+    "genres": 0,
+    "spotId": "78pn8k7RogKo2oxl0DyX6d",
+    "couname": "One More Sleep",
+    "duration": "239586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f7e475000773182fff49a00",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "XT_Dreaming"
+    ],
+    "artist": "The Small Breed",
+    "genres": 0,
+    "spotId": "6rKdewmqWPc2frvDZKKog2",
+    "couname": "Remember a Dream",
+    "duration": "236616"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737fffcff1363a145b992d4216",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Dreaming"
+    ],
+    "artist": "Avantasia,Michael Kiske",
+    "genres": 0,
+    "spotId": "2fxNjnCVC3RO0K01Dmap1k",
+    "couname": "Requiem for a Dream",
+    "duration": "368853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dafe1f184ebf336db887bd1f",
+    "pty": 0,
+    "Items": [
+      "TV_March",
+      "XT_Dreaming"
+    ],
+    "artist": "Hacksaw Ridge (Original Motion Picture Soundtrack) - Rupert Gregson-Williams",
+    "genres": 0,
+    "spotId": "1Hu9TPywsSxVIfzvnnd4BR",
+    "couname": "Sleep",
+    "duration": "138973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735fb8a34087dbf3fba316004e",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "YR1019",
+      "XT_Dreaming"
+    ],
+    "artist": "Two Door Cinema Club",
+    "genres": 0,
+    "spotId": "4BsQ6HzywRiSHf45WXRft8",
+    "couname": "Sleep Alone",
+    "duration": "236440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273420aa10cb7b13d35920c92b1",
+    "pty": 0,
+    "Items": [
+      "GN_ViolinSolo",
+      "XT_Dreaming"
+    ],
+    "artist": "Portugal. The Man",
+    "genres": 0,
+    "spotId": "1l5lKWHRfyY7Y3FvDBXlvJ",
+    "couname": "Sleep Forever",
+    "duration": "380546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a2e3893b2fd5c6ba39f3b635",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Dreaming"
+    ],
+    "artist": "The Lumineers",
+    "genres": 0,
+    "spotId": "4uXDWsoGZXd39QP47NkGm5",
+    "couname": "Sleep On The Floor",
+    "duration": "211851"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27341373dd731fb244d3ba4a039",
+    "pty": 0,
+    "Items": [
+      "BT_RollingStones",
+      "XT_Dreaming"
+    ],
+    "artist": "The Rolling Stones",
+    "genres": 0,
+    "spotId": "1EmD2jf7qpZGVe7HGVhFbC",
+    "couname": "Sleep Tonight",
+    "duration": "310706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739d1bb1efbc5c5c236510c332",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "YR8089",
+      "XT_Dreaming"
+    ],
+    "artist": "ZZ Top",
+    "genres": 0,
+    "spotId": "1ESuT2y9AKu1zMdxq47qW5",
+    "couname": "Sleeping Bag",
+    "duration": "242333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d",
+    "pty": 0,
+    "Items": [
+      "BT_Queen_DavidBowie",
+      "XT_Dreaming"
+    ],
+    "artist": "Queen",
+    "genres": 0,
+    "spotId": "6T4mvqvMIwa0S6EH84QAAJ",
+    "couname": "Sleeping On The Sidewalk",
+    "duration": "186080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738595737d0ac4069bf22a5cb0",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "YR7079",
+      "XT_Dreaming"
+    ],
+    "artist": "White Plains",
+    "genres": 0,
+    "spotId": "71Ic75KO8OIMROS63BsSP0",
+    "couname": "Step Into A Dream",
+    "duration": "144066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fbb0b8c5d0191cc692326720",
+    "pty": 0,
+    "Items": [
+      "TV_Dreamworks",
+      "XT_Dreaming"
+    ],
+    "artist": "Renée Fleming",
+    "genres": 0,
+    "spotId": "4znn45qJmDtHS9ZKMvRU2V",
+    "couname": "Still Dream",
+    "duration": "194640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273429bb7e1db57986a0ae2d721",
+    "pty": 0,
+    "Items": [
+      "YR1019",
+      "XT_Dreaming"
+    ],
+    "artist": "Lil Mosey,Gunna",
+    "genres": 0,
+    "spotId": "2CUsdWw6sOkmN9L9c4Kxhn",
+    "couname": "Stuck In A Dream",
+    "duration": "123560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b3553f5d383e4b6ea2d31ffa",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "YR6069",
+      "XT_Dreaming"
+    ],
+    "artist": "Jethro Tull",
+    "genres": 0,
+    "spotId": "72nCV1KdXZbZEuvEJc4RY4",
+    "couname": "Sweet Dream",
+    "duration": "294413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730aee56c811fe828a7572b77f",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "YR7079",
+      "XT_Dreaming"
+    ],
+    "artist": "Crystal Gayle",
+    "genres": 0,
+    "spotId": "0GGmZenoIvJcfOVPV3vNiv",
+    "couname": "Talking In Your Sleep",
+    "duration": "173373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee",
+    "pty": 0,
+    "Items": [
+      "GN_ViolinSolo",
+      "XT_Dreaming"
+    ],
+    "artist": "Olivia Rodrigo",
+    "genres": 0,
+    "spotId": "1dyfBMMklpbqRbuvjnVwap",
+    "couname": "teenage dream",
+    "duration": "222358"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e179d5018401c59559b393ec",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "YR7079",
+      "XT_Dreaming"
+    ],
+    "artist": "T. Rex",
+    "genres": 0,
+    "spotId": "1x1GWjkC2ND0Z58JIvY0py",
+    "couname": "Teenage Dream",
+    "duration": "345613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27369e38d6b1098e14b2e5bfa00",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Dreaming"
+    ],
+    "artist": "Enchanted Steel",
+    "genres": 0,
+    "spotId": "6ieKpgGZVwG1t7HYUQAnfZ",
+    "couname": "The Dream",
+    "duration": "218270"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d683253a86cdeefea2341ad0",
+    "pty": 0,
+    "Items": [
+      "TV_March",
+      "XT_Dreaming"
+    ],
+    "artist": "Enemy At The Gates - Original Motion Picture Soundtrack - James Horner",
+    "genres": 0,
+    "spotId": "5f89suD5wD79ojlE3i6w5s",
+    "couname": "The Dream",
+    "duration": "155973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735c21d73934bb9760a2f791a2",
+    "pty": 0,
+    "Items": [
+      "BT_FrankSinatra",
+      "XT_Dreaming"
+    ],
+    "artist": "Frank Sinatra",
+    "genres": 0,
+    "spotId": "7vySXLEg91xiAi8J0Qiqwv",
+    "couname": "The Impossible Dream",
+    "duration": "151266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27389669f1b4857bb0f936c1d62",
+    "pty": 0,
+    "Items": [
+      "BT_ElvisPresley",
+      "XT_Dreaming"
+    ],
+    "artist": "Elvis Presley",
+    "genres": 0,
+    "spotId": "0OmjCsBnAhdqDkWKUCEP30",
+    "couname": "The Impossible Dream",
+    "duration": "155266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27344a8eefeebef6d26c807cde1",
+    "pty": 0,
+    "Items": [
+      "BT_JohnWilliams",
+      "XT_Dreaming"
+    ],
+    "artist": "The BFG (Original Motion Picture Soundtrack) - John Williams",
+    "genres": 0,
+    "spotId": "2Ldv8NVyhDBZg7BiXxbiG2",
+    "couname": "The Queen's Dream",
+    "duration": "188346"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736da2b2eadb488d2eb0c7d409",
+    "pty": 0,
+    "Items": [
+      "BT_JohnWilliams",
+      "XT_Dreaming"
+    ],
+    "artist": "Lincoln (Original Motion Picture Soundtrack) - John Williams,Chicago Symphony Orchestra",
+    "genres": 0,
+    "spotId": "7IlBpvUpcegSBIwPgAaE62",
+    "couname": "The Southern Delegation and the Dream",
+    "duration": "283600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cc0561d9d52d426161e808da",
+    "pty": 0,
+    "Items": [
+      "TV_Dreamworks",
+      "XT_Dreaming"
+    ],
+    "artist": "Sutton Foster,Brian D'Arcy James,Daniel Breaker",
+    "genres": 0,
+    "spotId": "6sgFTeOzA48AnRuO4X5qE8",
+    "couname": "This Is How A Dream Comes True",
+    "duration": "191240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b3d0bf02a5fb2f676c748432",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "GN_Piano",
+      "XT_LongSongs",
+      "XT_Water",
+      "XT_Dreaming"
+    ],
+    "artist": "Miracle Musical",
+    "genres": 0,
+    "spotId": "3RznzRnsl8mzP63l4AF2M7",
+    "couname": "Dream Sweet in Sea Major",
+    "duration": "420012"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fd783d3d0fdd01cf59885232",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "YR6069",
+      "XT_Dreaming"
+    ],
+    "artist": "Max Romeo",
+    "genres": 0,
+    "spotId": "2b5OSYGfJZfJiRPLiD1ySg",
+    "couname": "Wet Dream",
+    "duration": "160600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27385fe6a0c3ab94e49692ca8d6",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Baby",
+      "YR7079",
+      "XT_Dreaming"
+    ],
+    "artist": "Glen Campbell",
+    "genres": 0,
+    "spotId": "04EAYIbpJ8Ec6EprgLkLHY",
+    "couname": "Dream Baby",
+    "duration": "154040"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738dd1d985c7424c5ab960f670",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Dreaming"
+    ],
+    "artist": "Edguy",
+    "genres": 0,
+    "spotId": "0BVIgxwdPGVkCft1qWIoR0",
+    "couname": "Wings of a Dream",
+    "duration": "323706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fe6a98e875958c7d7080584e",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "XT_BodyParts",
+      "YR1019",
+      "XT_Dreaming"
+    ],
+    "artist": "Alicia Keys",
+    "genres": 0,
+    "spotId": "1yK9LISg5uBOOW5bT2Wm0i",
+    "couname": "Try Sleeping with a Broken Heart",
+    "duration": "249013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273622025d6c7336995f075f076",
+    "pty": 0,
+    "Items": [
+      "XT_BodyParts",
+      "XT_Cars",
+      "XT_Oscars",
+      "XT_Dreaming"
+    ],
+    "artist": "Mice Chorus",
+    "genres": 0,
+    "spotId": "1LWGKZyhVvASfhB5e8uL0T",
+    "couname": "Little Dressmakers / The Work Song / Scavenger Hunt /A Dream Is A Wish Your Heart Makes / The Dress / My Beads / Escape To The Garden",
+    "duration": "564400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b029dd02a95c20b48acb2f15",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "YR1019",
+      "XT_Dreaming"
+    ],
+    "artist": "Ash",
+    "genres": 0,
+    "spotId": "2TRpAssfsyWFbJTK2VYUnE",
+    "couname": "Dare to Dream",
+    "duration": "308586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273580a876766f21fc3a8235019",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "XT_Love",
+      "XT_Dreaming"
+    ],
+    "artist": "The Monkees",
+    "genres": 0,
+    "spotId": "2lBaYVylWfyqgQ4Wu97EKk",
+    "couname": "Love Is Only Sleeping",
+    "duration": "150546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273906376f4be95477c8926ac0a",
+    "pty": 0,
+    "Items": [
+      "TV_Tomorrowland",
+      "YR1019",
+      "XT_Dreaming"
+    ],
+    "artist": "Fatboy Slim,Riva Starr,Beardyman",
+    "genres": 0,
+    "spotId": "2a0oejjkl0jI40ZTu035ZH",
+    "couname": "Eat Sleep Rave Repeat",
+    "duration": "326250"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732abd624eb4087a6feecf9c25",
+    "pty": 0,
+    "Items": [
+      "BT_ElvisPresley",
+      "YR7079",
+      "XT_Dreaming"
+    ],
+    "artist": "Elvis Presley",
+    "genres": 0,
+    "spotId": "3FyYXJlsGz4OqnqyfFLe2u",
+    "couname": "If You Talk in Your Sleep",
+    "duration": "148186"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27386ca0aa4504a8d6c2a9abe4a",
+    "pty": 0,
+    "Items": [
+      "XT_Cars",
+      "XT_Oscars",
+      "XT_Dreaming"
+    ],
+    "artist": "Pied Pipers",
+    "genres": 0,
+    "spotId": "4GiTMfMQYEOMKKq5GFcxvN",
+    "couname": "I'll Buy That Dream",
+    "duration": "136733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273705cd66d6cc175506bd826ee",
+    "pty": 0,
+    "Items": [
+      "XT_Intros",
+      "YR0009",
+      "XT_Dreaming"
+    ],
+    "artist": "S Club",
+    "genres": 0,
+    "spotId": "0fIG0HBRIjLRNDHAogtwSB",
+    "couname": "Never Had A Dream Come True",
+    "duration": "240492"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "CT_Norway",
+      "YR1019",
+      "XT_Dreaming"
+    ],
+    "artist": "Alan Walker",
+    "genres": 0,
+    "spotId": "1tfVpMI8G6EakZU4rEja4w",
+    "couname": "Sing Me to Sleep",
+    "duration": "187800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733c2579a4f8cacd5b95b8fa68",
+    "pty": 0,
+    "Items": [
+      "XT_Fire",
+      "XT_Intros",
+      "XT_Dreaming"
+    ],
+    "artist": "Rage Against The Machine",
+    "genres": 0,
+    "spotId": "1MQTmpYOZ6fcMQc56Hdo7T",
+    "couname": "Sleep Now In the Fire",
+    "duration": "205600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273783b6ba936be66726ec266d0",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Dreaming"
+    ],
+    "artist": "Iron Savior",
+    "genres": 0,
+    "spotId": "5qYOOA8leO6uRzIrAyWoIn",
+    "couname": "Deadly Sleep",
+    "duration": "309360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739bb82a861e3041679e1910f3",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Gold",
+      "YR8089",
+      "XT_Dreaming"
+    ],
+    "artist": "Simple Minds",
+    "genres": 0,
+    "spotId": "4hvrLEqMHWR4troGbku7ZV",
+    "couname": "New Gold Dream",
+    "duration": "339480"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d64e732971e9eaa113dd2a0f",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "TV_OneHit",
+      "XT_MoonStars",
+      "YR9099",
+      "XT_Dreaming"
+    ],
+    "artist": "Tasmin Archer",
+    "genres": 0,
+    "spotId": "3WSyYBhLZRLbQo2tJgFvSR",
+    "couname": "Sleeping Satellite",
+    "duration": "281853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e5c202bca392a348666b5d41",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_Colors",
+      "XT_Dreaming"
+    ],
+    "artist": "Fancy Hagood,Kacey Musgraves",
+    "genres": 0,
+    "spotId": "2cHjdUBcdnnCGdubhCmLbM",
+    "couname": "Blue Dream Baby",
+    "duration": "176427"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731e9bc9c5c5a2ea6ee1bae8b1",
+    "pty": 0,
+    "Items": [
+      "GN_Disco",
+      "TV_OneHit",
+      "XT_Dreaming"
+    ],
+    "artist": "Silver Pozzoli",
+    "genres": 0,
+    "spotId": "5B3TMEr7VXZ2zQaEaTB9M6",
+    "couname": "Around My Dream",
+    "duration": "215360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273653c6792115b503794422a19",
+    "pty": 0,
+    "Items": [
+      "TV_BreakingBad",
+      "XT_Running",
+      "XT_Dreaming"
+    ],
+    "artist": "Chick Hall Jr.",
+    "genres": 0,
+    "spotId": "2cLootu4kzwlAnSxd8w2ZH",
+    "couname": "Sleep Walk",
+    "duration": "359933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a01236b5eb3f4f460a591fc0",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Gambling",
+      "XT_Dreaming"
+    ],
+    "artist": "Dick Sutphen",
+    "genres": 0,
+    "spotId": "55nt9cAZZLnENoAsjOQhsE",
+    "couname": "Win At Poker Sleep Programming",
+    "duration": "1590857"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d4f8a582c0c3a3d67f395c6d",
+    "pty": 0,
+    "Items": [
+      "BT_FrankSinatra",
+      "XT_Dreaming"
+    ],
+    "artist": "Frank Sinatra",
+    "genres": 0,
+    "spotId": "0uPvnhU6hNx8O4M79x8hyN",
+    "couname": "Deep In A Dream",
+    "duration": "169373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732f851681d8eda3dcc5ee5340",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "Female",
+      "XT_Cars",
+      "XT_Dreaming"
+    ],
+    "artist": "Melissa Etheridge",
+    "genres": 0,
+    "spotId": "183l4Fj64wXi13iGVL9iKb",
+    "couname": "You Can Sleep While I Drive",
+    "duration": "195000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e03ac354548f9821fd1c8202",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_MoonStars",
+      "XT_Dreaming"
+    ],
+    "artist": "Samara Joy",
+    "genres": 0,
+    "spotId": "6Gr1sxmN6CrLbudpzx3ZHQ",
+    "couname": "You Stepped Out Of A Dream",
+    "duration": "275080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed351f991c38eef8c7607a9c",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Numbers",
+      "XT_Dreaming"
+    ],
+    "artist": "Good Charlotte",
+    "genres": 0,
+    "spotId": "5jzlzg5XE62ztrtwnZCwkR",
+    "couname": "40 oz. Dream",
+    "duration": "200742"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a35739609ef0720d8ac626bc",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_MoonStars",
+      "XT_Dreaming"
+    ],
+    "artist": "Belle and Sebastian",
+    "genres": 0,
+    "spotId": "1UayaMUzw3Cc6WyBCSCKWM",
+    "couname": "A Space Boy Dream",
+    "duration": "181960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d31792abc205d3349c1aa98b",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Numbers",
+      "XT_Dreaming"
+    ],
+    "artist": "Scarlxrd",
+    "genres": 0,
+    "spotId": "19ivKFjf4nq5VtI8vFzC5G",
+    "couname": "angels sleep at FXURAM",
+    "duration": "137076"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27393729238ef1ca889e9585a0e",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "NULL",
+      "XT_Names",
+      "XT_Dreaming"
+    ],
+    "artist": "James Taylor",
+    "genres": 0,
+    "spotId": "52yNglQvFD0UL8kOIM5FsS",
+    "couname": "Captain Jim's Drunken Dream",
+    "duration": "243546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730c76b180976b441162fb1e41",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_MoonStars",
+      "XT_Dreaming"
+    ],
+    "artist": "Clifford Brown All Stars,Dinah Washington",
+    "genres": 0,
+    "spotId": "6WW6yltU2ZCBGu9PSlzyuI",
+    "couname": "Darn That Dream",
+    "duration": "316506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27363ba28618944eeb79d994fb6",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_MoonStars",
+      "XT_Dreaming"
+    ],
+    "artist": "Sarah Vaughan",
+    "genres": 0,
+    "spotId": "4gouRFyfyQAmmgxPWF9gLB",
+    "couname": "Darn That Dream",
+    "duration": "225360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f6966e6712e24e1e30409d78",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_MoonStars",
+      "XT_Dreaming"
+    ],
+    "artist": "Amber Leigh Irish",
+    "genres": 0,
+    "spotId": "1dDq4lnZ4zhwwPJeiF6PoB",
+    "couname": "Dream A Little Dream Of Me",
+    "duration": "108426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fa801a4035231185d97ab1a8",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_LongSongs",
+      "XT_Dreaming"
+    ],
+    "artist": "Dominik Eulberg,Essáy",
+    "genres": 0,
+    "spotId": "5ekNKqNTF8reaoGIzT2J5j",
+    "couname": "Dream Machine",
+    "duration": "507417"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27384286fef732c9cf75ec7517a",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Intros",
+      "XT_Dreaming"
+    ],
+    "artist": "Gregg Bissonette,Paul Taylor,Ronnie James Dio,Stuart Hamm,Yngwie Malmsteen",
+    "genres": 0,
+    "spotId": "0cMnTQQfuL10cHQilKBV3L",
+    "couname": "Dream On",
+    "duration": "270053"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27303efb2be04041c1f0a3de375",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_OffAnimals",
+      "XT_Dreaming"
+    ],
+    "artist": "The Sweet Enoughs",
+    "genres": 0,
+    "spotId": "0JuXNcbA4jqJgDzIO90f1D",
+    "couname": "Dream Puppy",
+    "duration": "339746"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739ed8e3c5e70bd1215077a499",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_LongSongs",
+      "XT_Dreaming"
+    ],
+    "artist": "Snoqualmie Falls",
+    "genres": 0,
+    "spotId": "48JeB8J2Y2IlnWsQ2DjlkM",
+    "couname": "Dream Sequence",
+    "duration": "3552000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739906e7ba8214cab60e84fba7",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_LongSongs",
+      "XT_Dreaming"
+    ],
+    "artist": "Max Richter",
+    "genres": 0,
+    "spotId": "44XhFYAfvkOnstOYrfZPba",
+    "couname": "Dream Solo",
+    "duration": "414306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ac7c0325432b657712f09d7c",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_LongSongs",
+      "XT_Dreaming"
+    ],
+    "artist": "Propaganda",
+    "genres": 0,
+    "spotId": "6QMmJ0UPPlgKQb4mPEpdlV",
+    "couname": "Dream Within a Dream",
+    "duration": "483946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d3da2c80a243efe49e9acd20",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Colors",
+      "XT_Dreaming"
+    ],
+    "artist": "Dave Barnes",
+    "genres": 0,
+    "spotId": "680DQctfdFDsuO0Dt1QV3a",
+    "couname": "Dreaming in Electric Blue",
+    "duration": "192005"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ff2867990f8c7fae38d68cd0",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_LongSongs",
+      "XT_Dreaming"
+    ],
+    "artist": "Roger Hodgson",
+    "genres": 0,
+    "spotId": "37yEfFkY54AijZUjDv0gAl",
+    "couname": "Had A Dream",
+    "duration": "506146"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bb84afa8b7d9e49a912e5772",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Intros",
+      "XT_Dreaming"
+    ],
+    "artist": "Pretenders",
+    "genres": 0,
+    "spotId": "4cBSJKXHyxXUD360KscFou",
+    "couname": "I Go to Sleep",
+    "duration": "176786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273207aae6f72fcc34268db314b",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_MoonStars",
+      "XT_Dreaming"
+    ],
+    "artist": "Passenger",
+    "genres": 0,
+    "spotId": "47mouGTKibhdzYVM2IykqK",
+    "couname": "Let Me Dream a While",
+    "duration": "221466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734ecc5c5facad61c8e5e12ad3",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_MoonStars",
+      "XT_Dreaming"
+    ],
+    "artist": "Samara Joy",
+    "genres": 0,
+    "spotId": "6CAKV2Z05DpkBA5lb0yxX9",
+    "couname": "Let's Dream in the Moonlight",
+    "duration": "166613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f7ede1086946f1996538b952",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "NULL",
+      "XT_Names",
+      "XT_Dreaming"
+    ],
+    "artist": "Paralysed Age",
+    "genres": 0,
+    "spotId": "2rC1Llqbxcqz68PkDbKBbE",
+    "couname": "Morella's Sleep",
+    "duration": "346693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27300a4318faa930d1136fd35cd",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_LongSongs",
+      "XT_Dreaming"
+    ],
+    "artist": "Solomun,&ME,Adam Port,Keinemusik,Rampa",
+    "genres": 0,
+    "spotId": "3LwZ0ernvIRIkhdHgAYY4q",
+    "couname": "Never Sleep Again",
+    "duration": "432360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739511a0dbed92972cde838580",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_LongSongs",
+      "XT_Dreaming"
+    ],
+    "artist": "Loren Nerell",
+    "genres": 0,
+    "spotId": "0HYo5ORPhqYvxlWUFyallz",
+    "couname": "Persistence of Dream Imagery",
+    "duration": "510720"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ccdbf1305a79253845c73a6d",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Places",
+      "XT_Dreaming"
+    ],
+    "artist": "Angus & Julia Stone",
+    "genres": 0,
+    "spotId": "0BzeDjjZIyO45P40OThMJw",
+    "couname": "Santa Monica Dream",
+    "duration": "330200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a495b714535a807e22dbb416",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_MoonStars",
+      "XT_Dreaming"
+    ],
+    "artist": "The Softies",
+    "genres": 0,
+    "spotId": "3eoEzfxSkvuxU1SxRaWzlO",
+    "couname": "Sleep Away Your Troubles",
+    "duration": "209386"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734bea863a67e46383c1cfa501",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Water",
+      "XT_Dreaming"
+    ],
+    "artist": "Kyle Lionhart",
+    "genres": 0,
+    "spotId": "2vSYmvbXodsBVZKdWwKa2m",
+    "couname": "Sleep By Rivers",
+    "duration": "241023"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325ea41f44067a4a3d9249469",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_OffAnimals",
+      "XT_Dreaming"
+    ],
+    "artist": "PUP",
+    "genres": 0,
+    "spotId": "1E5NBV9A2q5muqAF2dzBW6",
+    "couname": "Sleep In The Heat",
+    "duration": "201520"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27359ba80a8249aea7f2cae1be5",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Colors",
+      "XT_Dreaming"
+    ],
+    "artist": "Colter Wall",
+    "genres": 0,
+    "spotId": "3Ozx6IrGdoQyAworJzvBDE",
+    "couname": "Sleeping on the Blacktop",
+    "duration": "192480"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27316ebaecd31a04e59b38cc40c",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_LongSongs",
+      "XT_Dreaming"
+    ],
+    "artist": "Grizzly Bear,Nicolas Jaar",
+    "genres": 0,
+    "spotId": "5ldkk1ePEy15jW4YxyYlZ6",
+    "couname": "Sleeping Ute",
+    "duration": "468973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273522088789d49e216d9818292",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "XT_Water",
+      "XT_Weather",
+      "XT_Dreaming"
+    ],
+    "artist": "Jimi Hendrix",
+    "genres": 0,
+    "spotId": "0xwG5stzrc5B70TycPwenY",
+    "couname": "Rainy Day, Dream Away",
+    "duration": "222066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733e2331ff09f59ea3c87fe5d6",
+    "pty": 0,
+    "Items": [
+      "BT_FrankSinatra",
+      "XT_Dreaming"
+    ],
+    "artist": "Frank Sinatra",
+    "genres": 0,
+    "spotId": "3xECpnbOGGMmjIORf0x5bs",
+    "couname": "Don't Sleep In The Subway",
+    "duration": "139440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27377b2be898ac1ae1e3ffe3141",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "YR6069",
+      "XT_Dreaming"
+    ],
+    "artist": "Petula Clark",
+    "genres": 0,
+    "spotId": "5TUFEcY4OELag7g2TkLyU9",
+    "couname": "Don't Sleep In the Subway",
+    "duration": "175707"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734faa8fb8b658aa02b50bd4b5",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Dreaming"
+    ],
+    "artist": "Fireland",
+    "genres": 0,
+    "spotId": "5R2tAizNucgBDPJNC098yQ",
+    "couname": "Dream",
+    "duration": "278874"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736b08fca07668230f4b583300",
+    "pty": 0,
+    "Items": [
+      "BT_FrankSinatra",
+      "XT_Dreaming"
+    ],
+    "artist": "Frank Sinatra",
+    "genres": 0,
+    "spotId": "3PvYpbXFilYCRmpp5s7wNt",
+    "couname": "Dream",
+    "duration": "175253"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b456a40950e65ed3d4807131",
+    "pty": 0,
+    "Items": [
+      "BT_HansZimmer",
+      "XT_Dreaming"
+    ],
+    "artist": "The Holiday (Original Motion Picture Soundtrack) - Hans Zimmer",
+    "genres": 0,
+    "spotId": "2VGJEJWeJMh031jZanajvc",
+    "couname": "Dream Kitchen",
+    "duration": "95826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27349fb09eb93f76a5805b8f485",
+    "pty": 0,
+    "Items": [
+      "BT_HansZimmer",
+      "XT_Dreaming"
+    ],
+    "artist": "Dune (Original Motion Picture Soundtrack) - Hans Zimmer",
+    "genres": 0,
+    "spotId": "5maXVyAZAkkB3Cf0vca9CY",
+    "couname": "Dream of Arrakis",
+    "duration": "188746"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738755c3d1e98b6ea9c0f3ba4c",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Dreaming"
+    ],
+    "artist": "Tales Of Evening",
+    "genres": 0,
+    "spotId": "4b90RCBVQyB9i2AQHfdphc",
+    "couname": "Dreaming Again",
+    "duration": "248733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ac29a65e7ffcfa6f9cb0d342",
+    "pty": 0,
+    "Items": [
+      "BT_HansZimmer",
+      "XT_Dreaming"
+    ],
+    "artist": "Interstellar (Original Motion Picture Soundtrack) [Expanded Edition] - Hans Zimmer",
+    "genres": 0,
+    "spotId": "2dDuHXxFxLsdYdBBtgjoEi",
+    "couname": "Dreaming of the Crash",
+    "duration": "235837"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738986a2f19e95ddbd99c8424a",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "YR7079",
+      "XT_Dreaming"
+    ],
+    "artist": "Liverpool Express",
+    "genres": 0,
+    "spotId": "5eQfu6gUpYsFJTsSLVc9Jc",
+    "couname": "Every Man Must Have A Dream",
+    "duration": "238853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f4552c8b8298ae9931bd86ab",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Dreaming"
+    ],
+    "artist": "Magistarium",
+    "genres": 0,
+    "spotId": "2dORfaXrTrOEbqd8jB6xuB",
+    "couname": "Follow Your Dream",
+    "duration": "323863"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b",
+    "pty": 0,
+    "Items": [
+      "YR1019",
+      "XT_Dreaming"
+    ],
+    "artist": "A$AP Rocky,FKA twigs",
+    "genres": 0,
+    "spotId": "1AqemxWsT0iGg5Lvkm16Bt",
+    "couname": "Fukk Sleep",
+    "duration": "192973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a3046156af52fef237932391",
+    "pty": 0,
+    "Items": [
+      "BT_JohnWilliams",
+      "XT_Dreaming"
+    ],
+    "artist": "Heartbeeps (Original Motion Picture Soundtrack) - John Williams",
+    "genres": 0,
+    "spotId": "4BR6GMDqhNUZaTlE5E6IyC",
+    "couname": "Going To Sleep",
+    "duration": "213040"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a883e26f90ab617c91b90e56",
+    "pty": 0,
+    "Items": [
+      "BT_HansZimmer",
+      "XT_Dreaming"
+    ],
+    "artist": "Inception (Music from the Motion Picture) - Hans Zimmer",
+    "genres": 0,
+    "spotId": "7DU7DNVDZouvJ34tPcPxBj",
+    "couname": "Half Remembered Dream",
+    "duration": "71956"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738f4b5df3a6ee2abb733080a9",
+    "pty": 0,
+    "Items": [
+      "GN_FrenchElectro",
+      "XT_Dreaming"
+    ],
+    "artist": "Justice",
+    "genres": 0,
+    "spotId": "5Uk1huyqQjCVocc70bgTUF",
+    "couname": "Harpy dream",
+    "duration": "28226"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2737158d3ceec7cdeaa3d3e2f97",
     "pty": 0,
     "Items": [
@@ -28,6 +1988,128 @@
     "spotId": "0mtUvL8w3vQiMm93AfnRpO",
     "couname": "Welcome to My Nightmare",
     "duration": "320640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27340cf6d7e6353abac2fb22b7c",
+    "pty": 0,
+    "Items": [
+      "YR0009",
+      "XT_Dreaming"
+    ],
+    "artist": "Jesse McCartney,Ludacris",
+    "genres": 0,
+    "spotId": "3jkdQNkDTxxXtjSO4l0o1H",
+    "couname": "How Do You Sleep?",
+    "duration": "208333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732363f794af17d154dc17bbb6",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Dreaming"
+    ],
+    "artist": "GALNERYUS",
+    "genres": 0,
+    "spotId": "0jXK4Xy4LAEKFgRiTr3M7w",
+    "couname": "HUNTING FOR YOUR DREAM",
+    "duration": "324480"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737e9e532b33af4d18f3d0bd9c",
+    "pty": 0,
+    "Items": [
+      "BT_JohnWilliams",
+      "XT_Dreaming"
+    ],
+    "artist": "Memoirs of a Geisha (Remastered) - John Williams,Yo-Yo Ma,Itzhak Perlman",
+    "genres": 0,
+    "spotId": "3yrtuTSeSTKcdxOf99DlRE",
+    "couname": "A Dream Discarded",
+    "duration": "120133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d912a247dab784a4b9f69a9a",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "YR7079",
+      "XT_Dreaming"
+    ],
+    "artist": "The Osmonds",
+    "genres": 0,
+    "spotId": "19AnvL6YoixPuq48bMzSXY",
+    "couname": "I Can't Live A Dream",
+    "duration": "172960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273395c957cae20aeb1fd4008e9",
+    "pty": 0,
+    "Items": [
+      "YR1019",
+      "XT_Dreaming"
+    ],
+    "artist": "Glee Cast,Idina Menzel",
+    "genres": 0,
+    "spotId": "4QDo30WQZZJle0Up1mC8ez",
+    "couname": "I Dreamed A Dream",
+    "duration": "188133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27326983d97e1e27a35a4abe98a",
+    "pty": 0,
+    "Items": [
+      "TV_Mafia",
+      "XT_Dreaming"
+    ],
+    "artist": "Sonic Youth",
+    "genres": 0,
+    "spotId": "3ZSBXMcdSXbTnsivHfkb1e",
+    "couname": "I Dreamed I Dream",
+    "duration": "314040"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273525feb64b8c90fa8fff368ef",
+    "pty": 0,
+    "Items": [
+      "BT_FrankSinatra",
+      "XT_Dreaming"
+    ],
+    "artist": "Frank Sinatra",
+    "genres": 0,
+    "spotId": "22NerUNju5S6H7wKntz9zn",
+    "couname": "I Had The Craziest Dream",
+    "duration": "195093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735f96e866b646da41248009d0",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "Female",
+      "BT_ABBA",
+      "XT_Dreaming"
+    ],
+    "artist": "ABBA",
+    "genres": 0,
+    "spotId": "4yJKVscBjaenEWE0rMYNX4",
+    "couname": "Dream World",
+    "duration": "216200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736acdb1c48aeeb2ed5435b36a",
+    "pty": 0,
+    "Items": [
+      "YR1019",
+      "XT_Dreaming"
+    ],
+    "artist": "Terry Venables",
+    "genres": 0,
+    "spotId": "5r3lJ18UdUaidq8wMr0n9K",
+    "couname": "If I Can Dream",
+    "duration": "188952"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273d18fa8f63707115cb1b38f65",
@@ -72,6 +2154,60 @@
     "spotId": "6Xfvk73gSCk768QSHcT78B",
     "couname": "Monday",
     "duration": "177693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736d00cb42d7c7dec2487157ec",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Female",
+      "YR9099",
+      "XT_Dreaming"
+    ],
+    "artist": "The Corrs",
+    "genres": 0,
+    "spotId": "36DztiNpSIH5ZHTwmqthHW",
+    "couname": "Only When I Sleep",
+    "duration": "261413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734a9cb923dba2bba347ddb365",
+    "pty": 0,
+    "Items": [
+      "BT_HansZimmer",
+      "XT_Dreaming"
+    ],
+    "artist": "The Dune Sketchbook (Music from the Soundtrack) - Hans Zimmer",
+    "genres": 0,
+    "spotId": "1Qr17u2S9kNDzTeWAJCY5N",
+    "couname": "Paul's Dream",
+    "duration": "423310"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e500cc1bdae92052a3c11cbf",
+    "pty": 0,
+    "Items": [
+      "GN_Disco",
+      "XT_Dreaming"
+    ],
+    "artist": "Aldo Bergamachine",
+    "genres": 0,
+    "spotId": "7fdfRaVdkyheun62BMDLth",
+    "couname": "Sequenzer Dream",
+    "duration": "276840"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27308e3f7f988a1685fd16d00cb",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "XT_Dreaming"
+    ],
+    "artist": "Sandro Brugnolini",
+    "genres": 0,
+    "spotId": "54va6BEMi0UbEelkAKOW3u",
+    "couname": "Adrie's Dream",
+    "duration": "196964"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273e76fb59d64aa5817a48642c2",
@@ -190,6 +2326,21 @@
     "spotId": "4NR9l4ca4iOJ93sJX37IeT",
     "couname": "Dream Baby Dream",
     "duration": "193190"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ff2b8f3e3482f9375ca347e5",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_BodyParts",
+      "YR1019",
+      "XT_Dreaming"
+    ],
+    "artist": "Chris Brown",
+    "genres": 0,
+    "spotId": "6dlpABcXrQKRU9G00i6Zba",
+    "couname": "Back To Sleep",
+    "duration": "201253"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273db0c45ed72295e906b0f5847",
@@ -767,6 +2918,21 @@
     "duration": "147320"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bc0e1b686e5d098b1ecdbd96",
+    "pty": 0,
+    "Items": [
+      "GN_SurfRock",
+      "TV_Halloween",
+      "XT_Running",
+      "XT_Dreaming"
+    ],
+    "artist": "Santo & Johnny",
+    "genres": 0,
+    "spotId": "0yK8sWD6cfrc7pGfaPIcZH",
+    "couname": "Sleep Walk",
+    "duration": "145333"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2736811d4dc78f72315abe34553",
     "pty": 0,
     "Items": [
@@ -870,6 +3036,21 @@
     "spotId": "3v8vsQfMQio7ohYqFrEsaZ",
     "couname": "Get Outta My Dreams, Get into My Car",
     "duration": "333506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273616124ed53e49110f364e7b8",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "YR0009",
+      "YR1019",
+      "XT_Dreaming"
+    ],
+    "artist": "Nelly",
+    "genres": 0,
+    "spotId": "7pYPpFhFyOwCjf4y7vdJqM",
+    "couname": "Just A Dream",
+    "duration": "237800"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273676a8230a422123e8012557e",
@@ -1659,6 +3840,22 @@
     "duration": "77866"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d775127dbc0d8372bd600473",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "Female",
+      "XT_Colors",
+      "XT_Dreaming"
+    ],
+    "artist": "Parlor Greens",
+    "genres": 0,
+    "spotId": "0tttplHe3XETaXTmW1hMdm",
+    "couname": "In Green We Dream",
+    "duration": "180314"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2731f9edf15e43f4c2f4938b869",
     "pty": 0,
     "Items": [
@@ -1876,6 +4073,54 @@
     "duration": "477026"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d92afcf66072c83e4b28c6bb",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "NULL",
+      "XT_Names",
+      "XT_Dreaming"
+    ],
+    "artist": "Bleachers",
+    "genres": 0,
+    "spotId": "5HDcQM2yGnrtHjcYKjp3x4",
+    "couname": "Dream Of Mickey Mantle",
+    "duration": "190306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d44a999cc1401f969be0e735",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "NULL",
+      "XT_Names",
+      "XT_Dreaming"
+    ],
+    "artist": "Superet",
+    "genres": 0,
+    "spotId": "5ExaMDn2nYH1mMKkMu6veR",
+    "couname": "Go to Sleep Kimberly",
+    "duration": "211760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f9b5b23a53f77bebe0283a18",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_BodyParts",
+      "XT_Numbers",
+      "XT_Dreaming"
+    ],
+    "artist": "Bring Me The Horizon",
+    "genres": 0,
+    "spotId": "6IBoR5zsm66ZcZb5tRTLFY",
+    "couname": "Sleep with One Eye Open",
+    "duration": "256279"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2738d117d336dcea0784975a683",
     "pty": 0,
     "Items": [
@@ -1946,6 +4191,86 @@
     "duration": "210146"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ac33194263e55445f9620bc1",
+    "pty": 0,
+    "Items": [
+      "TV_Halloween",
+      "XT_Dreaming"
+    ],
+    "artist": "Danny Elfman",
+    "genres": 0,
+    "spotId": "28zObxfYNIGCialPXX1vio",
+    "couname": "Clown Dream",
+    "duration": "118933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27376bc1c851462191faec76bf8",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Questions",
+      "YR1019",
+      "XT_Dreaming"
+    ],
+    "artist": "Sam Smith",
+    "genres": 0,
+    "spotId": "6b2RcmUt1g9N9mQ3CbjX2Y",
+    "couname": "How Do You Sleep?",
+    "duration": "202204"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27339355c4b2d3c99ae1ff5f5b6",
+    "pty": 0,
+    "Items": [
+      "GN_DrumSolo",
+      "XT_Dreaming"
+    ],
+    "artist": "Asaf Sirkis",
+    "genres": 0,
+    "spotId": "7yeptms13BcYZULsy0bbl2",
+    "couname": "Dream",
+    "duration": "412626"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d9b5b520bc564acb605ce885",
+    "pty": 0,
+    "Items": [
+      "TV_BreakingBad",
+      "XT_Dreaming"
+    ],
+    "artist": "Billy Munn",
+    "genres": 0,
+    "spotId": "7p675s08qj5XY9oufILDfc",
+    "couname": "Dream Away",
+    "duration": "161675"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273860a3b044d1715635ad2bad7",
+    "pty": 0,
+    "Items": [
+      "XT_Love",
+      "XT_Dreaming"
+    ],
+    "artist": "Dion",
+    "genres": 0,
+    "spotId": "5UvR3VWxfVVKMgGrD3XZVj",
+    "couname": "Dream Lover",
+    "duration": "138666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735582bacdc2419163472f816b",
+    "pty": 0,
+    "Items": [
+      "GN_DrumSolo",
+      "XT_Dreaming"
+    ],
+    "artist": "Stéphane Huchard,Minino Garay",
+    "genres": 0,
+    "spotId": "22goxYkgI31IxT4A81V21U",
+    "couname": "Dream Solo",
+    "duration": "108729"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2734b7e46bad616ce961f3dae39",
     "pty": 0,
     "Items": [
@@ -1970,6 +4295,59 @@
     "spotId": "7iuRYQZwB0VIDGQ5zbUDT6",
     "couname": "In The Wee Small Hours Of The Morning",
     "duration": "160866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734980706eafeb23db39bc7ef8",
+    "pty": 0,
+    "Items": [
+      "TV_Themes",
+      "XT_Dreaming"
+    ],
+    "artist": "TV Theme Song Library",
+    "genres": 0,
+    "spotId": "62dkb5ngH45ILLtFgx6sFH",
+    "couname": "I Dream of Jeannie: Theme From I Dream of Jeannie",
+    "duration": "70904"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27392e49170ce5ba7e1bbb334d2",
+    "pty": 0,
+    "Items": [
+      "XT_Running",
+      "XT_Dreaming"
+    ],
+    "artist": "Belle and Sebastian",
+    "genres": 0,
+    "spotId": "4Kqu327Buu779NNKFPD59Y",
+    "couname": "Judy And The Dream Of Horses",
+    "duration": "221533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734de44f32761da749dad776d9",
+    "pty": 0,
+    "Items": [
+      "TV_Halloween",
+      "XT_Dreaming"
+    ],
+    "artist": "Bloody Hammers",
+    "genres": 0,
+    "spotId": "7gIs1Ue6FogVrKVmK7Eajj",
+    "couname": "Let Sleeping Corpses Lie",
+    "duration": "316384"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27348f37dcf1772fcb170d658c0",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_AboutTime",
+      "XT_Dreaming"
+    ],
+    "artist": "John Mellencamp",
+    "genres": 0,
+    "spotId": "3DypQH6LxR82yjCL6BNUoS",
+    "couname": "Save Some Time To Dream",
+    "duration": "270320"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273407e22b9c58a188a2bf46040",
@@ -2000,6 +4378,32 @@
     "duration": "321173"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c07098e53b59de441c9ce98",
+    "pty": 0,
+    "Items": [
+      "TV_Themes",
+      "XT_Dreaming"
+    ],
+    "artist": "TV Theme Song Maniacs",
+    "genres": 0,
+    "spotId": "6BCV23kVtJXuXah3R8UhKg",
+    "couname": "Theme From I Dream of Jeannie",
+    "duration": "70904"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cab7e2e30053a7a27156837c",
+    "pty": 0,
+    "Items": [
+      "TV_Halloween",
+      "XT_Dreaming"
+    ],
+    "artist": "Juliàn",
+    "genres": 0,
+    "spotId": "5Jg4oCMhOwLyNByq1AxDuj",
+    "couname": "Vampire's Dream",
+    "duration": "120000"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b27354aafca9cc0f52a7ea059fd2",
     "pty": 0,
     "Items": [
@@ -2014,6 +4418,53 @@
     "spotId": "0FoB9BAV7B2Kv6NxOFZtSO",
     "couname": "When You Close Your Eyes",
     "duration": "256506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273982bd110b3bef1f5a806209b",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "NULL",
+      "XT_Youth",
+      "XT_Dreaming"
+    ],
+    "artist": "Glee Cast",
+    "genres": 0,
+    "spotId": "2Igc5kWSzeztCCZInea9Mf",
+    "couname": "Teenage Dream",
+    "duration": "225346"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739b911cd7562a8009e2202fb1",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "NULL",
+      "XT_History",
+      "XT_Dreaming"
+    ],
+    "artist": "Green Day",
+    "genres": 0,
+    "spotId": "48SmjoT74xf4Zi07EHRt1s",
+    "couname": "The American Dream Is Killing Me",
+    "duration": "186270"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e54df2d87702dd51f680b3cc",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Places",
+      "XT_Dreaming"
+    ],
+    "artist": "Rook1e,Sarah Hemi",
+    "genres": 0,
+    "spotId": "7aHD40YCmkOcvnmfpTCfit",
+    "couname": "We Used to Dream of LA",
+    "duration": "165472"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273dff1ae58fd41eace32de5c89",
@@ -2086,6 +4537,51 @@
     "duration": "251800"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fee33768e39d5eafa5b750bc",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_LongSongs",
+      "XT_Dreaming"
+    ],
+    "artist": "Silence",
+    "genres": 0,
+    "spotId": "6bM8x0lTw0jZex5RXO555G",
+    "couname": "While Angels Sleep",
+    "duration": "524042"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27374c732f8aa0e0ccbb3d17d96",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_MoonStars",
+      "XT_Dreaming"
+    ],
+    "artist": "Laufey",
+    "genres": 0,
+    "spotId": "753iehfOnYSmjVfjx20znR",
+    "couname": "While You Were Sleeping",
+    "duration": "177493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737d2055190ae60ffa4c74d13c",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Questions",
+      "XT_Dreaming"
+    ],
+    "artist": "Barenaked Ladies",
+    "genres": 0,
+    "spotId": "1UvKzaiR8r4Lxot0pVA8bh",
+    "couname": "Who Needs Sleep?",
+    "duration": "224106"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604",
     "pty": 0,
     "Items": [
@@ -2112,6 +4608,21 @@
     "spotId": "1RfmRrirbC33QYd3ehS8wj",
     "couname": "World of My Dreams",
     "duration": "238306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27330b01f703bf62a492eb05b60",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_MoonStars",
+      "XT_Dreaming"
+    ],
+    "artist": "Sarah Vaughan",
+    "genres": 0,
+    "spotId": "5fMj5qA5KC1VPFmkuIH7Y7",
+    "couname": "You Stepped out of a Dream",
+    "duration": "139026"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27318f4c840f9a73afba932bc3b",
@@ -2170,6 +4681,21 @@
     "duration": "326813"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fa4b1c3f7c42c7d8d202d5c3",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Water",
+      "XT_Dreaming"
+    ],
+    "artist": "The Beach Boys",
+    "genres": 0,
+    "spotId": "5uThx6ibqOeAkfLRfd4DIe",
+    "couname": "Your Summer Dream",
+    "duration": "149386"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2735026db4c201719ff4b0bc1d4",
     "pty": 0,
     "Items": [
@@ -2226,6 +4752,21 @@
     "duration": "233226"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730bbf998406109db23fb89c3b",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Numbers",
+      "XT_Dreaming"
+    ],
+    "artist": "Rush",
+    "genres": 0,
+    "spotId": "2vnCuRa2XFzMuiMEubAVd3",
+    "couname": "2112: I. Overture, II. The Temples of Syrinx, III. Discovery, IV. Presentation, V. Oracle: The Dream, VI. Soliloquy, VII. Grand Finale",
+    "duration": "1232973"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2734741ff5942f7fbca500396a1",
     "pty": 0,
     "Items": [
@@ -2238,6 +4779,21 @@
     "spotId": "4if2YzjQiHL6uTs25o8DIu",
     "couname": "A Dream Within A Dream",
     "duration": "253973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ee49c378418538c8a1979fed",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Kiss",
+      "XT_Dreaming"
+    ],
+    "artist": "Tony DeSare",
+    "genres": 0,
+    "spotId": "2t6btNulzsLL8zYCmmPuw4",
+    "couname": "A Kiss to Build a Dream On",
+    "duration": "161136"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2730437808515c83130c47415fc",
@@ -2310,6 +4866,21 @@
     "duration": "972080"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dc44fe116109ed7fd625c1b3",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Colors",
+      "XT_Dreaming"
+    ],
+    "artist": "The Cure",
+    "genres": 0,
+    "spotId": "0qnMazh8n5tS5wKfXFcGw4",
+    "couname": "A Pink Dream",
+    "duration": "223026"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273ac02b09ccf884345678f0fdd",
     "pty": 0,
     "Items": [
@@ -2366,6 +4937,21 @@
     "duration": "248000"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735d750392fe8e4f84f1fb0c99",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_LongSongs",
+      "XT_Dreaming"
+    ],
+    "artist": "Laika",
+    "genres": 0,
+    "spotId": "31bZgI9IVbZG3sglZHgxwK",
+    "couname": "Almost Sleeping",
+    "duration": "414760"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b27305ad8c3cb776adde44fb3042",
     "pty": 0,
     "Items": [
@@ -2378,6 +4964,21 @@
     "spotId": "1a2j7JrHRp44ypxomUC68E",
     "couname": "Am I Dreaming?",
     "duration": "274695"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273be82673b5f79d9658ec0a9fd",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Questions",
+      "XT_Dreaming"
+    ],
+    "artist": "Lil Nas X,Miley Cyrus",
+    "genres": 0,
+    "spotId": "6isTQfKXhNO3EyJd9mSxx8",
+    "couname": "AM I DREAMING",
+    "duration": "183241"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273945696d01c650eeade335ac9",
@@ -2548,6 +5149,21 @@
     "duration": "203800"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dc94d553ce4418f00ff3c653",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Colors",
+      "XT_Dreaming"
+    ],
+    "artist": "Jhené Aiko",
+    "genres": 0,
+    "spotId": "4Y8MG7qcAMk7JB7Eebpcvu",
+    "couname": "Blue Dream",
+    "duration": "217026"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2737d214af8499aa95ad220f573",
     "pty": 0,
     "Items": [
@@ -2658,6 +5274,21 @@
     "spotId": "3YSfGJNDtF8KrHlwCAaVns",
     "couname": "Crazy Crazy Nights",
     "duration": "227600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736ecb2f03d948700a20b1dde2",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Water",
+      "XT_Dreaming"
+    ],
+    "artist": "Masayoshi Fujita",
+    "genres": 0,
+    "spotId": "0Wr7NvRDowEx3plhyXJXiX",
+    "couname": "Cumulonimbus Dream",
+    "duration": "250119"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273f09b618bc81755c0d817bd20",
@@ -2772,6 +5403,21 @@
     "duration": "273800"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730a87ac4e7e98fbf6d239e580",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_LongSongs",
+      "XT_Dreaming"
+    ],
+    "artist": "John Cage,Stephen Drury",
+    "genres": 0,
+    "spotId": "0r9rzx0szaqipQxWMA5JYq",
+    "couname": "Dream",
+    "duration": "527160"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2730343f053ee05ce219f6c7ad3",
     "pty": 0,
     "Items": [
@@ -2882,6 +5528,36 @@
     "spotId": "2c0soVDtn9yYGXZWhF5E2k",
     "couname": "Dream a Little Dream of Me",
     "duration": "223160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731d425d25e82c613240ed8dd9",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_LongSongs",
+      "XT_Dreaming"
+    ],
+    "artist": "Max Richter,Clarice Jensen,Ben Russell,Yuki Numata Resnick",
+    "genres": 0,
+    "spotId": "6CZQOWmIA9GymbjdaEJcGu",
+    "couname": "Dream 13",
+    "duration": "532720"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738961c1c2e929543477d37500",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_MoonStars",
+      "XT_Dreaming"
+    ],
+    "artist": "Ella Fitzgerald",
+    "genres": 0,
+    "spotId": "5dTgE7CNxauvHhttPDCHdo",
+    "couname": "Dream A Little Dream Of Me",
+    "duration": "184011"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2733cd2ff03a508f5314a626701",
@@ -3444,6 +6120,36 @@
     "duration": "121666"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5a932da2fc13defad4b7fba",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Questions",
+      "XT_Dreaming"
+    ],
+    "artist": "LCD Soundsystem",
+    "genres": 0,
+    "spotId": "3ETW8l9FuVFpPHUSTyZDK4",
+    "couname": "how do you sleep?",
+    "duration": "552240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27330e5af0ab55dbfa49af947a2",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Questions",
+      "XT_Dreaming"
+    ],
+    "artist": "Carpenters",
+    "genres": 0,
+    "spotId": "6NCGT87wcrDDZHJxjmzFey",
+    "couname": "I Can Dream, Can't I?",
+    "duration": "300000"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b27312b1438fb3574fd1124b5a98",
     "pty": 0,
     "Items": [
@@ -3598,6 +6304,21 @@
     "duration": "212066"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736d955443189610c5bfc8ff05",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_MoonStars",
+      "XT_Dreaming"
+    ],
+    "artist": "The 1975",
+    "genres": 0,
+    "spotId": "1XOzBTK17LCuriEACzGiUZ",
+    "couname": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+    "duration": "386087"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2732f16cb7219f4ce2c1cbef77d",
     "pty": 0,
     "Items": [
@@ -3710,6 +6431,36 @@
     "duration": "318401"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731121a528557155240feb9273",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "NULL",
+      "XT_Youth",
+      "XT_Dreaming"
+    ],
+    "artist": "Troye Sivan",
+    "genres": 0,
+    "spotId": "6d48aJz9FrGQCfA9zj0ZMM",
+    "couname": "IN A DREAM",
+    "duration": "229613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f5800d45541ffb90b3cdb451",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_LongSongs",
+      "XT_Dreaming"
+    ],
+    "artist": "Roxy Music",
+    "genres": 0,
+    "spotId": "41z10gZsuRrWseOkQPnRlc",
+    "couname": "In Every Dream Home A Heartache",
+    "duration": "503826"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273f2a5d3d1138b20af5f816480",
     "pty": 0,
     "Items": [
@@ -3806,6 +6557,21 @@
     "spotId": "2wNx4SZqgRvR8AQZrghV7W",
     "couname": "It Gets Easier",
     "duration": "227483"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737b1489e71cadf8a1c0382d7d",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Names",
+      "XT_Dreaming"
+    ],
+    "artist": "Mandy Moore,Brad Garrett,Ensemble - Tangled,Zachary Levi,Jeffrey Tambor",
+    "genres": 0,
+    "spotId": "3QvZUbMhFBdUTmegQSkRH6",
+    "couname": "I've Got a Dream",
+    "duration": "191866"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273f2d081693e25cc52d620802f",
@@ -4076,6 +6842,21 @@
     "spotId": "3jyWPW2PBQGZ9Ebn97suLx",
     "couname": "Box of Rain",
     "duration": "317440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27332b8b1fd6a33d186fd5651ee",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_LongSongs",
+      "XT_Dreaming"
+    ],
+    "artist": "The Stranglers",
+    "genres": 0,
+    "spotId": "0AOpFrGxRsow7KEJPWT2mQ",
+    "couname": "Midnight Summer Dream / European Female",
+    "duration": "618626"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273fdbcee40748537ff80a7af70",
@@ -4514,6 +7295,21 @@
     "duration": "340136"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273395fd805defdc934ef4e58d8",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "NULL",
+      "XT_Cars",
+      "XT_Dreaming"
+    ],
+    "artist": "Pat Green",
+    "genres": 0,
+    "spotId": "2BeZCyNRZWbGWbo7QgNgDe",
+    "couname": "Rusty Old American Dream",
+    "duration": "199280"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273af1115d3ae5dad6cf7210dbe",
     "pty": 0,
     "Items": [
@@ -4570,6 +7366,21 @@
     "duration": "139000"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d7e40baf75ddce4864c5bc75",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Water",
+      "XT_Dreaming"
+    ],
+    "artist": "Jack Johnson",
+    "genres": 0,
+    "spotId": "1vL5bZNsFWVYED96IgWEIM",
+    "couname": "Seasick Dream",
+    "duration": "200360"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273dc228dc24a51ae129066ca4f",
     "pty": 0,
     "Items": [
@@ -4624,6 +7435,21 @@
     "spotId": "7tddDkUbMcJEWtv6v2gmiH",
     "couname": "Sleep",
     "duration": "185199"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730791c8a2dc44008c52b4883a",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_LongSongs",
+      "XT_Dreaming"
+    ],
+    "artist": "Godspeed You! Black Emperor",
+    "genres": 0,
+    "spotId": "05JqOBN6XW4eFUVQlgR0I3",
+    "couname": "Sleep",
+    "duration": "1397746"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273acd4cbee6553f85f0018259e",
@@ -4989,6 +7815,21 @@
     "duration": "58440"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738cd070ae9182800f9b445012",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "Female",
+      "XT_History",
+      "XT_Dreaming"
+    ],
+    "artist": "Kate Bush",
+    "genres": 0,
+    "spotId": "2pl1aMLPcte0dHWHSJ1mr0",
+    "couname": "The Dreaming",
+    "duration": "253933"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273588b0e8de3706d7c87f3306e",
     "pty": 0,
     "Items": [
@@ -5185,6 +8026,21 @@
     "duration": "255333"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d3de03550f715df1ea7e0c08",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Intros",
+      "XT_Dreaming"
+    ],
+    "artist": "The 1975",
+    "genres": 0,
+    "spotId": "6OPOa3qlKoDUzGpS8MrcLi",
+    "couname": "This Must Be My Dream",
+    "duration": "252480"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b27356664cbf2ef6486953529c3d",
     "pty": 0,
     "Items": [
@@ -5241,6 +8097,21 @@
     "spotId": "30qVCFYKBtAENjTIBA8FPZ",
     "couname": "The River of Dreams",
     "duration": "247626"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27349526c468869c78eaad4d250",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_OffAnimals",
+      "XT_Dreaming"
+    ],
+    "artist": "Django Reinhardt,Quintette du Hot Club de France",
+    "genres": 0,
+    "spotId": "5DFAmVGzEK95Y5MnL1FQuq",
+    "couname": "Viper's Dream",
+    "duration": "195760"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2730b70561f93087720d94ecdfc",
@@ -5410,6 +8281,21 @@
     "duration": "203080"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e1365b96bcf07112538ec255",
+    "pty": 0,
+    "Items": [
+      "BT_FrankSinatra",
+      "XT_Cars",
+      "XT_Oscars",
+      "XT_Dreaming"
+    ],
+    "artist": "Frank Sinatra",
+    "genres": 0,
+    "spotId": "4Hbk7bsJPmM0CkVOElCBdB",
+    "couname": "I Couldn't Sleep A Wink Last Night",
+    "duration": "205466"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94",
     "pty": 0,
     "Items": [
@@ -5528,6 +8414,32 @@
     "spotId": "7hQJA50XrCWABAu5v6QZ4i",
     "couname": "Don't Stop Me Now",
     "duration": "209413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27372bdd5190921fc8164874eee",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale",
+      "XT_Dreaming"
+    ],
+    "artist": "Lizz Robinett",
+    "genres": 0,
+    "spotId": "6zP3Tjv4lDWc6uhqRjRuej",
+    "couname": "For the Dancing and the Dreaming",
+    "duration": "137744"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273441e85bab6797273dc6f44e9",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale",
+      "XT_Dreaming"
+    ],
+    "artist": "Loreena McKennitt",
+    "genres": 0,
+    "spotId": "5MqvFB5KuA0lDcRMXVgbCX",
+    "couname": "The Mystic's Dream",
+    "duration": "463101"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2736efc397b99ae7211a5e610d4",
