@@ -1,32 +1,164 @@
 [
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27339cb0bebaee178d106ab8a35",
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b9846e1e4b6c4fc83ffe7da",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
-      "Female",
+      "XT_IrishFemale",
+      "XT_Running"
+    ],
+    "artist": "Chloe Agnew",
+    "genres": 0,
+    "spotId": "0NdfFm359NUsFCktC8MjyJ",
+    "couname": "Walking in the Air",
+    "duration": "219213"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a96d03a0c57867c64902f209",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale"
+    ],
+    "artist": "Dolores Keane",
+    "genres": 0,
+    "spotId": "7p8GUiTTcMYWo2eG3nzQol",
+    "couname": "The Island",
+    "duration": "296379"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737b87f25166b07042ce3b2fc9",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale",
+      "XT_Water"
+    ],
+    "artist": "Órla Fallon,Dublin Gospel Choir",
+    "genres": 0,
+    "spotId": "33UbOZGTY44V5Hzmc7c9rP",
+    "couname": "Down To The River To Pray",
+    "duration": "112013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27390f3102eb1ffe608363b47f2",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale",
+      "XT_Numbers"
+    ],
+    "artist": "Órla Fallon",
+    "genres": 0,
+    "spotId": "0aOwZ0VTrl8P4RlP7GcDjz",
+    "couname": "Five Hundred Miles",
+    "duration": "186706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273869dbf48a1c5836a23350b1b",
+    "pty": 0,
+    "Items": [
       "XT_Colors",
       "XT_IrishFemale"
     ],
-    "artist": "Anúna,Michael McGlynn,Eimear Quinn",
+    "artist": "Cathy Davey",
     "genres": 0,
-    "spotId": "3HAq9digcPYwnINJdtMN0Z",
-    "couname": "The Green Laurel",
-    "duration": "177386"
+    "spotId": "3kyrlZfeBr4x3gjQDKgcBN",
+    "couname": "Little Red",
+    "duration": "235400"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b85948cb65b510f3e1b7c638",
+    "img": "https://i.scdn.co/image/ab67616d0000b2737252170c58e490ecf9a70a9a",
     "pty": 0,
     "Items": [
-      "XT_Animals",
+      "XT_Colors",
       "XT_IrishFemale"
     ],
-    "artist": "Lisa Hannigan",
+    "artist": "Cara Dillon",
     "genres": 0,
-    "spotId": "40VFAOfeuEL0ryEjXqgQMA",
-    "couname": "Little Bird",
-    "duration": "240600"
+    "spotId": "3z3BzQsjHyZmIiDp0xCC3t",
+    "couname": "Black is the Colour",
+    "duration": "243559"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c8addca3ce99c0cd914a6bca",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale",
+      "XT_Numbers"
+    ],
+    "artist": "Luan Parle",
+    "genres": 0,
+    "spotId": "1qE5mktAeICYSCT8EsLxA1",
+    "couname": "Three Minute Miracle",
+    "duration": "257959"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273441e85bab6797273dc6f44e9",
+    "pty": 0,
+    "Items": [
+      "XT_Dreaming",
+      "XT_IrishFemale"
+    ],
+    "artist": "Loreena McKennitt",
+    "genres": 0,
+    "spotId": "5MqvFB5KuA0lDcRMXVgbCX",
+    "couname": "The Mystic's Dream",
+    "duration": "463101"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273785bd27fa71c420deda4d02c",
+    "pty": 0,
+    "Items": [
+      "XT_Flying",
+      "XT_IrishFemale"
+    ],
+    "artist": "Julie Fowlis",
+    "genres": 0,
+    "spotId": "3cmpijo89sFZhYW9TXUQnN",
+    "couname": "Touch The Sky",
+    "duration": "151400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27300eb2ae54531e85e525d611c",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "TV_LordRings",
+      "XT_AboutTime",
+      "XT_Cars",
+      "XT_IrishFemale",
+      "XT_Oscars"
+    ],
+    "artist": "Enya",
+    "genres": 0,
+    "spotId": "0zvv76DEro0MMox8eLbK7D",
+    "couname": "May It Be",
+    "duration": "209693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27370dd4e18b9c3431ee7a9b8a1",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_AboutTime",
+      "XT_Intros",
+      "XT_IrishFemale",
+      "YR_0009"
+    ],
+    "artist": "Enya",
+    "genres": 0,
+    "spotId": "6FLwmdmW77N1Pxb1aWsZmO",
+    "couname": "Only Time",
+    "duration": "218546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a96d03a0c57867c64902f209",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale"
+    ],
+    "artist": "Mary Black",
+    "genres": 0,
+    "spotId": "5ptHD1hlvKvfGNkCmAbBMF",
+    "couname": "Sonny",
+    "duration": "217385"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27300fc0ca2022841b61d988325",
@@ -39,6 +171,278 @@
     "spotId": "47lElIVL8Rnex3I3YzFiL3",
     "couname": "Ni Na La",
     "duration": "141106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735c756289de05ce242e34a32f",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale"
+    ],
+    "artist": "Enya",
+    "genres": 0,
+    "spotId": "15Zt4Z0N6JMwyNp1vLQNfi",
+    "couname": "The Humming",
+    "duration": "225120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f611273668ae9caf4c11f629",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale",
+      "XT_Kiss"
+    ],
+    "artist": "Mary Black",
+    "genres": 0,
+    "spotId": "4mHvCxsHCjFkNPwgwqzib2",
+    "couname": "Ae Fond Kiss",
+    "duration": "247080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27323fbd180834e919600e3fcd5",
+    "pty": 0,
+    "Items": [
+      "XT_Gold",
+      "XT_IrishFemale"
+    ],
+    "artist": "Celtic Woman",
+    "genres": 0,
+    "spotId": "1Fpsx72oxur3RVwrVEYLiY",
+    "couname": "Fields of Gold",
+    "duration": "229653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27372bdd5190921fc8164874eee",
+    "pty": 0,
+    "Items": [
+      "XT_Dreaming",
+      "XT_IrishFemale"
+    ],
+    "artist": "Lizz Robinett",
+    "genres": 0,
+    "spotId": "6zP3Tjv4lDWc6uhqRjRuej",
+    "couname": "For the Dancing and the Dreaming",
+    "duration": "137744"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27323fbd180834e919600e3fcd5",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_IrishFemale"
+    ],
+    "artist": "Celtic Woman",
+    "genres": 0,
+    "spotId": "13dEX45vSmJb75Y7mByKX4",
+    "couname": "Níl Sé'n Lá",
+    "duration": "215106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736d768c194900d015ec769f30",
+    "pty": 0,
+    "Items": [
+      "XT_Colors",
+      "XT_IrishFemale"
+    ],
+    "artist": "Ríoghnach Connolly",
+    "genres": 0,
+    "spotId": "3aX2i4NhD0fVc3qv8dDHa8",
+    "couname": "Black Is the Colour",
+    "duration": "357506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736f6536c2e326fb2b42db90f8",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "CT_Norway",
+      "GN_Piano",
+      "TV_OneHit",
+      "TV_Rolling500",
+      "XT_IrishFemale",
+      "XT_Karaoke",
+      "XT_Numbers",
+      "YR_9099"
+    ],
+    "artist": "Sinéad O'Connor",
+    "genres": 0,
+    "spotId": "3nvuPQTw2zuFAVuLsC9IYQ",
+    "couname": "Nothing Compares 2 U",
+    "duration": "280040"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27306954ee747746805e67fcbbd",
+    "pty": 0,
+    "Items": [
+      "TV_Halloween",
+      "TV_OneHit",
+      "TV_SpotifyS500",
+      "XT_History",
+      "XT_Intros",
+      "XT_IrishFemale",
+      "XT_Karaoke",
+      "YR_9099"
+    ],
+    "artist": "The Cranberries",
+    "genres": 0,
+    "spotId": "6xy6jNeNTYwjnKTDzMyHw2",
+    "couname": "Zombie",
+    "duration": "306440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273979c1e27d0446d04e336ff28",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale",
+      "XT_Water"
+    ],
+    "artist": "Eva Cassidy",
+    "genres": 0,
+    "spotId": "2OzlQv2sl3kT6ygHYI41ty",
+    "couname": "Bridge Over Troubled Water",
+    "duration": "338905"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273981d6d8ed8c76f2287709fab",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale",
+      "XT_Love"
+    ],
+    "artist": "The Chieftains,Lisa Hannigan",
+    "genres": 0,
+    "spotId": "2xIzwZ3R6gHGUQo5lBngG2",
+    "couname": "My Lagan Love",
+    "duration": "267986"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dec4a49bc28532de8482d761",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "girl",
+      "GN_ViolinSolo",
+      "XT_IrishFemale",
+      "XT_Karaoke",
+      "YR_9099"
+    ],
+    "artist": "The Cranberries",
+    "genres": 0,
+    "spotId": "1aLNpg2kKvUncflV8xE5AA",
+    "couname": "Linger",
+    "duration": "274760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27372d481a5999197ef5f42f796",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "girl",
+      "GN_BalladRock",
+      "XT_IrishFemale",
+      "XT_Karaoke",
+      "YR_9099"
+    ],
+    "artist": "The Cranberries",
+    "genres": 0,
+    "spotId": "5kcsc92tGAjS0uvhDY3Mok",
+    "couname": "Ode To My Family",
+    "duration": "271533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730fbd52113da02f0cd7e41fd7",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale"
+    ],
+    "artist": "Aoife Scott",
+    "genres": 0,
+    "spotId": "4wwBSdpPhD7WAoGSrFrxNl",
+    "couname": "All Along the Wild Atlantic Way",
+    "duration": "229774"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27345d50e972d0b836f8816eac4",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale"
+    ],
+    "artist": "Frances Black,Kieran Goss",
+    "genres": 0,
+    "spotId": "0ushk1F1r81eX4zmoykbH2",
+    "couname": "Wall of Tears",
+    "duration": "243809"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a96d03a0c57867c64902f209",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale"
+    ],
+    "artist": "Frances Black",
+    "genres": 0,
+    "spotId": "6nFqaa6lPFQmOJuSh8rZA8",
+    "couname": "Wall of Tears",
+    "duration": "245016"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737f2a443c5b935708db93b23e",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale"
+    ],
+    "artist": "Tannas",
+    "genres": 0,
+    "spotId": "6MGrGGJ0qENLIjJFa1LDb8",
+    "couname": "Canain Nan Gaidheal",
+    "duration": "298800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ea9464caaee6d6425c1bd2a3",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale"
+    ],
+    "artist": "Thanks Brother",
+    "genres": 0,
+    "spotId": "6qx1a7ffNYq5dKSRQ69szW",
+    "couname": "We Caught It",
+    "duration": "193941"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fb48321a3bb18af9aecfac32",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale"
+    ],
+    "artist": "Clannad",
+    "genres": 0,
+    "spotId": "5zSR5MzbPGyfUztlvknkN7",
+    "couname": "Nil se ina la",
+    "duration": "358786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737f628fc8a8d43eeb51a093ff",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale"
+    ],
+    "artist": "Clannad",
+    "genres": 0,
+    "spotId": "2hfcoUXgJFr8bKccg1yddc",
+    "couname": "Of This Land",
+    "duration": "282826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d8076508f1126d3d410398bc",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale"
+    ],
+    "artist": "Siobhan Miller",
+    "genres": 0,
+    "spotId": "1v6k8s4hPZiDydHghs2XUs",
+    "couname": "What You Do with What You've Got",
+    "duration": "198786"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273a385e4cbe67bc43d8cabdc89",
@@ -55,28 +459,31 @@
     "duration": "157053"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735c756289de05ce242e34a32f",
+    "img": "https://i.scdn.co/image/ab67616d0000b27303edb7a9b0cd4c188bed7a0f",
     "pty": 0,
     "Items": [
+      "XT_Colors",
+      "XT_IrishFemale"
+    ],
+    "artist": "Mary Black",
+    "genres": 0,
+    "spotId": "4wTIdlo5FYiCQbuFJCFzJo",
+    "couname": "Bright Blue Rose",
+    "duration": "244000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f904999277431f39e3698976",
+    "pty": 0,
+    "Items": [
+      "GN_Synth",
+      "XT_Intros",
       "XT_IrishFemale"
     ],
     "artist": "Enya",
     "genres": 0,
-    "spotId": "15Zt4Z0N6JMwyNp1vLQNfi",
-    "couname": "The Humming",
-    "duration": "225120"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a96d03a0c57867c64902f209",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale"
-    ],
-    "artist": "Dolores Keane",
-    "genres": 0,
-    "spotId": "7p8GUiTTcMYWo2eG3nzQol",
-    "couname": "The Island",
-    "duration": "296379"
+    "spotId": "0Fyj9w0HVfjoxm9S8nGClt",
+    "couname": "Orinoco Flow",
+    "duration": "266226"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273bbbc5bad2cb32d12fb83c234",
@@ -262,19 +669,6 @@
     "duration": "294861"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273387ba3eede1b1148cde6ef61",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale",
-      "XT_Love"
-    ],
-    "artist": "Cathy Davey",
-    "genres": 0,
-    "spotId": "0yDLUtS8z5H7U4vGKPVvzX",
-    "couname": "I Feel Love",
-    "duration": "306173"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27353d9b68d8ad232bf17705944",
     "pty": 0,
     "Items": [
@@ -286,19 +680,6 @@
     "spotId": "1NjrOiC3KlEovbhGkyRLMT",
     "couname": "Into The Open Air",
     "duration": "160586"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c7ba764f3d343ee06588e140",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale",
-      "XT_Water"
-    ],
-    "artist": "Spell Songs,Julie Fowlis",
-    "genres": 0,
-    "spotId": "7mklxi87PbWueIR3jk4zEJ",
-    "couname": "Selkie-boy",
-    "duration": "305293"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2732d093d5257a589d210b79170",
@@ -314,32 +695,17 @@
     "duration": "165680"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27376281624275f4baab0058795",
+    "img": "https://i.scdn.co/image/ab67616d0000b27323fbd180834e919600e3fcd5",
     "pty": 0,
     "Items": [
-      "Band",
-      "Female",
-      "XT_IrishFemale",
-      "XT_Names"
-    ],
-    "artist": "Clannad",
-    "genres": 0,
-    "spotId": "2hcxPnu5RljXH0eMOtctuF",
-    "couname": "Theme from Harry's Game",
-    "duration": "149026"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273785bd27fa71c420deda4d02c",
-    "pty": 0,
-    "Items": [
-      "XT_Flying",
+      "TV_Simpsons120",
       "XT_IrishFemale"
     ],
-    "artist": "Julie Fowlis",
+    "artist": "Celtic Woman",
     "genres": 0,
-    "spotId": "3cmpijo89sFZhYW9TXUQnN",
-    "couname": "Touch The Sky",
-    "duration": "151400"
+    "spotId": "3q7S29Eu7AnJF9B1K8PhjP",
+    "couname": "Danny Boy",
+    "duration": "206120"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273f6325f361d7803ad0d908451",
@@ -370,40 +736,6 @@
     "duration": "320773"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dec4a49bc28532de8482d761",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Female",
-      "GN_ViolinSolo",
-      "XT_IrishFemale",
-      "XT_Karaoke",
-      "YR9099"
-    ],
-    "artist": "The Cranberries",
-    "genres": 0,
-    "spotId": "1aLNpg2kKvUncflV8xE5AA",
-    "couname": "Linger",
-    "duration": "274760"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27372d481a5999197ef5f42f796",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Female",
-      "GN_BalladRock",
-      "XT_IrishFemale",
-      "XT_Karaoke",
-      "YR9099"
-    ],
-    "artist": "The Cranberries",
-    "genres": 0,
-    "spotId": "5kcsc92tGAjS0uvhDY3Mok",
-    "couname": "Ode To My Family",
-    "duration": "271533"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27326806837a4631e1170ec0218",
     "pty": 0,
     "Items": [
@@ -416,383 +748,6 @@
     "spotId": "6SA7BxY6zh5SaxUBp3tCtb",
     "couname": "The Voice",
     "duration": "185826"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27370dd4e18b9c3431ee7a9b8a1",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_AboutTime",
-      "XT_Intros",
-      "XT_IrishFemale",
-      "YR0009"
-    ],
-    "artist": "Enya",
-    "genres": 0,
-    "spotId": "6FLwmdmW77N1Pxb1aWsZmO",
-    "couname": "Only Time",
-    "duration": "218546"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736f6536c2e326fb2b42db90f8",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "CT_Norway",
-      "GN_Piano",
-      "TV_OneHit",
-      "TV_Rolling500",
-      "XT_IrishFemale",
-      "XT_Karaoke",
-      "XT_Numbers",
-      "YR9099"
-    ],
-    "artist": "Sinéad O'Connor",
-    "genres": 0,
-    "spotId": "3nvuPQTw2zuFAVuLsC9IYQ",
-    "couname": "Nothing Compares 2 U",
-    "duration": "280040"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27306954ee747746805e67fcbbd",
-    "pty": 0,
-    "Items": [
-      "TV_Halloween",
-      "TV_OneHit",
-      "TV_SpotifyS500",
-      "XT_History",
-      "XT_Intros",
-      "XT_IrishFemale",
-      "XT_Karaoke",
-      "YR9099"
-    ],
-    "artist": "The Cranberries",
-    "genres": 0,
-    "spotId": "6xy6jNeNTYwjnKTDzMyHw2",
-    "couname": "Zombie",
-    "duration": "306440"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27300eb2ae54531e85e525d611c",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "TV_LordRings",
-      "XT_AboutTime",
-      "XT_Cars",
-      "XT_IrishFemale",
-      "XT_Oscars"
-    ],
-    "artist": "Enya",
-    "genres": 0,
-    "spotId": "0zvv76DEro0MMox8eLbK7D",
-    "couname": "May It Be",
-    "duration": "209693"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737252170c58e490ecf9a70a9a",
-    "pty": 0,
-    "Items": [
-      "XT_Colors",
-      "XT_IrishFemale"
-    ],
-    "artist": "Cara Dillon",
-    "genres": 0,
-    "spotId": "3z3BzQsjHyZmIiDp0xCC3t",
-    "couname": "Black is the Colour",
-    "duration": "243559"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736d768c194900d015ec769f30",
-    "pty": 0,
-    "Items": [
-      "XT_Colors",
-      "XT_IrishFemale"
-    ],
-    "artist": "Ríoghnach Connolly",
-    "genres": 0,
-    "spotId": "3aX2i4NhD0fVc3qv8dDHa8",
-    "couname": "Black Is the Colour",
-    "duration": "357506"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273869dbf48a1c5836a23350b1b",
-    "pty": 0,
-    "Items": [
-      "XT_Colors",
-      "XT_IrishFemale"
-    ],
-    "artist": "Cathy Davey",
-    "genres": 0,
-    "spotId": "3kyrlZfeBr4x3gjQDKgcBN",
-    "couname": "Little Red",
-    "duration": "235400"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273981d6d8ed8c76f2287709fab",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale",
-      "XT_Love"
-    ],
-    "artist": "The Chieftains,Lisa Hannigan",
-    "genres": 0,
-    "spotId": "2xIzwZ3R6gHGUQo5lBngG2",
-    "couname": "My Lagan Love",
-    "duration": "267986"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733184c671068d02838d47b277",
-    "pty": 0,
-    "Items": [
-      "XT_Colors",
-      "XT_IrishFemale",
-      "XT_Water"
-    ],
-    "artist": "Enya",
-    "genres": 0,
-    "spotId": "5KZ4DC772dYcRBAizx0yYk",
-    "couname": "Caribbean Blue",
-    "duration": "239586"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f904999277431f39e3698976",
-    "pty": 0,
-    "Items": [
-      "GN_Synth",
-      "XT_Intros",
-      "XT_IrishFemale"
-    ],
-    "artist": "Enya",
-    "genres": 0,
-    "spotId": "0Fyj9w0HVfjoxm9S8nGClt",
-    "couname": "Orinoco Flow",
-    "duration": "266226"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27389301f334a16faded58fdaef",
-    "pty": 0,
-    "Items": [
-      "XT_Compass",
-      "XT_IrishFemale"
-    ],
-    "artist": "Lumiere",
-    "genres": 0,
-    "spotId": "6FgYVCPnr9q6mdc9tqUuCm",
-    "couname": "The West's Awake",
-    "duration": "240533"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733b9846e1e4b6c4fc83ffe7da",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale",
-      "XT_Running"
-    ],
-    "artist": "Chloe Agnew",
-    "genres": 0,
-    "spotId": "0NdfFm359NUsFCktC8MjyJ",
-    "couname": "Walking in the Air",
-    "duration": "219213"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735c756289de05ce242e34a32f",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale",
-      "XT_Weather"
-    ],
-    "artist": "Enya",
-    "genres": 0,
-    "spotId": "3WdBXPv7WUY9fZ6YyTpX6M",
-    "couname": "Echoes in Rain",
-    "duration": "215453"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27323fbd180834e919600e3fcd5",
-    "pty": 0,
-    "Items": [
-      "GN_Choirs",
-      "XT_IrishFemale"
-    ],
-    "artist": "Celtic Woman",
-    "genres": 0,
-    "spotId": "13dEX45vSmJb75Y7mByKX4",
-    "couname": "Níl Sé'n Lá",
-    "duration": "215106"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731f1b92a8840768880edd89d8",
-    "pty": 0,
-    "Items": [
-      "XT_Gold",
-      "XT_IrishFemale"
-    ],
-    "artist": "Eva Cassidy",
-    "genres": 0,
-    "spotId": "5vtOJrmovXGxGsnAck694H",
-    "couname": "Fields Of Gold",
-    "duration": "282093"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a96d03a0c57867c64902f209",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale"
-    ],
-    "artist": "Mary Black",
-    "genres": 0,
-    "spotId": "5ptHD1hlvKvfGNkCmAbBMF",
-    "couname": "Sonny",
-    "duration": "217385"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730fbd52113da02f0cd7e41fd7",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale"
-    ],
-    "artist": "Aoife Scott",
-    "genres": 0,
-    "spotId": "4wwBSdpPhD7WAoGSrFrxNl",
-    "couname": "All Along the Wild Atlantic Way",
-    "duration": "229774"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27345d50e972d0b836f8816eac4",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale"
-    ],
-    "artist": "Frances Black,Kieran Goss",
-    "genres": 0,
-    "spotId": "0ushk1F1r81eX4zmoykbH2",
-    "couname": "Wall of Tears",
-    "duration": "243809"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a96d03a0c57867c64902f209",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale"
-    ],
-    "artist": "Frances Black",
-    "genres": 0,
-    "spotId": "6nFqaa6lPFQmOJuSh8rZA8",
-    "couname": "Wall of Tears",
-    "duration": "245016"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737f2a443c5b935708db93b23e",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale"
-    ],
-    "artist": "Tannas",
-    "genres": 0,
-    "spotId": "6MGrGGJ0qENLIjJFa1LDb8",
-    "couname": "Canain Nan Gaidheal",
-    "duration": "298800"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ea9464caaee6d6425c1bd2a3",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale"
-    ],
-    "artist": "Thanks Brother",
-    "genres": 0,
-    "spotId": "6qx1a7ffNYq5dKSRQ69szW",
-    "couname": "We Caught It",
-    "duration": "193941"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273fb48321a3bb18af9aecfac32",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale"
-    ],
-    "artist": "Clannad",
-    "genres": 0,
-    "spotId": "5zSR5MzbPGyfUztlvknkN7",
-    "couname": "Nil se ina la",
-    "duration": "358786"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737f628fc8a8d43eeb51a093ff",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale"
-    ],
-    "artist": "Clannad",
-    "genres": 0,
-    "spotId": "2hfcoUXgJFr8bKccg1yddc",
-    "couname": "Of This Land",
-    "duration": "282826"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d8076508f1126d3d410398bc",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale"
-    ],
-    "artist": "Siobhan Miller",
-    "genres": 0,
-    "spotId": "1v6k8s4hPZiDydHghs2XUs",
-    "couname": "What You Do with What You've Got",
-    "duration": "198786"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27303edb7a9b0cd4c188bed7a0f",
-    "pty": 0,
-    "Items": [
-      "XT_Colors",
-      "XT_IrishFemale"
-    ],
-    "artist": "Mary Black",
-    "genres": 0,
-    "spotId": "4wTIdlo5FYiCQbuFJCFzJo",
-    "couname": "Bright Blue Rose",
-    "duration": "244000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f694bb8ebf48f8c563ef2a43",
-    "pty": 0,
-    "Items": [
-      "XT_Colors",
-      "XT_IrishFemale"
-    ],
-    "artist": "Cara Dillon",
-    "genres": 0,
-    "spotId": "5LtEtQWeMgHRugrfjizrNY",
-    "couname": "Jacket so Blue",
-    "duration": "221653"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27375d23e0bb57e9f45815a4d59",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale",
-      "XT_MoonStars"
-    ],
-    "artist": "Karine Polwart",
-    "genres": 0,
-    "spotId": "0pCjlmaukO1q9mcGujlAtw",
-    "couname": "The Whole of the Moon",
-    "duration": "352409"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27323fbd180834e919600e3fcd5",
-    "pty": 0,
-    "Items": [
-      "TV_Simpsons120",
-      "XT_IrishFemale"
-    ],
-    "artist": "Celtic Woman",
-    "genres": 0,
-    "spotId": "3q7S29Eu7AnJF9B1K8PhjP",
-    "couname": "Danny Boy",
-    "duration": "206120"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273ab29bb0754fcd2403cfb680e",
@@ -1021,19 +976,6 @@
     "spotId": "3F3QUA8IiuqE9lYJuez30i",
     "couname": "A Song for Ireland",
     "duration": "301973"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f611273668ae9caf4c11f629",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale",
-      "XT_Kiss"
-    ],
-    "artist": "Mary Black",
-    "genres": 0,
-    "spotId": "4mHvCxsHCjFkNPwgwqzib2",
-    "couname": "Ae Fond Kiss",
-    "duration": "247080"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273a96d03a0c57867c64902f209",
@@ -1672,19 +1614,6 @@
     "duration": "332226"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737b87f25166b07042ce3b2fc9",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale",
-      "XT_Water"
-    ],
-    "artist": "Órla Fallon,Dublin Gospel Choir",
-    "genres": 0,
-    "spotId": "33UbOZGTY44V5Hzmc7c9rP",
-    "couname": "Down To The River To Pray",
-    "duration": "112013"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2739c6261e68d07ad4833a93c5e",
     "pty": 0,
     "Items": [
@@ -1901,32 +1830,6 @@
     "duration": "284573"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27390f3102eb1ffe608363b47f2",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale",
-      "XT_Numbers"
-    ],
-    "artist": "Órla Fallon",
-    "genres": 0,
-    "spotId": "0aOwZ0VTrl8P4RlP7GcDjz",
-    "couname": "Five Hundred Miles",
-    "duration": "186706"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27323fbd180834e919600e3fcd5",
-    "pty": 0,
-    "Items": [
-      "XT_Gold",
-      "XT_IrishFemale"
-    ],
-    "artist": "Celtic Woman",
-    "genres": 0,
-    "spotId": "1Fpsx72oxur3RVwrVEYLiY",
-    "couname": "Fields of Gold",
-    "duration": "229653"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273a385e4cbe67bc43d8cabdc89",
     "pty": 0,
     "Items": [
@@ -1985,18 +1888,6 @@
     "spotId": "5Fhnl6LRFN81R3kwC2lYTJ",
     "couname": "Follow The Heron",
     "duration": "193146"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27372bdd5190921fc8164874eee",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale"
-    ],
-    "artist": "Lizz Robinett",
-    "genres": 0,
-    "spotId": "6zP3Tjv4lDWc6uhqRjRuej",
-    "couname": "For the Dancing and the Dreaming",
-    "duration": "137744"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273380d1c571659430da0b9c771",
@@ -3643,18 +3534,6 @@
     "duration": "364477"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273441e85bab6797273dc6f44e9",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale"
-    ],
-    "artist": "Loreena McKennitt",
-    "genres": 0,
-    "spotId": "5MqvFB5KuA0lDcRMXVgbCX",
-    "couname": "The Mystic's Dream",
-    "duration": "463101"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27300fc0ca2022841b61d988325",
     "pty": 0,
     "Items": [
@@ -3847,32 +3726,6 @@
     "duration": "185373"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738498470efa9684b6eee460da",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale",
-      "XT_Water"
-    ],
-    "artist": "Órla Fallon",
-    "genres": 0,
-    "spotId": "21qRm3zE0f21BMlfMIpnDR",
-    "couname": "The Water Is Wide",
-    "duration": "204626"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c8addca3ce99c0cd914a6bca",
-    "pty": 0,
-    "Items": [
-      "XT_IrishFemale",
-      "XT_Numbers"
-    ],
-    "artist": "Luan Parle",
-    "genres": 0,
-    "spotId": "1qE5mktAeICYSCT8EsLxA1",
-    "couname": "Three Minute Miracle",
-    "duration": "257959"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273dfc87736809328fcfd6213f8",
     "pty": 0,
     "Items": [
@@ -4017,16 +3870,165 @@
     "duration": "264730"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273979c1e27d0446d04e336ff28",
+    "img": "https://i.scdn.co/image/ab67616d0000b2735c756289de05ce242e34a32f",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale",
+      "XT_Weather"
+    ],
+    "artist": "Enya",
+    "genres": 0,
+    "spotId": "3WdBXPv7WUY9fZ6YyTpX6M",
+    "couname": "Echoes in Rain",
+    "duration": "215453"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273387ba3eede1b1148cde6ef61",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale",
+      "XT_Love"
+    ],
+    "artist": "Cathy Davey",
+    "genres": 0,
+    "spotId": "0yDLUtS8z5H7U4vGKPVvzX",
+    "couname": "I Feel Love",
+    "duration": "306173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c7ba764f3d343ee06588e140",
     "pty": 0,
     "Items": [
       "XT_IrishFemale",
       "XT_Water"
     ],
+    "artist": "Spell Songs,Julie Fowlis",
+    "genres": 0,
+    "spotId": "7mklxi87PbWueIR3jk4zEJ",
+    "couname": "Selkie-boy",
+    "duration": "305293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27376281624275f4baab0058795",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "girl",
+      "XT_IrishFemale",
+      "XT_Names"
+    ],
+    "artist": "Clannad",
+    "genres": 0,
+    "spotId": "2hcxPnu5RljXH0eMOtctuF",
+    "couname": "Theme from Harry's Game",
+    "duration": "149026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733184c671068d02838d47b277",
+    "pty": 0,
+    "Items": [
+      "XT_Colors",
+      "XT_IrishFemale",
+      "XT_Water"
+    ],
+    "artist": "Enya",
+    "genres": 0,
+    "spotId": "5KZ4DC772dYcRBAizx0yYk",
+    "couname": "Caribbean Blue",
+    "duration": "239586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f694bb8ebf48f8c563ef2a43",
+    "pty": 0,
+    "Items": [
+      "XT_Colors",
+      "XT_IrishFemale"
+    ],
+    "artist": "Cara Dillon",
+    "genres": 0,
+    "spotId": "5LtEtQWeMgHRugrfjizrNY",
+    "couname": "Jacket so Blue",
+    "duration": "221653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27389301f334a16faded58fdaef",
+    "pty": 0,
+    "Items": [
+      "XT_Compass",
+      "XT_IrishFemale"
+    ],
+    "artist": "Lumiere",
+    "genres": 0,
+    "spotId": "6FgYVCPnr9q6mdc9tqUuCm",
+    "couname": "The West's Awake",
+    "duration": "240533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731f1b92a8840768880edd89d8",
+    "pty": 0,
+    "Items": [
+      "XT_Gold",
+      "XT_IrishFemale"
+    ],
     "artist": "Eva Cassidy",
     "genres": 0,
-    "spotId": "2OzlQv2sl3kT6ygHYI41ty",
-    "couname": "Bridge Over Troubled Water",
-    "duration": "338905"
+    "spotId": "5vtOJrmovXGxGsnAck694H",
+    "couname": "Fields Of Gold",
+    "duration": "282093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27375d23e0bb57e9f45815a4d59",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale",
+      "XT_MoonStars"
+    ],
+    "artist": "Karine Polwart",
+    "genres": 0,
+    "spotId": "0pCjlmaukO1q9mcGujlAtw",
+    "couname": "The Whole of the Moon",
+    "duration": "352409"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738498470efa9684b6eee460da",
+    "pty": 0,
+    "Items": [
+      "XT_IrishFemale",
+      "XT_Water"
+    ],
+    "artist": "Órla Fallon",
+    "genres": 0,
+    "spotId": "21qRm3zE0f21BMlfMIpnDR",
+    "couname": "The Water Is Wide",
+    "duration": "204626"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27339cb0bebaee178d106ab8a35",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Colors",
+      "XT_IrishFemale"
+    ],
+    "artist": "Anúna,Michael McGlynn,Eimear Quinn",
+    "genres": 0,
+    "spotId": "3HAq9digcPYwnINJdtMN0Z",
+    "couname": "The Green Laurel",
+    "duration": "177386"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b85948cb65b510f3e1b7c638",
+    "pty": 0,
+    "Items": [
+      "XT_Animals",
+      "XT_IrishFemale"
+    ],
+    "artist": "Lisa Hannigan",
+    "genres": 0,
+    "spotId": "40VFAOfeuEL0ryEjXqgQMA",
+    "couname": "Little Bird",
+    "duration": "240600"
   }
 ]
