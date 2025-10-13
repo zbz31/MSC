@@ -1,70 +1,33 @@
 [
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733f125be3e11a0adaffd4b2b7",
+    "img": "https://i.scdn.co/image/ab67616d0000b27349a6c600438e402d4ee42dcb",
     "pty": 0,
     "Items": [
-      "GN_Metal",
-      "XT_Fire"
+      "NULL",
+      "NULL",
+      "XT_Fire",
+      "XT_Numbers"
     ],
-    "artist": "Silent Winter",
+    "artist": "Red City Radio",
     "genres": 0,
-    "spotId": "2ZLKagJutZchJ9mz7TuHFi",
-    "couname": "Gates of Fire",
-    "duration": "307106"
+    "spotId": "47kBEMA29IouvDxJ6gEdDM",
+    "couname": "Two For Flinching",
+    "duration": "183663"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2739b55016643827bd536e4c35a",
+    "img": "https://i.scdn.co/image/ab67616d0000b273d30fcf6340831edbafb45e38",
     "pty": 0,
     "Items": [
+      "Band",
       "Male",
       "XT_Fire",
-      "YR7079"
+      "XT_Running"
     ],
-    "artist": "Sammy Hagar",
+    "artist": "Metallica",
     "genres": 0,
-    "spotId": "6uKzexr3lbCAJRzKWlQbHY",
-    "couname": "This Planet's On Fire",
-    "duration": "275653"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c377ebb471cecdb7e018e067",
-    "pty": 0,
-    "Items": [
-      "TV_Tomorrowland",
-      "XT_Fire"
-    ],
-    "artist": "AFROJACK,R3HAB,Au/Ra",
-    "genres": 0,
-    "spotId": "7grzdNt3eQRiBC70GksRp1",
-    "couname": "Worlds On Fire",
-    "duration": "174193"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27362c1f3370811c52ae2d26d24",
-    "pty": 0,
-    "Items": [
-      "XT_Fire",
-      "XT_Love"
-    ],
-    "artist": "Joe Hisaishi",
-    "genres": 0,
-    "spotId": "2tC7TrnxyQx47So8aCRZnU",
-    "couname": "Love Under Fire",
-    "duration": "176573"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dae82a57e7385bc847f9f495",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "Sonic Youth",
-    "genres": 0,
-    "spotId": "7j8qXNeUNts3YxZ0hC1pi8",
-    "couname": "Candle",
-    "duration": "299186"
+    "spotId": "4fVBFyglBhMf0erfF7pBJp",
+    "couname": "Jump In The Fire",
+    "duration": "281293"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273ce4ef09f5e36c6af62c6f8a6",
@@ -81,19 +44,51 @@
     "duration": "306546"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27357afef955e666565acb17d99",
+    "img": "https://i.scdn.co/image/ab67616d0000b273a72944a72d5063140db0cae0",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Animals",
+      "XT_Fire",
+      "XT_OffAnimals"
+    ],
+    "artist": "The Bootleggers,Emmylou Harris,Ralph Stanley",
+    "genres": 0,
+    "spotId": "6JVxD27oKcBVLm6O7kkyUE",
+    "couname": "Fire in the Blood / Snake Song",
+    "duration": "265346"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27359bb0c0ba0d744327a0f4326",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Colors",
+      "XT_Fire",
+      "XT_Gold"
+    ],
+    "artist": "Bea Miller",
+    "genres": 0,
+    "spotId": "7xAdO0zdl7lGf0ecg4IGhQ",
+    "couname": "Fire N Gold",
+    "duration": "211573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739dcb0129fabebbf5eb78a809",
     "pty": 0,
     "Items": [
       "NULL",
       "NULL",
       "XT_Fire",
-      "XT_Water"
+      "XT_Kiss"
     ],
-    "artist": "Roo Panes",
+    "artist": "Homer & Jethro",
     "genres": 0,
-    "spotId": "4Zda03mkAuaCoJ06XkFbuT",
-    "couname": "Water Over Fire",
-    "duration": "268426"
+    "spotId": "3UZPNSRp7xrJwABBoSiqIC",
+    "couname": "Li' L Ole Kiss Of Fire",
+    "duration": "127346"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2731ef7a320e0e864767314e54c",
@@ -121,19 +116,6 @@
     "spotId": "0lQYBEKweCLa4jF6QrTVwd",
     "couname": "We Be Burnin",
     "duration": "198133"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27354da42357998a5dd9036bbc8",
-    "pty": 0,
-    "Items": [
-      "GN_Metal",
-      "XT_Fire"
-    ],
-    "artist": "Glenn Tipton",
-    "genres": 0,
-    "spotId": "55VtgLsBWjLArN2MWhG98Y",
-    "couname": "Baptizm of Fire",
-    "duration": "317373"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273cc48a7d11b6bf8b7ca98013d",
@@ -220,20 +202,6 @@
     "duration": "356728"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dfe8626c440e7c2f87406ad0",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "Self",
-    "genres": 0,
-    "spotId": "0iuVrknhJOdac8FweLyOiP",
-    "couname": "Dead Man",
-    "duration": "183400"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273dbed4490cbdba1f472058b74",
     "pty": 0,
     "Items": [
@@ -246,21 +214,6 @@
     "spotId": "4f4TeR0LtVfsShvbfDlumS",
     "couname": "Great Balls of Fire",
     "duration": "118400"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734df5b571de1c3f8ba2f02386",
-    "pty": 0,
-    "Items": [
-      "GN_PsychedelicRock",
-      "TV_Mafia",
-      "XT_Fire",
-      "XT_Running"
-    ],
-    "artist": "Harry Nilsson",
-    "genres": 0,
-    "spotId": "3hgHrfMdtnLtH54HYTdNHF",
-    "couname": "Jump Into The Fire",
-    "duration": "422106"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273d5d3326142da6988448a07a8",
@@ -277,32 +230,6 @@
     "spotId": "5ZpXdzws0fmicxw0MUbm1m",
     "couname": "Walk Through the Fire",
     "duration": "216000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c5248cc7506440f2a5fc0b4f",
-    "pty": 0,
-    "Items": [
-      "XT_Fire",
-      "YR1019"
-    ],
-    "artist": "London Symphony Orchestra,Sir Simon Rattle",
-    "genres": 0,
-    "spotId": "0sXD3J2TJKRUOIcVqtAEsb",
-    "couname": "Chariots Of Fire",
-    "duration": "266880"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273392202ae82aad36f7142c248",
-    "pty": 0,
-    "Items": [
-      "BT_EnnioMorricone",
-      "XT_Fire"
-    ],
-    "artist": "Ennio Morricone",
-    "genres": 0,
-    "spotId": "3BvuzutARiZ044z9sNtaa8",
-    "couname": "Cinema On Fire",
-    "duration": "209506"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273798b48a5e5a9bd8dacbf3647",
@@ -373,28 +300,6 @@
     "duration": "297080"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731488d84259a35c3c4f547ecb",
-    "pty": 0,
-    "Items": [
-      "GN_GuitarSolo",
-      "GN_Metal",
-      "TV_BreakingBad",
-      "TV_Mafia",
-      "TV_Rolling500",
-      "TV_Simpsons120",
-      "XT_Fire",
-      "XT_Food",
-      "XT_Intros",
-      "XT_Water",
-      "YR7079"
-    ],
-    "artist": "Deep Purple",
-    "genres": 0,
-    "spotId": "5dIgg4mrQHOlVm1ZFYHW29",
-    "couname": "Smoke on the Water",
-    "duration": "334240"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27397f8189fe45286e5142db832",
     "pty": 0,
     "Items": [
@@ -408,21 +313,6 @@
     "spotId": "4JplVK8DHOlSfxek51ycVZ",
     "couname": "Ashes On The Sea",
     "duration": "286546"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737d4a2851ae43e312215b3443",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire",
-      "XT_Water"
-    ],
-    "artist": "Lila",
-    "genres": 0,
-    "spotId": "0TpJWNOYpTZxVOXk37vJCP",
-    "couname": "Earth Air Fire Water",
-    "duration": "251586"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273964420e2e188703e04ebe768",
@@ -601,6 +491,19 @@
     "duration": "166200"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733f125be3e11a0adaffd4b2b7",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Fire"
+    ],
+    "artist": "Silent Winter",
+    "genres": 0,
+    "spotId": "2ZLKagJutZchJ9mz7TuHFi",
+    "couname": "Gates of Fire",
+    "duration": "307106"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2731adcee0919f4d4095eeab9ca",
     "pty": 0,
     "Items": [
@@ -660,19 +563,31 @@
     "duration": "283695"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b6d9ee7130d0183722b0ba3",
+    "img": "https://i.scdn.co/image/ab67616d0000b2739b55016643827bd536e4c35a",
     "pty": 0,
     "Items": [
-      "Band",
       "Male",
       "XT_Fire",
-      "YR8089"
+      "YR7079"
     ],
-    "artist": "China Crisis",
+    "artist": "Sammy Hagar",
     "genres": 0,
-    "spotId": "60utA6KOYHGIA0vh4a9ZJg",
-    "couname": "Working With Fire And Steel",
-    "duration": "220960"
+    "spotId": "6uKzexr3lbCAJRzKWlQbHY",
+    "couname": "This Planet's On Fire",
+    "duration": "275653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c377ebb471cecdb7e018e067",
+    "pty": 0,
+    "Items": [
+      "TV_Tomorrowland",
+      "XT_Fire"
+    ],
+    "artist": "AFROJACK,R3HAB,Au/Ra",
+    "genres": 0,
+    "spotId": "7grzdNt3eQRiBC70GksRp1",
+    "couname": "Worlds On Fire",
+    "duration": "174193"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273dfe55128eb2aa4e87854e50f",
@@ -750,20 +665,6 @@
     "spotId": "2VN7uPrbryJ7nE2MXX3f9a",
     "couname": "Burning Heart",
     "duration": "230106"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273faa4792320e543c2db92eb57",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "Kolka Karmadon",
-    "genres": 0,
-    "spotId": "1PWYzbrzOaW5je5sRN37Vo",
-    "couname": "House Fire",
-    "duration": "112066"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273e9afc30c11de1468fe201970",
@@ -987,34 +888,6 @@
     "duration": "220609"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273181baef01d864fe48baa65ad",
-    "pty": 0,
-    "Items": [
-      "GN_GuitarSolo",
-      "XT_Fire"
-    ],
-    "artist": "Blue Öyster Cult",
-    "genres": 0,
-    "spotId": "1uZOev7V8UkfhCKuMDnAdy",
-    "couname": "Burnin' for You",
-    "duration": "271066"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27373799b3496053d0526cbd36e",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Fire",
-      "YR0009"
-    ],
-    "artist": "Jonas Brothers",
-    "genres": 0,
-    "spotId": "72jGj8k9C7DIQesDYenUT3",
-    "couname": "Burnin' Up",
-    "duration": "175093"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2731e6080bcea9c1d05762084a1",
     "pty": 0,
     "Items": [
@@ -1055,20 +928,6 @@
     "duration": "215413"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733bb75f3881099847e140020b",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Fire",
-      "YR0009"
-    ],
-    "artist": "Nelly",
-    "genres": 0,
-    "spotId": "5pZrTiyyerSGHUJExDCOxZ",
-    "couname": "Country Grammar",
-    "duration": "287000"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27360c84f44c080824ce336e1a1",
     "pty": 0,
     "Items": [
@@ -1082,20 +941,6 @@
     "spotId": "7s0lDK7y3XLmI7tcsRAbW0",
     "couname": "My Songs Know What You Did In The Dark",
     "duration": "186826"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273601ee6f8c34a8ee9dbd318f7",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Fire",
-      "YR0009"
-    ],
-    "artist": "Sean Kingston",
-    "genres": 0,
-    "spotId": "7gDKfEMIhyyO4asgEXwcrs",
-    "couname": "Fire Burning",
-    "duration": "243133"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2735796a96e792ccf729da94e85",
@@ -1151,72 +996,6 @@
     "duration": "157292"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738e28bf1317e6dcf609eac8d8",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Fire",
-      "YR0009"
-    ],
-    "artist": "Nelly",
-    "genres": 0,
-    "spotId": "51FEdPwVSWCFspiWtt8gjJ",
-    "couname": "Hot In Herre",
-    "duration": "228533"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27313fc64ebf9e88683bbca4f20",
-    "pty": 0,
-    "Items": [
-      "TV_BreakingBad",
-      "XT_Fire"
-    ],
-    "artist": "Junip",
-    "genres": 0,
-    "spotId": "0RtbpiHj5nScRUEdzit5Xs",
-    "couname": "Line Of Fire",
-    "duration": "339293"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
-    "pty": 0,
-    "Items": [
-      "XT_Fire",
-      "XT_Intros"
-    ],
-    "artist": "Nirvana",
-    "genres": 0,
-    "spotId": "4UJmPSJsBsIR1U0N79BU1g",
-    "couname": "Lake Of Fire",
-    "duration": "175973"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27370f9e1cf71793ee37d5e6730",
-    "pty": 0,
-    "Items": [
-      "BT_Queen_DavidBowie",
-      "XT_Fire"
-    ],
-    "artist": "Queen",
-    "genres": 0,
-    "spotId": "4VRPEbK8NAAPp61hqdqbhB",
-    "couname": "Put Out The Fire",
-    "duration": "198666"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f012c4c3a7793d7851d2f758",
-    "pty": 0,
-    "Items": [
-      "GN_DrumSolo",
-      "XT_Fire"
-    ],
-    "artist": "Bullet For My Valentine",
-    "genres": 0,
-    "spotId": "7tFxCn0Qb75pbx993wqUIQ",
-    "couname": "Scream Aim Fire",
-    "duration": "266440"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2737c3b8acbb943c8da17364f34",
     "pty": 0,
     "Items": [
@@ -1228,20 +1007,6 @@
     "spotId": "2PC9Tl8SWVO2yhDDtJcrAi",
     "couname": "Setting Fires",
     "duration": "247426"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27360ccb37245f06381ee4d10d1",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "Sean Paul",
-    "genres": 0,
-    "spotId": "4kOTDj4SiZPkW1p96WMDNv",
-    "couname": "We Be Burnin'",
-    "duration": "215213"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2733c2579a4f8cacd5b95b8fa68",
@@ -1286,20 +1051,6 @@
     "duration": "211066"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27301dc8b339e7070fc30435f6b",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "Toadies",
-    "genres": 0,
-    "spotId": "4QSNb5F3PlfalWlMaVMCA3",
-    "couname": "We Burned the City Down",
-    "duration": "174267"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273b89cf022db28fa31376e0ed8",
     "pty": 0,
     "Items": [
@@ -1311,19 +1062,6 @@
     "spotId": "3pm1X3oQBKQ4vcp3i9PWRg",
     "couname": "Things We Lost In The Fire",
     "duration": "240746"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d00b4adecc94e022d717151f",
-    "pty": 0,
-    "Items": [
-      "XT_Fire",
-      "XT_Running"
-    ],
-    "artist": "Mary Chapin Carpenter",
-    "genres": 0,
-    "spotId": "2joIzZ91OVNTo7TrDdvAas",
-    "couname": "Walking Through Fire",
-    "duration": "242693"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273cddc25435cb94483d4b7bb45",
@@ -1363,20 +1101,6 @@
     "spotId": "4jXXFZtmxoYU15WKTIiYrE",
     "couname": "Matchbox",
     "duration": "118746"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736fae2db0df7b821854bfad83",
-    "pty": 0,
-    "Items": [
-      "XT_BodyParts",
-      "XT_Fire",
-      "YR1019"
-    ],
-    "artist": "James Blunt",
-    "genres": 0,
-    "spotId": "6H2NtlZr110yO3uwphiTKk",
-    "couname": "Bonfire Heart",
-    "duration": "238000"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2735cc94d3cef8387f9cfbdd9e5",
@@ -1455,20 +1179,6 @@
     "duration": "246735"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ff13ea6975bf87a481b800bf",
-    "pty": 0,
-    "Items": [
-      "XT_Fire",
-      "XT_Food",
-      "YR1019"
-    ],
-    "artist": "Pitbull,John Ryan",
-    "genres": 0,
-    "spotId": "49eplIHvgCLY8HAgcaWrUb",
-    "couname": "Fireball",
-    "duration": "235012"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616",
     "pty": 0,
     "Items": [
@@ -1481,21 +1191,6 @@
     "spotId": "4lCv7b86sLynZbXhfScfm2",
     "couname": "Firework",
     "duration": "227880"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a4fe49eb27e8152710e7a590",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "GN_Piano",
-      "XT_Fire",
-      "YR1019"
-    ],
-    "artist": "Alicia Keys",
-    "genres": 0,
-    "spotId": "4esOae7i4rqTbAu9o5Pxco",
-    "couname": "Girl on Fire",
-    "duration": "224920"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464",
@@ -1525,20 +1220,6 @@
     "spotId": "7F1lHcpnTycnimQrCxDFI5",
     "couname": "Hot",
     "duration": "217036"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732f479a6c1825c1f29e0a3d49",
-    "pty": 0,
-    "Items": [
-      "GN_FrenchElectro",
-      "TV_Tomorrowland",
-      "XT_Fire"
-    ],
-    "artist": "David Guetta,OneRepublic",
-    "genres": 0,
-    "spotId": "331l3xABO0HMr1Kkyh2LZq",
-    "couname": "I Don't Wanna Wait",
-    "duration": "149667"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2732b22d98b4becd11416fb56d3",
@@ -1612,34 +1293,6 @@
     "duration": "227093"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273286a0837ff3424065a735e0a",
-    "pty": 0,
-    "Items": [
-      "GN_GuitarSolo",
-      "XT_Fire",
-      "XT_Intros"
-    ],
-    "artist": "AC/DC",
-    "genres": 0,
-    "spotId": "7LRMbd3LEoV5wZJvXT1Lwb",
-    "couname": "T.N.T.",
-    "duration": "214666"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737d25386ee8060604cb77a3e8",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "Go2",
-    "genres": 0,
-    "spotId": "5FhJCb0EjKNJ0FccokM4i5",
-    "couname": "Spitfire",
-    "duration": "314702"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273770cdccd02bdb90b506531f1",
     "pty": 0,
     "Items": [
@@ -1652,22 +1305,6 @@
     "spotId": "1yMFKpJmelH28ciFqYys7c",
     "couname": "Fire and Rain",
     "duration": "187413"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27360c84f44c080824ce336e1a1",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "GN_ViolinSolo",
-      "XT_Fire",
-      "YR1019"
-    ],
-    "artist": "Fall Out Boy",
-    "genres": 0,
-    "spotId": "53AuxddsgPSlqM619nJhSd",
-    "couname": "The Phoenix",
-    "duration": "244960"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27372c9f7a7c75eba39726106a6",
@@ -1787,20 +1424,6 @@
     "spotId": "7ugeFdykRDPMMy6XPMdIdz",
     "couname": "Great Balls of Fire",
     "duration": "111535"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed",
-    "pty": 0,
-    "Items": [
-      "GN_DrumSolo",
-      "XT_Fire",
-      "XT_Intros"
-    ],
-    "artist": "Van Halen",
-    "genres": 0,
-    "spotId": "6QDbGdbJ57Mtkflsg42WV5",
-    "couname": "Hot for Teacher",
-    "duration": "282746"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2735886324a0c2eb6e2772f31f5",
@@ -1955,24 +1578,6 @@
     "duration": "243800"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "TV_BestVideos",
-      "TV_SpotifyS500",
-      "XT_Fire",
-      "XT_Intros",
-      "XT_Karaoke"
-    ],
-    "artist": "Kings of Leon",
-    "genres": 0,
-    "spotId": "0ntQJM78wzOLVeCUAW7Y45",
-    "couname": "Sex on Fire",
-    "duration": "203346"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2731e78ecb43a40f3e497839f2a",
     "pty": 0,
     "Items": [
@@ -2003,20 +1608,6 @@
     "spotId": "2hSmv6Dx5L55TwddgzdLBu",
     "couname": "Through The Fire And Flames",
     "duration": "439213"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273fbe61270115d45892111efa1",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "Storm",
-    "genres": 0,
-    "spotId": "5TNaSsFPNp3wVOhAMAh9QQ",
-    "couname": "Time to Burn",
-    "duration": "404133"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2732323f86e757c3436b3cc38af",
@@ -2138,23 +1729,6 @@
     "duration": "594700"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731d97eb6f2e5a10102c071d6b",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "GN_Synth",
-      "TV_Simpsons120",
-      "XT_Fire",
-      "XT_Running",
-      "YR8089"
-    ],
-    "artist": "Vangelis",
-    "genres": 0,
-    "spotId": "3hBgVOpgET0AGtdwc5D8Qy",
-    "couname": "Chariots Of Fire",
-    "duration": "211208"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2731f8c1a0ed8c404c469680cc0",
     "pty": 0,
     "Items": [
@@ -2259,62 +1833,6 @@
     "duration": "251800"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27366ec7d795b727cd90bd09690",
-    "pty": 0,
-    "Items": [
-      "TV_OneHit",
-      "XT_Fire",
-      "XT_Running",
-      "XT_Weather",
-      "YR9099"
-    ],
-    "artist": "Smash Mouth",
-    "genres": 0,
-    "spotId": "4TQeNHx85xcP9YRkvJC6K1",
-    "couname": "Walkin' On The Sun",
-    "duration": "207786"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b20af9c8ff56d8b178cefec0",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Female",
-      "GN_Disco",
-      "GN_Synth",
-      "XT_AboutTime",
-      "XT_Fire",
-      "XT_Karaoke",
-      "XT_Weather",
-      "YR8089"
-    ],
-    "artist": "Bananarama",
-    "genres": 0,
-    "spotId": "2EGaDf0cPX789H3LNeB03D",
-    "couname": "Cruel Summer",
-    "duration": "215326"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731c8557e27b433cbd77a15c5f",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "GN_Disco",
-      "TV_Mafia",
-      "TV_Simpsons120",
-      "XT_Fire",
-      "XT_Intros",
-      "XT_LongSongs",
-      "YR7079"
-    ],
-    "artist": "The Trammps",
-    "genres": 0,
-    "spotId": "4IPhAKsArwJ8VcNueJqbgo",
-    "couname": "Disco Inferno",
-    "duration": "219373"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273164feb363334f93b6458d2a9",
     "pty": 0,
     "Items": [
@@ -2349,62 +1867,6 @@
     "duration": "1207293"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27387dfba4ae789bea2e246aeb8",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "Dissident Noize Factory",
-    "genres": 0,
-    "spotId": "1AKcl6OUXFps4fZteOU7lN",
-    "couname": "We Got the Fire",
-    "duration": "394874"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733113d61d22ed4e0df6b821d1",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "MilkyyMelodies,EggOnYourLeg",
-    "genres": 0,
-    "spotId": "4IZnhuNYLbLpn7jxo10uF8",
-    "couname": "What a Hellhole",
-    "duration": "172124"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273acdd606f4c291ea72a0dd2a2",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "Godsmack",
-    "genres": 0,
-    "spotId": "1Si7crvw1M6Kgz9XiAtMiJ",
-    "couname": "When Legends Rise",
-    "duration": "172826"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273efeb3a3c565ceff416688311",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "Hank Williams",
-    "genres": 0,
-    "spotId": "376PL97nWUNDbrEol4k4Mj",
-    "couname": "When The Fire Comes Down From Heaven",
-    "duration": "144495"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273056e90910cbaf5c5b892aeba",
     "pty": 0,
     "Items": [
@@ -2423,90 +1885,6 @@
     "spotId": "5vdp5UmvTsnMEMESIF2Ym7",
     "couname": "Another One Bites The Dust",
     "duration": "214653"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ebe8e62d8791922485a9d7e4",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "Li'l Andy",
-    "genres": 0,
-    "spotId": "05ettaPHF2y8SfE8chiXP7",
-    "couname": "While the Engine Burns",
-    "duration": "256307"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273455cc3060b25c1f0015269fe",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "Jeremy Zucker",
-    "genres": 0,
-    "spotId": "1mrPG8snf4maJMoM4Ec8Ag",
-    "couname": "wildfire",
-    "duration": "163000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27375708a276de803025be13969",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "SBTRKT,Little Dragon",
-    "genres": 0,
-    "spotId": "65jAG0pqo7HI7OZCKejN4K",
-    "couname": "Wildfire",
-    "duration": "201000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b051ce304d1eb1a6f340cd20",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "Stick Figure,Slightly Stoopid",
-    "genres": 0,
-    "spotId": "35cWnQKyLjmzkq81M51D9n",
-    "couname": "World on Fire",
-    "duration": "238810"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737538abc2adca08fbbe43ae82",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "Michael Franti & Spearhead",
-    "genres": 0,
-    "spotId": "1JjjDdCXcaK4GKqJG9Rlex",
-    "couname": "Yell Fire!",
-    "duration": "284506"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27338f96cfa664acf8df89e94b1",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "The Temptations",
-    "genres": 0,
-    "spotId": "036VfOqzE69Sn7LEcqhMPo",
-    "couname": "You've Got My Soul On Fire",
-    "duration": "232440"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2731a3cbd7022399e0b83a6d968",
@@ -2528,20 +1906,6 @@
     "spotId": "471T37ecOQmfgPlHodhMcz",
     "couname": "Night Fever",
     "duration": "216466"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733f551354495cffd838340df4",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "Big D and the Kids Table",
-    "genres": 0,
-    "spotId": "4BjJkP2dwMUj09cOw6YmzU",
-    "couname": "(We All Have To) Burn Something",
-    "duration": "198346"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2731e0dc5baaabda304b0ad1815",
@@ -2636,6 +2000,1727 @@
     "spotId": "2zYzyRzz6pRmhPzyfMEC8s",
     "couname": "Highway to Hell",
     "duration": "208400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_BodyParts",
+      "XT_Fire",
+      "YR8089"
+    ],
+    "artist": "John Cafferty",
+    "genres": 0,
+    "spotId": "5vI0C3TDTxySR6Oq8NWjE0",
+    "couname": "Hearts On Fire",
+    "duration": "252920"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27399a8b193fae2ce4521682e73",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Fire",
+      "XT_History"
+    ],
+    "artist": "Fall Out Boy",
+    "genres": 0,
+    "spotId": "60glT2wsoSHV3B8yCRSB8v",
+    "couname": "We Didn’t Start The Fire",
+    "duration": "215530"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Fire",
+      "XT_History",
+      "XT_Intros",
+      "YR8089"
+    ],
+    "artist": "Billy Joel",
+    "genres": 0,
+    "spotId": "3Cx4yrFaX8CeHwBMReOWXI",
+    "couname": "We Didn't Start the Fire",
+    "duration": "287733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "TV_Mafia",
+      "TV_Rolling500",
+      "XT_Fire",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Places",
+      "YR8089"
+    ],
+    "artist": "Tom Petty",
+    "genres": 0,
+    "spotId": "5tVA6TkbaAH9QMITTQRrNv",
+    "couname": "Free Fallin'",
+    "duration": "256000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27382e707b8230b8c77ed333659",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_BodyParts",
+      "XT_Fire"
+    ],
+    "artist": "The Lowdown Drifters",
+    "genres": 0,
+    "spotId": "3v2ewMH9yBAkCsUlkKR7l7",
+    "couname": "Fire in Her Eyes",
+    "duration": "194720"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734a6c388ad6480f015a7818b6",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire",
+      "XT_Weather"
+    ],
+    "artist": "Måns Zelmerlöw",
+    "genres": 0,
+    "spotId": "7LiNMM6UT9eHyDHbLlRfAk",
+    "couname": "Fire in the Rain",
+    "duration": "193386"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d42d2f33bd2cafdc4f3d01be",
+    "pty": 0,
+    "Items": [
+      "XT_Fire",
+      "XT_Intros",
+      "XT_Love",
+      "XT_Weather"
+    ],
+    "artist": "Martha Reeves & The Vandellas",
+    "genres": 0,
+    "spotId": "3VgrSJEKBRT3xmwzpaxxEF",
+    "couname": "(Love Is Like A) Heat Wave",
+    "duration": "163053"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27333d6ad1275ae8ebe156686f5",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire",
+      "XT_Water"
+    ],
+    "artist": "Feist",
+    "genres": 0,
+    "spotId": "42YunpdquRjWicoxW971f4",
+    "couname": "Fire In The Water",
+    "duration": "150786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27374f7a9922f667f11999affc5",
+    "pty": 0,
+    "Items": [
+      "TV_OneHit",
+      "XT_Fire"
+    ],
+    "artist": "Sanford Townsend Band",
+    "genres": 0,
+    "spotId": "62obgbkuUt75nDIiIcLI4T",
+    "couname": "Smoke from a Distant Fire",
+    "duration": "213973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27306cb74d39d123ebe1b3c6631",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "GN_DrumSolo",
+      "XT_Cars",
+      "XT_Fire",
+      "XT_Intros"
+    ],
+    "artist": "Metallica",
+    "genres": 0,
+    "spotId": "6FUwPb4mGlUDbx42uspXaZ",
+    "couname": "Fuel",
+    "duration": "269800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737e17824c7520ede9e5af4bd1",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire",
+      "XT_OffAnimals"
+    ],
+    "artist": "Mahavishnu Orchestra",
+    "genres": 0,
+    "spotId": "5pF0dbHV6xFY7NNIuszfXM",
+    "couname": "Birds Of Fire",
+    "duration": "342800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273512599dd7c793a9275af7029",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire",
+      "XT_OffAnimals"
+    ],
+    "artist": "The Residents",
+    "genres": 0,
+    "spotId": "4FadjoEqtHpte2vaYhLCTg",
+    "couname": "Fire",
+    "duration": "105453"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732c4ea47343f7187cd716f700",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire",
+      "XT_LongSongs"
+    ],
+    "artist": "Edgar Winter",
+    "genres": 0,
+    "spotId": "1hR2ibq6WvmT60O7ysYFtp",
+    "couname": "Fire and Ice",
+    "duration": "423573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27334fb2b0117a542d515dc78d6",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire",
+      "XT_Weather"
+    ],
+    "artist": "John Denver",
+    "genres": 0,
+    "spotId": "6a8OIUyBncL64FkA0Sq22Q",
+    "couname": "Fire and Rain",
+    "duration": "224693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27347ca192bbc880e09dd212322",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire",
+      "XT_Weather"
+    ],
+    "artist": "Boyce Avenue",
+    "genres": 0,
+    "spotId": "6HQPfIhW0XzcsAJsWfdfcq",
+    "couname": "Fire and Rain",
+    "duration": "232654"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273473a1b126af03427ced443a8",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire",
+      "XT_Love"
+    ],
+    "artist": "The Presidents Of The United States Of America",
+    "genres": 0,
+    "spotId": "3GhoWnxoXSePaTWIVoLenL",
+    "couname": "Flame Is Love",
+    "duration": "159066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736b3a4b96976119fb6c486984",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire",
+      "XT_Love"
+    ],
+    "artist": "Black Rebel Motorcycle Club",
+    "genres": 0,
+    "spotId": "0t2IEhFA1OoDIO4S043Ssf",
+    "couname": "Love Burns",
+    "duration": "245493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_BodyParts",
+      "XT_Fire"
+    ],
+    "artist": "Gorillaz",
+    "genres": 0,
+    "spotId": "1S9tfxdFr4TqoqA14gnKj3",
+    "couname": "Fire Coming out of the Monkey's Head",
+    "duration": "199000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737c7266b45de7e9c06366f187",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_BodyParts",
+      "XT_Fire"
+    ],
+    "artist": "Sam Feldt,Kav Verhouzer",
+    "genres": 0,
+    "spotId": "5OppKZFuGrKMVpWRHzp4jM",
+    "couname": "Hot Skin",
+    "duration": "209385"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b88f7509d085f79052a09f31",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Fire"
+    ],
+    "artist": "In Victory",
+    "genres": 0,
+    "spotId": "6y2urZOJWUkDgcstf6EpH9",
+    "couname": "Arrows of Fire",
+    "duration": "248495"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27379f5f97a282f9dd8e3c0a39b",
+    "pty": 0,
+    "Items": [
+      "BT_HansZimmer",
+      "XT_Fire"
+    ],
+    "artist": "Rebuilding Paradise (Original Motion Picture Soundtrack) - Hans Zimmer,Lorne Balfe",
+    "genres": 0,
+    "spotId": "2lROgOHSE6E6DfJfEV7y5F",
+    "couname": "Day of Fire",
+    "duration": "189453"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f8809206b8ba603b0d5819d1",
+    "pty": 0,
+    "Items": [
+      "GN_Disco",
+      "XT_Fire"
+    ],
+    "artist": "Vivian Reed",
+    "genres": 0,
+    "spotId": "31Od68PGwALEvppoW8g3tQ",
+    "couname": "Faith and Fire",
+    "duration": "211500"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f1ff29687b0d8f1b51206fe7",
+    "pty": 0,
+    "Items": [
+      "XT_Fire",
+      "YR1019"
+    ],
+    "artist": "Breakage,Jess Mills",
+    "genres": 0,
+    "spotId": "4VvueaWg5ySrxSGe8xnMI7",
+    "couname": "Fighting Fire",
+    "duration": "258627"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27395cccd859091f67c04c43cc2",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Fire"
+    ],
+    "artist": "Paragon",
+    "genres": 0,
+    "spotId": "7lYFIKW3SFwfEJ4WOehgfM",
+    "couname": "Fighting The Fire",
+    "duration": "286093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273927d4d54fad4d86275c13877",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Fire"
+    ],
+    "artist": "Gaia Epicus",
+    "genres": 0,
+    "spotId": "5nNfqZoOz6rlCIdj1xLuPd",
+    "couname": "Fire & Ice",
+    "duration": "320862"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739df78416576d76900044a96e",
+    "pty": 0,
+    "Items": [
+      "BT_JohnWilliams",
+      "XT_Fire"
+    ],
+    "artist": "Jaws 2 (Original Motion Picture Soundtrack) - John Williams",
+    "genres": 0,
+    "spotId": "2ygJycs97taKWwGfzDcvY6",
+    "couname": "Fire Aboard And Eddie's Death",
+    "duration": "204613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734478dcaf4a7b766feabb75cc",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "XT_Fire"
+    ],
+    "artist": "Link Wray",
+    "genres": 0,
+    "spotId": "3bEECCaIejir3Amq4iTpCg",
+    "couname": "Fire And Brimstone",
+    "duration": "258893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b6f5afe63c28be5287e5f232",
+    "pty": 0,
+    "Items": [
+      "BT_Rihanna",
+      "XT_Fire"
+    ],
+    "artist": "Rihanna",
+    "genres": 0,
+    "spotId": "3c0Hv4uvN4mtMnx8vM42xd",
+    "couname": "Fire Bomb",
+    "duration": "257786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273934d17838b667b6e93ff5e3c",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Fire",
+      "YR6069"
+    ],
+    "artist": "The Move",
+    "genres": 0,
+    "spotId": "3jAi9RRYXVI9fIaqyElDwU",
+    "couname": "Fire Brigade",
+    "duration": "144920"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27362e387a36a374f6bef987597",
+    "pty": 0,
+    "Items": [
+      "TV_March",
+      "XT_Fire"
+    ],
+    "artist": "Dances With Wolves - Original Motion Picture Soundtrack - Peter Buffett,John Barry",
+    "genres": 0,
+    "spotId": "0tQSjKmsXRVPoF06YzDXt6",
+    "couname": "Fire Dance",
+    "duration": "100426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dbe7573b59c6e8e773375639",
+    "pty": 0,
+    "Items": [
+      "GN_SurfRock",
+      "XT_Fire"
+    ],
+    "artist": "Surfer Joe",
+    "genres": 0,
+    "spotId": "6tBdeClzMIVkXAYMdPEEKs",
+    "couname": "Fire Escape Rope",
+    "duration": "187962"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27399b37676fbae815424b4b1a4",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Fire",
+      "YR8089"
+    ],
+    "artist": "Bob Seger",
+    "genres": 0,
+    "spotId": "2fZw0ya0oI4pXsjkB0NBHs",
+    "couname": "Fire Lake",
+    "duration": "212986"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27379f5f97a282f9dd8e3c0a39b",
+    "pty": 0,
+    "Items": [
+      "BT_HansZimmer",
+      "XT_Fire"
+    ],
+    "artist": "Rebuilding Paradise (Original Motion Picture Soundtrack) - Hans Zimmer,Lorne Balfe",
+    "genres": 0,
+    "spotId": "71MjJaxPYijaytrfHLERQQ",
+    "couname": "Fire Reunited Family",
+    "duration": "330013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bce06431e62478da9ddf9bfc",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Fire"
+    ],
+    "artist": "Axel Rudi Pell",
+    "genres": 0,
+    "spotId": "4GKCpoBHlX7xdRbAE3wUQ8",
+    "couname": "Hell's On Fire",
+    "duration": "285974"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732cd4bd3b9893fb596c754111",
+    "pty": 0,
+    "Items": [
+      "TV_Dreamworks",
+      "XT_Fire"
+    ],
+    "artist": "Karen Fukahara,Sydney Mikayla",
+    "genres": 0,
+    "spotId": "3lqW7z7QXAgpjtgkkYTXXS",
+    "couname": "Heroes On Fire",
+    "duration": "203026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739d6a490cb45234b1ed2463fc",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Fire",
+      "YR7079"
+    ],
+    "artist": "5000 Volts",
+    "genres": 0,
+    "spotId": "2LKVqj0hkZsqQTOuWypM1c",
+    "couname": "I'm On Fire",
+    "duration": "154426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f53f81c79fed7a869fa6fa0c",
+    "pty": 0,
+    "Items": [
+      "GN_Disco",
+      "XT_Fire"
+    ],
+    "artist": "James Last",
+    "genres": 0,
+    "spotId": "7v2JlJJRvLwJWNtUPlaNsU",
+    "couname": "I'm On Fire",
+    "duration": "102800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27389f2e1de35a6bbf59eeee72a",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Fire",
+      "YR8089"
+    ],
+    "artist": "REO Speedwagon",
+    "genres": 0,
+    "spotId": "07wMk0CZVZRMqhF66r40Z8",
+    "couname": "Keep the Fire Burnin'",
+    "duration": "234893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b71f1099fa292977d42db8c8",
+    "pty": 0,
+    "Items": [
+      "GN_Disco",
+      "XT_Fire"
+    ],
+    "artist": "Gwen McCrae",
+    "genres": 0,
+    "spotId": "4rS4K30qVDExdjeU4feF4c",
+    "couname": "Keep the Fire Burning",
+    "duration": "344546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b456a40950e65ed3d4807131",
+    "pty": 0,
+    "Items": [
+      "BT_HansZimmer",
+      "XT_Fire"
+    ],
+    "artist": "The Holiday (Original Motion Picture Soundtrack) - Hans Zimmer",
+    "genres": 0,
+    "spotId": "0ZNAYfR7EHyBVymcnG5QVB",
+    "couname": "Light My Fire",
+    "duration": "74120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f46832a71f85b950436d87b3",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Fire",
+      "YR6069"
+    ],
+    "artist": "José Feliciano",
+    "genres": 0,
+    "spotId": "2wWdwNwfYiI7bSCGYtq0Un",
+    "couname": "Light My Fire",
+    "duration": "215133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ffa991a198d0b253f3e3b8d4",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "XT_Fire",
+      "YR7079"
+    ],
+    "artist": "Amii Stewart",
+    "genres": 0,
+    "spotId": "5Ohke9oUsxdoIFNO4KVLBJ",
+    "couname": "Light My Fire",
+    "duration": "237906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f79ec187269bcbdcc573237c",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_BodyParts",
+      "XT_Fire"
+    ],
+    "artist": "Mad Hatter",
+    "genres": 0,
+    "spotId": "4iwSWk0G8f8oZ27lVKsKGU",
+    "couname": "Fire In My Heart",
+    "duration": "284853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736c8efe24edd3681ad84d2348",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Fire"
+    ],
+    "artist": "Mastodon",
+    "genres": 0,
+    "spotId": "5SoTqdQPiBu4XmZyXeNs4M",
+    "couname": "March of the Fire Ants",
+    "duration": "265653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ca2b75d03cccce2b8fe6760d",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Fire"
+    ],
+    "artist": "Primal Fear",
+    "genres": 0,
+    "spotId": "2AS79lM3HOUkuP9MbZVVYn",
+    "couname": "Nuclear Fire",
+    "duration": "265080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f17c23d33d4a488543d45355",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Fire",
+      "YR7079"
+    ],
+    "artist": "T-Connection",
+    "genres": 0,
+    "spotId": "6hWbZRbousQT1eRC9YlYVD",
+    "couname": "On Fire",
+    "duration": "445951"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730c06ab75bd2ea92c8b809673",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Fire"
+    ],
+    "artist": "Behemoth",
+    "genres": 0,
+    "spotId": "7fire0gDtWtq39qQLJVfev",
+    "couname": "Ov Fire and the Void",
+    "duration": "267320"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273070f39b3a5350af6e9fa3780",
+    "pty": 0,
+    "Items": [
+      "GN_ViolinSolo",
+      "XT_Fire"
+    ],
+    "artist": "John Mellencamp",
+    "genres": 0,
+    "spotId": "3fbVtEI5leNfYKvL7FxDz1",
+    "couname": "Paper In Fire",
+    "duration": "231200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27383650407c98adb8b8c837836",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "XT_Fire"
+    ],
+    "artist": "Barbara & Ernie",
+    "genres": 0,
+    "spotId": "6qivaRvwJ34QHswoNTbdwL",
+    "couname": "Play with Fire",
+    "duration": "216226"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c33e7e55ce763c907ac4b9cc",
+    "pty": 0,
+    "Items": [
+      "XT_Fire",
+      "YR1019"
+    ],
+    "artist": "Plan B,Labrinth",
+    "genres": 0,
+    "spotId": "4mkG0ZTqLwMhMlJoXxhVyz",
+    "couname": "Playing With Fire",
+    "duration": "219813"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273992ad8ffefc03006f08cc3f8",
+    "pty": 0,
+    "Items": [
+      "TV_March",
+      "XT_Fire"
+    ],
+    "artist": "Call of Duty®: Modern Warfare II (Official Soundtrack) - Sarah Schachner",
+    "genres": 0,
+    "spotId": "79M59Y1X6vLQqbkfVu2qZW",
+    "couname": "Recon by Fire",
+    "duration": "190638"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739b7eb7362aa2692185abf485",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Fire"
+    ],
+    "artist": "Armored Saint",
+    "genres": 0,
+    "spotId": "3PRS0gft5zPotr44vBwqJ5",
+    "couname": "Reign Of Fire",
+    "duration": "237133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734d5585001007c39adf700e5c",
+    "pty": 0,
+    "Items": [
+      "GN_Disco",
+      "XT_Fire"
+    ],
+    "artist": "Dan Hartman",
+    "genres": 0,
+    "spotId": "4J56aooFLyVLyKGW0RUaxg",
+    "couname": "Relight My Fire",
+    "duration": "223093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c0c860e8283ea4cd8a4edbd2",
+    "pty": 0,
+    "Items": [
+      "XT_Fire",
+      "YR9099"
+    ],
+    "artist": "Take That,Lulu",
+    "genres": 0,
+    "spotId": "4UGzL9fNdZPnrb9oseuDSi",
+    "couname": "Relight My Fire",
+    "duration": "251760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273edb17240d8a19e2b84f37f30",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Fire"
+    ],
+    "artist": "Marius Danielsen,Atli Guðlaugsson",
+    "genres": 0,
+    "spotId": "3kei6beoOjq6uJ6wr7lZwj",
+    "couname": "Servant of the Secret Fire",
+    "duration": "286976"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739ee20f02c3e96fbc7c15e025",
+    "pty": 0,
+    "Items": [
+      "XT_Fire",
+      "YR1019"
+    ],
+    "artist": "The Janoskians",
+    "genres": 0,
+    "spotId": "0OnlXkEYVjQUvPEszsPuYm",
+    "couname": "Set This World On Fire",
+    "duration": "179346"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730ea1ecb2d5271c2db402b0c2",
+    "pty": 0,
+    "Items": [
+      "GN_GuitarSolo",
+      "XT_Fire"
+    ],
+    "artist": "Avenged Sevenfold",
+    "genres": 0,
+    "spotId": "1fQaoh3imrMunWVZh5kf90",
+    "couname": "Shepherd of Fire",
+    "duration": "323800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27360b2556a04e7228ef835fce2",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Fire",
+      "YR7079"
+    ],
+    "artist": "City Boy",
+    "genres": 0,
+    "spotId": "577KhF7UJa0fbinJ4Dh0CH",
+    "couname": "The Day the Earth Caught Fire",
+    "duration": "326133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d625c3b1b58cb58b84a8ea8c",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Fire"
+    ],
+    "artist": "Firewind",
+    "genres": 0,
+    "spotId": "7taZYFNVCgY2XPDe5FiTlz",
+    "couname": "Rising Fire",
+    "duration": "206426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d1815343e70448334f9d6343",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Fire"
+    ],
+    "artist": "Bishop Briggs",
+    "genres": 0,
+    "spotId": "5VKQzU9v4siYcZMoAKrWwO",
+    "couname": "The Fire",
+    "duration": "182986"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b8291b49fa74d2911798bd29",
+    "pty": 0,
+    "Items": [
+      "BT_HansZimmer",
+      "XT_Fire"
+    ],
+    "artist": "The Dark Knight Rises - Hans Zimmer",
+    "genres": 0,
+    "spotId": "7y2x1L2Yz97k5AGmCMlxl7",
+    "couname": "The Fire Rises",
+    "duration": "333213"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737e9e532b33af4d18f3d0bd9c",
+    "pty": 0,
+    "Items": [
+      "BT_JohnWilliams",
+      "XT_Fire"
+    ],
+    "artist": "Memoirs of a Geisha (Remastered) - John Williams,Yo-Yo Ma,Itzhak Perlman",
+    "genres": 0,
+    "spotId": "5KX8tCFT1NCr6WRObYeaPn",
+    "couname": "The Fire Scene and the Coming of War Medley",
+    "duration": "408746"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273668eef9a15023a800efdbbba",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "XT_Fire"
+    ],
+    "artist": "Strawberry Alarm Clock",
+    "genres": 0,
+    "spotId": "5Osu3BeGYl2t0auN3IXHam",
+    "couname": "The World's On Fire",
+    "duration": "505266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cc5bb1a3f809896baf67dba4",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Fire"
+    ],
+    "artist": "Killswitch Engage",
+    "genres": 0,
+    "spotId": "07ceEXOyS7ghQkyCOycXwP",
+    "couname": "This Fire",
+    "duration": "189666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c188a356c4272fc9059ad992",
+    "pty": 0,
+    "Items": [
+      "GN_Disco",
+      "XT_Fire"
+    ],
+    "artist": "Dan Hartman",
+    "genres": 0,
+    "spotId": "2zQHhhk8MovP9H3LZMQvXa",
+    "couname": "Vertigo / Relight My Fire",
+    "duration": "584373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273087dbc3a7d5344573fe95966",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Fire"
+    ],
+    "artist": "Starchild",
+    "genres": 0,
+    "spotId": "6C9gEjEEjUs4rncSyJf6aH",
+    "couname": "We've Been Through the Fire",
+    "duration": "312826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27312202fa21c6cad037e234943",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "GN_ViolinSolo",
+      "XT_BodyParts",
+      "XT_Fire",
+      "YR1019"
+    ],
+    "artist": "Passenger",
+    "genres": 0,
+    "spotId": "2EbME91Hc1tvJ5BrBmCVQn",
+    "couname": "Heart's On Fire",
+    "duration": "253162"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273de3c79d554c8d1857543089c",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Female",
+      "XT_Fire",
+      "XT_Kiss",
+      "YR7079"
+    ],
+    "artist": "The Pointer Sisters",
+    "genres": 0,
+    "spotId": "65lHwG8JFJs67PnOUhCYPq",
+    "couname": "Fire",
+    "duration": "210640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27312c7ae6ba860cc99bb0f564c",
+    "pty": 0,
+    "Items": [
+      "XT_Fire",
+      "XT_Intros",
+      "YR8089"
+    ],
+    "artist": "Bruce Springsteen",
+    "genres": 0,
+    "spotId": "4bSWx86yHmy6OOMsQPU60F",
+    "couname": "I'm On Fire",
+    "duration": "154266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27384afb869abf25c4fde8e0576",
+    "pty": 0,
+    "Items": [
+      "XT_Cars",
+      "XT_Fire",
+      "XT_Oscars"
+    ],
+    "artist": "Becky G",
+    "genres": 0,
+    "spotId": "0tIhGHziGqxR3UurT5V3gy",
+    "couname": "The Fire Inside",
+    "duration": "200099"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737842fd51802451ff61483dcf",
+    "pty": 0,
+    "Items": [
+      "TV_Halloween",
+      "XT_Fire",
+      "YR1019"
+    ],
+    "artist": "Gesaffelstein,The Weeknd",
+    "genres": 0,
+    "spotId": "2vXKRlJBXyOcvZYTdNeckS",
+    "couname": "Lost in the Fire",
+    "duration": "202093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731be31537933da4b3ea4fe37a",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire",
+      "XT_Intros"
+    ],
+    "artist": "Slash",
+    "genres": 0,
+    "spotId": "50XuBmcV8THyLBczxD0c2k",
+    "couname": "World on Fire",
+    "duration": "271030"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27375ea8510776626eb920260c5",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire",
+      "XT_LongSongs"
+    ],
+    "artist": "Boards of Canada",
+    "genres": 0,
+    "spotId": "6IBbvwR5G7bhGfhtBqPUDZ",
+    "couname": "Farewell Fire",
+    "duration": "506266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d9ba743ab24dce83e280a8ef",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire",
+      "XT_Food"
+    ],
+    "artist": "Reyna Roberts",
+    "genres": 0,
+    "spotId": "6qF3PxTZBlcOJmyNGgNXRU",
+    "couname": "Fire and Whiskey",
+    "duration": "177500"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273259eb086039e1072466b0e01",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire",
+      "XT_Weather"
+    ],
+    "artist": "Noah Guthrie",
+    "genres": 0,
+    "spotId": "5foLNCCWHMFXIzgtuOVEis",
+    "couname": "Set Fire To The Rain",
+    "duration": "233377"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738be5f9356ee08a1f9e67ff87",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "Female",
+      "XT_Fire",
+      "XT_Karaoke"
+    ],
+    "artist": "Chaka Khan",
+    "genres": 0,
+    "spotId": "7gh2v4IHnxdiwSgA6xluhe",
+    "couname": "Through the Fire",
+    "duration": "288653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27310ab36c54af8a61b5fa57169",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "XT_Fire",
+      "YR1019"
+    ],
+    "artist": "Ed Sheeran",
+    "genres": 0,
+    "spotId": "6JyHE2IeTdfdwk7T6nRj0L",
+    "couname": "I See Fire",
+    "duration": "300840"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e3a383b116eabe5dcbf132b4",
+    "pty": 0,
+    "Items": [
+      "BT_Queen_DavidBowie",
+      "XT_Fire"
+    ],
+    "artist": "David Bowie",
+    "genres": 0,
+    "spotId": "0sXRe8tBi7TA8cXWUxnB4M",
+    "couname": "(You Will) Set The World On Fire",
+    "duration": "212280"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736d82586633548d5c122ee00c",
+    "pty": 0,
+    "Items": [
+      "GN_ViolinSolo",
+      "XT_Fire"
+    ],
+    "artist": "Mother Mother",
+    "genres": 0,
+    "spotId": "0zMAvsQmaQ4DGsmXtKixpn",
+    "couname": "Burning Pile",
+    "duration": "262173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d8706efb294279ee0308ff5e",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire",
+      "XT_Running"
+    ],
+    "artist": "The Hit Crew",
+    "genres": 0,
+    "spotId": "4x1Zl8hxDFnqmOsXnZCbxY",
+    "couname": "Walking On The Sun",
+    "duration": "204386"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Fire"
+    ],
+    "artist": "Chappell Roan",
+    "genres": 0,
+    "spotId": "4xdBrk0nFZaP54vvZj0yx7",
+    "couname": "HOT TO GO!",
+    "duration": "184841"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731c4ddcf6e2470945f539a64f",
+    "pty": 0,
+    "Items": [
+      "XT_Fire",
+      "XT_Food"
+    ],
+    "artist": "will.i.am,Jamie Foxx,Anne Hathaway",
+    "genres": 0,
+    "spotId": "0BxhafwvN6GXIyyvi27A0I",
+    "couname": "Hot Wings",
+    "duration": "136693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27367f33556e723b3b036ce838b",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Fire"
+    ],
+    "artist": "Powerwolf",
+    "genres": 0,
+    "spotId": "50LjccGRYZ4nCLdMbJMxPQ",
+    "couname": "Fire & Forgive",
+    "duration": "270680"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273988591df8419287889672eb1",
+    "pty": 0,
+    "Items": [
+      "TV_Themes",
+      "XT_Fire",
+      "XT_Running"
+    ],
+    "artist": "Nate Merchant",
+    "genres": 0,
+    "spotId": "7CgGfxfd72Yeczt8upKp8c",
+    "couname": "Walk Through Fire",
+    "duration": "131465"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27328d0bb77e4e6a059e2d85d28",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "XT_Fire",
+      "XT_Karaoke"
+    ],
+    "artist": "Miranda Lambert",
+    "genres": 0,
+    "spotId": "2yhhcHTfvLC0HzSajGYL0h",
+    "couname": "Kerosene",
+    "duration": "185800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27362c1f3370811c52ae2d26d24",
+    "pty": 0,
+    "Items": [
+      "XT_Fire",
+      "XT_Love"
+    ],
+    "artist": "Joe Hisaishi",
+    "genres": 0,
+    "spotId": "2tC7TrnxyQx47So8aCRZnU",
+    "couname": "Love Under Fire",
+    "duration": "176573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27357afef955e666565acb17d99",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire",
+      "XT_Water"
+    ],
+    "artist": "Roo Panes",
+    "genres": 0,
+    "spotId": "4Zda03mkAuaCoJ06XkFbuT",
+    "couname": "Water Over Fire",
+    "duration": "268426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734d201e51c52830ba90b7a787",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Fire"
+    ],
+    "artist": "Power Quest",
+    "genres": 0,
+    "spotId": "7cJ91myp2zqTAIsuAFfouJ",
+    "couname": "Temple of Fire",
+    "duration": "247053"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d00b4adecc94e022d717151f",
+    "pty": 0,
+    "Items": [
+      "XT_Fire",
+      "XT_Running"
+    ],
+    "artist": "Mary Chapin Carpenter",
+    "genres": 0,
+    "spotId": "2joIzZ91OVNTo7TrDdvAas",
+    "couname": "Walking Through Fire",
+    "duration": "242693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27366ec7d795b727cd90bd09690",
+    "pty": 0,
+    "Items": [
+      "TV_OneHit",
+      "XT_Fire",
+      "XT_Running",
+      "XT_Weather",
+      "YR9099"
+    ],
+    "artist": "Smash Mouth",
+    "genres": 0,
+    "spotId": "4TQeNHx85xcP9YRkvJC6K1",
+    "couname": "Walkin' On The Sun",
+    "duration": "207786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b6d9ee7130d0183722b0ba3",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Fire",
+      "YR8089"
+    ],
+    "artist": "China Crisis",
+    "genres": 0,
+    "spotId": "60utA6KOYHGIA0vh4a9ZJg",
+    "couname": "Working With Fire And Steel",
+    "duration": "220960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27370f9e1cf71793ee37d5e6730",
+    "pty": 0,
+    "Items": [
+      "BT_Queen_DavidBowie",
+      "XT_Fire"
+    ],
+    "artist": "Queen",
+    "genres": 0,
+    "spotId": "4VRPEbK8NAAPp61hqdqbhB",
+    "couname": "Put Out The Fire",
+    "duration": "198666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f012c4c3a7793d7851d2f758",
+    "pty": 0,
+    "Items": [
+      "GN_DrumSolo",
+      "XT_Fire"
+    ],
+    "artist": "Bullet For My Valentine",
+    "genres": 0,
+    "spotId": "7tFxCn0Qb75pbx993wqUIQ",
+    "couname": "Scream Aim Fire",
+    "duration": "266440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dae82a57e7385bc847f9f495",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire"
+    ],
+    "artist": "Sonic Youth",
+    "genres": 0,
+    "spotId": "7j8qXNeUNts3YxZ0hC1pi8",
+    "couname": "Candle",
+    "duration": "299186"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27354da42357998a5dd9036bbc8",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Fire"
+    ],
+    "artist": "Glenn Tipton",
+    "genres": 0,
+    "spotId": "55VtgLsBWjLArN2MWhG98Y",
+    "couname": "Baptizm of Fire",
+    "duration": "317373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c5248cc7506440f2a5fc0b4f",
+    "pty": 0,
+    "Items": [
+      "XT_Fire",
+      "YR1019"
+    ],
+    "artist": "London Symphony Orchestra,Sir Simon Rattle",
+    "genres": 0,
+    "spotId": "0sXD3J2TJKRUOIcVqtAEsb",
+    "couname": "Chariots Of Fire",
+    "duration": "266880"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273392202ae82aad36f7142c248",
+    "pty": 0,
+    "Items": [
+      "BT_EnnioMorricone",
+      "XT_Fire"
+    ],
+    "artist": "Ennio Morricone",
+    "genres": 0,
+    "spotId": "3BvuzutARiZ044z9sNtaa8",
+    "couname": "Cinema On Fire",
+    "duration": "209506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731488d84259a35c3c4f547ecb",
+    "pty": 0,
+    "Items": [
+      "GN_GuitarSolo",
+      "GN_Metal",
+      "TV_BreakingBad",
+      "TV_Mafia",
+      "TV_Rolling500",
+      "TV_Simpsons120",
+      "XT_Fire",
+      "XT_Food",
+      "XT_Intros",
+      "XT_Water",
+      "YR7079"
+    ],
+    "artist": "Deep Purple",
+    "genres": 0,
+    "spotId": "5dIgg4mrQHOlVm1ZFYHW29",
+    "couname": "Smoke on the Water",
+    "duration": "334240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dfe8626c440e7c2f87406ad0",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire"
+    ],
+    "artist": "Self",
+    "genres": 0,
+    "spotId": "0iuVrknhJOdac8FweLyOiP",
+    "couname": "Dead Man",
+    "duration": "183400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273faa4792320e543c2db92eb57",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire"
+    ],
+    "artist": "Kolka Karmadon",
+    "genres": 0,
+    "spotId": "1PWYzbrzOaW5je5sRN37Vo",
+    "couname": "House Fire",
+    "duration": "112066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273181baef01d864fe48baa65ad",
+    "pty": 0,
+    "Items": [
+      "GN_GuitarSolo",
+      "XT_Fire"
+    ],
+    "artist": "Blue Öyster Cult",
+    "genres": 0,
+    "spotId": "1uZOev7V8UkfhCKuMDnAdy",
+    "couname": "Burnin' for You",
+    "duration": "271066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27373799b3496053d0526cbd36e",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Fire",
+      "YR0009"
+    ],
+    "artist": "Jonas Brothers",
+    "genres": 0,
+    "spotId": "72jGj8k9C7DIQesDYenUT3",
+    "couname": "Burnin' Up",
+    "duration": "175093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27313fc64ebf9e88683bbca4f20",
+    "pty": 0,
+    "Items": [
+      "TV_BreakingBad",
+      "XT_Fire"
+    ],
+    "artist": "Junip",
+    "genres": 0,
+    "spotId": "0RtbpiHj5nScRUEdzit5Xs",
+    "couname": "Line Of Fire",
+    "duration": "339293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27336c5417732e53e23cb219246",
+    "pty": 0,
+    "Items": [
+      "XT_Fire",
+      "XT_Intros"
+    ],
+    "artist": "Nirvana",
+    "genres": 0,
+    "spotId": "4UJmPSJsBsIR1U0N79BU1g",
+    "couname": "Lake Of Fire",
+    "duration": "175973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a4fe49eb27e8152710e7a590",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "GN_Piano",
+      "XT_Fire",
+      "YR1019"
+    ],
+    "artist": "Alicia Keys",
+    "genres": 0,
+    "spotId": "4esOae7i4rqTbAu9o5Pxco",
+    "couname": "Girl on Fire",
+    "duration": "224920"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27360ccb37245f06381ee4d10d1",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire"
+    ],
+    "artist": "Sean Paul",
+    "genres": 0,
+    "spotId": "4kOTDj4SiZPkW1p96WMDNv",
+    "couname": "We Be Burnin'",
+    "duration": "215213"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27301dc8b339e7070fc30435f6b",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire"
+    ],
+    "artist": "Toadies",
+    "genres": 0,
+    "spotId": "4QSNb5F3PlfalWlMaVMCA3",
+    "couname": "We Burned the City Down",
+    "duration": "174267"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27360c84f44c080824ce336e1a1",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "GN_ViolinSolo",
+      "XT_Fire",
+      "YR1019"
+    ],
+    "artist": "Fall Out Boy",
+    "genres": 0,
+    "spotId": "53AuxddsgPSlqM619nJhSd",
+    "couname": "The Phoenix",
+    "duration": "244960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737d25386ee8060604cb77a3e8",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire"
+    ],
+    "artist": "Go2",
+    "genres": 0,
+    "spotId": "5FhJCb0EjKNJ0FccokM4i5",
+    "couname": "Spitfire",
+    "duration": "314702"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fbe61270115d45892111efa1",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire"
+    ],
+    "artist": "Storm",
+    "genres": 0,
+    "spotId": "5TNaSsFPNp3wVOhAMAh9QQ",
+    "couname": "Time to Burn",
+    "duration": "404133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27308fc42e575043a753f60d675",
+    "pty": 0,
+    "Items": [
+      "BT_RollingStones",
+      "XT_Fire"
+    ],
+    "artist": "The Rolling Stones,Bob Clearmountain",
+    "genres": 0,
+    "spotId": "5HcTLesmMaPr0CkwdbtK0o",
+    "couname": "Hang Fire",
+    "duration": "141093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27308d7d9416f47407db25049ab",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Fire"
+    ],
+    "artist": "Amon Amarth",
+    "genres": 0,
+    "spotId": "0UzhWantC3SRDwpNA6ygXt",
+    "couname": "Death in Fire",
+    "duration": "294893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27387dfba4ae789bea2e246aeb8",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire"
+    ],
+    "artist": "Dissident Noize Factory",
+    "genres": 0,
+    "spotId": "1AKcl6OUXFps4fZteOU7lN",
+    "couname": "We Got the Fire",
+    "duration": "394874"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733113d61d22ed4e0df6b821d1",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire"
+    ],
+    "artist": "MilkyyMelodies,EggOnYourLeg",
+    "genres": 0,
+    "spotId": "4IZnhuNYLbLpn7jxo10uF8",
+    "couname": "What a Hellhole",
+    "duration": "172124"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273acdd606f4c291ea72a0dd2a2",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire"
+    ],
+    "artist": "Godsmack",
+    "genres": 0,
+    "spotId": "1Si7crvw1M6Kgz9XiAtMiJ",
+    "couname": "When Legends Rise",
+    "duration": "172826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273efeb3a3c565ceff416688311",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire"
+    ],
+    "artist": "Hank Williams",
+    "genres": 0,
+    "spotId": "376PL97nWUNDbrEol4k4Mj",
+    "couname": "When The Fire Comes Down From Heaven",
+    "duration": "144495"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ebe8e62d8791922485a9d7e4",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire"
+    ],
+    "artist": "Li'l Andy",
+    "genres": 0,
+    "spotId": "05ettaPHF2y8SfE8chiXP7",
+    "couname": "While the Engine Burns",
+    "duration": "256307"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273455cc3060b25c1f0015269fe",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire"
+    ],
+    "artist": "Jeremy Zucker",
+    "genres": 0,
+    "spotId": "1mrPG8snf4maJMoM4Ec8Ag",
+    "couname": "wildfire",
+    "duration": "163000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27375708a276de803025be13969",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire"
+    ],
+    "artist": "SBTRKT,Little Dragon",
+    "genres": 0,
+    "spotId": "65jAG0pqo7HI7OZCKejN4K",
+    "couname": "Wildfire",
+    "duration": "201000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b051ce304d1eb1a6f340cd20",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire"
+    ],
+    "artist": "Stick Figure,Slightly Stoopid",
+    "genres": 0,
+    "spotId": "35cWnQKyLjmzkq81M51D9n",
+    "couname": "World on Fire",
+    "duration": "238810"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737538abc2adca08fbbe43ae82",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire"
+    ],
+    "artist": "Michael Franti & Spearhead",
+    "genres": 0,
+    "spotId": "1JjjDdCXcaK4GKqJG9Rlex",
+    "couname": "Yell Fire!",
+    "duration": "284506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27338f96cfa664acf8df89e94b1",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire"
+    ],
+    "artist": "The Temptations",
+    "genres": 0,
+    "spotId": "036VfOqzE69Sn7LEcqhMPo",
+    "couname": "You've Got My Soul On Fire",
+    "duration": "232440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733f551354495cffd838340df4",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire"
+    ],
+    "artist": "Big D and the Kids Table",
+    "genres": 0,
+    "spotId": "4BjJkP2dwMUj09cOw6YmzU",
+    "couname": "(We All Have To) Burn Something",
+    "duration": "198346"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273de33effc2b7de3714dfdcd21",
@@ -2764,21 +3849,6 @@
     "duration": "78319"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27399a8b193fae2ce4521682e73",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Fire",
-      "XT_History"
-    ],
-    "artist": "Fall Out Boy",
-    "genres": 0,
-    "spotId": "60glT2wsoSHV3B8yCRSB8v",
-    "couname": "We Didn’t Start The Fire",
-    "duration": "215530"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2730eba5d441ff50003f742707d",
     "pty": 0,
     "Items": [
@@ -2791,20 +3861,6 @@
     "spotId": "5QRWn4U9YQEknRWTnRTJax",
     "couname": "Bridge Burn",
     "duration": "162750"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731dc7483a9fcfce54822a2f19",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_Fire",
-      "YR1019"
-    ],
-    "artist": "Pitbull,T-Pain",
-    "genres": 0,
-    "spotId": "3rfhI32Il2hVRKDkuGeeen",
-    "couname": "Hey Baby",
-    "duration": "234453"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27316f2e2049f8ca33a989ed06d",
@@ -3227,6 +4283,20 @@
     "duration": "241705"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273601ee6f8c34a8ee9dbd318f7",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Fire",
+      "YR0009"
+    ],
+    "artist": "Sean Kingston",
+    "genres": 0,
+    "spotId": "7gDKfEMIhyyO4asgEXwcrs",
+    "couname": "Fire Burning",
+    "duration": "243133"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b27386ca556fc4d1366a7a4e4f7f",
     "pty": 0,
     "Items": [
@@ -3253,22 +4323,6 @@
     "spotId": "3CFZlZG1elMBkZEmzFxjzM",
     "couname": "Close to My Fire",
     "duration": "314013"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731946747b8692919f98918ec4",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Fire",
-      "XT_History",
-      "XT_Intros",
-      "YR8089"
-    ],
-    "artist": "Billy Joel",
-    "genres": 0,
-    "spotId": "3Cx4yrFaX8CeHwBMReOWXI",
-    "couname": "We Didn't Start the Fire",
-    "duration": "287733"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273e5c95f335106bdf01ea71ec2",
@@ -3353,25 +4407,6 @@
     "spotId": "1d4LLusdkPlykbx2YeJW39",
     "couname": "Dim Lights, Thick Smoke",
     "duration": "188200"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27336572e6726714544f5bed456",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "TV_Mafia",
-      "TV_Rolling500",
-      "XT_Fire",
-      "XT_Intros",
-      "XT_Karaoke",
-      "XT_Places",
-      "YR8089"
-    ],
-    "artist": "Tom Petty",
-    "genres": 0,
-    "spotId": "5tVA6TkbaAH9QMITTQRrNv",
-    "couname": "Free Fallin'",
-    "duration": "256000"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273d712038832a36fa270bd40f1",
@@ -3850,36 +4885,6 @@
     "duration": "111533"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27382e707b8230b8c77ed333659",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_BodyParts",
-      "XT_Fire"
-    ],
-    "artist": "The Lowdown Drifters",
-    "genres": 0,
-    "spotId": "3v2ewMH9yBAkCsUlkKR7l7",
-    "couname": "Fire in Her Eyes",
-    "duration": "194720"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734a6c388ad6480f015a7818b6",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire",
-      "XT_Weather"
-    ],
-    "artist": "Måns Zelmerlöw",
-    "genres": 0,
-    "spotId": "7LiNMM6UT9eHyDHbLlRfAk",
-    "couname": "Fire in the Rain",
-    "duration": "193386"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273f55aaf1f1a6875dc75ae97c8",
     "pty": 0,
     "Items": [
@@ -3990,21 +4995,6 @@
     "spotId": "7aYONXAftqbA7uZzlopJa2",
     "couname": "Fire Walker",
     "duration": "383693"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27359bb0c0ba0d744327a0f4326",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Colors",
-      "XT_Fire"
-    ],
-    "artist": "Bea Miller",
-    "genres": 0,
-    "spotId": "7xAdO0zdl7lGf0ecg4IGhQ",
-    "couname": "Fire N Gold",
-    "duration": "211573"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2735b005289f3691f717fec11b2",
@@ -5029,20 +6019,6 @@
     "duration": "163290"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2739dcb0129fabebbf5eb78a809",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire"
-    ],
-    "artist": "Homer & Jethro",
-    "genres": 0,
-    "spotId": "3UZPNSRp7xrJwABBoSiqIC",
-    "couname": "Li' L Ole Kiss Of Fire",
-    "duration": "127346"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273eded2e9bae0cba9092424797",
     "pty": 0,
     "Items": [
@@ -5211,21 +6187,6 @@
     "duration": "467293"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d42d2f33bd2cafdc4f3d01be",
-    "pty": 0,
-    "Items": [
-      "XT_Fire",
-      "XT_Intros",
-      "XT_Love",
-      "XT_Weather"
-    ],
-    "artist": "Martha Reeves & The Vandellas",
-    "genres": 0,
-    "spotId": "3VgrSJEKBRT3xmwzpaxxEF",
-    "couname": "(Love Is Like A) Heat Wave",
-    "duration": "163053"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27391689ccd10a915c46eea5a54",
     "pty": 0,
     "Items": [
@@ -5296,6 +6257,21 @@
     "duration": "207466"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734df5b571de1c3f8ba2f02386",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "TV_Mafia",
+      "XT_Fire",
+      "XT_Running"
+    ],
+    "artist": "Harry Nilsson",
+    "genres": 0,
+    "spotId": "3hgHrfMdtnLtH54HYTdNHF",
+    "couname": "Jump Into The Fire",
+    "duration": "422106"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b27317dd812df38fed44d6d2036e",
     "pty": 0,
     "Items": [
@@ -5322,6 +6298,20 @@
     "spotId": "3JtIVnpgzMrurGFVMciHYR",
     "couname": "On How to Light a Fire",
     "duration": "171506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b414c63fb435b622238c15ed",
+    "pty": 0,
+    "Items": [
+      "GN_DrumSolo",
+      "XT_Fire",
+      "XT_Intros"
+    ],
+    "artist": "Van Halen",
+    "genres": 0,
+    "spotId": "6QDbGdbJ57Mtkflsg42WV5",
+    "couname": "Hot for Teacher",
+    "duration": "282746"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2733fde15446e257f73dc1f0552",
@@ -5492,6 +6482,23 @@
     "duration": "217466"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731d97eb6f2e5a10102c071d6b",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "GN_Synth",
+      "TV_Simpsons120",
+      "XT_Fire",
+      "XT_Running",
+      "YR8089"
+    ],
+    "artist": "Vangelis",
+    "genres": 0,
+    "spotId": "3hBgVOpgET0AGtdwc5D8Qy",
+    "couname": "Chariots Of Fire",
+    "duration": "211208"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2732d8494df4d28a7dea584c6f7",
     "pty": 0,
     "Items": [
@@ -5546,6 +6553,46 @@
     "spotId": "0H9Q7Vzu8nYRDBZYKbtU8d",
     "couname": "Sippin’ On Fire",
     "duration": "193640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b20af9c8ff56d8b178cefec0",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Female",
+      "GN_Disco",
+      "GN_Synth",
+      "XT_AboutTime",
+      "XT_Fire",
+      "XT_Karaoke",
+      "XT_Weather",
+      "YR8089"
+    ],
+    "artist": "Bananarama",
+    "genres": 0,
+    "spotId": "2EGaDf0cPX789H3LNeB03D",
+    "couname": "Cruel Summer",
+    "duration": "215326"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731c8557e27b433cbd77a15c5f",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "GN_Disco",
+      "TV_Mafia",
+      "TV_Simpsons120",
+      "XT_Fire",
+      "XT_Intros",
+      "XT_LongSongs",
+      "YR7079"
+    ],
+    "artist": "The Trammps",
+    "genres": 0,
+    "spotId": "4IPhAKsArwJ8VcNueJqbgo",
+    "couname": "Disco Inferno",
+    "duration": "219373"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273c4aaa88d1bc95f97e4c02243",
@@ -5814,6 +6861,50 @@
     "duration": "243106"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fbe3dd2434401340502b180f",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_BodyParts",
+      "XT_Fire"
+    ],
+    "artist": "Hank Williams,Bob McNett",
+    "genres": 0,
+    "spotId": "4dVCErY2LBIJvUuNaRxeyi",
+    "couname": "Fingers On Fire",
+    "duration": "40738"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bceefa541bb181ec0b8d32e4",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_BodyParts",
+      "XT_Fire"
+    ],
+    "artist": "HammerFall",
+    "genres": 0,
+    "spotId": "0eV3PB3T0OxW4feG1DlOjQ",
+    "couname": "Hearts on Fire",
+    "duration": "231386"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cbd580ff2edeb91e024a5201",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Fire",
+      "XT_Weather"
+    ],
+    "artist": "Boyce Avenue",
+    "genres": 0,
+    "spotId": "6qFnAsON1WA0q96PjTlgot",
+    "couname": "Set Fire to the Rain",
+    "duration": "252900"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400",
     "pty": 0,
     "Items": [
@@ -5982,21 +7073,6 @@
     "duration": "266066"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27333d6ad1275ae8ebe156686f5",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire",
-      "XT_Water"
-    ],
-    "artist": "Feist",
-    "genres": 0,
-    "spotId": "42YunpdquRjWicoxW971f4",
-    "couname": "Fire In The Water",
-    "duration": "150786"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2732488e165fd8739d836ccb426",
     "pty": 0,
     "Items": [
@@ -6137,18 +7213,19 @@
     "duration": "154008"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27349a6c600438e402d4ee42dcb",
+    "img": "https://i.scdn.co/image/ab67616d0000b2737d4a2851ae43e312215b3443",
     "pty": 0,
     "Items": [
       "NULL",
       "NULL",
-      "XT_Fire"
+      "XT_Fire",
+      "XT_Water"
     ],
-    "artist": "Red City Radio",
+    "artist": "Lila",
     "genres": 0,
-    "spotId": "47kBEMA29IouvDxJ6gEdDM",
-    "couname": "Two For Flinching",
-    "duration": "183663"
+    "spotId": "0TpJWNOYpTZxVOXk37vJCP",
+    "couname": "Earth Air Fire Water",
+    "duration": "251586"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273af869954d48d02f3611b4584",
@@ -6165,351 +7242,92 @@
     "duration": "218560"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273fbe3dd2434401340502b180f",
+    "img": "https://i.scdn.co/image/ab67616d0000b2733bb75f3881099847e140020b",
     "pty": 0,
     "Items": [
-      "NULL",
-      "NULL",
+      "Male",
+      "XT_Fire",
+      "YR0009"
+    ],
+    "artist": "Nelly",
+    "genres": 0,
+    "spotId": "5pZrTiyyerSGHUJExDCOxZ",
+    "couname": "Country Grammar",
+    "duration": "287000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732f479a6c1825c1f29e0a3d49",
+    "pty": 0,
+    "Items": [
+      "GN_FrenchElectro",
+      "TV_Tomorrowland",
+      "XT_Fire"
+    ],
+    "artist": "David Guetta,OneRepublic",
+    "genres": 0,
+    "spotId": "331l3xABO0HMr1Kkyh2LZq",
+    "couname": "I Don't Wanna Wait",
+    "duration": "149667"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736fae2db0df7b821854bfad83",
+    "pty": 0,
+    "Items": [
       "XT_BodyParts",
-      "XT_Fire"
-    ],
-    "artist": "Hank Williams,Bob McNett",
-    "genres": 0,
-    "spotId": "4dVCErY2LBIJvUuNaRxeyi",
-    "couname": "Fingers On Fire",
-    "duration": "40738"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27374f7a9922f667f11999affc5",
-    "pty": 0,
-    "Items": [
-      "TV_OneHit",
-      "XT_Fire"
-    ],
-    "artist": "Sanford Townsend Band",
-    "genres": 0,
-    "spotId": "62obgbkuUt75nDIiIcLI4T",
-    "couname": "Smoke from a Distant Fire",
-    "duration": "213973"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737e17824c7520ede9e5af4bd1",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire",
-      "XT_OffAnimals"
-    ],
-    "artist": "Mahavishnu Orchestra",
-    "genres": 0,
-    "spotId": "5pF0dbHV6xFY7NNIuszfXM",
-    "couname": "Birds Of Fire",
-    "duration": "342800"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273512599dd7c793a9275af7029",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire",
-      "XT_OffAnimals"
-    ],
-    "artist": "The Residents",
-    "genres": 0,
-    "spotId": "4FadjoEqtHpte2vaYhLCTg",
-    "couname": "Fire",
-    "duration": "105453"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732c4ea47343f7187cd716f700",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire",
-      "XT_LongSongs"
-    ],
-    "artist": "Edgar Winter",
-    "genres": 0,
-    "spotId": "1hR2ibq6WvmT60O7ysYFtp",
-    "couname": "Fire and Ice",
-    "duration": "423573"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27334fb2b0117a542d515dc78d6",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire",
-      "XT_Weather"
-    ],
-    "artist": "John Denver",
-    "genres": 0,
-    "spotId": "6a8OIUyBncL64FkA0Sq22Q",
-    "couname": "Fire and Rain",
-    "duration": "224693"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27347ca192bbc880e09dd212322",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire",
-      "XT_Weather"
-    ],
-    "artist": "Boyce Avenue",
-    "genres": 0,
-    "spotId": "6HQPfIhW0XzcsAJsWfdfcq",
-    "couname": "Fire and Rain",
-    "duration": "232654"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273473a1b126af03427ced443a8",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire",
-      "XT_Love"
-    ],
-    "artist": "The Presidents Of The United States Of America",
-    "genres": 0,
-    "spotId": "3GhoWnxoXSePaTWIVoLenL",
-    "couname": "Flame Is Love",
-    "duration": "159066"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736b3a4b96976119fb6c486984",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire",
-      "XT_Love"
-    ],
-    "artist": "Black Rebel Motorcycle Club",
-    "genres": 0,
-    "spotId": "0t2IEhFA1OoDIO4S043Ssf",
-    "couname": "Love Burns",
-    "duration": "245493"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_BodyParts",
-      "XT_Fire"
-    ],
-    "artist": "Gorillaz",
-    "genres": 0,
-    "spotId": "1S9tfxdFr4TqoqA14gnKj3",
-    "couname": "Fire Coming out of the Monkey's Head",
-    "duration": "199000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737c7266b45de7e9c06366f187",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_BodyParts",
-      "XT_Fire"
-    ],
-    "artist": "Sam Feldt,Kav Verhouzer",
-    "genres": 0,
-    "spotId": "5OppKZFuGrKMVpWRHzp4jM",
-    "couname": "Hot Skin",
-    "duration": "209385"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b88f7509d085f79052a09f31",
-    "pty": 0,
-    "Items": [
-      "GN_Metal",
-      "XT_Fire"
-    ],
-    "artist": "In Victory",
-    "genres": 0,
-    "spotId": "6y2urZOJWUkDgcstf6EpH9",
-    "couname": "Arrows of Fire",
-    "duration": "248495"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27379f5f97a282f9dd8e3c0a39b",
-    "pty": 0,
-    "Items": [
-      "BT_HansZimmer",
-      "XT_Fire"
-    ],
-    "artist": "Rebuilding Paradise (Original Motion Picture Soundtrack) - Hans Zimmer,Lorne Balfe",
-    "genres": 0,
-    "spotId": "2lROgOHSE6E6DfJfEV7y5F",
-    "couname": "Day of Fire",
-    "duration": "189453"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27308d7d9416f47407db25049ab",
-    "pty": 0,
-    "Items": [
-      "GN_Metal",
-      "XT_Fire"
-    ],
-    "artist": "Amon Amarth",
-    "genres": 0,
-    "spotId": "0UzhWantC3SRDwpNA6ygXt",
-    "couname": "Death in Fire",
-    "duration": "294893"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f8809206b8ba603b0d5819d1",
-    "pty": 0,
-    "Items": [
-      "GN_Disco",
-      "XT_Fire"
-    ],
-    "artist": "Vivian Reed",
-    "genres": 0,
-    "spotId": "31Od68PGwALEvppoW8g3tQ",
-    "couname": "Faith and Fire",
-    "duration": "211500"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f1ff29687b0d8f1b51206fe7",
-    "pty": 0,
-    "Items": [
       "XT_Fire",
       "YR1019"
     ],
-    "artist": "Breakage,Jess Mills",
+    "artist": "James Blunt",
     "genres": 0,
-    "spotId": "4VvueaWg5ySrxSGe8xnMI7",
-    "couname": "Fighting Fire",
-    "duration": "258627"
+    "spotId": "6H2NtlZr110yO3uwphiTKk",
+    "couname": "Bonfire Heart",
+    "duration": "238000"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27395cccd859091f67c04c43cc2",
+    "img": "https://i.scdn.co/image/ab67616d0000b273ff13ea6975bf87a481b800bf",
     "pty": 0,
     "Items": [
-      "GN_Metal",
-      "XT_Fire"
+      "XT_Fire",
+      "XT_Food",
+      "YR1019"
     ],
-    "artist": "Paragon",
+    "artist": "Pitbull,John Ryan",
     "genres": 0,
-    "spotId": "7lYFIKW3SFwfEJ4WOehgfM",
-    "couname": "Fighting The Fire",
-    "duration": "286093"
+    "spotId": "49eplIHvgCLY8HAgcaWrUb",
+    "couname": "Fireball",
+    "duration": "235012"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27367f33556e723b3b036ce838b",
+    "img": "https://i.scdn.co/image/ab67616d0000b273286a0837ff3424065a735e0a",
     "pty": 0,
     "Items": [
-      "GN_Metal",
-      "XT_Fire"
+      "GN_GuitarSolo",
+      "XT_Fire",
+      "XT_Intros"
     ],
-    "artist": "Powerwolf",
+    "artist": "AC/DC",
     "genres": 0,
-    "spotId": "50LjccGRYZ4nCLdMbJMxPQ",
-    "couname": "Fire & Forgive",
-    "duration": "270680"
+    "spotId": "7LRMbd3LEoV5wZJvXT1Lwb",
+    "couname": "T.N.T.",
+    "duration": "214666"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273927d4d54fad4d86275c13877",
-    "pty": 0,
-    "Items": [
-      "GN_Metal",
-      "XT_Fire"
-    ],
-    "artist": "Gaia Epicus",
-    "genres": 0,
-    "spotId": "5nNfqZoOz6rlCIdj1xLuPd",
-    "couname": "Fire & Ice",
-    "duration": "320862"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2739df78416576d76900044a96e",
-    "pty": 0,
-    "Items": [
-      "BT_JohnWilliams",
-      "XT_Fire"
-    ],
-    "artist": "Jaws 2 (Original Motion Picture Soundtrack) - John Williams",
-    "genres": 0,
-    "spotId": "2ygJycs97taKWwGfzDcvY6",
-    "couname": "Fire Aboard And Eddie's Death",
-    "duration": "204613"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734478dcaf4a7b766feabb75cc",
-    "pty": 0,
-    "Items": [
-      "GN_PsychedelicRock",
-      "XT_Fire"
-    ],
-    "artist": "Link Wray",
-    "genres": 0,
-    "spotId": "3bEECCaIejir3Amq4iTpCg",
-    "couname": "Fire And Brimstone",
-    "duration": "258893"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b6f5afe63c28be5287e5f232",
-    "pty": 0,
-    "Items": [
-      "BT_Rihanna",
-      "XT_Fire"
-    ],
-    "artist": "Rihanna",
-    "genres": 0,
-    "spotId": "3c0Hv4uvN4mtMnx8vM42xd",
-    "couname": "Fire Bomb",
-    "duration": "257786"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273934d17838b667b6e93ff5e3c",
+    "img": "https://i.scdn.co/image/ab67616d0000b2732519d01c0cca06f134eeadd8",
     "pty": 0,
     "Items": [
       "Band",
       "Male",
+      "TV_BestVideos",
+      "TV_SpotifyS500",
       "XT_Fire",
-      "YR6069"
+      "XT_Intros",
+      "XT_Karaoke"
     ],
-    "artist": "The Move",
+    "artist": "Kings of Leon",
     "genres": 0,
-    "spotId": "3jAi9RRYXVI9fIaqyElDwU",
-    "couname": "Fire Brigade",
-    "duration": "144920"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27362e387a36a374f6bef987597",
-    "pty": 0,
-    "Items": [
-      "TV_March",
-      "XT_Fire"
-    ],
-    "artist": "Dances With Wolves - Original Motion Picture Soundtrack - Peter Buffett,John Barry",
-    "genres": 0,
-    "spotId": "0tQSjKmsXRVPoF06YzDXt6",
-    "couname": "Fire Dance",
-    "duration": "100426"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dbe7573b59c6e8e773375639",
-    "pty": 0,
-    "Items": [
-      "GN_SurfRock",
-      "XT_Fire"
-    ],
-    "artist": "Surfer Joe",
-    "genres": 0,
-    "spotId": "6tBdeClzMIVkXAYMdPEEKs",
-    "couname": "Fire Escape Rope",
-    "duration": "187962"
+    "spotId": "0ntQJM78wzOLVeCUAW7Y45",
+    "couname": "Sex on Fire",
+    "duration": "203346"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2736c2a3c6c5e6f9e2fdc080207",
@@ -6526,99 +7344,6 @@
     "duration": "232853"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27399b37676fbae815424b4b1a4",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Fire",
-      "YR8089"
-    ],
-    "artist": "Bob Seger",
-    "genres": 0,
-    "spotId": "2fZw0ya0oI4pXsjkB0NBHs",
-    "couname": "Fire Lake",
-    "duration": "212986"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27379f5f97a282f9dd8e3c0a39b",
-    "pty": 0,
-    "Items": [
-      "BT_HansZimmer",
-      "XT_Fire"
-    ],
-    "artist": "Rebuilding Paradise (Original Motion Picture Soundtrack) - Hans Zimmer,Lorne Balfe",
-    "genres": 0,
-    "spotId": "71MjJaxPYijaytrfHLERQQ",
-    "couname": "Fire Reunited Family",
-    "duration": "330013"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27308fc42e575043a753f60d675",
-    "pty": 0,
-    "Items": [
-      "BT_RollingStones",
-      "XT_Fire"
-    ],
-    "artist": "The Rolling Stones,Bob Clearmountain",
-    "genres": 0,
-    "spotId": "5HcTLesmMaPr0CkwdbtK0o",
-    "couname": "Hang Fire",
-    "duration": "141093"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273bceefa541bb181ec0b8d32e4",
-    "pty": 0,
-    "Items": [
-      "GN_Metal",
-      "XT_Fire"
-    ],
-    "artist": "HammerFall",
-    "genres": 0,
-    "spotId": "0eV3PB3T0OxW4feG1DlOjQ",
-    "couname": "Hearts on Fire",
-    "duration": "231386"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f4a2ccbe20d6d52f16816812",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Fire",
-      "YR8089"
-    ],
-    "artist": "John Cafferty",
-    "genres": 0,
-    "spotId": "5vI0C3TDTxySR6Oq8NWjE0",
-    "couname": "Hearts On Fire",
-    "duration": "252920"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273bce06431e62478da9ddf9bfc",
-    "pty": 0,
-    "Items": [
-      "GN_Metal",
-      "XT_Fire"
-    ],
-    "artist": "Axel Rudi Pell",
-    "genres": 0,
-    "spotId": "4GKCpoBHlX7xdRbAE3wUQ8",
-    "couname": "Hell's On Fire",
-    "duration": "285974"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732cd4bd3b9893fb596c754111",
-    "pty": 0,
-    "Items": [
-      "TV_Dreamworks",
-      "XT_Fire"
-    ],
-    "artist": "Karen Fukahara,Sydney Mikayla",
-    "genres": 0,
-    "spotId": "3lqW7z7QXAgpjtgkkYTXXS",
-    "couname": "Heroes On Fire",
-    "duration": "203026"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273278d3d2404a77f9b89502ecc",
     "pty": 0,
     "Items": [
@@ -6630,34 +7355,6 @@
     "spotId": "4EE58XXL1imS8Exj5QyRD7",
     "couname": "He's A Keeper Of The Fire",
     "duration": "201293"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2739d6a490cb45234b1ed2463fc",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Fire",
-      "YR7079"
-    ],
-    "artist": "5000 Volts",
-    "genres": 0,
-    "spotId": "2LKVqj0hkZsqQTOuWypM1c",
-    "couname": "I'm On Fire",
-    "duration": "154426"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f53f81c79fed7a869fa6fa0c",
-    "pty": 0,
-    "Items": [
-      "GN_Disco",
-      "XT_Fire"
-    ],
-    "artist": "James Last",
-    "genres": 0,
-    "spotId": "7v2JlJJRvLwJWNtUPlaNsU",
-    "couname": "I'm On Fire",
-    "duration": "102800"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273b8291b49fa74d2911798bd29",
@@ -6686,34 +7383,6 @@
     "duration": "279866"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27389f2e1de35a6bbf59eeee72a",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Fire",
-      "YR8089"
-    ],
-    "artist": "REO Speedwagon",
-    "genres": 0,
-    "spotId": "07wMk0CZVZRMqhF66r40Z8",
-    "couname": "Keep the Fire Burnin'",
-    "duration": "234893"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b71f1099fa292977d42db8c8",
-    "pty": 0,
-    "Items": [
-      "GN_Disco",
-      "XT_Fire"
-    ],
-    "artist": "Gwen McCrae",
-    "genres": 0,
-    "spotId": "4rS4K30qVDExdjeU4feF4c",
-    "couname": "Keep the Fire Burning",
-    "duration": "344546"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27398a489f2952526a04c48c30b",
     "pty": 0,
     "Items": [
@@ -6727,19 +7396,6 @@
     "duration": "262346"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b456a40950e65ed3d4807131",
-    "pty": 0,
-    "Items": [
-      "BT_HansZimmer",
-      "XT_Fire"
-    ],
-    "artist": "The Holiday (Original Motion Picture Soundtrack) - Hans Zimmer",
-    "genres": 0,
-    "spotId": "0ZNAYfR7EHyBVymcnG5QVB",
-    "couname": "Light My Fire",
-    "duration": "74120"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273cac8b53a63878da16ece57f8",
     "pty": 0,
     "Items": [
@@ -6751,364 +7407,6 @@
     "spotId": "2LHoNyHpsM6lbMdqcnYaOp",
     "couname": "Light My Fire",
     "duration": "212373"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f46832a71f85b950436d87b3",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Fire",
-      "YR6069"
-    ],
-    "artist": "José Feliciano",
-    "genres": 0,
-    "spotId": "2wWdwNwfYiI7bSCGYtq0Un",
-    "couname": "Light My Fire",
-    "duration": "215133"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ffa991a198d0b253f3e3b8d4",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Fire",
-      "YR7079"
-    ],
-    "artist": "Amii Stewart",
-    "genres": 0,
-    "spotId": "5Ohke9oUsxdoIFNO4KVLBJ",
-    "couname": "Light My Fire",
-    "duration": "237906"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f79ec187269bcbdcc573237c",
-    "pty": 0,
-    "Items": [
-      "GN_Metal",
-      "XT_BodyParts",
-      "XT_Fire"
-    ],
-    "artist": "Mad Hatter",
-    "genres": 0,
-    "spotId": "4iwSWk0G8f8oZ27lVKsKGU",
-    "couname": "Fire In My Heart",
-    "duration": "284853"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736c8efe24edd3681ad84d2348",
-    "pty": 0,
-    "Items": [
-      "GN_Metal",
-      "XT_Fire"
-    ],
-    "artist": "Mastodon",
-    "genres": 0,
-    "spotId": "5SoTqdQPiBu4XmZyXeNs4M",
-    "couname": "March of the Fire Ants",
-    "duration": "265653"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ca2b75d03cccce2b8fe6760d",
-    "pty": 0,
-    "Items": [
-      "GN_Metal",
-      "XT_Fire"
-    ],
-    "artist": "Primal Fear",
-    "genres": 0,
-    "spotId": "2AS79lM3HOUkuP9MbZVVYn",
-    "couname": "Nuclear Fire",
-    "duration": "265080"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f17c23d33d4a488543d45355",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Fire",
-      "YR7079"
-    ],
-    "artist": "T-Connection",
-    "genres": 0,
-    "spotId": "6hWbZRbousQT1eRC9YlYVD",
-    "couname": "On Fire",
-    "duration": "445951"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730c06ab75bd2ea92c8b809673",
-    "pty": 0,
-    "Items": [
-      "GN_Metal",
-      "XT_Fire"
-    ],
-    "artist": "Behemoth",
-    "genres": 0,
-    "spotId": "7fire0gDtWtq39qQLJVfev",
-    "couname": "Ov Fire and the Void",
-    "duration": "267320"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273070f39b3a5350af6e9fa3780",
-    "pty": 0,
-    "Items": [
-      "GN_ViolinSolo",
-      "XT_Fire"
-    ],
-    "artist": "John Mellencamp",
-    "genres": 0,
-    "spotId": "3fbVtEI5leNfYKvL7FxDz1",
-    "couname": "Paper In Fire",
-    "duration": "231200"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27383650407c98adb8b8c837836",
-    "pty": 0,
-    "Items": [
-      "GN_PsychedelicRock",
-      "XT_Fire"
-    ],
-    "artist": "Barbara & Ernie",
-    "genres": 0,
-    "spotId": "6qivaRvwJ34QHswoNTbdwL",
-    "couname": "Play with Fire",
-    "duration": "216226"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c33e7e55ce763c907ac4b9cc",
-    "pty": 0,
-    "Items": [
-      "XT_Fire",
-      "YR1019"
-    ],
-    "artist": "Plan B,Labrinth",
-    "genres": 0,
-    "spotId": "4mkG0ZTqLwMhMlJoXxhVyz",
-    "couname": "Playing With Fire",
-    "duration": "219813"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273992ad8ffefc03006f08cc3f8",
-    "pty": 0,
-    "Items": [
-      "TV_March",
-      "XT_Fire"
-    ],
-    "artist": "Call of Duty®: Modern Warfare II (Official Soundtrack) - Sarah Schachner",
-    "genres": 0,
-    "spotId": "79M59Y1X6vLQqbkfVu2qZW",
-    "couname": "Recon by Fire",
-    "duration": "190638"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2739b7eb7362aa2692185abf485",
-    "pty": 0,
-    "Items": [
-      "GN_Metal",
-      "XT_Fire"
-    ],
-    "artist": "Armored Saint",
-    "genres": 0,
-    "spotId": "3PRS0gft5zPotr44vBwqJ5",
-    "couname": "Reign Of Fire",
-    "duration": "237133"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734d5585001007c39adf700e5c",
-    "pty": 0,
-    "Items": [
-      "GN_Disco",
-      "XT_Fire"
-    ],
-    "artist": "Dan Hartman",
-    "genres": 0,
-    "spotId": "4J56aooFLyVLyKGW0RUaxg",
-    "couname": "Relight My Fire",
-    "duration": "223093"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c0c860e8283ea4cd8a4edbd2",
-    "pty": 0,
-    "Items": [
-      "XT_Fire",
-      "YR9099"
-    ],
-    "artist": "Take That,Lulu",
-    "genres": 0,
-    "spotId": "4UGzL9fNdZPnrb9oseuDSi",
-    "couname": "Relight My Fire",
-    "duration": "251760"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d625c3b1b58cb58b84a8ea8c",
-    "pty": 0,
-    "Items": [
-      "GN_Metal",
-      "XT_Fire"
-    ],
-    "artist": "Firewind",
-    "genres": 0,
-    "spotId": "7taZYFNVCgY2XPDe5FiTlz",
-    "couname": "Rising Fire",
-    "duration": "206426"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273edb17240d8a19e2b84f37f30",
-    "pty": 0,
-    "Items": [
-      "GN_Metal",
-      "XT_Fire"
-    ],
-    "artist": "Marius Danielsen,Atli Guðlaugsson",
-    "genres": 0,
-    "spotId": "3kei6beoOjq6uJ6wr7lZwj",
-    "couname": "Servant of the Secret Fire",
-    "duration": "286976"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2739ee20f02c3e96fbc7c15e025",
-    "pty": 0,
-    "Items": [
-      "XT_Fire",
-      "YR1019"
-    ],
-    "artist": "The Janoskians",
-    "genres": 0,
-    "spotId": "0OnlXkEYVjQUvPEszsPuYm",
-    "couname": "Set This World On Fire",
-    "duration": "179346"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730ea1ecb2d5271c2db402b0c2",
-    "pty": 0,
-    "Items": [
-      "GN_GuitarSolo",
-      "XT_Fire"
-    ],
-    "artist": "Avenged Sevenfold",
-    "genres": 0,
-    "spotId": "1fQaoh3imrMunWVZh5kf90",
-    "couname": "Shepherd of Fire",
-    "duration": "323800"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734d201e51c52830ba90b7a787",
-    "pty": 0,
-    "Items": [
-      "GN_Metal",
-      "XT_Fire"
-    ],
-    "artist": "Power Quest",
-    "genres": 0,
-    "spotId": "7cJ91myp2zqTAIsuAFfouJ",
-    "couname": "Temple of Fire",
-    "duration": "247053"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27360b2556a04e7228ef835fce2",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Fire",
-      "YR7079"
-    ],
-    "artist": "City Boy",
-    "genres": 0,
-    "spotId": "577KhF7UJa0fbinJ4Dh0CH",
-    "couname": "The Day the Earth Caught Fire",
-    "duration": "326133"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d1815343e70448334f9d6343",
-    "pty": 0,
-    "Items": [
-      "GN_Choirs",
-      "XT_Fire"
-    ],
-    "artist": "Bishop Briggs",
-    "genres": 0,
-    "spotId": "5VKQzU9v4siYcZMoAKrWwO",
-    "couname": "The Fire",
-    "duration": "182986"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b8291b49fa74d2911798bd29",
-    "pty": 0,
-    "Items": [
-      "BT_HansZimmer",
-      "XT_Fire"
-    ],
-    "artist": "The Dark Knight Rises - Hans Zimmer",
-    "genres": 0,
-    "spotId": "7y2x1L2Yz97k5AGmCMlxl7",
-    "couname": "The Fire Rises",
-    "duration": "333213"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737e9e532b33af4d18f3d0bd9c",
-    "pty": 0,
-    "Items": [
-      "BT_JohnWilliams",
-      "XT_Fire"
-    ],
-    "artist": "Memoirs of a Geisha (Remastered) - John Williams,Yo-Yo Ma,Itzhak Perlman",
-    "genres": 0,
-    "spotId": "5KX8tCFT1NCr6WRObYeaPn",
-    "couname": "The Fire Scene and the Coming of War Medley",
-    "duration": "408746"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273668eef9a15023a800efdbbba",
-    "pty": 0,
-    "Items": [
-      "GN_PsychedelicRock",
-      "XT_Fire"
-    ],
-    "artist": "Strawberry Alarm Clock",
-    "genres": 0,
-    "spotId": "5Osu3BeGYl2t0auN3IXHam",
-    "couname": "The World's On Fire",
-    "duration": "505266"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273cc5bb1a3f809896baf67dba4",
-    "pty": 0,
-    "Items": [
-      "GN_Metal",
-      "XT_Fire"
-    ],
-    "artist": "Killswitch Engage",
-    "genres": 0,
-    "spotId": "07ceEXOyS7ghQkyCOycXwP",
-    "couname": "This Fire",
-    "duration": "189666"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c188a356c4272fc9059ad992",
-    "pty": 0,
-    "Items": [
-      "GN_Disco",
-      "XT_Fire"
-    ],
-    "artist": "Dan Hartman",
-    "genres": 0,
-    "spotId": "2zQHhhk8MovP9H3LZMQvXa",
-    "couname": "Vertigo / Relight My Fire",
-    "duration": "584373"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273087dbc3a7d5344573fe95966",
-    "pty": 0,
-    "Items": [
-      "GN_Metal",
-      "XT_Fire"
-    ],
-    "artist": "Starchild",
-    "genres": 0,
-    "spotId": "6C9gEjEEjUs4rncSyJf6aH",
-    "couname": "We've Been Through the Fire",
-    "duration": "312826"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273012f23d4d4dc890873c2eabe",
@@ -7153,324 +7451,31 @@
     "duration": "214014"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27312202fa21c6cad037e234943",
+    "img": "https://i.scdn.co/image/ab67616d0000b2738e28bf1317e6dcf609eac8d8",
     "pty": 0,
     "Items": [
       "Male",
-      "GN_ViolinSolo",
-      "XT_BodyParts",
+      "XT_Fire",
+      "YR0009"
+    ],
+    "artist": "Nelly",
+    "genres": 0,
+    "spotId": "51FEdPwVSWCFspiWtt8gjJ",
+    "couname": "Hot In Herre",
+    "duration": "228533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731dc7483a9fcfce54822a2f19",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
       "XT_Fire",
       "YR1019"
     ],
-    "artist": "Passenger",
+    "artist": "Pitbull,T-Pain",
     "genres": 0,
-    "spotId": "2EbME91Hc1tvJ5BrBmCVQn",
-    "couname": "Heart's On Fire",
-    "duration": "253162"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273de3c79d554c8d1857543089c",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Female",
-      "XT_Fire",
-      "XT_Kiss",
-      "YR7079"
-    ],
-    "artist": "The Pointer Sisters",
-    "genres": 0,
-    "spotId": "65lHwG8JFJs67PnOUhCYPq",
-    "couname": "Fire",
-    "duration": "210640"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27312c7ae6ba860cc99bb0f564c",
-    "pty": 0,
-    "Items": [
-      "XT_Fire",
-      "XT_Intros",
-      "YR8089"
-    ],
-    "artist": "Bruce Springsteen",
-    "genres": 0,
-    "spotId": "4bSWx86yHmy6OOMsQPU60F",
-    "couname": "I'm On Fire",
-    "duration": "154266"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27384afb869abf25c4fde8e0576",
-    "pty": 0,
-    "Items": [
-      "XT_Cars",
-      "XT_Fire",
-      "XT_Oscars"
-    ],
-    "artist": "Becky G",
-    "genres": 0,
-    "spotId": "0tIhGHziGqxR3UurT5V3gy",
-    "couname": "The Fire Inside",
-    "duration": "200099"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737842fd51802451ff61483dcf",
-    "pty": 0,
-    "Items": [
-      "TV_Halloween",
-      "XT_Fire",
-      "YR1019"
-    ],
-    "artist": "Gesaffelstein,The Weeknd",
-    "genres": 0,
-    "spotId": "2vXKRlJBXyOcvZYTdNeckS",
-    "couname": "Lost in the Fire",
-    "duration": "202093"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731be31537933da4b3ea4fe37a",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire",
-      "XT_Intros"
-    ],
-    "artist": "Slash",
-    "genres": 0,
-    "spotId": "50XuBmcV8THyLBczxD0c2k",
-    "couname": "World on Fire",
-    "duration": "271030"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27375ea8510776626eb920260c5",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire",
-      "XT_LongSongs"
-    ],
-    "artist": "Boards of Canada",
-    "genres": 0,
-    "spotId": "6IBbvwR5G7bhGfhtBqPUDZ",
-    "couname": "Farewell Fire",
-    "duration": "506266"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d9ba743ab24dce83e280a8ef",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire",
-      "XT_Food"
-    ],
-    "artist": "Reyna Roberts",
-    "genres": 0,
-    "spotId": "6qF3PxTZBlcOJmyNGgNXRU",
-    "couname": "Fire and Whiskey",
-    "duration": "177500"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273259eb086039e1072466b0e01",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire",
-      "XT_Weather"
-    ],
-    "artist": "Noah Guthrie",
-    "genres": 0,
-    "spotId": "5foLNCCWHMFXIzgtuOVEis",
-    "couname": "Set Fire To The Rain",
-    "duration": "233377"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273cbd580ff2edeb91e024a5201",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire",
-      "XT_Weather"
-    ],
-    "artist": "Boyce Avenue",
-    "genres": 0,
-    "spotId": "6qFnAsON1WA0q96PjTlgot",
-    "couname": "Set Fire to the Rain",
-    "duration": "252900"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738be5f9356ee08a1f9e67ff87",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "Female",
-      "XT_Fire",
-      "XT_Karaoke"
-    ],
-    "artist": "Chaka Khan",
-    "genres": 0,
-    "spotId": "7gh2v4IHnxdiwSgA6xluhe",
-    "couname": "Through the Fire",
-    "duration": "288653"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27310ab36c54af8a61b5fa57169",
-    "pty": 0,
-    "Items": [
-      "CT_Norway",
-      "XT_Fire",
-      "YR1019"
-    ],
-    "artist": "Ed Sheeran",
-    "genres": 0,
-    "spotId": "6JyHE2IeTdfdwk7T6nRj0L",
-    "couname": "I See Fire",
-    "duration": "300840"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27306cb74d39d123ebe1b3c6631",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "GN_DrumSolo",
-      "XT_Cars",
-      "XT_Fire",
-      "XT_Intros"
-    ],
-    "artist": "Metallica",
-    "genres": 0,
-    "spotId": "6FUwPb4mGlUDbx42uspXaZ",
-    "couname": "Fuel",
-    "duration": "269800"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d30fcf6340831edbafb45e38",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Fire",
-      "XT_Running"
-    ],
-    "artist": "Metallica",
-    "genres": 0,
-    "spotId": "4fVBFyglBhMf0erfF7pBJp",
-    "couname": "Jump In The Fire",
-    "duration": "281293"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273e3a383b116eabe5dcbf132b4",
-    "pty": 0,
-    "Items": [
-      "BT_Queen_DavidBowie",
-      "XT_Fire"
-    ],
-    "artist": "David Bowie",
-    "genres": 0,
-    "spotId": "0sXRe8tBi7TA8cXWUxnB4M",
-    "couname": "(You Will) Set The World On Fire",
-    "duration": "212280"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736d82586633548d5c122ee00c",
-    "pty": 0,
-    "Items": [
-      "GN_ViolinSolo",
-      "XT_Fire"
-    ],
-    "artist": "Mother Mother",
-    "genres": 0,
-    "spotId": "0zMAvsQmaQ4DGsmXtKixpn",
-    "couname": "Burning Pile",
-    "duration": "262173"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a72944a72d5063140db0cae0",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Animals",
-      "XT_Fire",
-      "XT_OffAnimals"
-    ],
-    "artist": "The Bootleggers,Emmylou Harris,Ralph Stanley",
-    "genres": 0,
-    "spotId": "6JVxD27oKcBVLm6O7kkyUE",
-    "couname": "Fire in the Blood / Snake Song",
-    "duration": "265346"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d8706efb294279ee0308ff5e",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Fire",
-      "XT_Running"
-    ],
-    "artist": "The Hit Crew",
-    "genres": 0,
-    "spotId": "4x1Zl8hxDFnqmOsXnZCbxY",
-    "couname": "Walking On The Sun",
-    "duration": "204386"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6",
-    "pty": 0,
-    "Items": [
-      "GN_Choirs",
-      "XT_Fire"
-    ],
-    "artist": "Chappell Roan",
-    "genres": 0,
-    "spotId": "4xdBrk0nFZaP54vvZj0yx7",
-    "couname": "HOT TO GO!",
-    "duration": "184841"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731c4ddcf6e2470945f539a64f",
-    "pty": 0,
-    "Items": [
-      "XT_Fire",
-      "XT_Food"
-    ],
-    "artist": "will.i.am,Jamie Foxx,Anne Hathaway",
-    "genres": 0,
-    "spotId": "0BxhafwvN6GXIyyvi27A0I",
-    "couname": "Hot Wings",
-    "duration": "136693"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273988591df8419287889672eb1",
-    "pty": 0,
-    "Items": [
-      "TV_Themes",
-      "XT_Fire",
-      "XT_Running"
-    ],
-    "artist": "Nate Merchant",
-    "genres": 0,
-    "spotId": "7CgGfxfd72Yeczt8upKp8c",
-    "couname": "Walk Through Fire",
-    "duration": "131465"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27328d0bb77e4e6a059e2d85d28",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Fire",
-      "XT_Karaoke"
-    ],
-    "artist": "Miranda Lambert",
-    "genres": 0,
-    "spotId": "2yhhcHTfvLC0HzSajGYL0h",
-    "couname": "Kerosene",
-    "duration": "185800"
+    "spotId": "3rfhI32Il2hVRKDkuGeeen",
+    "couname": "Hey Baby",
+    "duration": "234453"
   }
 ]
