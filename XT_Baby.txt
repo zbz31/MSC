@@ -1,16 +1,126 @@
 [
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735bb070aa0153fb729d52a76a",
+    "img": "https://i.scdn.co/image/ab67616d0000b27363a5c4d85f48b4a8137b663d",
     "pty": 0,
     "Items": [
-      "GN_SurfRock",
+      "XT_Baby",
+      "XT_Numbers",
+      "YR0009"
+    ],
+    "artist": "Plies,Ne-Yo",
+    "genres": 0,
+    "spotId": "56du2aCIzpCG7sI5geIvCC",
+    "couname": "Bust It Baby, Pt. 2",
+    "duration": "214293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733066581d697fbdee4303d685",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Baby",
+      "XT_Numbers",
+      "XT_Youth"
+    ],
+    "artist": "The Neighbourhood",
+    "genres": 0,
+    "spotId": "40gvh6jP5qxMJuMmF9lG9A",
+    "couname": "Baby Came Home 2 / Valentines",
+    "duration": "390493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c80f202d11c9022e6731a394",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "NULL",
+      "XT_Baby",
+      "XT_History",
+      "XT_Numbers"
+    ],
+    "artist": "The White Stripes",
+    "genres": 0,
+    "spotId": "6VQvE0OIWGqDeQJ5wJO4ZC",
+    "couname": "The Big Three Killed My Baby",
+    "duration": "149400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ef883c94c02915cacc3b5b36",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Animals",
+      "XT_Baby",
+      "XT_OffAnimals"
+    ],
+    "artist": "Reel Big Fish",
+    "genres": 0,
+    "spotId": "6AQrO5X7b3RzQIFeDLSYZh",
+    "couname": "Snoop Dog, Baby",
+    "duration": "206266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273906c91c39012ed8fb5907910",
+    "pty": 0,
+    "Items": [
+      "BT_HansZimmer",
+      "XT_Animals",
       "XT_Baby"
     ],
-    "artist": "Les Brown & Jr.",
+    "artist": "Blue Planet II (Original Television Soundtrack) - Hans Zimmer,Jacob Shea,David Fleming",
     "genres": 0,
-    "spotId": "16CdZmR23AZeJ0vd8lKpKD",
-    "couname": "Baby Elephant Walk",
-    "duration": "176440"
+    "spotId": "05tdYx4HVP04futfgaPjTK",
+    "couname": "Baby Turtle",
+    "duration": "223773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737609d1945bcbb56229bf8bcd",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Baby",
+      "XT_Colors",
+      "XT_Gold",
+      "YR6069"
+    ],
+    "artist": "Dion",
+    "genres": 0,
+    "spotId": "2UbOKLjxxvBd8s1rl7rcvl",
+    "couname": "Ruby Baby",
+    "duration": "156160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d46de04ab2fa2df347cf30e4",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_Gold",
+      "XT_MoonStars"
+    ],
+    "artist": "Solveig Slettahjell",
+    "genres": 0,
+    "spotId": "69KNyxaTlElsD2ZBmY0872",
+    "couname": "Baby's Bed's a Silver Moon",
+    "duration": "156520"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27355612ece447bec5d62c68375",
+    "pty": 0,
+    "Items": [
+      "BT_TheBeatles",
+      "XT_Baby",
+      "XT_Colors"
+    ],
+    "artist": "The Beatles",
+    "genres": 0,
+    "spotId": "7cb2SdLm1UMLwdUoWwrZN1",
+    "couname": "Baby's In Black",
+    "duration": "124520"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273dbcc60b7fe040393dc9e95cc",
@@ -27,117 +137,60 @@
     "duration": "175906"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730c4b8c5e016091a85717085a",
+    "img": "https://i.scdn.co/image/ab67616d0000b2735bb070aa0153fb729d52a76a",
     "pty": 0,
     "Items": [
-      "XT_Baby"
-    ],
-    "artist": "Cass Elliot",
-    "genres": 0,
-    "spotId": "0T0fkqReu2aO2H0VPUPWTo",
-    "couname": "Baby I'm Yours",
-    "duration": "152360"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730ae356b48a50e3408205f64a",
-    "pty": 0,
-    "Items": [
-      "XT_Baby"
-    ],
-    "artist": "Mary Wells",
-    "genres": 0,
-    "spotId": "2Jy3VOkDkEStJRRFD71Nf0",
-    "couname": "Bye Bye Baby",
-    "duration": "177000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273cc2dfa01ccf90b466ffa1f32",
-    "pty": 0,
-    "Items": [
-      "XT_Baby"
-    ],
-    "artist": "No Doubt",
-    "genres": 0,
-    "spotId": "0qhR02JwoH6vbMwvSKSRi0",
-    "couname": "Hey Baby",
-    "duration": "207266"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738e293ddfe8e5d51649863bd0",
-    "pty": 0,
-    "Items": [
-      "XT_Baby"
-    ],
-    "artist": "Surf Mesa,Emilee",
-    "genres": 0,
-    "spotId": "2GMSQBjOP7yB9fMVzbUa7h",
-    "couname": "ily",
-    "duration": "181071"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e",
-    "pty": 0,
-    "Items": [
-      "XT_Baby"
-    ],
-    "artist": "Ariana Grande",
-    "genres": 0,
-    "spotId": "6EIsMa5lbvljYxqCkjZVDi",
-    "couname": "Baby I",
-    "duration": "197600"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734ac2d979712c58dcc49290e0",
-    "pty": 0,
-    "Items": [
-      "GN_DrumSolo",
-      "GN_Memes",
-      "XT_Baby"
-    ],
-    "artist": "Breakbot,Irfane",
-    "genres": 0,
-    "spotId": "0tZkVZ9DeAa0MNK2gY5NtV",
-    "couname": "Baby I'm Yours",
-    "duration": "215506"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273cb388aba4b7e59a71c0a5fa6",
-    "pty": 0,
-    "Items": [
-      "TV_Mafia",
+      "GN_SurfRock",
       "XT_Baby",
-      "XT_Love"
+      "XT_Running"
     ],
-    "artist": "Aretha Franklin",
+    "artist": "Les Brown & Jr.",
     "genres": 0,
-    "spotId": "5liSqIuo993Rj1ayyqQqAw",
-    "couname": "Baby, I Love You",
-    "duration": "164266"
+    "spotId": "16CdZmR23AZeJ0vd8lKpKD",
+    "couname": "Baby Elephant Walk",
+    "duration": "176440"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731f541b8364449d2d4e559eb3",
+    "img": "https://i.scdn.co/image/ab67616d0000b2730b47879e5daf5602207c671c",
     "pty": 0,
     "Items": [
-      "XT_Baby"
+      "Band",
+      "Male",
+      "XT_Baby",
+      "XT_Running",
+      "YR7079"
     ],
-    "artist": "Belle and Sebastian",
+    "artist": "NEWBEATS",
     "genres": 0,
-    "spotId": "3nWHIS8F8SsjwhXp4nBOyS",
-    "couname": "You’re Just A Baby",
-    "duration": "221866"
+    "spotId": "4DCU0UIaweLUo15h1INvUz",
+    "couname": "Run Baby Run",
+    "duration": "185693"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1",
+    "img": "https://i.scdn.co/image/ab67616d0000b27334a937c6dbf5e853b1d39619",
+    "pty": 0,
+    "Items": [
+      "BT_RollingStones",
+      "XT_Baby"
+    ],
+    "artist": "The Rolling Stones",
+    "genres": 0,
+    "spotId": "53PIJiUe4MeUitcD4QyiTu",
+    "couname": "Cherry Oh Baby",
+    "duration": "234200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e4c1aab2ab7ddde12f145030",
     "pty": 0,
     "Items": [
       "XT_Baby",
-      "YR0009"
+      "XT_Running"
     ],
-    "artist": "Beyoncé,Sean Paul",
+    "artist": "Toro y Moi",
     "genres": 0,
-    "spotId": "4WY3HyGXsWqjFRCVD6gnTe",
-    "couname": "Baby Boy",
-    "duration": "244826"
+    "spotId": "3IJLF4AJFL6hBlCbdwL8UQ",
+    "couname": "Run Baby Run",
+    "duration": "165261"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273a669794e15662ed42730bbae",
@@ -221,32 +274,6 @@
     "spotId": "3vuUhwFljjs55iJNVQSoYb",
     "couname": "Baby",
     "duration": "220080"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f1cefbab235bebab1a997870",
-    "pty": 0,
-    "Items": [
-      "CT_Brazil",
-      "XT_Baby"
-    ],
-    "artist": "Gal Costa,Caetano Veloso",
-    "genres": 0,
-    "spotId": "5svr1DYE0rD5xguhl4diP9",
-    "couname": "Baby",
-    "duration": "206960"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a48a4dd02bc01a7f60f0c36a",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "YR9099"
-    ],
-    "artist": "Corona,Lee Marrow",
-    "genres": 0,
-    "spotId": "5Hr2Q8DMEn25u3tu2sqcpQ",
-    "couname": "Baby Baby",
-    "duration": "226906"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273f94b2a29ccc364e8faedce10",
@@ -387,20 +414,6 @@
     "duration": "291562"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273823351ac09824d25f3b09db8",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Baby",
-      "YR7079"
-    ],
-    "artist": "Helen Reddy",
-    "genres": 0,
-    "spotId": "7Jx87mZSCjUWlVDCLiRFK6",
-    "couname": "Angie Baby",
-    "duration": "211293"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2737f31357b65d247890ecc7c9c",
     "pty": 0,
     "Items": [
@@ -443,21 +456,6 @@
     "spotId": "4dPzGK4W7QYWZv5T4GiucN",
     "couname": "Baby It's You",
     "duration": "146413"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a391af6b977e84ff9749a267",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Baby",
-      "YR7079"
-    ],
-    "artist": "Mungo Jerry",
-    "genres": 0,
-    "spotId": "3pqNUdf5uziHuSg2eNngOW",
-    "couname": "Baby Jump",
-    "duration": "250533"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273f0f333f115640d068bec2df1",
@@ -584,33 +582,6 @@
     "duration": "181800"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27370e3e482d0d47df283e792e4",
-    "pty": 0,
-    "Items": [
-      "GN_FrenchElectro",
-      "XT_Baby"
-    ],
-    "artist": "David Guetta,Steve Angello,Cozi",
-    "genres": 0,
-    "spotId": "30uJvYj0JwozcqYLvfl24k",
-    "couname": "Baby When the Light",
-    "duration": "208026"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730884578be886e1e6aa4fb4dc",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Baby",
-      "YR6069"
-    ],
-    "artist": "Jackie Wilson",
-    "genres": 0,
-    "spotId": "4c9g1LMBE6RMxmI9DcxlQw",
-    "couname": "Baby Workout",
-    "duration": "184653"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2735b57042987606e6f01138b46",
     "pty": 0,
     "Items": [
@@ -682,20 +653,6 @@
     "duration": "165760"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273906c91c39012ed8fb5907910",
-    "pty": 0,
-    "Items": [
-      "BT_HansZimmer",
-      "XT_Animals",
-      "XT_Baby"
-    ],
-    "artist": "Blue Planet II (Original Television Soundtrack) - Hans Zimmer,Jacob Shea,David Fleming",
-    "genres": 0,
-    "spotId": "05tdYx4HVP04futfgaPjTK",
-    "couname": "Baby Turtle",
-    "duration": "223773"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273be9457783277cadad93c7d4e",
     "pty": 0,
     "Items": [
@@ -711,19 +668,6 @@
     "duration": "293453"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27363a5c4d85f48b4a8137b663d",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "YR0009"
-    ],
-    "artist": "Plies,Ne-Yo",
-    "genres": 0,
-    "spotId": "56du2aCIzpCG7sI5geIvCC",
-    "couname": "Bust It Baby, Pt. 2",
-    "duration": "214293"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273815989adaf3a97155e16defc",
     "pty": 0,
     "Items": [
@@ -735,48 +679,6 @@
     "spotId": "6KUoh1ZEtQWfaRiqduDdam",
     "couname": "Bye Bye Baby",
     "duration": "160373"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a932ea631c2c747c0b49af57",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Baby",
-      "YR7079"
-    ],
-    "artist": "Bay City Rollers",
-    "genres": 0,
-    "spotId": "4nueWRW1yDz6P30pHUg9GC",
-    "couname": "Bye Bye Baby",
-    "duration": "166066"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2739e5af96086574b76499dcf70",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Baby",
-      "YR6069"
-    ],
-    "artist": "Aretha Franklin",
-    "genres": 0,
-    "spotId": "3lrSnngQqNWgvQmcFbCJCx",
-    "couname": "(Sweet Sweet Baby) Since You've Been Gone",
-    "duration": "145506"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27334a937c6dbf5e853b1d39619",
-    "pty": 0,
-    "Items": [
-      "BT_RollingStones",
-      "XT_Baby"
-    ],
-    "artist": "The Rolling Stones",
-    "genres": 0,
-    "spotId": "53PIJiUe4MeUitcD4QyiTu",
-    "couname": "Cherry Oh Baby",
-    "duration": "234200"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2738fcdec4de369087ac2bbf636",
@@ -875,22 +777,6 @@
     "spotId": "64huJKqo9mq58i4Chi4L0Z",
     "couname": "Darlin', Darlin', Baby",
     "duration": "261506"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ef883c94c02915cacc3b5b36",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Animals",
-      "XT_Baby",
-      "XT_OffAnimals"
-    ],
-    "artist": "Reel Big Fish",
-    "genres": 0,
-    "spotId": "6AQrO5X7b3RzQIFeDLSYZh",
-    "couname": "Snoop Dog, Baby",
-    "duration": "206266"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2735306ed42ae78f317258c51bb",
@@ -1246,19 +1132,6 @@
     "duration": "155151"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c4505e434564d9bd78517255",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "YR0009"
-    ],
-    "artist": "Lil' Romeo",
-    "genres": 0,
-    "spotId": "0s9A4pUBLw68E76vY8LU9K",
-    "couname": "My Baby",
-    "duration": "221000"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27351ba9558a4638b6ebff9c746",
     "pty": 0,
     "Items": [
@@ -1283,19 +1156,6 @@
     "spotId": "1JkpPufBDtHtZlGXFDWRKe",
     "couname": "My Baby Just Cares For Me",
     "duration": "151520"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b8de55b53b3d23a4096683e",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "YR1019"
-    ],
-    "artist": "Rox",
-    "genres": 0,
-    "spotId": "47VyaFVk21Ecwip34l3fXc",
-    "couname": "My Baby Left Me",
-    "duration": "213466"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2735e4c9a47023c30429966ed6e",
@@ -1324,19 +1184,6 @@
     "spotId": "58uiNKZ1w4B89gHRfRLeJJ",
     "couname": "My Baby Loves Lovin'",
     "duration": "157493"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273e256625578a6d6e718d203b2",
-    "pty": 0,
-    "Items": [
-      "TV_Mafia",
-      "XT_Baby"
-    ],
-    "artist": "Greg Ginn",
-    "genres": 0,
-    "spotId": "7pvN5FGoY2SaHldlh0M2J7",
-    "couname": "Never Change, Baby",
-    "duration": "42040"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273a1329e09980b4bb58943844b",
@@ -1489,35 +1336,6 @@
     "duration": "196120"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730b47879e5daf5602207c671c",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Baby",
-      "YR7079"
-    ],
-    "artist": "NEWBEATS",
-    "genres": 0,
-    "spotId": "4DCU0UIaweLUo15h1INvUz",
-    "couname": "Run Baby Run",
-    "duration": "185693"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273aa949f2c9ff2687f5ad82b5d",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Baby",
-      "YR1019"
-    ],
-    "artist": "Kylie Minogue",
-    "genres": 0,
-    "spotId": "0cM5URUqqQTpJWonmdzF1J",
-    "couname": "Santa Baby",
-    "duration": "202546"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273b62b49cec67e610f6f3d1221",
     "pty": 0,
     "Items": [
@@ -1655,21 +1473,6 @@
     "duration": "167875"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27330587b3774aaf5fd3db4f805",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Baby",
-      "YR7079"
-    ],
-    "artist": "The Hollies",
-    "genres": 0,
-    "spotId": "4jPbX60fZCAM9H6h68m6t7",
-    "couname": "The Baby",
-    "duration": "229800"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27335f2a22ae7381c262f1ac008",
     "pty": 0,
     "Items": [
@@ -1755,20 +1558,6 @@
     "duration": "113333"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a9054a6256c08c0bb53ef9e0",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "BT_Madonna",
-      "XT_Baby"
-    ],
-    "artist": "Madonna",
-    "genres": 0,
-    "spotId": "6gimgfkbhuoGuY8MQXEFch",
-    "couname": "Cry Baby",
-    "duration": "245786"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273b6caa5f5f4d3905e66c46ad9",
     "pty": 0,
     "Items": [
@@ -1797,20 +1586,6 @@
     "spotId": "4q9WhqkP3Bh4m3XagKGUXS",
     "couname": "Baby I Love You, OK!",
     "duration": "229346"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c36c283cc580ae67f45276ab",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_Love",
-      "YR1019"
-    ],
-    "artist": "Petite Meller",
-    "genres": 0,
-    "spotId": "4YQQUjsPWhUbBC4AocFTHQ",
-    "couname": "Baby Love",
-    "duration": "221721"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27384bdb41a2fc87d02d6be601b",
@@ -1902,35 +1677,6 @@
     "spotId": "0kzSooCGpuphLwn8iTuO9h",
     "couname": "Baby, I Love Your Way/Freebird",
     "duration": "247200"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27355612ece447bec5d62c68375",
-    "pty": 0,
-    "Items": [
-      "BT_TheBeatles",
-      "XT_Baby",
-      "XT_Colors"
-    ],
-    "artist": "The Beatles",
-    "genres": 0,
-    "spotId": "7cb2SdLm1UMLwdUoWwrZN1",
-    "couname": "Baby's In Black",
-    "duration": "124520"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27326c8f4ab7ab90b6c0e4236fc",
-    "pty": 0,
-    "Items": [
-      "GN_Disco",
-      "XT_Baby",
-      "XT_LongSongs",
-      "XT_Love"
-    ],
-    "artist": "Easy Going",
-    "genres": 0,
-    "spotId": "0GpbUTVkLhMb200mH8WBOW",
-    "couname": "Baby I Love You",
-    "duration": "503920"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2734516a5d74bac51f3afcba85a",
@@ -2029,21 +1775,6 @@
     "duration": "146093"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737609d1945bcbb56229bf8bcd",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Baby",
-      "XT_Colors",
-      "YR6069"
-    ],
-    "artist": "Dion",
-    "genres": 0,
-    "spotId": "2UbOKLjxxvBd8s1rl7rcvl",
-    "couname": "Ruby Baby",
-    "duration": "156160"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2731f8c1a0ed8c404c469680cc0",
     "pty": 0,
     "Items": [
@@ -2099,20 +1830,6 @@
     "spotId": "3BBrBOfTuMwVmQToKWQxZx",
     "couname": "Your Time Hasn't Come Yet, Baby",
     "duration": "110973"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731324c10f992d02b1cc4de772",
-    "pty": 0,
-    "Items": [
-      "TV_OneHit",
-      "XT_Baby",
-      "YR8089"
-    ],
-    "artist": "Patti Austin,James Ingram",
-    "genres": 0,
-    "spotId": "3ir8K4Cba553mOjsl8ZCJ0",
-    "couname": "Baby, Come To Me",
-    "duration": "215386"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273196ddacc8968e22242285745",
@@ -2190,34 +1907,6 @@
     "duration": "160933"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f0ef8ce0db61b981468f7db7",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "BT_Madonna",
-      "XT_Baby"
-    ],
-    "artist": "Madonna",
-    "genres": 0,
-    "spotId": "2Y7FJaEtJin7jdUafIqDkZ",
-    "couname": "Bye Bye Baby",
-    "duration": "236266"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731cbb61f835d03e7fb8e8052d",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Baby",
-      "YR7079"
-    ],
-    "artist": "Billy Paul",
-    "genres": 0,
-    "spotId": "4ecYY0cRundMFf44kHBRm8",
-    "couname": "Let's Make a Baby",
-    "duration": "433933"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2735795e01c151ba5a8ce4bd295",
     "pty": 0,
     "Items": [
@@ -2292,32 +1981,6 @@
     "spotId": "5j929KlzL6RcXeX2LD4dgl",
     "couname": "Baby Blue Eyes",
     "duration": "220013"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27323e683677b52e644f7cd96ac",
-    "pty": 0,
-    "Items": [
-      "CT_Norway",
-      "XT_Baby"
-    ],
-    "artist": "Christian Strand",
-    "genres": 0,
-    "spotId": "2ILSEvK5iLf0lMdQUrt7AX",
-    "couname": "Maybe Baby",
-    "duration": "189920"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734036d910db58e309cb544793",
-    "pty": 0,
-    "Items": [
-      "TV_Mafia",
-      "XT_Baby"
-    ],
-    "artist": "The Crickets",
-    "genres": 0,
-    "spotId": "2i2XnV3JoRVZirBrFTtKyH",
-    "couname": "Maybe Baby",
-    "duration": "123933"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27313c8f8d01810d1923816e5e6",
@@ -2468,21 +2131,6 @@
     "duration": "162293"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27363a1d575dc56db05db9b3587",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Baby",
-      "XT_Colors"
-    ],
-    "artist": "Madisenxoxo",
-    "genres": 0,
-    "spotId": "4SSpUNIZ8HnX52jWrmyVmJ",
-    "couname": "Baby in Blue",
-    "duration": "235897"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2736b562cfa7c33fe63622ea5c1",
     "pty": 0,
     "Items": [
@@ -2496,21 +2144,6 @@
     "spotId": "6K9hwKk00liPSyEemLgiik",
     "couname": "Baby It's Cold Outside",
     "duration": "238066"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b388e14b75e639ffd4bb926b",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Baby",
-      "XT_LongSongs"
-    ],
-    "artist": "Fern Kinney",
-    "genres": 0,
-    "spotId": "6NeWfJtmJQvv9vqveDuaFy",
-    "couname": "Baby Let Me Kiss You",
-    "duration": "498266"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27313fd97f58d0e4ab2ac7ae42d",
@@ -2543,21 +2176,6 @@
     "duration": "210261"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b5f92bcacfa6a76c3f9a2329",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Baby",
-      "XT_OffAnimals"
-    ],
-    "artist": "Frank Zappa",
-    "genres": 0,
-    "spotId": "5yaIPkFfHuuKRzBn8wjL73",
-    "couname": "Baby Snakes",
-    "duration": "105520"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273a524572e1f22e44721e5d041",
     "pty": 0,
     "Items": [
@@ -2588,21 +2206,6 @@
     "duration": "514320"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d46de04ab2fa2df347cf30e4",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Baby",
-      "XT_MoonStars"
-    ],
-    "artist": "Solveig Slettahjell",
-    "genres": 0,
-    "spotId": "69KNyxaTlElsD2ZBmY0872",
-    "couname": "Baby's Bed's a Silver Moon",
-    "duration": "156520"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2737923b2156563568de6115187",
     "pty": 0,
     "Items": [
@@ -2618,17 +2221,20 @@
     "duration": "233960"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27303e31c6840aa343b73bbfe84",
+    "img": "https://i.scdn.co/image/ab67616d0000b273b388e14b75e639ffd4bb926b",
     "pty": 0,
     "Items": [
-      "BT_LedZeppelin",
-      "XT_Baby"
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_Kiss",
+      "XT_LongSongs"
     ],
-    "artist": "Led Zeppelin",
+    "artist": "Fern Kinney",
     "genres": 0,
-    "spotId": "5qxk29klthBlLT42dzimO7",
-    "couname": "Ozone Baby",
-    "duration": "216360"
+    "spotId": "6NeWfJtmJQvv9vqveDuaFy",
+    "couname": "Baby Let Me Kiss You",
+    "duration": "498266"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27301ac8e33bfce36799cb1edea",
@@ -2644,21 +2250,6 @@
     "spotId": "6mlGXuG5FmzcePHsMn6rIA",
     "couname": "Baby's On Fire",
     "duration": "236840"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27329c1e877db4db304e653a0ba",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Baby",
-      "XT_Water"
-    ],
-    "artist": "Clairo",
-    "genres": 0,
-    "spotId": "7oPy7n1yowiREvMyypIBEC",
-    "couname": "Brooklyn Baby",
-    "duration": "345600"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27384d8383df1080fbaad6b23d7",
@@ -2820,6 +2411,33 @@
     "duration": "170293"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c4505e434564d9bd78517255",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "YR0009"
+    ],
+    "artist": "Lil' Romeo",
+    "genres": 0,
+    "spotId": "0s9A4pUBLw68E76vY8LU9K",
+    "couname": "My Baby",
+    "duration": "221000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c36c283cc580ae67f45276ab",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "XT_Love",
+      "YR1019"
+    ],
+    "artist": "Petite Meller",
+    "genres": 0,
+    "spotId": "4YQQUjsPWhUbBC4AocFTHQ",
+    "couname": "Baby Love",
+    "duration": "221721"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b27302dffd583e3bc8eff1ad471b",
     "pty": 0,
     "Items": [
@@ -2832,6 +2450,21 @@
     "spotId": "3SmPl0CGxvvkQCrTv7edEE",
     "couname": "I'm Your Baby Tonight",
     "duration": "299426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b5f92bcacfa6a76c3f9a2329",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_OffAnimals"
+    ],
+    "artist": "Frank Zappa",
+    "genres": 0,
+    "spotId": "5yaIPkFfHuuKRzBn8wjL73",
+    "couname": "Baby Snakes",
+    "duration": "105520"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27314603716dc56e031b7a6bdef",
@@ -2863,6 +2496,32 @@
     "duration": "156333"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273aa949f2c9ff2687f5ad82b5d",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "XT_Baby",
+      "YR1019"
+    ],
+    "artist": "Kylie Minogue",
+    "genres": 0,
+    "spotId": "0cM5URUqqQTpJWonmdzF1J",
+    "couname": "Santa Baby",
+    "duration": "202546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730c4b8c5e016091a85717085a",
+    "pty": 0,
+    "Items": [
+      "XT_Baby"
+    ],
+    "artist": "Cass Elliot",
+    "genres": 0,
+    "spotId": "0T0fkqReu2aO2H0VPUPWTo",
+    "couname": "Baby I'm Yours",
+    "duration": "152360"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b27350bb7ca1fe7e98df87ce41d9",
     "pty": 0,
     "Items": [
@@ -2888,6 +2547,18 @@
     "spotId": "1ATiocRsFUbrnEFhb5Y4y9",
     "couname": "You Must Have Been a Beautiful Baby",
     "duration": "129706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730ae356b48a50e3408205f64a",
+    "pty": 0,
+    "Items": [
+      "XT_Baby"
+    ],
+    "artist": "Mary Wells",
+    "genres": 0,
+    "spotId": "2Jy3VOkDkEStJRRFD71Nf0",
+    "couname": "Bye Bye Baby",
+    "duration": "177000"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273a422d871dbfd354dede7e0e4",
@@ -2989,6 +2660,1225 @@
     "duration": "171243"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cc2dfa01ccf90b466ffa1f32",
+    "pty": 0,
+    "Items": [
+      "XT_Baby"
+    ],
+    "artist": "No Doubt",
+    "genres": 0,
+    "spotId": "0qhR02JwoH6vbMwvSKSRi0",
+    "couname": "Hey Baby",
+    "duration": "207266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738e293ddfe8e5d51649863bd0",
+    "pty": 0,
+    "Items": [
+      "XT_Baby"
+    ],
+    "artist": "Surf Mesa,Emilee",
+    "genres": 0,
+    "spotId": "2GMSQBjOP7yB9fMVzbUa7h",
+    "couname": "ily",
+    "duration": "181071"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732971279a8da35a6526264eee",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "YR7079"
+    ],
+    "artist": "Chicago",
+    "genres": 0,
+    "spotId": "4gC5AmerRHtD4M4vCSBqJI",
+    "couname": "Baby, What a Big Surprise",
+    "duration": "182760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732268471b66f2de42940f5c63",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "Female",
+      "XT_Baby",
+      "YR7079"
+    ],
+    "artist": "Paul Anka,Odia Coates",
+    "genres": 0,
+    "spotId": "5PuAFxKmqG72uKyoo11zpQ",
+    "couname": "(You're) Having My Baby",
+    "duration": "156293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27346f5ba1b1ce237b5bce7d334",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "XT_Baby",
+      "YR8089"
+    ],
+    "artist": "Tracy Chapman",
+    "genres": 0,
+    "spotId": "6sIx6xX3IeYU7jNIefd9wb",
+    "couname": "Baby Can I Hold You",
+    "duration": "193120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27343fe91d88224c0c916a104a2",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Baby",
+      "YR7079"
+    ],
+    "artist": "Mac Davis",
+    "genres": 0,
+    "spotId": "4z51Gf7Ppt9Lmu5zmnUIz9",
+    "couname": "Baby Don't Get Hooked on Me",
+    "duration": "183933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734d0dabb3e61fa4939729e581",
+    "pty": 0,
+    "Items": [
+      "TV_Mafia",
+      "XT_Baby"
+    ],
+    "artist": "Mel Tormé",
+    "genres": 0,
+    "spotId": "71tjsDvB4EMJqNG8EMmFnb",
+    "couname": "Comin' Home Baby",
+    "duration": "165360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
+    "pty": 0,
+    "Items": [
+      "BT_TheBeatles",
+      "XT_Baby"
+    ],
+    "artist": "The Beatles",
+    "genres": 0,
+    "spotId": "5XmetMMUFNXClbiYnGdVmP",
+    "couname": "Cry Baby Cry",
+    "duration": "182080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273738fbaa134106eafb7772552",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "YR0009"
+    ],
+    "artist": "No Doubt,Bounty Killer",
+    "genres": 0,
+    "spotId": "0ySdXfvOy7zCc59yz2Dx8q",
+    "couname": "Hey Baby",
+    "duration": "206760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273815989adaf3a97155e16defc",
+    "pty": 0,
+    "Items": [
+      "BT_FrankSinatra",
+      "XT_Baby"
+    ],
+    "artist": "Frank Sinatra",
+    "genres": 0,
+    "spotId": "2nALx9smWFujoSOv0SVVp4",
+    "couname": "One for My Baby",
+    "duration": "182546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273296eb1edb4e4bd2563823693",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "XT_Baby",
+      "YR0009"
+    ],
+    "artist": "Ashanti",
+    "genres": 0,
+    "spotId": "0mI5eE0IuermT57lb0Szas",
+    "couname": "Rock Wit U",
+    "duration": "209120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bc95f2457b1590de40b39a94",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Baby",
+      "YR8089"
+    ],
+    "artist": "Jackson Browne",
+    "genres": 0,
+    "spotId": "4SlCb8n5Jw52astU7GWPyV",
+    "couname": "Somebody's Baby",
+    "duration": "262733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273940b776a0ae7b0078d881daf",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Baby",
+      "YR6069"
+    ],
+    "artist": "Bobby Vee",
+    "genres": 0,
+    "spotId": "1MR7XamWS0XH6vZxeeRdE0",
+    "couname": "Take Good Care Of My Baby",
+    "duration": "150866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273116d08e0cb64d795300a6eca",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "YR1019"
+    ],
+    "artist": "Enrique Iglesias,Flo Rida",
+    "genres": 0,
+    "spotId": "3R1fDUw1lDoq6xD0IFIC1E",
+    "couname": "There Goes My Baby",
+    "duration": "198266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27348d6f968be4a8cb9c44dc0d3",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "YR6069"
+    ],
+    "artist": "Marvin Gaye",
+    "genres": 0,
+    "spotId": "4l2K7IUTjpReNKXfcKLLfj",
+    "couname": "Too Busy Thinking About My Baby",
+    "duration": "174440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325942d24cbd89a94410d6087",
+    "pty": 0,
+    "Items": [
+      "BT_RollingStones",
+      "GN_PsychedelicRock",
+      "XT_Baby"
+    ],
+    "artist": "The Rolling Stones",
+    "genres": 0,
+    "spotId": "4JcjI40n0Vr0dt1TTD0cz6",
+    "couname": "Anybody Seen My Baby?",
+    "duration": "246680"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "XT_Baby",
+      "XT_History",
+      "XT_Places"
+    ],
+    "artist": "Lana Del Rey",
+    "genres": 0,
+    "spotId": "1NZs6n6hl8UuMaX0UC0YTz",
+    "couname": "Brooklyn Baby",
+    "duration": "351640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fa31dd7c93406c8aa23c241f",
+    "pty": 0,
+    "Items": [
+      "TV_OneHit",
+      "XT_Baby"
+    ],
+    "artist": "Bruce Channel",
+    "genres": 0,
+    "spotId": "0obIo2GEab6qqms6t3JaMY",
+    "couname": "Hey! Baby",
+    "duration": "143627"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734694c5b97d3a88efb5fc71b5",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Female",
+      "XT_Baby",
+      "XT_Love",
+      "YR6069"
+    ],
+    "artist": "The Ronettes",
+    "genres": 0,
+    "spotId": "4V6ZLk1IHdG00qu3B4m8Y9",
+    "couname": "Baby, I Love You",
+    "duration": "171480"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733ff55db78a85b795f30bec79",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "XT_Love",
+      "YR7079"
+    ],
+    "artist": "Peter Frampton",
+    "genres": 0,
+    "spotId": "0tx981nZO0V21ZgRRSKxqe",
+    "couname": "Baby, I Love Your Way",
+    "duration": "285040"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27300e1d8265195799790277e5a",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "GN_Choirs",
+      "XT_Baby",
+      "XT_Intros"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "209NkbzmsUa9pAobU7xGyf",
+    "couname": "Born This Way",
+    "duration": "260252"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27361c34f373881d481750ca087",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "XT_Intros",
+      "YR0009",
+      "YR9099"
+    ],
+    "artist": "Christina Aguilera",
+    "genres": 0,
+    "spotId": "6kopVeL3LeqECoqKX1Wng2",
+    "couname": "Come on over Baby",
+    "duration": "204866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273152d0abf7dab6b4690c01442",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Female",
+      "TV_OneHit",
+      "XT_Baby",
+      "YR0009"
+    ],
+    "artist": "3LW",
+    "genres": 0,
+    "spotId": "5zn1hpm9N0ylKB7kOtpCw2",
+    "couname": "No More",
+    "duration": "263440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273749e9bfa78277f30ad2c9a9c",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "GN_Piano",
+      "XT_Baby",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR9099"
+    ],
+    "artist": "Mariah Carey",
+    "genres": 0,
+    "spotId": "2aBxt229cbLDOvtL7Xbb9x",
+    "couname": "Always Be My Baby",
+    "duration": "258133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735060210758180bbc93db96de",
+    "pty": 0,
+    "Items": [
+      "TV_Rolling500",
+      "XT_Baby",
+      "XT_Intros",
+      "XT_Love"
+    ],
+    "artist": "Four Tops",
+    "genres": 0,
+    "spotId": "3aCbwWCYCT3MJjZeUnlcp4",
+    "couname": "Baby I Need Your Loving",
+    "duration": "166026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736664d0ac517e1eeffd1e639c",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Baby",
+      "XT_Kiss",
+      "XT_Love"
+    ],
+    "artist": "Father John Misty",
+    "genres": 0,
+    "spotId": "2qEqMx1n0dnCBzWT9l3nGL",
+    "couname": "Real Love Baby",
+    "duration": "189293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f60070dce96a2c1b70cf6ff0",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "BT_BrunoMars",
+      "XT_Baby",
+      "XT_Running",
+      "YR1019"
+    ],
+    "artist": "Bruno Mars",
+    "genres": 0,
+    "spotId": "7hCNBVRhHzcsRAv0TQnOzq",
+    "couname": "Runaway Baby",
+    "duration": "148448"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27319ffd46baee165d6b42b7810",
+    "pty": 0,
+    "Items": [
+      "TV_OneHit",
+      "XT_Baby",
+      "XT_Love",
+      "YR9099"
+    ],
+    "artist": "Big Mountain",
+    "genres": 0,
+    "spotId": "2le9fblYnfoLr9dkZIsJUa",
+    "couname": "Baby, I Love Your Way",
+    "duration": "249520"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "GN_Piano",
+      "XT_AboutTime",
+      "XT_Baby",
+      "XT_Intros",
+      "YR1019"
+    ],
+    "artist": "Michael Bublé",
+    "genres": 0,
+    "spotId": "4fIWvT19w9PR0VVBuPYpWA",
+    "couname": "Haven't Met You Yet",
+    "duration": "244586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736823f5ab3f87b902c35ef56b",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "Female",
+      "GN_PsychedelicRock",
+      "TV_Simpsons120",
+      "XT_Baby",
+      "XT_Karaoke",
+      "YR6069"
+    ],
+    "artist": "Sonny & Cher",
+    "genres": 0,
+    "spotId": "4SGBuq37Ol4HJr7pQqFMKa",
+    "couname": "I Got You Babe",
+    "duration": "190080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734bb9f35da9ff34b1e2314d8e",
+    "pty": 0,
+    "Items": [
+      "XT_Baby"
+    ],
+    "artist": "Ariana Grande",
+    "genres": 0,
+    "spotId": "6EIsMa5lbvljYxqCkjZVDi",
+    "couname": "Baby I",
+    "duration": "197600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734ac2d979712c58dcc49290e0",
+    "pty": 0,
+    "Items": [
+      "GN_DrumSolo",
+      "GN_Memes",
+      "XT_Baby"
+    ],
+    "artist": "Breakbot,Irfane",
+    "genres": 0,
+    "spotId": "0tZkVZ9DeAa0MNK2gY5NtV",
+    "couname": "Baby I'm Yours",
+    "duration": "215506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cb388aba4b7e59a71c0a5fa6",
+    "pty": 0,
+    "Items": [
+      "TV_Mafia",
+      "XT_Baby",
+      "XT_Love"
+    ],
+    "artist": "Aretha Franklin",
+    "genres": 0,
+    "spotId": "5liSqIuo993Rj1ayyqQqAw",
+    "couname": "Baby, I Love You",
+    "duration": "164266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730d7a4a1253641d338fea99c3",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "TV_OneHit",
+      "TV_Simpsons120",
+      "XT_Baby",
+      "XT_BodyParts",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR9099"
+    ],
+    "artist": "Sir Mix-A-Lot",
+    "genres": 0,
+    "spotId": "7lg7TBsxvJ6OcG12TztyB8",
+    "couname": "Baby Got Back",
+    "duration": "232925"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734e04404c40be7b80855656a8",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "GN_DrumSolo",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_Baby",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR8089"
+    ],
+    "artist": "Guns N' Roses",
+    "genres": 0,
+    "spotId": "1u1DBObkLFscNCpRpXbYb9",
+    "couname": "Sweet Child O' Mine",
+    "duration": "355266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27336cf58e3e7cf36a145b1da18",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "CT_Norway",
+      "TV_BestVideos",
+      "TV_OneHit",
+      "TV_Rolling500",
+      "XT_AboutTime",
+      "XT_Baby",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Numbers",
+      "YR9099"
+    ],
+    "artist": "Britney Spears",
+    "genres": 0,
+    "spotId": "3MjUtNVVq3C8Fn0MP3zhXa",
+    "couname": "...Baby One More Time",
+    "duration": "211066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738dad961673a82ade27f202a8",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "NULL",
+      "XT_Baby",
+      "XT_Karaoke",
+      "XT_Love"
+    ],
+    "artist": "Big Mountain",
+    "genres": 0,
+    "spotId": "1Rvl8qsKJurfFTyWLBI9ib",
+    "couname": "Baby I Love Your Way",
+    "duration": "249520"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730a54387024eed1951bae5a0f",
+    "pty": 0,
+    "Items": [
+      "GN_Disco",
+      "XT_Baby",
+      "XT_Kiss",
+      "XT_Love",
+      "YR7079"
+    ],
+    "artist": "Donna Summer",
+    "genres": 0,
+    "spotId": "4EWH8tOFnAOCP15useWsrm",
+    "couname": "Love To Love You Baby",
+    "duration": "1008533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27377073761e43f273c60988eaf",
+    "pty": 0,
+    "Items": [
+      "TV_Simpsons120",
+      "XT_Baby",
+      "XT_Karaoke",
+      "YR7079"
+    ],
+    "artist": "Bread",
+    "genres": 0,
+    "spotId": "7IX2e7pEShera9T1QIMvi7",
+    "couname": "Baby I'm-a Want You",
+    "duration": "150706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273de849f943403165388bff535",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "NULL",
+      "XT_Baby",
+      "XT_Gold",
+      "XT_Names"
+    ],
+    "artist": "The Drifters",
+    "genres": 0,
+    "spotId": "3gob4GHjhiyZ1f5q2gYT9Z",
+    "couname": "Ruby Baby",
+    "duration": "142680"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734b1807d4ef3c085db97a9b6a",
+    "pty": 0,
+    "Items": [
+      "GN_Memes",
+      "TV_BreakingBad",
+      "TV_Mafia",
+      "XT_Baby",
+      "XT_Colors"
+    ],
+    "artist": "Badfinger",
+    "genres": 0,
+    "spotId": "07JAwmTGx5t3wU6iGbZqnG",
+    "couname": "Baby Blue",
+    "duration": "216453"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f0ef8ce0db61b981468f7db7",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "BT_Madonna",
+      "XT_Baby"
+    ],
+    "artist": "Madonna",
+    "genres": 0,
+    "spotId": "2Y7FJaEtJin7jdUafIqDkZ",
+    "couname": "Bye Bye Baby",
+    "duration": "236266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a9054a6256c08c0bb53ef9e0",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "BT_Madonna",
+      "XT_Baby"
+    ],
+    "artist": "Madonna",
+    "genres": 0,
+    "spotId": "6gimgfkbhuoGuY8MQXEFch",
+    "couname": "Cry Baby",
+    "duration": "245786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731f541b8364449d2d4e559eb3",
+    "pty": 0,
+    "Items": [
+      "XT_Baby"
+    ],
+    "artist": "Belle and Sebastian",
+    "genres": 0,
+    "spotId": "3nWHIS8F8SsjwhXp4nBOyS",
+    "couname": "You’re Just A Baby",
+    "duration": "221866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27348d6bd384cfa38707d2f8432",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "XT_BodyParts"
+    ],
+    "artist": "Kane Brown",
+    "genres": 0,
+    "spotId": "0lmxrWcpOkDfYknYWBJviF",
+    "couname": "Baby Come Back to Me",
+    "duration": "226693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737abf4e00b6e43245641a2dab",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "XT_Love"
+    ],
+    "artist": "Johnny Rivers",
+    "genres": 0,
+    "spotId": "1qO0c7D5LkdfXb2gGka5mO",
+    "couname": "Baby, I Need Your Loving",
+    "duration": "187866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27376588ddb7d2d24f4a2daa3fe",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "NULL",
+      "XT_Baby",
+      "XT_Cars"
+    ],
+    "artist": "Ronny & The Daytonas",
+    "genres": 0,
+    "spotId": "4wmKaXY6yt0YAGTOLX4XHp",
+    "couname": "Hot Rod Baby",
+    "duration": "122533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736960c5f4eb72f0c06aa92181",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "XT_Colors"
+    ],
+    "artist": "Bob Dylan",
+    "genres": 0,
+    "spotId": "4EgKcG7aswxVfQEqa3dl8S",
+    "couname": "It's All Over Now, Baby Blue",
+    "duration": "252066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27378a33e0640c1cb770ea9e4f4",
+    "pty": 0,
+    "Items": [
+      "GN_DrumSolo",
+      "XT_Baby"
+    ],
+    "artist": "Powderfinger",
+    "genres": 0,
+    "spotId": "1Vb0sEHboCBthv6fUqLjME",
+    "couname": "(Baby I've Got You) On My Mind",
+    "duration": "200440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ba263c0204387a74ec6de919",
+    "pty": 0,
+    "Items": [
+      "TV_BreakingBad",
+      "XT_Baby"
+    ],
+    "artist": "Say Anything",
+    "genres": 0,
+    "spotId": "2qItoZpxnLOPXVGgVjbhaw",
+    "couname": "Baby Girl, I'm A Blur",
+    "duration": "258066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273febaf641af77e0ce2dddd71f",
+    "pty": 0,
+    "Items": [
+      "TV_OneHit",
+      "XT_Baby"
+    ],
+    "artist": "Deborah Allen",
+    "genres": 0,
+    "spotId": "5KqGrafc3paz7bNPju5Ne9",
+    "couname": "Baby I Lied",
+    "duration": "250120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dda880ad0a44327a0e5b59bf",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "XT_Love"
+    ],
+    "artist": "HUS",
+    "genres": 0,
+    "spotId": "04iTC5c5a9rEr8wbzP4JM1",
+    "couname": "Baby Love",
+    "duration": "244586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273134de5c2f08c7f349db60640",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "XT_Love"
+    ],
+    "artist": "Minnie Riperton",
+    "genres": 0,
+    "spotId": "5dSiLl9vBxziv8vT9muNls",
+    "couname": "Baby, This Love I Have",
+    "duration": "247373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273560c307eeca71e7443b3b803",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "XT_BodyParts"
+    ],
+    "artist": "Kurt Vile",
+    "genres": 0,
+    "spotId": "6USEdtn8hvbDW2tOJAqVTS",
+    "couname": "Baby's Arms",
+    "duration": "236306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737f768e99c363b6ee0995556e",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "NULL",
+      "XT_Baby",
+      "XT_Names"
+    ],
+    "artist": "WALK THE MOON",
+    "genres": 0,
+    "spotId": "0obyZJdAvDvhtvudGsNjvS",
+    "couname": "Lisa Baby",
+    "duration": "232640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273baa9b132390a2d26a6b2dbed",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "XT_AboutTime",
+      "XT_Baby"
+    ],
+    "artist": "Ingrid Michaelson",
+    "genres": 0,
+    "spotId": "4D2iLn2c201SlBRJivFtiv",
+    "couname": "December Baby",
+    "duration": "353240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734912e9ce750eb750f2310afa",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "XT_Love"
+    ],
+    "artist": "The Grass Roots",
+    "genres": 0,
+    "spotId": "0b889dNiVBOUvnURFb9rcx",
+    "couname": "Don't Pull Your Love Out On Me Baby",
+    "duration": "173933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ded9d9cdaa0a6d4ff1047c98",
+    "pty": 0,
+    "Items": [
+      "TV_OneHit",
+      "XT_Baby"
+    ],
+    "artist": "The Rembrandts",
+    "genres": 0,
+    "spotId": "35keiknicSk7ZiEl1Wa4Hg",
+    "couname": "Just the Way It Is, Baby",
+    "duration": "243893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f443c20c8fd9933818965efc",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "XT_Love"
+    ],
+    "artist": "Stevie Ray Vaughan",
+    "genres": 0,
+    "spotId": "7jxTdvTrVuqkuWwk0jXnVY",
+    "couname": "Love Struck Baby",
+    "duration": "141573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ad1f9227a7057397f7e1c0f6",
+    "pty": 0,
+    "Items": [
+      "TV_BreakingBad",
+      "XT_Baby"
+    ],
+    "artist": "Crystal Gayle",
+    "genres": 0,
+    "spotId": "2H3im8x52PpjXy2pAIrZcI",
+    "couname": "Sweet Baby On My Mind",
+    "duration": "156573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27381a46748afc41fc19021251f",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_LongSongs"
+    ],
+    "artist": "Johnny,Louis & Char",
+    "genres": 0,
+    "spotId": "2n3UKhR0VcxeswxAs75TGN",
+    "couname": "You're Like a Doll Baby",
+    "duration": "646720"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735e1f9c51f7954d20b4af8347",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_Colors"
+    ],
+    "artist": "Caleb Hurst",
+    "genres": 0,
+    "spotId": "4HlfWdOcE5lWR76DhIXqAe",
+    "couname": "(Baby) Blue",
+    "duration": "225576"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733ceefb49194de6fcd2ffe4c7",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_Colors"
+    ],
+    "artist": "Bad Suns",
+    "genres": 0,
+    "spotId": "0o4iE4nFwqY1d2JKlrcMRb",
+    "couname": "Baby Blue Shades",
+    "duration": "220580"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732ad545d5e334210c993c5648",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_Food"
+    ],
+    "artist": "Louis Prima,Keely Smith,Sam Butera & The Witnesses",
+    "genres": 0,
+    "spotId": "3PgViCIEmAnUjE6OkpHfCJ",
+    "couname": "Banana Split For My Baby",
+    "duration": "151293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e5c202bca392a348666b5d41",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_Colors"
+    ],
+    "artist": "Fancy Hagood,Kacey Musgraves",
+    "genres": 0,
+    "spotId": "2cHjdUBcdnnCGdubhCmLbM",
+    "couname": "Blue Dream Baby",
+    "duration": "176427"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737e1888783100598328e20e9b",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "NULL",
+      "XT_Baby",
+      "XT_Names"
+    ],
+    "artist": "2Pac",
+    "genres": 0,
+    "spotId": "791YTMSeD7SPGWHLIe61ew",
+    "couname": "Brenda's Got A Baby",
+    "duration": "233466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736c593be16713696874c15063",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_Youth"
+    ],
+    "artist": "Greer",
+    "genres": 0,
+    "spotId": "6lyaYDIHGPmXuDHJSZbCph",
+    "couname": "Bye Bye Baby",
+    "duration": "187250"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27392e671aea35f9cbc081caae7",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_Food"
+    ],
+    "artist": "Edwin Birdsong",
+    "genres": 0,
+    "spotId": "00Roxf5Opk9tpXXhIAQl8i",
+    "couname": "Cola Bottle Baby",
+    "duration": "304000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732e9a7873e05ab5d2ccf8ed29",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_OffAnimals"
+    ],
+    "artist": "Violent Femmes",
+    "genres": 0,
+    "spotId": "0uZ5x8ekLdZRCS9g8PxZ6i",
+    "couname": "Flamingo Baby",
+    "duration": "157333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273858a95c04db9252719f70fff",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "NULL",
+      "XT_Baby",
+      "XT_Names"
+    ],
+    "artist": "John Denver",
+    "genres": 0,
+    "spotId": "4mD50gbWLYwmAPyf61UW0K",
+    "couname": "For Baby",
+    "duration": "178413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b182acb685aa23824c3c7e6c",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_Gambling"
+    ],
+    "artist": "Tim Molyneux,Konrad Broock",
+    "genres": 0,
+    "spotId": "2adxHZc10Z6bWYgzxFSTY8",
+    "couname": "I Can Dodge Bullets Baby",
+    "duration": "168093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737cf7f27277091aafe3935bd1",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "NULL",
+      "XT_Baby",
+      "XT_Cars"
+    ],
+    "artist": "Sleepy Brown",
+    "genres": 0,
+    "spotId": "7mS5WAM9Ec7AhIAu9bJw4V",
+    "couname": "Me My Baby And My Cadillac",
+    "duration": "50133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27382a891641608e2f2d6c3a8b8",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_MoonStars"
+    ],
+    "artist": "Godsmack",
+    "genres": 0,
+    "spotId": "7fujLGyPh3b45OwjFhlQ8Q",
+    "couname": "Moon Baby",
+    "duration": "263133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739c9cd5779cc1bc6a6ed389bd",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_Numbers"
+    ],
+    "artist": "Linda Eder",
+    "genres": 0,
+    "spotId": "6gttlirhn5N45xSjlmiKkl",
+    "couname": "One for My Baby",
+    "duration": "263240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730473c05a277f3dd99bea33e9",
+    "pty": 0,
+    "Items": [
+      "TV_BestVideos",
+      "XT_Baby",
+      "XT_Intros",
+      "YR0009",
+      "YR1019"
+    ],
+    "artist": "Justin Bieber,Ludacris",
+    "genres": 0,
+    "spotId": "7qX5y2GypOLa5DuAROrWEO",
+    "couname": "Baby",
+    "duration": "216613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732557d7b4bf9ca1c289f40e97",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "Female",
+      "XT_Baby",
+      "XT_Plants"
+    ],
+    "artist": "Connie Francis",
+    "genres": 0,
+    "spotId": "5GQPBzoRBDxcAjwSSluQXD",
+    "couname": "Pretty Little Baby",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732a4925d5fac3c29e4b3210cd",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_MoonStars"
+    ],
+    "artist": "The Tubes",
+    "genres": 0,
+    "spotId": "28Qou4XEDMl1yeB9habS8M",
+    "couname": "Space Baby",
+    "duration": "265311"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738b383ab5757760c1e06d0cc2",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "XT_Water"
+    ],
+    "artist": "Megan Thee Stallion,DaBaby",
+    "genres": 0,
+    "spotId": "11bNZlLg8WliP1rZKml3n6",
+    "couname": "Cry Baby",
+    "duration": "137983"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325161e5000bf4cbfffc7ad00",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "XT_Cars",
+      "XT_Oscars"
+    ],
+    "artist": "Dinah Shore,Buddy Clark",
+    "genres": 0,
+    "spotId": "1pdr3SamlwMCGYmkdVkBgO",
+    "couname": "Baby, It's Cold Outside",
+    "duration": "140360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27345680a4a57c97894490a01c1",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "YR0009"
+    ],
+    "artist": "Beyoncé,Sean Paul",
+    "genres": 0,
+    "spotId": "4WY3HyGXsWqjFRCVD6gnTe",
+    "couname": "Baby Boy",
+    "duration": "244826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a1bf4c1efc808162ac95090f",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "XT_Love"
+    ],
+    "artist": "Jennifer Lopez",
+    "genres": 0,
+    "spotId": "3SWAYmNlKDAyJUhtDk5uhN",
+    "couname": "Baby I Love U!",
+    "duration": "268426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cb559ce2d9e9935efb3591ce",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "XT_Love"
+    ],
+    "artist": "Mother's Finest",
+    "genres": 0,
+    "spotId": "0hyZgl8tHThlycPEVwBpax",
+    "couname": "Baby Love",
+    "duration": "262826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732267d64876d74496f30fd8af",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_Colors"
+    ],
+    "artist": "dempsey hope,Olivia O'Brien",
+    "genres": 0,
+    "spotId": "19ycym22ELrmEoXWV40py6",
+    "couname": "baby blue",
+    "duration": "200013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e256625578a6d6e718d203b2",
+    "pty": 0,
+    "Items": [
+      "TV_Mafia",
+      "XT_Baby"
+    ],
+    "artist": "Greg Ginn",
+    "genres": 0,
+    "spotId": "7pvN5FGoY2SaHldlh0M2J7",
+    "couname": "Never Change, Baby",
+    "duration": "42040"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273d67d53244b1090215559265c",
     "pty": 0,
     "Items": [
@@ -3000,6 +3890,261 @@
     "spotId": "6WeD4RXp5pGKcJeTWTnihI",
     "couname": "Baby I Love You",
     "duration": "161306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f3bbf9631faeb8de9912a23",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Baby",
+      "YR9099"
+    ],
+    "artist": "Smash Mouth",
+    "genres": 0,
+    "spotId": "0UVIXwqfTjefBbDyY60MWB",
+    "couname": "Can't Get Enough Of You Baby",
+    "duration": "150773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734694c5b97d3a88efb5fc71b5",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Female",
+      "GN_Choirs",
+      "TV_Rolling500",
+      "XT_Baby",
+      "XT_Intros",
+      "YR6069"
+    ],
+    "artist": "The Ronettes",
+    "genres": 0,
+    "spotId": "2G2YzndIA6jeWFPBXhUjh5",
+    "couname": "Be My Baby",
+    "duration": "160906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cc8b741cf484d6a6108f6475",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "XT_Running"
+    ],
+    "artist": "Garbage",
+    "genres": 0,
+    "spotId": "3gwiRLnvg4w0iFkedg66US",
+    "couname": "Run Baby Run",
+    "duration": "238133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27316a967f58480677800d18898",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "XT_Baby",
+      "XT_Colors",
+      "YR7079"
+    ],
+    "artist": "Dusty Springfield",
+    "genres": 0,
+    "spotId": "2T1hyfwy40dZcF9Hrtk9xn",
+    "couname": "Baby Blue",
+    "duration": "340400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736928dbd7cce1d222ea183c8d",
+    "pty": 0,
+    "Items": [
+      "TV_Halloween",
+      "XT_Baby"
+    ],
+    "artist": "Gerard Way",
+    "genres": 0,
+    "spotId": "4c38yr2PflGI2DSIzqsnmF",
+    "couname": "Baby You're a Haunted House",
+    "duration": "166361"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736346898e51ab99360b707a7a",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "XT_Love"
+    ],
+    "artist": "Freddie Waters",
+    "genres": 0,
+    "spotId": "2ptDz5oR8aID5U7NS8Bu8K",
+    "couname": "Groovin' On My Baby's Love",
+    "duration": "165760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a932ea631c2c747c0b49af57",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Baby",
+      "YR7079"
+    ],
+    "artist": "Bay City Rollers",
+    "genres": 0,
+    "spotId": "4nueWRW1yDz6P30pHUg9GC",
+    "couname": "Bye Bye Baby",
+    "duration": "166066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739e5af96086574b76499dcf70",
+    "pty": 0,
+    "Items": [
+      "Female",
+      "XT_Baby",
+      "YR6069"
+    ],
+    "artist": "Aretha Franklin",
+    "genres": 0,
+    "spotId": "3lrSnngQqNWgvQmcFbCJCx",
+    "couname": "(Sweet Sweet Baby) Since You've Been Gone",
+    "duration": "145506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f1cefbab235bebab1a997870",
+    "pty": 0,
+    "Items": [
+      "CT_Brazil",
+      "XT_Baby"
+    ],
+    "artist": "Gal Costa,Caetano Veloso",
+    "genres": 0,
+    "spotId": "5svr1DYE0rD5xguhl4diP9",
+    "couname": "Baby",
+    "duration": "206960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a48a4dd02bc01a7f60f0c36a",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "YR9099"
+    ],
+    "artist": "Corona,Lee Marrow",
+    "genres": 0,
+    "spotId": "5Hr2Q8DMEn25u3tu2sqcpQ",
+    "couname": "Baby Baby",
+    "duration": "226906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27370e3e482d0d47df283e792e4",
+    "pty": 0,
+    "Items": [
+      "GN_FrenchElectro",
+      "XT_Baby"
+    ],
+    "artist": "David Guetta,Steve Angello,Cozi",
+    "genres": 0,
+    "spotId": "30uJvYj0JwozcqYLvfl24k",
+    "couname": "Baby When the Light",
+    "duration": "208026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730884578be886e1e6aa4fb4dc",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Baby",
+      "YR6069"
+    ],
+    "artist": "Jackie Wilson",
+    "genres": 0,
+    "spotId": "4c9g1LMBE6RMxmI9DcxlQw",
+    "couname": "Baby Workout",
+    "duration": "184653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27326c8f4ab7ab90b6c0e4236fc",
+    "pty": 0,
+    "Items": [
+      "GN_Disco",
+      "XT_Baby",
+      "XT_LongSongs",
+      "XT_Love"
+    ],
+    "artist": "Easy Going",
+    "genres": 0,
+    "spotId": "0GpbUTVkLhMb200mH8WBOW",
+    "couname": "Baby I Love You",
+    "duration": "503920"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731324c10f992d02b1cc4de772",
+    "pty": 0,
+    "Items": [
+      "TV_OneHit",
+      "XT_Baby",
+      "YR8089"
+    ],
+    "artist": "Patti Austin,James Ingram",
+    "genres": 0,
+    "spotId": "3ir8K4Cba553mOjsl8ZCJ0",
+    "couname": "Baby, Come To Me",
+    "duration": "215386"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731cbb61f835d03e7fb8e8052d",
+    "pty": 0,
+    "Items": [
+      "Male",
+      "XT_Baby",
+      "YR7079"
+    ],
+    "artist": "Billy Paul",
+    "genres": 0,
+    "spotId": "4ecYY0cRundMFf44kHBRm8",
+    "couname": "Let's Make a Baby",
+    "duration": "433933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27363a1d575dc56db05db9b3587",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_Colors"
+    ],
+    "artist": "Madisenxoxo",
+    "genres": 0,
+    "spotId": "4SSpUNIZ8HnX52jWrmyVmJ",
+    "couname": "Baby in Blue",
+    "duration": "235897"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27329c1e877db4db304e653a0ba",
+    "pty": 0,
+    "Items": [
+      "NULL",
+      "NULL",
+      "XT_Baby",
+      "XT_Water"
+    ],
+    "artist": "Clairo",
+    "genres": 0,
+    "spotId": "7oPy7n1yowiREvMyypIBEC",
+    "couname": "Brooklyn Baby",
+    "duration": "345600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b8de55b53b3d23a4096683e",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "YR1019"
+    ],
+    "artist": "Rox",
+    "genres": 0,
+    "spotId": "47VyaFVk21Ecwip34l3fXc",
+    "couname": "My Baby Left Me",
+    "duration": "213466"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273a59e51bf75209f165fcf2b27",
@@ -4202,18 +5347,6 @@
     "duration": "200333"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273e4c1aab2ab7ddde12f145030",
-    "pty": 0,
-    "Items": [
-      "XT_Baby"
-    ],
-    "artist": "Toro y Moi",
-    "genres": 0,
-    "spotId": "3IJLF4AJFL6hBlCbdwL8UQ",
-    "couname": "Run Baby Run",
-    "duration": "165261"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2737c78b57a88c7c109176bc999",
     "pty": 0,
     "Items": [
@@ -4250,21 +5383,6 @@
     "duration": "229253"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732268471b66f2de42940f5c63",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "Female",
-      "XT_Baby",
-      "YR7079"
-    ],
-    "artist": "Paul Anka,Odia Coates",
-    "genres": 0,
-    "spotId": "5PuAFxKmqG72uKyoo11zpQ",
-    "couname": "(You're) Having My Baby",
-    "duration": "156293"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27304624c2e510408402e77f09b",
     "pty": 0,
     "Items": [
@@ -4289,60 +5407,102 @@
     "duration": "142360"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bbd5f67e315e752dd215f8f",
     "pty": 0,
     "Items": [
-      "BT_MichaelJackson",
       "XT_Baby"
     ],
-    "artist": "Michael Jackson",
+    "artist": "Macy Gray",
     "genres": 0,
-    "spotId": "6XYbMGvtl6tlPoGWaiH7EY",
-    "couname": "Baby Be Mine",
-    "duration": "260666"
+    "spotId": "1GNf3al5qwVpYjwhoND6XD",
+    "couname": "Sweet Baby",
+    "duration": "304000"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733066581d697fbdee4303d685",
+    "img": "https://i.scdn.co/image/ab67616d0000b27333c0163f378d032680e81a04",
+    "pty": 0,
+    "Items": [
+      "XT_Baby"
+    ],
+    "artist": "Otis Redding",
+    "genres": 0,
+    "spotId": "2xQhOVBelatT03BG89y3jm",
+    "couname": "There Goes My Baby",
+    "duration": "140533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273498187b149b1a1d0cc7b8442",
+    "pty": 0,
+    "Items": [
+      "XT_Baby"
+    ],
+    "artist": "The Drifters",
+    "genres": 0,
+    "spotId": "7eb36d69DQC3Msq46DceT0",
+    "couname": "There Goes My Baby",
+    "duration": "135866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79",
+    "pty": 0,
+    "Items": [
+      "XT_Baby"
+    ],
+    "artist": "USHER",
+    "genres": 0,
+    "spotId": "6IUiqtI8tE49sqGbmtrNd8",
+    "couname": "There Goes My Baby",
+    "duration": "281293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f12f27cd6d76f7fabb759f92",
+    "pty": 0,
+    "Items": [
+      "XT_Baby"
+    ],
+    "artist": "The Turtles",
+    "genres": 0,
+    "spotId": "5AhnV2wQ9d2XJNKEXRWnaw",
+    "couname": "You Baby",
+    "duration": "138000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737732be923fc9f29eef8cac96",
+    "pty": 0,
+    "Items": [
+      "XT_Baby"
+    ],
+    "artist": "Belle and Sebastian",
+    "genres": 0,
+    "spotId": "7LoPlMSNhFiKxd1atR5NuJ",
+    "couname": "You're Just A Baby",
+    "duration": "220106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d27159df96ec159cc7d70080",
     "pty": 0,
     "Items": [
       "Band",
-      "Male",
-      "XT_Baby",
-      "XT_Youth"
+      "XT_Baby"
     ],
-    "artist": "The Neighbourhood",
+    "artist": "Pixies",
     "genres": 0,
-    "spotId": "40gvh6jP5qxMJuMmF9lG9A",
-    "couname": "Baby Came Home 2 / Valentines",
-    "duration": "390493"
+    "spotId": "18PzY59cKHgu78CUYcUVAz",
+    "couname": "No 13 Baby",
+    "duration": "231626"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27346f5ba1b1ce237b5bce7d334",
+    "img": "https://i.scdn.co/image/ab67616d0000b27357d626df5acc2bb071095646",
     "pty": 0,
     "Items": [
-      "Female",
-      "XT_Baby",
-      "YR8089"
+      "TV_Halloween",
+      "XT_Baby"
     ],
-    "artist": "Tracy Chapman",
+    "artist": "Howlin' Wolf",
     "genres": 0,
-    "spotId": "6sIx6xX3IeYU7jNIefd9wb",
-    "couname": "Baby Can I Hold You",
-    "duration": "193120"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27343fe91d88224c0c916a104a2",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "XT_Baby",
-      "YR7079"
-    ],
-    "artist": "Mac Davis",
-    "genres": 0,
-    "spotId": "4z51Gf7Ppt9Lmu5zmnUIz9",
-    "couname": "Baby Don't Get Hooked on Me",
-    "duration": "183933"
+    "spotId": "4YNWiBD8S5fGLGP7zws1Ve",
+    "couname": "Howlin' For My Baby",
+    "duration": "151266"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273a7e24606f0e3a0e5c77cf1b8",
@@ -4437,265 +5597,47 @@
     "duration": "134813"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732971279a8da35a6526264eee",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "YR7079"
-    ],
-    "artist": "Chicago",
-    "genres": 0,
-    "spotId": "4gC5AmerRHtD4M4vCSBqJI",
-    "couname": "Baby, What a Big Surprise",
-    "duration": "182760"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731bbd5f67e315e752dd215f8f",
-    "pty": 0,
-    "Items": [
-      "XT_Baby"
-    ],
-    "artist": "Macy Gray",
-    "genres": 0,
-    "spotId": "1GNf3al5qwVpYjwhoND6XD",
-    "couname": "Sweet Baby",
-    "duration": "304000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734f3bbf9631faeb8de9912a23",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Baby",
-      "YR9099"
-    ],
-    "artist": "Smash Mouth",
-    "genres": 0,
-    "spotId": "0UVIXwqfTjefBbDyY60MWB",
-    "couname": "Can't Get Enough Of You Baby",
-    "duration": "150773"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734d0dabb3e61fa4939729e581",
-    "pty": 0,
-    "Items": [
-      "TV_Mafia",
-      "XT_Baby"
-    ],
-    "artist": "Mel Tormé",
-    "genres": 0,
-    "spotId": "71tjsDvB4EMJqNG8EMmFnb",
-    "couname": "Comin' Home Baby",
-    "duration": "165360"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
-    "pty": 0,
-    "Items": [
-      "BT_TheBeatles",
-      "XT_Baby"
-    ],
-    "artist": "The Beatles",
-    "genres": 0,
-    "spotId": "5XmetMMUFNXClbiYnGdVmP",
-    "couname": "Cry Baby Cry",
-    "duration": "182080"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27333c0163f378d032680e81a04",
-    "pty": 0,
-    "Items": [
-      "XT_Baby"
-    ],
-    "artist": "Otis Redding",
-    "genres": 0,
-    "spotId": "2xQhOVBelatT03BG89y3jm",
-    "couname": "There Goes My Baby",
-    "duration": "140533"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273498187b149b1a1d0cc7b8442",
-    "pty": 0,
-    "Items": [
-      "XT_Baby"
-    ],
-    "artist": "The Drifters",
-    "genres": 0,
-    "spotId": "7eb36d69DQC3Msq46DceT0",
-    "couname": "There Goes My Baby",
-    "duration": "135866"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27386b0c9728ad3ed338eaeea79",
-    "pty": 0,
-    "Items": [
-      "XT_Baby"
-    ],
-    "artist": "USHER",
-    "genres": 0,
-    "spotId": "6IUiqtI8tE49sqGbmtrNd8",
-    "couname": "There Goes My Baby",
-    "duration": "281293"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27317f9e7e7784ed40b223e261c",
-    "pty": 0,
-    "Items": [
-      "GN_Disco",
-      "XT_Baby"
-    ],
-    "artist": "Rick James",
-    "genres": 0,
-    "spotId": "13v3siPyvy5TTEZYmGPPse",
-    "couname": "Give It To Me Baby",
-    "duration": "248133"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273738fbaa134106eafb7772552",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "YR0009"
-    ],
-    "artist": "No Doubt,Bounty Killer",
-    "genres": 0,
-    "spotId": "0ySdXfvOy7zCc59yz2Dx8q",
-    "couname": "Hey Baby",
-    "duration": "206760"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f12f27cd6d76f7fabb759f92",
-    "pty": 0,
-    "Items": [
-      "XT_Baby"
-    ],
-    "artist": "The Turtles",
-    "genres": 0,
-    "spotId": "5AhnV2wQ9d2XJNKEXRWnaw",
-    "couname": "You Baby",
-    "duration": "138000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737732be923fc9f29eef8cac96",
-    "pty": 0,
-    "Items": [
-      "XT_Baby"
-    ],
-    "artist": "Belle and Sebastian",
-    "genres": 0,
-    "spotId": "7LoPlMSNhFiKxd1atR5NuJ",
-    "couname": "You're Just A Baby",
-    "duration": "220106"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273815989adaf3a97155e16defc",
-    "pty": 0,
-    "Items": [
-      "BT_FrankSinatra",
-      "XT_Baby"
-    ],
-    "artist": "Frank Sinatra",
-    "genres": 0,
-    "spotId": "2nALx9smWFujoSOv0SVVp4",
-    "couname": "One for My Baby",
-    "duration": "182546"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273296eb1edb4e4bd2563823693",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_Baby",
-      "YR0009"
-    ],
-    "artist": "Ashanti",
-    "genres": 0,
-    "spotId": "0mI5eE0IuermT57lb0Szas",
-    "couname": "Rock Wit U",
-    "duration": "209120"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273bc95f2457b1590de40b39a94",
+    "img": "https://i.scdn.co/image/ab67616d0000b27306438947fac89e2a4d944281",
     "pty": 0,
     "Items": [
       "Male",
+      "NULL",
       "XT_Baby",
-      "YR8089"
+      "XT_Trains"
     ],
-    "artist": "Jackson Browne",
+    "artist": "Ted Lewis",
     "genres": 0,
-    "spotId": "4SlCb8n5Jw52astU7GWPyV",
-    "couname": "Somebody's Baby",
-    "duration": "262733"
+    "spotId": "2jd572GeNnczCLNg5JgBqf",
+    "couname": "All Aboard for Dreamland Baby",
+    "duration": "218267"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273940b776a0ae7b0078d881daf",
+    "img": "https://i.scdn.co/image/ab67616d0000b273cacc9e4ac425c99697aea9d4",
     "pty": 0,
     "Items": [
       "Male",
+      "NULL",
       "XT_Baby",
-      "YR6069"
+      "XT_Names"
     ],
-    "artist": "Bobby Vee",
+    "artist": "Ridi",
     "genres": 0,
-    "spotId": "1MR7XamWS0XH6vZxeeRdE0",
-    "couname": "Take Good Care Of My Baby",
-    "duration": "150866"
+    "spotId": "2M4iSOZiosyPBgcjirEnrm",
+    "couname": "Aaja Baby",
+    "duration": "191129"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273116d08e0cb64d795300a6eca",
+    "img": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
     "pty": 0,
     "Items": [
-      "XT_Baby",
-      "YR1019"
-    ],
-    "artist": "Enrique Iglesias,Flo Rida",
-    "genres": 0,
-    "spotId": "3R1fDUw1lDoq6xD0IFIC1E",
-    "couname": "There Goes My Baby",
-    "duration": "198266"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27348d6f968be4a8cb9c44dc0d3",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "YR6069"
-    ],
-    "artist": "Marvin Gaye",
-    "genres": 0,
-    "spotId": "4l2K7IUTjpReNKXfcKLLfj",
-    "couname": "Too Busy Thinking About My Baby",
-    "duration": "174440"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27325942d24cbd89a94410d6087",
-    "pty": 0,
-    "Items": [
-      "BT_RollingStones",
-      "GN_PsychedelicRock",
+      "BT_MichaelJackson",
       "XT_Baby"
     ],
-    "artist": "The Rolling Stones",
+    "artist": "Michael Jackson",
     "genres": 0,
-    "spotId": "4JcjI40n0Vr0dt1TTD0cz6",
-    "couname": "Anybody Seen My Baby?",
-    "duration": "246680"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730b4ef75c3728599aa4104f7a",
-    "pty": 0,
-    "Items": [
-      "GN_FrenchElectro",
-      "TV_Tomorrowland",
-      "XT_Baby"
-    ],
-    "artist": "David Guetta,Anne-Marie,Coi Leray",
-    "genres": 0,
-    "spotId": "3BKD1PwArikchz2Zrlp1qi",
-    "couname": "Baby Don't Hurt Me",
-    "duration": "140017"
+    "spotId": "6XYbMGvtl6tlPoGWaiH7EY",
+    "couname": "Baby Be Mine",
+    "duration": "260666"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27341649a9940528d17e32ea5f0",
@@ -4713,287 +5655,129 @@
     "duration": "122360"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+    "img": "https://i.scdn.co/image/ab67616d0000b27303e31c6840aa343b73bbfe84",
     "pty": 0,
     "Items": [
-      "Female",
-      "XT_Baby",
-      "XT_History",
-      "XT_Places"
-    ],
-    "artist": "Lana Del Rey",
-    "genres": 0,
-    "spotId": "1NZs6n6hl8UuMaX0UC0YTz",
-    "couname": "Brooklyn Baby",
-    "duration": "351640"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273fa31dd7c93406c8aa23c241f",
-    "pty": 0,
-    "Items": [
-      "TV_OneHit",
+      "BT_LedZeppelin",
       "XT_Baby"
     ],
-    "artist": "Bruce Channel",
+    "artist": "Led Zeppelin",
     "genres": 0,
-    "spotId": "0obIo2GEab6qqms6t3JaMY",
-    "couname": "Hey! Baby",
-    "duration": "143627"
+    "spotId": "5qxk29klthBlLT42dzimO7",
+    "couname": "Ozone Baby",
+    "duration": "216360"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734694c5b97d3a88efb5fc71b5",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Female",
-      "XT_Baby",
-      "XT_Love",
-      "YR6069"
-    ],
-    "artist": "The Ronettes",
-    "genres": 0,
-    "spotId": "4V6ZLk1IHdG00qu3B4m8Y9",
-    "couname": "Baby, I Love You",
-    "duration": "171480"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733ff55db78a85b795f30bec79",
+    "img": "https://i.scdn.co/image/ab67616d0000b273382f924b50fa0df385717533",
     "pty": 0,
     "Items": [
       "XT_Baby",
-      "XT_Love",
-      "YR7079"
+      "XT_Cars",
+      "XT_Oscars"
     ],
-    "artist": "Peter Frampton",
+    "artist": "Betty Noyes",
     "genres": 0,
-    "spotId": "0tx981nZO0V21ZgRRSKxqe",
-    "couname": "Baby, I Love Your Way",
-    "duration": "285040"
+    "spotId": "2JLfmZQGqu4kt79l09Xcxx",
+    "couname": "Baby Mine",
+    "duration": "127680"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27300e1d8265195799790277e5a",
-    "pty": 0,
-    "Items": [
-      "BT_LadyGaga",
-      "GN_Choirs",
-      "XT_Baby",
-      "XT_Intros"
-    ],
-    "artist": "Lady Gaga",
-    "genres": 0,
-    "spotId": "209NkbzmsUa9pAobU7xGyf",
-    "couname": "Born This Way",
-    "duration": "260252"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27361c34f373881d481750ca087",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_Intros",
-      "YR0009",
-      "YR9099"
-    ],
-    "artist": "Christina Aguilera",
-    "genres": 0,
-    "spotId": "6kopVeL3LeqECoqKX1Wng2",
-    "couname": "Come on over Baby",
-    "duration": "204866"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273152d0abf7dab6b4690c01442",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Female",
-      "TV_OneHit",
-      "XT_Baby",
-      "YR0009"
-    ],
-    "artist": "3LW",
-    "genres": 0,
-    "spotId": "5zn1hpm9N0ylKB7kOtpCw2",
-    "couname": "No More",
-    "duration": "263440"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273749e9bfa78277f30ad2c9a9c",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "GN_Piano",
-      "XT_Baby",
-      "XT_Intros",
-      "XT_Karaoke",
-      "YR9099"
-    ],
-    "artist": "Mariah Carey",
-    "genres": 0,
-    "spotId": "2aBxt229cbLDOvtL7Xbb9x",
-    "couname": "Always Be My Baby",
-    "duration": "258133"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735060210758180bbc93db96de",
-    "pty": 0,
-    "Items": [
-      "TV_Rolling500",
-      "XT_Baby",
-      "XT_Intros",
-      "XT_Love"
-    ],
-    "artist": "Four Tops",
-    "genres": 0,
-    "spotId": "3aCbwWCYCT3MJjZeUnlcp4",
-    "couname": "Baby I Need Your Loving",
-    "duration": "166026"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734694c5b97d3a88efb5fc71b5",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Female",
-      "GN_Choirs",
-      "TV_Rolling500",
-      "XT_Baby",
-      "XT_Intros",
-      "YR6069"
-    ],
-    "artist": "The Ronettes",
-    "genres": 0,
-    "spotId": "2G2YzndIA6jeWFPBXhUjh5",
-    "couname": "Be My Baby",
-    "duration": "160906"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736664d0ac517e1eeffd1e639c",
-    "pty": 0,
-    "Items": [
-      "GN_Choirs",
-      "XT_Baby",
-      "XT_Kiss",
-      "XT_Love"
-    ],
-    "artist": "Father John Misty",
-    "genres": 0,
-    "spotId": "2qEqMx1n0dnCBzWT9l3nGL",
-    "couname": "Real Love Baby",
-    "duration": "189293"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f60070dce96a2c1b70cf6ff0",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "BT_BrunoMars",
-      "XT_Baby",
-      "XT_Running",
-      "YR1019"
-    ],
-    "artist": "Bruno Mars",
-    "genres": 0,
-    "spotId": "7hCNBVRhHzcsRAv0TQnOzq",
-    "couname": "Runaway Baby",
-    "duration": "148448"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27319ffd46baee165d6b42b7810",
-    "pty": 0,
-    "Items": [
-      "TV_OneHit",
-      "XT_Baby",
-      "XT_Love",
-      "YR9099"
-    ],
-    "artist": "Big Mountain",
-    "genres": 0,
-    "spotId": "2le9fblYnfoLr9dkZIsJUa",
-    "couname": "Baby, I Love Your Way",
-    "duration": "249520"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d27159df96ec159cc7d70080",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "XT_Baby"
-    ],
-    "artist": "Pixies",
-    "genres": 0,
-    "spotId": "18PzY59cKHgu78CUYcUVAz",
-    "couname": "No 13 Baby",
-    "duration": "231626"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f0cc194252888c6658c706ab",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "GN_Piano",
-      "XT_AboutTime",
-      "XT_Baby",
-      "XT_Intros",
-      "YR1019"
-    ],
-    "artist": "Michael Bublé",
-    "genres": 0,
-    "spotId": "4fIWvT19w9PR0VVBuPYpWA",
-    "couname": "Haven't Met You Yet",
-    "duration": "244586"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736823f5ab3f87b902c35ef56b",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "Female",
-      "GN_PsychedelicRock",
-      "TV_Simpsons120",
-      "XT_Baby",
-      "XT_Karaoke",
-      "YR6069"
-    ],
-    "artist": "Sonny & Cher",
-    "genres": 0,
-    "spotId": "4SGBuq37Ol4HJr7pQqFMKa",
-    "couname": "I Got You Babe",
-    "duration": "190080"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730a54387024eed1951bae5a0f",
+    "img": "https://i.scdn.co/image/ab67616d0000b27317f9e7e7784ed40b223e261c",
     "pty": 0,
     "Items": [
       "GN_Disco",
+      "XT_Baby"
+    ],
+    "artist": "Rick James",
+    "genres": 0,
+    "spotId": "13v3siPyvy5TTEZYmGPPse",
+    "couname": "Give It To Me Baby",
+    "duration": "248133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27312c6852f9b93123100caa641",
+    "pty": 0,
+    "Items": [
+      "TV_Halloween",
+      "XT_Baby"
+    ],
+    "artist": "John Zacherle",
+    "genres": 0,
+    "spotId": "4RDZ66EcL0frv6fV4jNMSR",
+    "couname": "Hurry Bury Baby",
+    "duration": "174600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273823351ac09824d25f3b09db8",
+    "pty": 0,
+    "Items": [
+      "Female",
       "XT_Baby",
-      "XT_Kiss",
+      "YR7079"
+    ],
+    "artist": "Helen Reddy",
+    "genres": 0,
+    "spotId": "7Jx87mZSCjUWlVDCLiRFK6",
+    "couname": "Angie Baby",
+    "duration": "211293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27330587b3774aaf5fd3db4f805",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Baby",
+      "YR7079"
+    ],
+    "artist": "The Hollies",
+    "genres": 0,
+    "spotId": "4jPbX60fZCAM9H6h68m6t7",
+    "couname": "The Baby",
+    "duration": "229800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27323e683677b52e644f7cd96ac",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "XT_Baby"
+    ],
+    "artist": "Christian Strand",
+    "genres": 0,
+    "spotId": "2ILSEvK5iLf0lMdQUrt7AX",
+    "couname": "Maybe Baby",
+    "duration": "189920"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273582e63007a09a9e38f71f31d",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
+      "XT_Baby",
       "XT_Love",
       "YR7079"
     ],
-    "artist": "Donna Summer",
+    "artist": "The Rubettes",
     "genres": 0,
-    "spotId": "4EWH8tOFnAOCP15useWsrm",
-    "couname": "Love To Love You Baby",
-    "duration": "1008533"
+    "spotId": "1WZ7nC1GSk8rCF3X4cRiOv",
+    "couname": "Sugar Baby Love",
+    "duration": "208693"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730d7a4a1253641d338fea99c3",
+    "img": "https://i.scdn.co/image/ab67616d0000b2730b4ef75c3728599aa4104f7a",
     "pty": 0,
     "Items": [
-      "Male",
-      "TV_OneHit",
-      "TV_Simpsons120",
-      "XT_Baby",
-      "XT_BodyParts",
-      "XT_Intros",
-      "XT_Karaoke",
-      "YR9099"
+      "GN_FrenchElectro",
+      "TV_Tomorrowland",
+      "XT_Baby"
     ],
-    "artist": "Sir Mix-A-Lot",
+    "artist": "David Guetta,Anne-Marie,Coi Leray",
     "genres": 0,
-    "spotId": "7lg7TBsxvJ6OcG12TztyB8",
-    "couname": "Baby Got Back",
-    "duration": "232925"
+    "spotId": "3BKD1PwArikchz2Zrlp1qi",
+    "couname": "Baby Don't Hurt Me",
+    "duration": "140017"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2730d441bd2334134eca6761fc4",
@@ -5016,66 +5800,6 @@
     "duration": "254466"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734e04404c40be7b80855656a8",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "GN_DrumSolo",
-      "TV_MarvelSongs",
-      "TV_Rolling500",
-      "TV_SpotifyS500",
-      "XT_Baby",
-      "XT_Intros",
-      "XT_Karaoke",
-      "YR8089"
-    ],
-    "artist": "Guns N' Roses",
-    "genres": 0,
-    "spotId": "1u1DBObkLFscNCpRpXbYb9",
-    "couname": "Sweet Child O' Mine",
-    "duration": "355266"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27336cf58e3e7cf36a145b1da18",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "CT_Norway",
-      "TV_BestVideos",
-      "TV_OneHit",
-      "TV_Rolling500",
-      "XT_AboutTime",
-      "XT_Baby",
-      "XT_Intros",
-      "XT_Karaoke",
-      "XT_Numbers",
-      "YR9099"
-    ],
-    "artist": "Britney Spears",
-    "genres": 0,
-    "spotId": "3MjUtNVVq3C8Fn0MP3zhXa",
-    "couname": "...Baby One More Time",
-    "duration": "211066"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738dad961673a82ade27f202a8",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Baby",
-      "XT_Karaoke",
-      "XT_Love"
-    ],
-    "artist": "Big Mountain",
-    "genres": 0,
-    "spotId": "1Rvl8qsKJurfFTyWLBI9ib",
-    "couname": "Baby I Love Your Way",
-    "duration": "249520"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27309fd83d32aee93dceba78517",
     "pty": 0,
     "Items": [
@@ -5087,37 +5811,6 @@
     "spotId": "0itNMuBHye9fu392b4e9oa",
     "couname": "Tell Me Baby",
     "duration": "247666"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27377073761e43f273c60988eaf",
-    "pty": 0,
-    "Items": [
-      "TV_Simpsons120",
-      "XT_Baby",
-      "XT_Karaoke",
-      "YR7079"
-    ],
-    "artist": "Bread",
-    "genres": 0,
-    "spotId": "7IX2e7pEShera9T1QIMvi7",
-    "couname": "Baby I'm-a Want You",
-    "duration": "150706"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730473c05a277f3dd99bea33e9",
-    "pty": 0,
-    "Items": [
-      "TV_BestVideos",
-      "XT_Baby",
-      "XT_Intros",
-      "YR0009",
-      "YR1019"
-    ],
-    "artist": "Justin Bieber,Ludacris",
-    "genres": 0,
-    "spotId": "7qX5y2GypOLa5DuAROrWEO",
-    "couname": "Baby",
-    "duration": "216613"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2732cf4397e15e2274674e14085",
@@ -5148,61 +5841,46 @@
     "duration": "265706"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27316a967f58480677800d18898",
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5566f88ef20c171cee29578",
     "pty": 0,
     "Items": [
-      "Female",
+      "TV_Halloween",
+      "XT_Baby"
+    ],
+    "artist": "Jack Stauber's Micropop",
+    "genres": 0,
+    "spotId": "1R8kvV2AgNPCA2Pp4Im1Ao",
+    "couname": "Baby Hotline",
+    "duration": "291317"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a391af6b977e84ff9749a267",
+    "pty": 0,
+    "Items": [
+      "Band",
+      "Male",
       "XT_Baby",
-      "XT_Colors",
+      "XT_Running",
       "YR7079"
     ],
-    "artist": "Dusty Springfield",
+    "artist": "Mungo Jerry",
     "genres": 0,
-    "spotId": "2T1hyfwy40dZcF9Hrtk9xn",
-    "couname": "Baby Blue",
-    "duration": "340400"
+    "spotId": "3pqNUdf5uziHuSg2eNngOW",
+    "couname": "Baby Jump",
+    "duration": "250533"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734b1807d4ef3c085db97a9b6a",
+    "img": "https://i.scdn.co/image/ab67616d0000b2734036d910db58e309cb544793",
     "pty": 0,
     "Items": [
-      "GN_Memes",
-      "TV_BreakingBad",
       "TV_Mafia",
-      "XT_Baby",
-      "XT_Colors"
+      "XT_Baby"
     ],
-    "artist": "Badfinger",
+    "artist": "The Crickets",
     "genres": 0,
-    "spotId": "07JAwmTGx5t3wU6iGbZqnG",
-    "couname": "Baby Blue",
-    "duration": "216453"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27348d6bd384cfa38707d2f8432",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_BodyParts"
-    ],
-    "artist": "Kane Brown",
-    "genres": 0,
-    "spotId": "0lmxrWcpOkDfYknYWBJviF",
-    "couname": "Baby Come Back to Me",
-    "duration": "226693"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737abf4e00b6e43245641a2dab",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_Love"
-    ],
-    "artist": "Johnny Rivers",
-    "genres": 0,
-    "spotId": "1qO0c7D5LkdfXb2gGka5mO",
-    "couname": "Baby, I Need Your Loving",
-    "duration": "187866"
+    "spotId": "2i2XnV3JoRVZirBrFTtKyH",
+    "couname": "Maybe Baby",
+    "duration": "123933"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2731dc7483a9fcfce54822a2f19",
@@ -5219,325 +5897,6 @@
     "duration": "234453"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27376588ddb7d2d24f4a2daa3fe",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Baby",
-      "XT_Cars"
-    ],
-    "artist": "Ronny & The Daytonas",
-    "genres": 0,
-    "spotId": "4wmKaXY6yt0YAGTOLX4XHp",
-    "couname": "Hot Rod Baby",
-    "duration": "122533"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736960c5f4eb72f0c06aa92181",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_Colors"
-    ],
-    "artist": "Bob Dylan",
-    "genres": 0,
-    "spotId": "4EgKcG7aswxVfQEqa3dl8S",
-    "couname": "It's All Over Now, Baby Blue",
-    "duration": "252066"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27378a33e0640c1cb770ea9e4f4",
-    "pty": 0,
-    "Items": [
-      "GN_DrumSolo",
-      "XT_Baby"
-    ],
-    "artist": "Powderfinger",
-    "genres": 0,
-    "spotId": "1Vb0sEHboCBthv6fUqLjME",
-    "couname": "(Baby I've Got You) On My Mind",
-    "duration": "200440"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ba263c0204387a74ec6de919",
-    "pty": 0,
-    "Items": [
-      "TV_BreakingBad",
-      "XT_Baby"
-    ],
-    "artist": "Say Anything",
-    "genres": 0,
-    "spotId": "2qItoZpxnLOPXVGgVjbhaw",
-    "couname": "Baby Girl, I'm A Blur",
-    "duration": "258066"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a5566f88ef20c171cee29578",
-    "pty": 0,
-    "Items": [
-      "TV_Halloween",
-      "XT_Baby"
-    ],
-    "artist": "Jack Stauber's Micropop",
-    "genres": 0,
-    "spotId": "1R8kvV2AgNPCA2Pp4Im1Ao",
-    "couname": "Baby Hotline",
-    "duration": "291317"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273febaf641af77e0ce2dddd71f",
-    "pty": 0,
-    "Items": [
-      "TV_OneHit",
-      "XT_Baby"
-    ],
-    "artist": "Deborah Allen",
-    "genres": 0,
-    "spotId": "5KqGrafc3paz7bNPju5Ne9",
-    "couname": "Baby I Lied",
-    "duration": "250120"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a1bf4c1efc808162ac95090f",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_Love"
-    ],
-    "artist": "Jennifer Lopez",
-    "genres": 0,
-    "spotId": "3SWAYmNlKDAyJUhtDk5uhN",
-    "couname": "Baby I Love U!",
-    "duration": "268426"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273cb559ce2d9e9935efb3591ce",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_Love"
-    ],
-    "artist": "Mother's Finest",
-    "genres": 0,
-    "spotId": "0hyZgl8tHThlycPEVwBpax",
-    "couname": "Baby Love",
-    "duration": "262826"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dda880ad0a44327a0e5b59bf",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_Love"
-    ],
-    "artist": "HUS",
-    "genres": 0,
-    "spotId": "04iTC5c5a9rEr8wbzP4JM1",
-    "couname": "Baby Love",
-    "duration": "244586"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736928dbd7cce1d222ea183c8d",
-    "pty": 0,
-    "Items": [
-      "TV_Halloween",
-      "XT_Baby"
-    ],
-    "artist": "Gerard Way",
-    "genres": 0,
-    "spotId": "4c38yr2PflGI2DSIzqsnmF",
-    "couname": "Baby You're a Haunted House",
-    "duration": "166361"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273134de5c2f08c7f349db60640",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_Love"
-    ],
-    "artist": "Minnie Riperton",
-    "genres": 0,
-    "spotId": "5dSiLl9vBxziv8vT9muNls",
-    "couname": "Baby, This Love I Have",
-    "duration": "247373"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273560c307eeca71e7443b3b803",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_BodyParts"
-    ],
-    "artist": "Kurt Vile",
-    "genres": 0,
-    "spotId": "6USEdtn8hvbDW2tOJAqVTS",
-    "couname": "Baby's Arms",
-    "duration": "236306"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737f768e99c363b6ee0995556e",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Baby",
-      "XT_Names"
-    ],
-    "artist": "WALK THE MOON",
-    "genres": 0,
-    "spotId": "0obyZJdAvDvhtvudGsNjvS",
-    "couname": "Lisa Baby",
-    "duration": "232640"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273baa9b132390a2d26a6b2dbed",
-    "pty": 0,
-    "Items": [
-      "Female",
-      "XT_AboutTime",
-      "XT_Baby"
-    ],
-    "artist": "Ingrid Michaelson",
-    "genres": 0,
-    "spotId": "4D2iLn2c201SlBRJivFtiv",
-    "couname": "December Baby",
-    "duration": "353240"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734912e9ce750eb750f2310afa",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_Love"
-    ],
-    "artist": "The Grass Roots",
-    "genres": 0,
-    "spotId": "0b889dNiVBOUvnURFb9rcx",
-    "couname": "Don't Pull Your Love Out On Me Baby",
-    "duration": "173933"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736346898e51ab99360b707a7a",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_Love"
-    ],
-    "artist": "Freddie Waters",
-    "genres": 0,
-    "spotId": "2ptDz5oR8aID5U7NS8Bu8K",
-    "couname": "Groovin' On My Baby's Love",
-    "duration": "165760"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27357d626df5acc2bb071095646",
-    "pty": 0,
-    "Items": [
-      "TV_Halloween",
-      "XT_Baby"
-    ],
-    "artist": "Howlin' Wolf",
-    "genres": 0,
-    "spotId": "4YNWiBD8S5fGLGP7zws1Ve",
-    "couname": "Howlin' For My Baby",
-    "duration": "151266"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27312c6852f9b93123100caa641",
-    "pty": 0,
-    "Items": [
-      "TV_Halloween",
-      "XT_Baby"
-    ],
-    "artist": "John Zacherle",
-    "genres": 0,
-    "spotId": "4RDZ66EcL0frv6fV4jNMSR",
-    "couname": "Hurry Bury Baby",
-    "duration": "174600"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ded9d9cdaa0a6d4ff1047c98",
-    "pty": 0,
-    "Items": [
-      "TV_OneHit",
-      "XT_Baby"
-    ],
-    "artist": "The Rembrandts",
-    "genres": 0,
-    "spotId": "35keiknicSk7ZiEl1Wa4Hg",
-    "couname": "Just the Way It Is, Baby",
-    "duration": "243893"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273696ec60fcd36f90e4e8f32c8",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_BodyParts"
-    ],
-    "artist": "Bobby Darin",
-    "genres": 0,
-    "spotId": "2qjt34WVQcucu7WU87HXZF",
-    "couname": "Baby Face",
-    "duration": "127653"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f443c20c8fd9933818965efc",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_Love"
-    ],
-    "artist": "Stevie Ray Vaughan",
-    "genres": 0,
-    "spotId": "7jxTdvTrVuqkuWwk0jXnVY",
-    "couname": "Love Struck Baby",
-    "duration": "141573"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738a1b5ecfbf362f42453a62db",
-    "pty": 0,
-    "Items": [
-      "TV_Halloween",
-      "XT_Baby"
-    ],
-    "artist": "Lou C. Furr",
-    "genres": 0,
-    "spotId": "41ojjaTpxGFRLkovJUYpAE",
-    "couname": "My Baby Loves Monster Movies",
-    "duration": "115493"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273cc8b741cf484d6a6108f6475",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_Running"
-    ],
-    "artist": "Garbage",
-    "genres": 0,
-    "spotId": "3gwiRLnvg4w0iFkedg66US",
-    "couname": "Run Baby Run",
-    "duration": "238133"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ad1f9227a7057397f7e1c0f6",
-    "pty": 0,
-    "Items": [
-      "TV_BreakingBad",
-      "XT_Baby"
-    ],
-    "artist": "Crystal Gayle",
-    "genres": 0,
-    "spotId": "2H3im8x52PpjXy2pAIrZcI",
-    "couname": "Sweet Baby On My Mind",
-    "duration": "156573"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273a2fc41b0dd6ce4f0d16a4c46",
     "pty": 0,
     "Items": [
@@ -5551,364 +5910,6 @@
     "spotId": "5s34maXRJLyzQTZ5QyP1EV",
     "couname": "Like A Baby",
     "duration": "255440"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273de849f943403165388bff535",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Baby",
-      "XT_Names"
-    ],
-    "artist": "The Drifters",
-    "genres": 0,
-    "spotId": "3gob4GHjhiyZ1f5q2gYT9Z",
-    "couname": "Ruby Baby",
-    "duration": "142680"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c80f202d11c9022e6731a394",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "NULL",
-      "XT_Baby",
-      "XT_History"
-    ],
-    "artist": "The White Stripes",
-    "genres": 0,
-    "spotId": "6VQvE0OIWGqDeQJ5wJO4ZC",
-    "couname": "The Big Three Killed My Baby",
-    "duration": "149400"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27381a46748afc41fc19021251f",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Baby",
-      "XT_LongSongs"
-    ],
-    "artist": "Johnny,Louis & Char",
-    "genres": 0,
-    "spotId": "2n3UKhR0VcxeswxAs75TGN",
-    "couname": "You're Like a Doll Baby",
-    "duration": "646720"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735e1f9c51f7954d20b4af8347",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Baby",
-      "XT_Colors"
-    ],
-    "artist": "Caleb Hurst",
-    "genres": 0,
-    "spotId": "4HlfWdOcE5lWR76DhIXqAe",
-    "couname": "(Baby) Blue",
-    "duration": "225576"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273cacc9e4ac425c99697aea9d4",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Baby",
-      "XT_Names"
-    ],
-    "artist": "Ridi",
-    "genres": 0,
-    "spotId": "2M4iSOZiosyPBgcjirEnrm",
-    "couname": "Aaja Baby",
-    "duration": "191129"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27306438947fac89e2a4d944281",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Baby",
-      "XT_Trains"
-    ],
-    "artist": "Ted Lewis",
-    "genres": 0,
-    "spotId": "2jd572GeNnczCLNg5JgBqf",
-    "couname": "All Aboard for Dreamland Baby",
-    "duration": "218267"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732267d64876d74496f30fd8af",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Baby",
-      "XT_Colors"
-    ],
-    "artist": "dempsey hope,Olivia O'Brien",
-    "genres": 0,
-    "spotId": "19ycym22ELrmEoXWV40py6",
-    "couname": "baby blue",
-    "duration": "200013"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733ceefb49194de6fcd2ffe4c7",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Baby",
-      "XT_Colors"
-    ],
-    "artist": "Bad Suns",
-    "genres": 0,
-    "spotId": "0o4iE4nFwqY1d2JKlrcMRb",
-    "couname": "Baby Blue Shades",
-    "duration": "220580"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732ad545d5e334210c993c5648",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Baby",
-      "XT_Food"
-    ],
-    "artist": "Louis Prima,Keely Smith,Sam Butera & The Witnesses",
-    "genres": 0,
-    "spotId": "3PgViCIEmAnUjE6OkpHfCJ",
-    "couname": "Banana Split For My Baby",
-    "duration": "151293"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273e5c202bca392a348666b5d41",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Baby",
-      "XT_Colors"
-    ],
-    "artist": "Fancy Hagood,Kacey Musgraves",
-    "genres": 0,
-    "spotId": "2cHjdUBcdnnCGdubhCmLbM",
-    "couname": "Blue Dream Baby",
-    "duration": "176427"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737e1888783100598328e20e9b",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Baby",
-      "XT_Names"
-    ],
-    "artist": "2Pac",
-    "genres": 0,
-    "spotId": "791YTMSeD7SPGWHLIe61ew",
-    "couname": "Brenda's Got A Baby",
-    "duration": "233466"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736c593be16713696874c15063",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Baby",
-      "XT_Youth"
-    ],
-    "artist": "Greer",
-    "genres": 0,
-    "spotId": "6lyaYDIHGPmXuDHJSZbCph",
-    "couname": "Bye Bye Baby",
-    "duration": "187250"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27392e671aea35f9cbc081caae7",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Baby",
-      "XT_Food"
-    ],
-    "artist": "Edwin Birdsong",
-    "genres": 0,
-    "spotId": "00Roxf5Opk9tpXXhIAQl8i",
-    "couname": "Cola Bottle Baby",
-    "duration": "304000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732e9a7873e05ab5d2ccf8ed29",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Baby",
-      "XT_OffAnimals"
-    ],
-    "artist": "Violent Femmes",
-    "genres": 0,
-    "spotId": "0uZ5x8ekLdZRCS9g8PxZ6i",
-    "couname": "Flamingo Baby",
-    "duration": "157333"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273858a95c04db9252719f70fff",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Baby",
-      "XT_Names"
-    ],
-    "artist": "John Denver",
-    "genres": 0,
-    "spotId": "4mD50gbWLYwmAPyf61UW0K",
-    "couname": "For Baby",
-    "duration": "178413"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b182acb685aa23824c3c7e6c",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Baby",
-      "XT_Gambling"
-    ],
-    "artist": "Tim Molyneux,Konrad Broock",
-    "genres": 0,
-    "spotId": "2adxHZc10Z6bWYgzxFSTY8",
-    "couname": "I Can Dodge Bullets Baby",
-    "duration": "168093"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737cf7f27277091aafe3935bd1",
-    "pty": 0,
-    "Items": [
-      "Male",
-      "NULL",
-      "XT_Baby",
-      "XT_Cars"
-    ],
-    "artist": "Sleepy Brown",
-    "genres": 0,
-    "spotId": "7mS5WAM9Ec7AhIAu9bJw4V",
-    "couname": "Me My Baby And My Cadillac",
-    "duration": "50133"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27382a891641608e2f2d6c3a8b8",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Baby",
-      "XT_MoonStars"
-    ],
-    "artist": "Godsmack",
-    "genres": 0,
-    "spotId": "7fujLGyPh3b45OwjFhlQ8Q",
-    "couname": "Moon Baby",
-    "duration": "263133"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2739c9cd5779cc1bc6a6ed389bd",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Baby",
-      "XT_Numbers"
-    ],
-    "artist": "Linda Eder",
-    "genres": 0,
-    "spotId": "6gttlirhn5N45xSjlmiKkl",
-    "couname": "One for My Baby",
-    "duration": "263240"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732557d7b4bf9ca1c289f40e97",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "Female",
-      "XT_Baby",
-      "XT_Plants"
-    ],
-    "artist": "Connie Francis",
-    "genres": 0,
-    "spotId": "5GQPBzoRBDxcAjwSSluQXD",
-    "couname": "Pretty Little Baby",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732a4925d5fac3c29e4b3210cd",
-    "pty": 0,
-    "Items": [
-      "NULL",
-      "NULL",
-      "XT_Baby",
-      "XT_MoonStars"
-    ],
-    "artist": "The Tubes",
-    "genres": 0,
-    "spotId": "28Qou4XEDMl1yeB9habS8M",
-    "couname": "Space Baby",
-    "duration": "265311"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738b383ab5757760c1e06d0cc2",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_Water"
-    ],
-    "artist": "Megan Thee Stallion,DaBaby",
-    "genres": 0,
-    "spotId": "11bNZlLg8WliP1rZKml3n6",
-    "couname": "Cry Baby",
-    "duration": "137983"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273382f924b50fa0df385717533",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_Cars",
-      "XT_Oscars"
-    ],
-    "artist": "Betty Noyes",
-    "genres": 0,
-    "spotId": "2JLfmZQGqu4kt79l09Xcxx",
-    "couname": "Baby Mine",
-    "duration": "127680"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27325161e5000bf4cbfffc7ad00",
-    "pty": 0,
-    "Items": [
-      "XT_Baby",
-      "XT_Cars",
-      "XT_Oscars"
-    ],
-    "artist": "Dinah Shore,Buddy Clark",
-    "genres": 0,
-    "spotId": "1pdr3SamlwMCGYmkdVkBgO",
-    "couname": "Baby, It's Cold Outside",
-    "duration": "140360"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27332117e17472d1cccb78c60d4",
@@ -5952,22 +5953,6 @@
     "duration": "315040"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273582e63007a09a9e38f71f31d",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "XT_Baby",
-      "XT_Love",
-      "YR7079"
-    ],
-    "artist": "The Rubettes",
-    "genres": 0,
-    "spotId": "1WZ7nC1GSk8rCF3X4cRiOv",
-    "couname": "Sugar Baby Love",
-    "duration": "208693"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273015c484a7aca592df1a77828",
     "pty": 0,
     "Items": [
@@ -6008,5 +5993,31 @@
     "spotId": "29imR7dda5XqwPRFmby7HS",
     "couname": "Baby, I Love You",
     "duration": "224560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273696ec60fcd36f90e4e8f32c8",
+    "pty": 0,
+    "Items": [
+      "XT_Baby",
+      "XT_BodyParts"
+    ],
+    "artist": "Bobby Darin",
+    "genres": 0,
+    "spotId": "2qjt34WVQcucu7WU87HXZF",
+    "couname": "Baby Face",
+    "duration": "127653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738a1b5ecfbf362f42453a62db",
+    "pty": 0,
+    "Items": [
+      "TV_Halloween",
+      "XT_Baby"
+    ],
+    "artist": "Lou C. Furr",
+    "genres": 0,
+    "spotId": "41ojjaTpxGFRLkovJUYpAE",
+    "couname": "My Baby Loves Monster Movies",
+    "duration": "115493"
   }
 ]
