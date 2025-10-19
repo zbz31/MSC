@@ -459,20 +459,6 @@
     "duration": "187400"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27359075304010757bf60fb7f61",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "GN_Japan",
-      "XT_Monarchy"
-    ],
-    "artist": "Vantage",
-    "genres": 0,
-    "spotId": "4XRaGryj589Fee9HqIDwup",
-    "couname": "Count What You Have Now",
-    "duration": "300000"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2733c3a65e31abf44bf115b7888",
     "pty": 0,
     "Items": [
@@ -1878,21 +1864,6 @@
     "spotId": "1d95sQ6WSG208tUdKMWeVR",
     "couname": "Lord of the Manor",
     "duration": "289840"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d2076e92f4d4bcef3c9722d6",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "XT_Monarchy",
-      "YR_9099"
-    ],
-    "artist": "Blur",
-    "genres": 0,
-    "spotId": "7hpqbNRHs7S2kE9HGko6PS",
-    "couname": "Country House",
-    "duration": "236960"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273d3ec17d438efeb94d79ba0e4",
@@ -3876,19 +3847,6 @@
     "duration": "434000"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273cc161028cf8ca72c2b7192b0",
-    "pty": 0,
-    "Items": [
-      "XT_Love",
-      "XT_Monarchy"
-    ],
-    "artist": "The Blessed Madonna,Daniel Wilson,Kon",
-    "genres": 0,
-    "spotId": "6JIN2WfUIGIZTbEedoi8eB",
-    "couname": "Count On My Love",
-    "duration": "355120"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27321fb5d3d6495d40e13d02786",
     "pty": 0,
     "Items": [
@@ -4633,21 +4591,6 @@
     "spotId": "2rgqPSIRAfaO2MGo9smdSX",
     "couname": "Dancing Queen",
     "duration": "231093"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f60070dce96a2c1b70cf6ff0",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "BT_BrunoMars",
-      "XT_Monarchy",
-      "YR_1019"
-    ],
-    "artist": "Bruno Mars",
-    "genres": 0,
-    "spotId": "3B5UbSndRz907IZhhmUfLi",
-    "couname": "Count on Me",
-    "duration": "197469"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2739feadc48ab0661e9b3a9170b",
@@ -5885,20 +5828,6 @@
     "spotId": "14S1LPjJBZDokeaBGYq3dN",
     "couname": "King Is White And In The Crowd",
     "duration": "422213"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273e395459314d21af05cc79bab",
-    "pty": 0,
-    "Items": [
-      "XT_Cars",
-      "XT_Monarchy",
-      "XT_Oscars"
-    ],
-    "artist": "Bing Crosby",
-    "genres": 0,
-    "spotId": "64R3CLdIvJcNV5JF5DE92E",
-    "couname": "Count Your Blessings Instead Of Sheep",
-    "duration": "185200"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273e5b39941fa009a7cd5144c9b",
@@ -7544,21 +7473,6 @@
     "spotId": "4YAntN9PWNKyVtB0VJaO4i",
     "couname": "Cooksferry Queen",
     "duration": "254506"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731833beec0bb54236d2b80c31",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "girl",
-      "XT_LongSongs",
-      "XT_Monarchy"
-    ],
-    "artist": "Camouflage,Peter Heppner,Die Wilde Jagd",
-    "genres": 0,
-    "spotId": "29Ys9j6DOUovBkKdb7WLWO",
-    "couname": "Count on Me",
-    "duration": "399973"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2731ab82b0d56d519a1cc434c01",
