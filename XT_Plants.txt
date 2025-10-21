@@ -1,5 +1,119 @@
 [
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730aea80682458fbea9b3bfe6c",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "XT_Plants"
+    ],
+    "artist": "Brother Ali",
+    "genres": 0,
+    "spotId": "5PN0z8n30Cunx3hgXmC89s",
+    "couname": "Forest Whitiker",
+    "duration": "180066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d9517b3350c1d861d4a6ffcf",
+    "pty": 0,
+    "Items": [
+      "TV_Halloween",
+      "XT_Plants"
+    ],
+    "artist": "l'eupe",
+    "genres": 0,
+    "spotId": "4glUqSe3d8pqbDbtRwSDEI",
+    "couname": "Spooky Forest",
+    "duration": "153947"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273af5c4ff7aec50efc0b1d85db",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Fire",
+      "XT_Plants"
+    ],
+    "artist": "Dead Kennedys",
+    "genres": 0,
+    "spotId": "7q3QfGCZGFTsOuDan8QS0Q",
+    "couname": "Forest Fire",
+    "duration": "142965"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a8d05f30258e18c4d90b76f1",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Weather",
+      "XT_Plants"
+    ],
+    "artist": "Stardust Vibes,Rain and Chill,Rain Soundzzz Club",
+    "genres": 0,
+    "spotId": "3fe4uIcJu8RpXdk9GQXPty",
+    "couname": "Rain & Thunder Sounds in the Foggy Forest: One Hour",
+    "duration": "3600000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c925f30a9a6ed3a3307c5e6",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_OffAnimals",
+      "XT_Plants"
+    ],
+    "artist": "The Mothers Of Invention",
+    "genres": 0,
+    "spotId": "2SqJGll5iv7Mi6Ggewjb3D",
+    "couname": "Toads Of The Short Forest",
+    "duration": "287253"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273942201cac6bfe1367b017286",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_AboutNames",
+      "XT_Plants"
+    ],
+    "artist": "beabadoobee",
+    "genres": 0,
+    "spotId": "1CPt73YB6ltBzioPQD2cLh",
+    "couname": "Yoshimi, Forest, Magdalene",
+    "duration": "204280"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ac768058bb6da2e55d4ee8a1",
+    "pty": 0,
+    "Items": [
+      "GN_Memes",
+      "XT_Plants"
+    ],
+    "artist": "Zelda Tune",
+    "genres": 0,
+    "spotId": "3uRwwy0eI3vEXwvsPsmWKO",
+    "couname": "Kokiri Forest Beat",
+    "duration": "123414"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273906c91c39012ed8fb5907910",
+    "pty": 0,
+    "Items": [
+      "BT_HansZimmer",
+      "XT_Plants"
+    ],
+    "artist": "Blue Planet II (Original Television Soundtrack) - Hans Zimmer,Jacob Shea,David Fleming",
+    "genres": 0,
+    "spotId": "39zWLZgPfgjGe2Ej7YaHcU",
+    "couname": "A Forest Awakens",
+    "duration": "205746"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273c6084929566743530de8c721",
     "pty": 0,
     "Items": [
@@ -15,76 +129,30 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27341be6d9cf0ec0067d095a072",
+    "img": "https://i.scdn.co/image/ab67616d0000b2734aa214066f89320aff21b4a6",
     "pty": 0,
     "Items": [
-      "DUDE",
-      "XT_Plants",
-      "XT_Water"
-    ],
-    "artist": "Tom Petty",
-    "genres": 0,
-    "spotId": "2Pr1nZpt8A8WP7QYpyq6L3",
-    "couname": "Wildflowers",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736de69821e8460a9d689e20ba",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "XT_Colors",
+      "GN_Metal",
       "XT_Plants"
     ],
-    "artist": "The Zombies",
+    "artist": "Thy Majestie",
     "genres": 0,
-    "spotId": "6BSM7JqYn5wZxl1o3f7oxT",
-    "couname": "A Rose For Emily",
-    "duration": ""
+    "spotId": "4sIoxfsWZTUJ9sLi9lorcV",
+    "couname": "Mystery of Forest",
+    "duration": "411973"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734f6d78b7fb2ba87ed33fcd7e",
+    "img": "https://i.scdn.co/image/ab67616d0000b273bf63a0aa9d99b9f9cb91340f",
     "pty": 0,
     "Items": [
-      "XT_Dreaming",
-      "XT_Intros",
+      "GN_PsychedelicRock",
       "XT_Plants"
     ],
-    "artist": "The Cure",
+    "artist": "Impala Syndrome",
     "genres": 0,
-    "spotId": "4iVTSRiJAA18d3QglhyJ6Q",
-    "couname": "A Forest",
-    "duration": "354640"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732e35d25eb7288830d5540484",
-    "pty": 0,
-    "Items": [
-      "girl",
-      "XT_OffAnimals",
-      "XT_Plants"
-    ],
-    "artist": "Kacey Musgraves",
-    "genres": 0,
-    "spotId": "30VHURM5NOfoZmqp2iKawS",
-    "couname": "Butterflies",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c9eb4c87e1d7f5353908b712",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "XT_Food",
-      "XT_Plants",
-      "XT_Youth"
-    ],
-    "artist": "Troye Sivan",
-    "genres": 0,
-    "spotId": "3afkJSKX0EAMsJXTZnDXXJ",
-    "couname": "Strawberries & Cigarettes",
-    "duration": ""
+    "spotId": "4Y687rN4KM18rbbNbokfqj",
+    "couname": "Children of the Forest",
+    "duration": "257360"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27340ec5d69baa8602726645a09",
@@ -101,39 +169,17 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27333d4866ed921300e8ef50808",
+    "img": "https://i.scdn.co/image/ab67616d0000b2736a625dc58ebabb4aee9f97e0",
     "pty": 0,
     "Items": [
-      "DUDE",
-      "TV_OneHit",
-      "XT_Colors",
-      "XT_Intros",
-      "XT_Karaoke",
-      "XT_Kiss",
-      "XT_Plants",
-      "YR_9099"
-    ],
-    "artist": "Seal",
-    "genres": 0,
-    "spotId": "3YKptz29AsOlm7WAVnztBh",
-    "couname": "Kiss from a Rose",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c984eaf4d6a23e0bc64041d6",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "girl",
-      "XT_Numbers",
+      "GN_Metal",
       "XT_Plants"
     ],
-    "artist": "Neutral Milk Hotel",
+    "artist": "Opeth",
     "genres": 0,
-    "spotId": "6dFlPqbcAjpvDKp8voczqX",
-    "couname": "King of Carrot Flowers Pts. 2 & 3",
-    "duration": null
+    "spotId": "0cgz0Fa7bivUEwqI5Srj1P",
+    "couname": "Reverie / Harlequin Forest",
+    "duration": "699466"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2737c797ae4eaf5062537ca84fc",
@@ -151,6 +197,32 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e745b7a8e69392bc2a7e4298",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Plants"
+    ],
+    "artist": "Luca Turilli (Band)",
+    "genres": 0,
+    "spotId": "16mRTjZWjlcOsDrtXpHQ5e",
+    "couname": "The Ancient Forest of Elves",
+    "duration": "283880"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731c6a41bcf5f9d91cbada11a7",
+    "pty": 0,
+    "Items": [
+      "BT_JohnWilliams",
+      "XT_Plants"
+    ],
+    "artist": "Star Wars: Return of the Jedi (Original Motion Picture Soundtrack) - John Williams,London Symphony Orchestra",
+    "genres": 0,
+    "spotId": "3YE4sUxcxMztblbryEslaG",
+    "couname": "The Forest Battle",
+    "duration": "242880"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2732cfb2e0ebce5717447deb069",
     "pty": 0,
     "Items": [
@@ -164,23 +236,6 @@
     "spotId": "1V8BSBe2fB5Np30sXmUCNU",
     "couname": "Where Have All the Flowers Gone",
     "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733269dab19dc2c1384009fff9",
-    "pty": 0,
-    "Items": [
-      "TV_OneHit",
-      "XT_Food",
-      "XT_Intros",
-      "XT_Karaoke",
-      "XT_Plants",
-      "YR6069"
-    ],
-    "artist": "The Foundations",
-    "genres": 0,
-    "spotId": "3XcuLPQb1LG13ZJEEa6wUI",
-    "couname": "Build Me Up Buttercup",
-    "duration": "178533"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27370aae628de73657307939c2d",
@@ -209,40 +264,6 @@
     "spotId": "3hmdpvFGNiTRHQPjsng1Kz",
     "couname": "Hydrangeas",
     "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da",
-    "pty": 0,
-    "Items": [
-      "girl",
-      "XT_Colors",
-      "XT_Karaoke",
-      "XT_OffAnimals",
-      "XT_Plants",
-      "YR_0009"
-    ],
-    "artist": "KT Tunstall",
-    "genres": 0,
-    "spotId": "0qAMjeQFyd1qD0LDiV8gWp",
-    "couname": "Black Horse And The Cherry Tree",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27349c75fa3e440ca4aa5a53440",
-    "pty": 0,
-    "Items": [
-      "girl",
-      "GN_Disco",
-      "GN_Synth",
-      "TV_OneHit",
-      "XT_Intros",
-      "XT_Plants"
-    ],
-    "artist": "Patrice Rushen",
-    "genres": 0,
-    "spotId": "7vuSGejUXpD365Nl9tyehq",
-    "couname": "Forget Me Nots",
-    "duration": ""
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273e3f4221446f724b575a9aafb",
@@ -301,21 +322,6 @@
     "spotId": "5fbmIZ9ZQJqDI7yvd8MO3P",
     "couname": "Sycamore Silence",
     "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273853d690e64256548a2e6a73f",
-    "pty": 0,
-    "Items": [
-      "GN_PsychedelicRock",
-      "XT_History",
-      "XT_Places",
-      "XT_Plants"
-    ],
-    "artist": "Simon & Garfunkel",
-    "genres": 0,
-    "spotId": "0rguUqiSbFbd6vDVndfDlS",
-    "couname": "Scarborough Fair / Canticle",
-    "duration": "190346"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2736ee599adbf68bf5b95b68864",
@@ -689,23 +695,6 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "BT_TheBeatles",
-      "XT_OffAnimals",
-      "XT_Plants",
-      "XT_Water"
-    ],
-    "artist": "The Beatles",
-    "genres": 0,
-    "spotId": "0suLngfo7rJoetk7Ub6N8l",
-    "couname": "Octopus's Garden",
-    "duration": ""
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2730c9386d0f4e695570cd41935",
     "pty": 0,
     "Items": [
@@ -736,6 +725,21 @@
     "duration": ""
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731f8c1a0ed8c404c469680cc0",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_AboutNames",
+      "XT_Baby",
+      "XT_Plants"
+    ],
+    "artist": "James Taylor",
+    "genres": 0,
+    "spotId": "47cdhtxTfp7WvUbDpDeYa2",
+    "couname": "Sweet Baby James",
+    "duration": "171093"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273250fd44d49820435221a4e29",
     "pty": 0,
     "Items": [
@@ -751,41 +755,23 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735fc6193a06ef0c31db26ed7e",
+    "img": "https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf",
     "pty": 0,
     "Items": [
       "BAND",
       "DUDE",
-      "GN_Piano",
-      "TV_OneHit",
-      "TV_Simpsons120",
-      "XT_AboutTime",
-      "XT_Intros",
+      "BT_TheBeatles",
+      "TV_Rolling500",
+      "XT_AboutNames",
+      "XT_Places",
       "XT_Plants",
-      "XT_Water",
-      "XT_Weather",
-      "YR_7079"
+      "XT_Water"
     ],
-    "artist": "Mungo Jerry",
+    "artist": "The Beatles",
     "genres": 0,
-    "spotId": "6O9KQhm4L2n4CTNfSHPnxl",
-    "couname": "In the Summertime",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27393a1519118102a6d78164713",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "GN_ViolinSolo",
-      "XT_Food",
-      "XT_Plants"
-    ],
-    "artist": "Gregory Alan Isakov",
-    "genres": 0,
-    "spotId": "5AeoHJUx0PJXAzN425xryh",
-    "couname": "Dandelion Wine",
-    "duration": ""
+    "spotId": "7afyyi8zn4FzWbcJ70F56V",
+    "couname": "Penny Lane",
+    "duration": "180520"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273400b0756273d1168643d8891",
@@ -801,25 +787,6 @@
     "spotId": "2Rc5i1prwcSG7XV844zrWx",
     "couname": "In The Flowers",
     "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b2667022348feb5f86bdf59f",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "GN_BalladRock",
-      "GN_GuitarSolo",
-      "TV_Simpsons120",
-      "XT_Karaoke",
-      "XT_Plants",
-      "YR_8089"
-    ],
-    "artist": "Poison",
-    "genres": 0,
-    "spotId": "5qaSekPPKHIEA1Yn0qkCaC",
-    "couname": "Every Rose Has Its Thorn",
-    "duration": ""
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27359994d757c01fdc7d671faf3",
@@ -865,6 +832,19 @@
     "spotId": "7JgZTxkotgFXxWkoY8RsUq",
     "couname": "Le jardin",
     "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734577aa7315bf72ba5314863a",
+    "pty": 0,
+    "Items": [
+      "GN_Metal",
+      "XT_Plants"
+    ],
+    "artist": "Arcane Tales",
+    "genres": 0,
+    "spotId": "5GTHjyS2ZG30jXTrErShio",
+    "couname": "Forest of Ice",
+    "duration": "284146"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2736592ad629d3620d44b0496b7",
@@ -942,17 +922,21 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273de50cdc395c583aae809cfc4",
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
     "pty": 0,
     "Items": [
-      "girl",
+      "DUDE",
+      "TV_SpotifyS500",
+      "TV_Top102024",
+      "XT_Food",
+      "XT_Karaoke",
       "XT_Plants",
-      "YR_7079"
+      "YR_1019"
     ],
-    "artist": "Marie Osmond",
+    "artist": "Drake",
     "genres": 0,
-    "spotId": "19ErwmP0jgtD889IXuE2xg",
-    "couname": "Paper Roses",
+    "spotId": "5mCPDVBb16L4XQwDdbRUpz",
+    "couname": "Passionfruit",
     "duration": ""
   },
   {
@@ -1061,6 +1045,219 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736061741cb0d58e56540f163e",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Intros",
+      "XT_Plants"
+    ],
+    "artist": "The Monkees",
+    "genres": 0,
+    "spotId": "3mumafLiMRofRhyczBxuwE",
+    "couname": "Me & Magdalena",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273488af44687de51239df4a655",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "TV_Tarantino",
+      "XT_Plants"
+    ],
+    "artist": "The Statler Brothers",
+    "genres": 0,
+    "spotId": "3uG4ygD1bIP3YspJm9N4KO",
+    "couname": "Flowers on the Wall",
+    "duration": "139813"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731900d66ea85fc60fab98e570",
+    "pty": 0,
+    "Items": [
+      "BT_TheBeatles",
+      "GN_PsychedelicRock",
+      "XT_Intros",
+      "XT_OffAnimals",
+      "XT_Plants"
+    ],
+    "artist": "The Beatles",
+    "genres": 0,
+    "spotId": "4DE42oDol0KHxympBsaiYu",
+    "couname": "Norwegian Wood",
+    "duration": "124693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273716103d47a4f8fa9820c49ac",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "XT_Colors",
+      "XT_Plants"
+    ],
+    "artist": "Tommy James & The Shondells",
+    "genres": 0,
+    "spotId": "0I4yYE831a8SW8QIx6bz4x",
+    "couname": "Crimson & Clover",
+    "duration": "209640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738695a646cdeb8376aafc11a4",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_OneHit",
+      "XT_Karaoke",
+      "XT_Plants",
+      "YR_0009"
+    ],
+    "artist": "Plain White T's",
+    "genres": 0,
+    "spotId": "1NarGDteHRuDA9OfGyQ2MG",
+    "couname": "Hey There Delilah",
+    "duration": "226493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27341be6d9cf0ec0067d095a072",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Plants",
+      "XT_Water"
+    ],
+    "artist": "Tom Petty",
+    "genres": 0,
+    "spotId": "2Pr1nZpt8A8WP7QYpyq6L3",
+    "couname": "Wildflowers",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736de69821e8460a9d689e20ba",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Colors",
+      "XT_Plants"
+    ],
+    "artist": "The Zombies",
+    "genres": 0,
+    "spotId": "6BSM7JqYn5wZxl1o3f7oxT",
+    "couname": "A Rose For Emily",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f6d78b7fb2ba87ed33fcd7e",
+    "pty": 0,
+    "Items": [
+      "XT_Dreaming",
+      "XT_Intros",
+      "XT_Plants"
+    ],
+    "artist": "The Cure",
+    "genres": 0,
+    "spotId": "4iVTSRiJAA18d3QglhyJ6Q",
+    "couname": "A Forest",
+    "duration": "354640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733269dab19dc2c1384009fff9",
+    "pty": 0,
+    "Items": [
+      "TV_OneHit",
+      "XT_Food",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Plants",
+      "YR6069"
+    ],
+    "artist": "The Foundations",
+    "genres": 0,
+    "spotId": "3XcuLPQb1LG13ZJEEa6wUI",
+    "couname": "Build Me Up Buttercup",
+    "duration": "178533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732e35d25eb7288830d5540484",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_OffAnimals",
+      "XT_Plants"
+    ],
+    "artist": "Kacey Musgraves",
+    "genres": 0,
+    "spotId": "30VHURM5NOfoZmqp2iKawS",
+    "couname": "Butterflies",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27349c75fa3e440ca4aa5a53440",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_Disco",
+      "GN_Synth",
+      "TV_OneHit",
+      "XT_Intros",
+      "XT_Plants"
+    ],
+    "artist": "Patrice Rushen",
+    "genres": 0,
+    "spotId": "7vuSGejUXpD365Nl9tyehq",
+    "couname": "Forget Me Nots",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "BT_TheBeatles",
+      "XT_OffAnimals",
+      "XT_Plants",
+      "XT_Water"
+    ],
+    "artist": "The Beatles",
+    "genres": 0,
+    "spotId": "0suLngfo7rJoetk7Ub6N8l",
+    "couname": "Octopus's Garden",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c9eb4c87e1d7f5353908b712",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Food",
+      "XT_Plants",
+      "XT_Youth"
+    ],
+    "artist": "Troye Sivan",
+    "genres": 0,
+    "spotId": "3afkJSKX0EAMsJXTZnDXXJ",
+    "couname": "Strawberries & Cigarettes",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273de50cdc395c583aae809cfc4",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Plants",
+      "YR_7079"
+    ],
+    "artist": "Marie Osmond",
+    "genres": 0,
+    "spotId": "19ErwmP0jgtD889IXuE2xg",
+    "couname": "Paper Roses",
+    "duration": ""
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273b5dfbe4f5fc0b402d25a2354",
     "pty": 0,
     "Items": [
@@ -1076,20 +1273,165 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736794d100bd1cfedbb8cf53f1",
+    "img": "https://i.scdn.co/image/ab67616d0000b273e8a1ae591befe4bb0a9261ab",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Colors",
+      "XT_Intros",
+      "XT_Plants"
+    ],
+    "artist": "The White Stripes",
+    "genres": 0,
+    "spotId": "4jU7NPkz4HVnM4hweqNhI1",
+    "couname": "Blue Orchid",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27347708795c6856712742c4815",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Plants",
+      "XT_Water"
+    ],
+    "artist": "Lizzo",
+    "genres": 0,
+    "spotId": "4d9GVZP50tSxTfBvHEHUPx",
+    "couname": "Water Me",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27333d4866ed921300e8ef50808",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_OneHit",
+      "XT_Colors",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Kiss",
+      "XT_Plants",
+      "YR_9099"
+    ],
+    "artist": "Seal",
+    "genres": 0,
+    "spotId": "3YKptz29AsOlm7WAVnztBh",
+    "couname": "Kiss from a Rose",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c3860d1b87e78a68953f76f6",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Animals",
+      "XT_OffAnimals",
+      "XT_Plants"
+    ],
+    "artist": "Cornelius",
+    "genres": 0,
+    "spotId": "1NZUfu0o8H1KlQD9aBYF5s",
+    "couname": "Bird Watching at Inner Forest",
+    "duration": "289546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736a760642a56847027428cb61",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Colors",
+      "XT_Food",
+      "XT_Plants"
+    ],
+    "artist": "Jeff Buckley",
+    "genres": 0,
+    "spotId": "1StXVL5gClph4z4XzanYko",
+    "couname": "Lilac Wine",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273abaa293993cbb698cdd33ef2",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "girl",
+      "XT_Plants",
+      "YR_8089"
+    ],
+    "artist": "Mecano",
+    "genres": 0,
+    "spotId": "0uFWKpWbWTpttXBUB6UG3U",
+    "couname": "Una Rosa Es una Rosa",
+    "duration": "286760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27308181b9f840a06e7a071cf72",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "GN_PsychedelicRock",
+      "XT_AboutTime",
+      "XT_Plants",
+      "YR6069"
+    ],
+    "artist": "The Mamas & The Papas",
+    "genres": 0,
+    "spotId": "3EFb1qDgIqf9MegIryKtDj",
+    "couname": "Monday, Monday",
+    "duration": "208293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Colors",
+      "XT_Karaoke",
+      "XT_OffAnimals",
+      "XT_Plants",
+      "YR_0009"
+    ],
+    "artist": "KT Tunstall",
+    "genres": 0,
+    "spotId": "0qAMjeQFyd1qD0LDiV8gWp",
+    "couname": "Black Horse And The Cherry Tree",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c984eaf4d6a23e0bc64041d6",
     "pty": 0,
     "Items": [
       "BAND",
       "DUDE",
       "girl",
-      "XT_Food",
+      "XT_Monarchy",
+      "XT_Numbers",
       "XT_Plants"
     ],
-    "artist": "The Mamas & The Papas",
+    "artist": "Neutral Milk Hotel",
     "genres": 0,
-    "spotId": "4713WnRYJ0AY1qexk8o1Hd",
-    "couname": "Blueberries For Breakfast",
-    "duration": ""
+    "spotId": "6dFlPqbcAjpvDKp8voczqX",
+    "couname": "King of Carrot Flowers Pts. 2 & 3",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f0a75f32307319c67cf9ad05",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Love",
+      "XT_Plants"
+    ],
+    "artist": "The Butterhills",
+    "genres": 0,
+    "spotId": "4FCr7mXka4NSYz10dEBVKG",
+    "couname": "I Love the Flower Girl",
+    "duration": null
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2739ad3303ce684dbf588bfc73a",
@@ -1212,18 +1554,19 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737f4e05714b5d4d43486f39a8",
+    "img": "https://i.scdn.co/image/ab67616d0000b273853d690e64256548a2e6a73f",
     "pty": 0,
     "Items": [
-      "GN_Choirs",
-      "XT_BodyParts",
+      "GN_PsychedelicRock",
+      "XT_History",
+      "XT_Places",
       "XT_Plants"
     ],
-    "artist": "Sufjan Stevens",
+    "artist": "Simon & Garfunkel",
     "genres": 0,
-    "spotId": "5OjpdQLQNF59wsZx9S9b10",
-    "couname": "All the Trees of the Field Will Clap Their Hands",
-    "duration": "254053"
+    "spotId": "0rguUqiSbFbd6vDVndfDlS",
+    "couname": "Scarborough Fair / Canticle",
+    "duration": "190346"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27359b69b676d5d5507fe91d017",
@@ -1239,6 +1582,20 @@
     "spotId": "1pnuyjwj5DoiyqabwtpHk9",
     "couname": "Red Barked Trees",
     "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b5e18a80757ba2f787213d21",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Food",
+      "XT_Plants"
+    ],
+    "artist": "Erykah Badu",
+    "genres": 0,
+    "spotId": "2jAn0rAOyLW6hIEuIDNcoT",
+    "couname": "Appletree",
+    "duration": ""
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2732557d7b4bf9ca1c289f40e97",
@@ -1361,6 +1718,21 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dbd83e179619408e5d05cc99",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_Colors",
+      "XT_Intros",
+      "XT_Plants"
+    ],
+    "artist": "Paramore",
+    "genres": 0,
+    "spotId": "2RJfK2pOvGpnxC255YOy5k",
+    "couname": "Rose-Colored Boy",
+    "duration": "212853"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2732fda760d9d2bfa8165740584",
     "pty": 0,
     "Items": [
@@ -1420,34 +1792,37 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273e8a1ae591befe4bb0a9261ab",
+    "img": "https://i.scdn.co/image/ab67616d0000b2737943746f867dbdcbcf1c1772",
     "pty": 0,
     "Items": [
       "BAND",
       "DUDE",
-      "XT_Colors",
-      "XT_Intros",
-      "XT_Plants"
+      "TV_Simpsons120",
+      "XT_Plants",
+      "YR6069"
     ],
-    "artist": "The White Stripes",
+    "artist": "The Kingston Trio",
     "genres": 0,
-    "spotId": "4jU7NPkz4HVnM4hweqNhI1",
-    "couname": "Blue Orchid",
+    "spotId": "4C3jDWATqX5n4xaRO8wZOF",
+    "couname": "Where Have All The Flowers Gone?",
     "duration": ""
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27347708795c6856712742c4815",
+    "img": "https://i.scdn.co/image/ab67616d0000b27378219679ef28c5639613c06b",
     "pty": 0,
     "Items": [
-      "girl",
+      "CT_Norway",
+      "GN_Memes",
+      "TV_OneHit",
+      "XT_Food",
       "XT_Plants",
-      "XT_Water"
+      "YR_9099"
     ],
-    "artist": "Lizzo",
+    "artist": "Fools Garden",
     "genres": 0,
-    "spotId": "4d9GVZP50tSxTfBvHEHUPx",
-    "couname": "Water Me",
-    "duration": ""
+    "spotId": "1yN2z5XVtaAOYGdeEqEuqd",
+    "couname": "Lemon Tree",
+    "duration": "191026"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273d2d0137c32938ae8cb44e0ca",
@@ -1480,6 +1855,183 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735fc6193a06ef0c31db26ed7e",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_Piano",
+      "TV_OneHit",
+      "TV_Simpsons120",
+      "XT_AboutTime",
+      "XT_Intros",
+      "XT_Plants",
+      "XT_Water",
+      "XT_Weather",
+      "YR_7079"
+    ],
+    "artist": "Mungo Jerry",
+    "genres": 0,
+    "spotId": "6O9KQhm4L2n4CTNfSHPnxl",
+    "couname": "In the Summertime",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27393a1519118102a6d78164713",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_ViolinSolo",
+      "XT_Food",
+      "XT_Plants"
+    ],
+    "artist": "Gregory Alan Isakov",
+    "genres": 0,
+    "spotId": "5AeoHJUx0PJXAzN425xryh",
+    "couname": "Dandelion Wine",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b2667022348feb5f86bdf59f",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_GuitarSolo",
+      "TV_Simpsons120",
+      "XT_Karaoke",
+      "XT_Plants",
+      "YR_8089"
+    ],
+    "artist": "Poison",
+    "genres": 0,
+    "spotId": "5qaSekPPKHIEA1Yn0qkCaC",
+    "couname": "Every Rose Has Its Thorn",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273196ddacc8968e22242285745",
+    "pty": 0,
+    "Items": [
+      "BT_RollingStones",
+      "XT_Plants"
+    ],
+    "artist": "The Rolling Stones",
+    "genres": 0,
+    "spotId": "50JLjfCU2gs5LvSPpzrW8v",
+    "couname": "Dandelion",
+    "duration": "227946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27344a8aa7ac5c2e2defbfd702b",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Colors",
+      "XT_Plants"
+    ],
+    "artist": "Simon & Garfunkel",
+    "genres": 0,
+    "spotId": "1DrirX7vAJMDAoz37ZbSeA",
+    "couname": "Leaves That Are Green",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a941bb5225f09137f035e4f3",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Plants",
+      "XT_Running"
+    ],
+    "artist": "Mort Garson",
+    "genres": 0,
+    "spotId": "57YWtDMoCG0uIp0lWFDqmm",
+    "couname": "You Don't Have to Walk a Begonia",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27350efe0a438983a22b56867dc",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Plants",
+      "XT_Youth"
+    ],
+    "artist": "Phoebe Bridgers",
+    "genres": 0,
+    "spotId": "1LTWcRVy9o96Zzn29wXLsa",
+    "couname": "Garden Song",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730e49a9823be8f295caf1a574",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "GN_Piano",
+      "TV_BestVideos",
+      "TV_SpotifyS500",
+      "XT_Colors",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_MoonStars",
+      "XT_Plants",
+      "XT_Weather"
+    ],
+    "artist": "Coldplay",
+    "genres": 0,
+    "spotId": "58MrV6J9oS46ViY1N6gTJX",
+    "couname": "Yellow",
+    "duration": "411973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27341531a36b7068c8aa7146e51",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Love",
+      "XT_Plants"
+    ],
+    "artist": "Joël Fajerman",
+    "genres": 0,
+    "spotId": "7hQh04tXuXfS3ciyDID0sV",
+    "couname": "Flower's Love",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273817da87bdbfac461a03dccf6",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Numbers",
+      "XT_Plants"
+    ],
+    "artist": "Nat King Cole",
+    "genres": 0,
+    "spotId": "4Pm71yb8NDeyYOPLY4lr1h",
+    "couname": "On A Bicycle Built For Two",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Food",
+      "XT_Plants"
+    ],
+    "artist": "Van Morrison",
+    "genres": 0,
+    "spotId": "5G4W4UzaJIpYl0ar95Cs17",
+    "couname": "Tupelo Honey",
+    "duration": ""
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273d040bc5b46915b49a64d7b1d",
     "pty": 0,
     "Items": [
@@ -1494,10 +2046,43 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b0c9b7fbfeac390d2d43be81",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Compass",
+      "XT_Plants"
+    ],
+    "artist": "ODESZA",
+    "genres": 0,
+    "spotId": "083lOftWDnrpSSL7u9p53d",
+    "couname": "North Garden",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27380ffabe879647d46579b48df",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Fire",
+      "XT_Plants"
+    ],
+    "artist": "Summer Salt",
+    "genres": 0,
+    "spotId": "7ycZjR2R9sAyOWw8D7MBUF",
+    "couname": "Fire Flower",
+    "duration": null
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2734a97c76d7b4f6530f439c249",
     "pty": 0,
     "Items": [
       "girl",
+      "TV_Top102024",
       "XT_Colors",
       "XT_Plants"
     ],
@@ -1508,50 +2093,146 @@
     "duration": ""
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f2f6793b7725a1a81b4b1805",
+    "img": "https://i.scdn.co/image/ab67616d0000b273990fc9c1cfe30d5c2ea77393",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Love",
+      "XT_Plants"
+    ],
+    "artist": "Linda Ronstadt",
+    "genres": 0,
+    "spotId": "2v6HBaafQ3kHEBZqvttnOw",
+    "couname": "Love Is a Rose",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a9c2f1bf89d7949d6192978a",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Love",
+      "XT_Plants"
+    ],
+    "artist": "Emmylou Harris",
+    "genres": 0,
+    "spotId": "09GMXX7CdXp98x9sNqKHc9",
+    "couname": "I Think I Love Him / You Are My Flower",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27351ad8ecb9b6e8830d7aecebf",
     "pty": 0,
     "Items": [
       "girl",
-      "XT_Food",
+      "XT_Numbers",
       "XT_Plants"
     ],
-    "artist": "lavender",
+    "artist": "Kathy Mattea",
     "genres": 0,
-    "spotId": "1YjEwY8FrctMA4MX0RkdRx",
-    "couname": "peppermint",
+    "spotId": "6EGRx5TVuHAsmy3JKb8SRC",
+    "couname": "Eighteen Wheels And A Dozen Roses",
     "duration": ""
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27325440ce722ccf10e4d000c3d",
+    "img": "https://i.scdn.co/image/ab67616d0000b273d5489dd698f3a1e9cfe0e26e",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Karaoke",
+      "XT_Plants"
+    ],
+    "artist": "Selena",
+    "genres": 0,
+    "spotId": "5CEm4zZF9bw06Z9jHSMELV",
+    "couname": "Como La Flor",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a1d9c9969f2a7ed27e449a3c",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "BT_RollingStones",
+      "XT_Plants"
+    ],
+    "artist": "The Rolling Stones",
+    "genres": 0,
+    "spotId": "3oJtUnnt5uYPtzulIbLw3D",
+    "couname": "Dead Flowers",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27311a2013a17ee3e5aa9e68da4",
+    "pty": 0,
+    "Items": [
+      "XT_Colors",
+      "XT_Plants"
+    ],
+    "artist": "Louis Armstrong",
+    "genres": 0,
+    "spotId": "0Yj7WP1MbAqQVQA5Na4I7E",
+    "couname": "La vie en rose",
+    "duration": "204266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27336f219e0dcf073df4232b05e",
     "pty": 0,
     "Items": [
       "DUDE",
-      "XT_Cars",
-      "XT_Oscars",
       "XT_Plants",
-      "XT_Water",
+      "YR6069"
+    ],
+    "artist": "Donovan",
+    "genres": 0,
+    "spotId": "4cOt4yXLpE0i24ZudX8qFC",
+    "couname": "There Is a Mountain",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273097e70ea81de84651ff055e5",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "girl",
+      "GN_Piano",
+      "XT_Plants"
+    ],
+    "artist": "She & Him",
+    "genres": 0,
+    "spotId": "1ZHYoYfWMYnGAzlwOi2XP4",
+    "couname": "Why Do You Let Me Stay Here?",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273aa1cd7a6881d80d391aa55cd",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Plants",
       "XT_Weather"
     ],
-    "artist": "Kermit",
+    "artist": "Miley Cyrus",
     "genres": 0,
-    "spotId": "4Fx3LVYQXplhz70cfoqbgq",
-    "couname": "Rainbow Connection",
+    "spotId": "6mj77VXJVfo0949oDI28Gu",
+    "couname": "The Floyd Song",
     "duration": ""
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736a760642a56847027428cb61",
+    "img": "https://i.scdn.co/image/ab67616d0000b27355bd9d9e0f50d28ddc9c1308",
     "pty": 0,
     "Items": [
-      "DUDE",
-      "XT_Colors",
-      "XT_Food",
+      "GN_Choirs",
       "XT_Plants"
     ],
-    "artist": "Jeff Buckley",
+    "artist": "The Paper Kites",
     "genres": 0,
-    "spotId": "1StXVL5gClph4z4XzanYko",
-    "couname": "Lilac Wine",
-    "duration": ""
+    "spotId": "4A0Sov5uki4QILqNVF48Bb",
+    "couname": "Willow Tree March",
+    "duration": "276813"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2736e999c807c54eca40f2ea331",
@@ -1582,6 +2263,38 @@
     "spotId": "2sINnztP84DhN6urN5iTp9",
     "couname": "To Plant a Seed",
     "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27301f7cb0d00486a555b8bf5e6",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_Choirs",
+      "XT_Colors",
+      "XT_Plants"
+    ],
+    "artist": "Thee Sacred Souls",
+    "genres": 0,
+    "spotId": "6tXuf3jm5wxrMPtvXREYoE",
+    "couname": "Can I Call You Rose?",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a3c62fc2a98e02cb507f6cab",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Colors",
+      "XT_Running",
+      "YR6069",
+      "XT_Plants"
+    ],
+    "artist": "Horst Jankowski",
+    "genres": 0,
+    "spotId": "3yFoz9OPlUPAr0nWUxVzi6",
+    "couname": "A Walk in the Black Forest",
+    "duration": "184469"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2735d4dbee48fb65c87ab07b69f",
@@ -1659,6 +2372,69 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273539dc2d465fe4f84684c0676",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_Mafia",
+      "XT_Colors",
+      "XT_Plants",
+      "YR6069"
+    ],
+    "artist": "Nat King Cole",
+    "genres": 0,
+    "spotId": "6bZlab0NrNteVppLu9C2Zy",
+    "couname": "Ramblin' Rose",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27364026be0e09c1beda2f67c32",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "TV_BreakingBad",
+      "XT_Plants",
+      "XT_Weather"
+    ],
+    "artist": "Norah Jones",
+    "genres": 0,
+    "spotId": "7zkLpY72g6lKQbiHDqri1S",
+    "couname": "Sunrise",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325751b4b32829d6bbfe6be7f",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Top102024",
+      "XT_Numbers",
+      "XT_Plants",
+      "XT_Water"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "3Uo7WG0vmLQ07WB4BDwy7D",
+    "couname": "willow",
+    "duration": "214706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27355a2136bf7726d3c99f7860b",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_PsychedelicRock",
+      "TV_OneHit",
+      "XT_Plants",
+      "YR6069"
+    ],
+    "artist": "Scott McKenzie",
+    "genres": 0,
+    "spotId": "6vcNJUWtUPB0hKC6VbZriY",
+    "couname": "San Francisco",
+    "duration": "178506"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2734dfeaa2788db0f69dcd68804",
     "pty": 0,
     "Items": [
@@ -1671,6 +2447,21 @@
     "genres": 0,
     "spotId": "6B1Q7hi48RVUvak1SLoiJX",
     "couname": "Venus Flytrap",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d68379d549775b43431478ea",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Colors",
+      "XT_Plants"
+    ],
+    "artist": "Kevin Morby",
+    "genres": 0,
+    "spotId": "4q9itBfSlTvqZLGVIdjKuk",
+    "couname": "Black Flowers",
     "duration": null
   },
   {
@@ -1760,6 +2551,58 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b273899ee0e89f84dd511a9dfdec",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Colors",
+      "XT_Plants"
+    ],
+    "artist": "Town Mountain",
+    "genres": 0,
+    "spotId": "1avQ2x0WLb4l0wENRWSras",
+    "couname": "Black",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "BT_TheBeatles",
+      "TV_SpotifyS500",
+      "XT_Fire",
+      "XT_Intros",
+      "XT_Plants",
+      "XT_Water",
+      "XT_Weather"
+    ],
+    "artist": "The Beatles",
+    "genres": 0,
+    "spotId": "6dGnYIeXmHdcikdzNNDMm2",
+    "couname": "Here Comes The Sun",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273aecf59ffd0819bd20d7a2960",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Kiss",
+      "XT_Plants"
+    ],
+    "artist": "The Licks",
+    "genres": 0,
+    "spotId": "70oY6gKgHfMlVLVxFROeiA",
+    "couname": "Lavender Kiss",
+    "duration": null
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273f6b4e0a4f4deeca20a7754e3",
     "pty": 0,
     "Items": [
@@ -1772,6 +2615,21 @@
     "spotId": "2rmbBDPbLjvK2Qxx4RoNFk",
     "couname": "You Can Bring Me Flowers",
     "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a",
+    "pty": 0,
+    "Items": [
+      "BT_HarryStyles_One",
+      "XT_Numbers",
+      "XT_Plants",
+      "XT_Weather"
+    ],
+    "artist": "Harry Styles",
+    "genres": 0,
+    "spotId": "6iYMfxznTBlcVOgRHab2W0",
+    "couname": "Sunflower, Vol. 6",
+    "duration": "221826"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273617b14e20a3eee34b9c68ec6",
@@ -1788,6 +2646,84 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733f0ab9acab2c5907d8b0b8be",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_Choirs",
+      "XT_MoonStars",
+      "XT_Plants"
+    ],
+    "artist": "The Head And The Heart",
+    "genres": 0,
+    "spotId": "5CalS8Gn69OOrR9aiw0ZO9",
+    "couname": "Honeybee",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735fce26509342fe7c8f6dad3a",
+    "pty": 0,
+    "Items": [
+      "TV_Top102024",
+      "XT_Plants",
+      "XT_Water"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "5dwQhzeE8LXpl9sbZJZmQS",
+    "couname": "the lakes",
+    "duration": "211798"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734b7294fd398cd8fffb6e2ba8",
+    "pty": 0,
+    "Items": [
+      "TV_SpotifyS500",
+      "XT_Plants"
+    ],
+    "artist": "Ruth B.",
+    "genres": 0,
+    "spotId": "2h5cjNTM2gKzWc0d6WXhSr",
+    "couname": "Dandelions",
+    "duration": "233720"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273de6de87988f552030de8ac18",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Colors",
+      "XT_Plants"
+    ],
+    "artist": "Van Morrison",
+    "genres": 0,
+    "spotId": "6HOEvcvvRU6eMtI96SA2Es",
+    "couname": "Purple Heather",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_DrumSolo",
+      "GN_Piano",
+      "GN_ViolinSolo",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "TV_SpotifyS500",
+      "XT_BodyParts",
+      "XT_Intros",
+      "XT_Plants"
+    ],
+    "artist": "The Goo Goo Dolls",
+    "genres": 0,
+    "spotId": "6HLNcLU4jIpafRf4mQ2Ivx",
+    "couname": "Iris",
+    "duration": "289906"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273912cc8fe2e9a53d328757a41",
     "pty": 0,
     "Items": [
@@ -1800,6 +2736,21 @@
     "spotId": "69jGxyfw3lzGGYf78jdkpF",
     "couname": "flowers",
     "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738de19c289dc2b39f9fa5ae64",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_LongSongs",
+      "XT_Plants"
+    ],
+    "artist": "alva noto",
+    "genres": 0,
+    "spotId": "6MB7zOLjSrtY06e5ykZVGw",
+    "couname": "A Forest",
+    "duration": "599000"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2733b587986d0ffd38f08260751",
@@ -1842,6 +2793,20 @@
     "spotId": "2QsYvAsiySw9Ax6bkOeJLK",
     "couname": "All The Flowers",
     "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731783bf064812525d67510e83",
+    "pty": 0,
+    "Items": [
+      "XT_OffAnimals",
+      "XT_Plants",
+      "XT_Running"
+    ],
+    "artist": "Dan Fogelberg",
+    "genres": 0,
+    "spotId": "7lFy3n6Ljb9rFKGEuyHHlO",
+    "couname": "Run for the Roses",
+    "duration": "258906"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273b48a079c5273b6141af2dc35",
@@ -1948,33 +2913,109 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27311bff1c03040a25e979e8d15",
+    "img": "https://i.scdn.co/image/ab67616d0000b2731451f1b8a6a926663c884f5b",
     "pty": 0,
     "Items": [
+      "BAND",
       "DUDE",
-      "XT_Plants",
-      "YR_7079"
+      "GN_Disco",
+      "YR_7079",
+      "XT_Plants"
     ],
-    "artist": "Clint Eastwood",
+    "artist": "Biddu Orchestra",
     "genres": 0,
-    "spotId": "6xeoIRtGixnbGNige9TAz8",
-    "couname": "I Talk To The Trees",
+    "spotId": "64Bokeiq3NinnuzhyJdQGW",
+    "couname": "Rain Forest",
+    "duration": "282000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "BT_TheBeatles",
+      "GN_PsychedelicRock",
+      "TV_Rolling500",
+      "XT_Food",
+      "XT_Intros",
+      "XT_Plants",
+      "YR_7079",
+      "YR6069"
+    ],
+    "artist": "The Beatles",
+    "genres": 0,
+    "spotId": "3Am0IbOxmvlSXro7N5iSfZ",
+    "couname": "Strawberry Fields Forever",
     "duration": ""
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
+    "img": "https://i.scdn.co/image/ab67616d0000b2736dfc4eb5e205507d1a3e8774",
     "pty": 0,
     "Items": [
       "DUDE",
+      "girl",
       "XT_Colors",
-      "XT_Plants",
-      "XT_Youth"
+      "XT_Plants"
     ],
-    "artist": "Frank Ocean",
+    "artist": "Burl Ives",
     "genres": 0,
-    "spotId": "2ZWlPOoWh0626oTaHrnl2a",
-    "couname": "Ivy",
-    "duration": ""
+    "spotId": "1VO400MnY5LKHNI1fiF01B",
+    "couname": "Lavender Blue",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273732fbad9a15df35a70cb1555",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Colors",
+      "XT_Plants"
+    ],
+    "artist": "Dolly Parton",
+    "genres": 0,
+    "spotId": "1cBFW0aEJ0rhcgYtC8tQi7",
+    "couname": "Yellow Roses",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731da6e1da33a17f14599641d5",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "BT_ABBA",
+      "GN_Choirs",
+      "GN_Disco",
+      "GN_ViolinSolo",
+      "TV_BestVideos",
+      "XT_AboutTime",
+      "XT_Intros",
+      "XT_Plants",
+      "YR_7079"
+    ],
+    "artist": "ABBA",
+    "genres": 0,
+    "spotId": "7r5bS08R8d0jZuDZutVeHQ",
+    "couname": "Gimme! Gimme! Gimme!",
+    "duration": "294346"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27315784f5212050cf2e67f1935",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_SpotifyS500",
+      "XT_Plants",
+      "YR_1019"
+    ],
+    "artist": "The Lumineers",
+    "genres": 0,
+    "spotId": "1K3LRUEcUz5FMtPYyg0F45",
+    "couname": "Ho Hey",
+    "duration": "163133"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273ca8a324a5d0fce617bb2613d",
@@ -2050,6 +3091,52 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Food",
+      "XT_Plants",
+      "YR_1019"
+    ],
+    "artist": "Migos",
+    "genres": 0,
+    "spotId": "2UVbBKQOdFAekPTRsnkzcf",
+    "couname": "Stir Fry",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_Piano",
+      "XT_Plants",
+      "YR_1019"
+    ],
+    "artist": "Ed Sheeran",
+    "genres": 0,
+    "spotId": "4VuS959DSpr82t3qBqCrWG",
+    "couname": "Supermarket Flowers",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e13be0d9d8d583619316174a",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_LongSongs",
+      "XT_Plants"
+    ],
+    "artist": "Pantha Du Prince",
+    "genres": 0,
+    "spotId": "7HRHvltIBLyLtw5KcyPeJ8",
+    "couname": "Bohemian Forest",
+    "duration": "444053"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273f8bd876cdda0e7a825bb9afb",
     "pty": 0,
     "Items": [
@@ -2106,19 +3193,38 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27355bd9d9e0f50d28ddc9c1308",
+    "img": "https://i.scdn.co/image/ab67616d0000b2736c619c39c853f8b1d67b7859",
     "pty": 0,
     "Items": [
-      "BAND",
       "DUDE",
+      "BT_HarryStyles_One",
+      "XT_Food",
+      "XT_Intros",
       "XT_Plants",
-      "XT_Weather",
-      "XT_Youth"
+      "YR_1019"
     ],
-    "artist": "The Paper Kites",
+    "artist": "Harry Styles",
     "genres": 0,
-    "spotId": "1HMQmOWrkieKYWlFsjUP3D",
-    "couname": "Bloom",
+    "spotId": "33SNO8AaciGbNaQFkxvPrW",
+    "couname": "Kiwi",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "BT_HarryStyles_One",
+      "TV_BestVideos",
+      "TV_SpotifyS500",
+      "XT_Food",
+      "XT_Plants",
+      "YR_1019"
+    ],
+    "artist": "Harry Styles",
+    "genres": 0,
+    "spotId": "6UelLqGlWMcVH1E5c4H7lY",
+    "couname": "Watermelon Sugar",
     "duration": ""
   },
   {
@@ -2168,6 +3274,7 @@
     "pty": 0,
     "Items": [
       "DUDE",
+      "TV_Top102024",
       "XT_Colors",
       "XT_Plants"
     ],
@@ -2190,21 +3297,6 @@
     "spotId": "1jExlbW0RhRCBTQG52jVgB",
     "couname": "Wallflower",
     "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273abaa293993cbb698cdd33ef2",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "girl",
-      "XT_Plants",
-      "YR_8089"
-    ],
-    "artist": "Mecano",
-    "genres": 0,
-    "spotId": "0uFWKpWbWTpttXBUB6UG3U",
-    "couname": "Una Rosa Es una Rosa",
-    "duration": "286760"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2732d8692df52db59d7478754fc",
@@ -2234,19 +3326,6 @@
     "spotId": "7ozvM98YyrdyOBh1lItVHc",
     "couname": "clementine",
     "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732e8a3c52a5154c789c9070ae",
-    "pty": 0,
-    "Items": [
-      "GN_PsychedelicRock",
-      "XT_Plants"
-    ],
-    "artist": "Minnie Riperton",
-    "genres": 0,
-    "spotId": "5ZBZSepIdSYbPaTSZLvZBU",
-    "couname": "Les Fleurs",
-    "duration": "196682"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273a941bb5225f09137f035e4f3",
@@ -2290,33 +3369,6 @@
     "spotId": "5z7Z3qg2TnjKfWw24Ebz6W",
     "couname": "Amaranth",
     "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c9be8eaa8d96ced17c3d4e2f",
-    "pty": 0,
-    "Items": [
-      "girl",
-      "GN_FrenchFemale",
-      "XT_Plants"
-    ],
-    "artist": "Jill Barber",
-    "genres": 0,
-    "spotId": "6Xy0TKhM0Ytjt65QuVEN67",
-    "couname": "Petite fleur",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730cf487c9ecc9906d1d567fca",
-    "pty": 0,
-    "Items": [
-      "XT_Colors",
-      "XT_Plants"
-    ],
-    "artist": "Greyson Chance",
-    "genres": 0,
-    "spotId": "07uEklDEWdHRptwWW49DVu",
-    "couname": "white roses",
-    "duration": "220740"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2731f062b7159e8f230120512bf",
@@ -2415,6 +3467,36 @@
     "spotId": "6QLh3oOA1AKocLHFH6j7qA",
     "couname": "Dead Flowers",
     "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736794d100bd1cfedbb8cf53f1",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Food",
+      "XT_Plants"
+    ],
+    "artist": "The Mamas & The Papas",
+    "genres": 0,
+    "spotId": "4713WnRYJ0AY1qexk8o1Hd",
+    "couname": "Blueberries For Breakfast",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737f4e05714b5d4d43486f39a8",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "XT_BodyParts",
+      "XT_Plants"
+    ],
+    "artist": "Sufjan Stevens",
+    "genres": 0,
+    "spotId": "5OjpdQLQNF59wsZx9S9b10",
+    "couname": "All the Trees of the Field Will Clap Their Hands",
+    "duration": "254053"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2730c379a33fcd6a36e6114914c",
@@ -2645,20 +3727,6 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "girl",
-      "XT_Plants"
-    ],
-    "artist": "SZA",
-    "genres": 0,
-    "spotId": "19woxaSpjOefa2JnAOoqW5",
-    "couname": "Garden",
-    "duration": null
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273838698485511bd9108fadadc",
     "pty": 0,
     "Items": [
@@ -2715,6 +3783,21 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734c79d5ec52a6d0302f3add25",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "TV_Top102024",
+      "XT_Plants"
+    ],
+    "artist": "SZA",
+    "genres": 0,
+    "spotId": "19woxaSpjOefa2JnAOoqW5",
+    "couname": "Garden",
+    "duration": null
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273cdae9f5bca147e251a78aa7c",
     "pty": 0,
     "Items": [
@@ -2743,23 +3826,6 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273648891bdb036158f5531ff01",
-    "pty": 0,
-    "Items": [
-      "TV_OneHit",
-      "XT_Fire",
-      "XT_Plants",
-      "XT_Water",
-      "XT_Weather",
-      "YR_0009"
-    ],
-    "artist": "Sheryl Crow",
-    "genres": 0,
-    "spotId": "6KFIQS4us6vaayFcdPnYcj",
-    "couname": "Soak Up The Sun",
-    "duration": "291360"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273597905f8f46dfc60f5a6d11f",
     "pty": 0,
     "Items": [
@@ -2772,6 +3838,37 @@
     "spotId": "75VVIB2x1h6BfxD2PqOO57",
     "couname": "Healing Incantation",
     "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f2f6793b7725a1a81b4b1805",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Food",
+      "XT_Plants"
+    ],
+    "artist": "lavender",
+    "genres": 0,
+    "spotId": "1YjEwY8FrctMA4MX0RkdRx",
+    "couname": "peppermint",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325440ce722ccf10e4d000c3d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Cars",
+      "XT_Oscars",
+      "XT_Plants",
+      "XT_Water",
+      "XT_Weather"
+    ],
+    "artist": "Kermit",
+    "genres": 0,
+    "spotId": "4Fx3LVYQXplhz70cfoqbgq",
+    "couname": "Rainbow Connection",
+    "duration": ""
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2730841bde9d96dd49688b0ba87",
@@ -2844,22 +3941,6 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273f0a75f32307319c67cf9ad05",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "girl",
-      "XT_Love",
-      "XT_Plants"
-    ],
-    "artist": "The Butterhills",
-    "genres": 0,
-    "spotId": "4FCr7mXka4NSYz10dEBVKG",
-    "couname": "I Love the Flower Girl",
-    "duration": null
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2732303ece0e9af3917d0bce05f",
     "pty": 0,
     "Items": [
@@ -2899,20 +3980,6 @@
     "genres": 0,
     "spotId": "7h7DK2ZHIe4w0id8qkNqla",
     "couname": "Iris",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27325751b4b32829d6bbfe6be7f",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "girl",
-      "XT_Plants"
-    ],
-    "artist": "Taylor Swift",
-    "genres": 0,
-    "spotId": "7tXMHAFEOzcUaUQqovRGho",
-    "couname": "ivy",
     "duration": null
   },
   {
@@ -2956,6 +4023,20 @@
     "spotId": "70QQnZryrAODGd5VgzxUC5",
     "couname": "Kalmia Kid",
     "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738ca0c7cf61287efdae9599ab",
+    "pty": 0,
+    "Items": [
+      "XT_Water",
+      "XT_Weather",
+      "XT_Plants"
+    ],
+    "artist": "HD Nature Sound Library",
+    "genres": 0,
+    "spotId": "6dQBw0A8STk3ssr9NyVadt",
+    "couname": "Rainy Day In Forest",
+    "duration": "183874"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273062f859ffcba42823f00c6c0",
@@ -3183,20 +4264,6 @@
     "spotId": "4Di9q4hZf7Qt0xpudHjfXi",
     "couname": "Montana",
     "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b5e18a80757ba2f787213d21",
-    "pty": 0,
-    "Items": [
-      "girl",
-      "XT_Food",
-      "XT_Plants"
-    ],
-    "artist": "Erykah Badu",
-    "genres": 0,
-    "spotId": "2jAn0rAOyLW6hIEuIDNcoT",
-    "couname": "Appletree",
-    "duration": ""
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27347e3e027c2fbdbac6d541610",
@@ -3634,6 +4701,20 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b27311bff1c03040a25e979e8d15",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "XT_Plants",
+      "YR_7079"
+    ],
+    "artist": "Clint Eastwood",
+    "genres": 0,
+    "spotId": "6xeoIRtGixnbGNige9TAz8",
+    "couname": "I Talk To The Trees",
+    "duration": ""
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273f17f57ecc9934f8a7ab35dd2",
     "pty": 0,
     "Items": [
@@ -3662,18 +4743,19 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d",
+    "img": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
     "pty": 0,
     "Items": [
       "DUDE",
-      "girl",
-      "XT_Plants"
+      "XT_Colors",
+      "XT_Plants",
+      "XT_Youth"
     ],
-    "artist": "Taylor Swift",
+    "artist": "Frank Ocean",
     "genres": 0,
-    "spotId": "7eQj6r5PIdYKEIZjucBMcq",
-    "couname": "Stay Stay Stay",
-    "duration": null
+    "spotId": "2ZWlPOoWh0626oTaHrnl2a",
+    "couname": "Ivy",
+    "duration": ""
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273b89bf68e6e1344bbc2c66f8b",
@@ -3835,6 +4917,7 @@
     "Items": [
       "DUDE",
       "girl",
+      "TV_Top102024",
       "XT_Plants"
     ],
     "artist": "Taylor Swift",
@@ -3870,21 +4953,6 @@
     "spotId": "2dzZaRN9Uqp1JEic2lQ4k5",
     "couname": "The Time for Flowers",
     "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dbd83e179619408e5d05cc99",
-    "pty": 0,
-    "Items": [
-      "GN_Choirs",
-      "XT_Colors",
-      "XT_Intros",
-      "XT_Plants"
-    ],
-    "artist": "Paramore",
-    "genres": 0,
-    "spotId": "2RJfK2pOvGpnxC255YOy5k",
-    "couname": "Rose-Colored Boy",
-    "duration": "212853"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27319ae06785ac7ee07ccb4421d",
@@ -3927,6 +4995,22 @@
     "spotId": "7vc54EVgYe8YuiKIuhYSJJ",
     "couname": "Tulips from Amsterdam",
     "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27355bd9d9e0f50d28ddc9c1308",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Plants",
+      "XT_Weather",
+      "XT_Youth"
+    ],
+    "artist": "The Paper Kites",
+    "genres": 0,
+    "spotId": "1HMQmOWrkieKYWlFsjUP3D",
+    "couname": "Bloom",
+    "duration": ""
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273a10d8e8d07d30d0c52ecebae",
@@ -3984,63 +5068,121 @@
     "duration": "179760"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2737943746f867dbdcbcf1c1772",
+    "img": "https://i.scdn.co/image/ab67616d0000b2732e8a3c52a5154c789c9070ae",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "XT_Plants"
+    ],
+    "artist": "Minnie Riperton",
+    "genres": 0,
+    "spotId": "5ZBZSepIdSYbPaTSZLvZBU",
+    "couname": "Les Fleurs",
+    "duration": "196682"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c9be8eaa8d96ced17c3d4e2f",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_FrenchFemale",
+      "XT_Plants"
+    ],
+    "artist": "Jill Barber",
+    "genres": 0,
+    "spotId": "6Xy0TKhM0Ytjt65QuVEN67",
+    "couname": "Petite fleur",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730cf487c9ecc9906d1d567fca",
+    "pty": 0,
+    "Items": [
+      "XT_Colors",
+      "XT_Plants"
+    ],
+    "artist": "Greyson Chance",
+    "genres": 0,
+    "spotId": "07uEklDEWdHRptwWW49DVu",
+    "couname": "white roses",
+    "duration": "220740"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273648891bdb036158f5531ff01",
+    "pty": 0,
+    "Items": [
+      "TV_OneHit",
+      "XT_Fire",
+      "XT_Plants",
+      "XT_Water",
+      "XT_Weather",
+      "YR_0009"
+    ],
+    "artist": "Sheryl Crow",
+    "genres": 0,
+    "spotId": "6KFIQS4us6vaayFcdPnYcj",
+    "couname": "Soak Up The Sun",
+    "duration": "291360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325751b4b32829d6bbfe6be7f",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "TV_Top102024",
+      "XT_Plants"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "7tXMHAFEOzcUaUQqovRGho",
+    "couname": "ivy",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273318443aab3531a0558e79a4d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "TV_Top102024",
+      "XT_Plants"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "7eQj6r5PIdYKEIZjucBMcq",
+    "couname": "Stay Stay Stay",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731199b19067bd6d21c9e19378",
     "pty": 0,
     "Items": [
       "BAND",
       "DUDE",
-      "TV_Simpsons120",
-      "XT_Plants",
-      "YR6069"
-    ],
-    "artist": "The Kingston Trio",
-    "genres": 0,
-    "spotId": "4C3jDWATqX5n4xaRO8wZOF",
-    "couname": "Where Have All The Flowers Gone?",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27378219679ef28c5639613c06b",
-    "pty": 0,
-    "Items": [
-      "CT_Norway",
-      "GN_Memes",
-      "TV_OneHit",
-      "XT_Food",
-      "XT_Plants",
-      "YR_9099"
-    ],
-    "artist": "Fools Garden",
-    "genres": 0,
-    "spotId": "1yN2z5XVtaAOYGdeEqEuqd",
-    "couname": "Lemon Tree",
-    "duration": "191026"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273196ddacc8968e22242285745",
-    "pty": 0,
-    "Items": [
-      "BT_RollingStones",
-      "XT_Plants"
-    ],
-    "artist": "The Rolling Stones",
-    "genres": 0,
-    "spotId": "50JLjfCU2gs5LvSPpzrW8v",
-    "couname": "Dandelion",
-    "duration": "227946"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27344a8aa7ac5c2e2defbfd702b",
-    "pty": 0,
-    "Items": [
-      "DUDE",
+      "girl",
       "XT_Colors",
       "XT_Plants"
     ],
-    "artist": "Simon & Garfunkel",
+    "artist": "Nursery Rhymes 123",
     "genres": 0,
-    "spotId": "1DrirX7vAJMDAoz37ZbSeA",
-    "couname": "Leaves That Are Green",
+    "spotId": "7Dcc6PmpWHHyUdCi56k8R0",
+    "couname": "Lavender's Blue",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "TV_Top102024",
+      "XT_Plants",
+      "XT_Youth"
+    ],
+    "artist": "Taylor Swift",
+    "genres": 0,
+    "spotId": "5kI4eCXXzyuIUXjQra0Cxi",
+    "couname": "betty",
     "duration": ""
   },
   {
@@ -4055,21 +5197,6 @@
     "genres": 0,
     "spotId": "0eLevmMdFLKMf2rprarJ8M",
     "couname": "Sunflower",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a941bb5225f09137f035e4f3",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "girl",
-      "XT_Plants",
-      "XT_Running"
-    ],
-    "artist": "Mort Garson",
-    "genres": 0,
-    "spotId": "57YWtDMoCG0uIp0lWFDqmm",
-    "couname": "You Don't Have to Walk a Begonia",
     "duration": null
   },
   {
@@ -4088,71 +5215,6 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27350efe0a438983a22b56867dc",
-    "pty": 0,
-    "Items": [
-      "girl",
-      "XT_Plants",
-      "XT_Youth"
-    ],
-    "artist": "Phoebe Bridgers",
-    "genres": 0,
-    "spotId": "1LTWcRVy9o96Zzn29wXLsa",
-    "couname": "Garden Song",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730e49a9823be8f295caf1a574",
-    "pty": 0,
-    "Items": [
-      "GN_Choirs",
-      "GN_Piano",
-      "TV_BestVideos",
-      "TV_SpotifyS500",
-      "XT_Colors",
-      "XT_Intros",
-      "XT_Karaoke",
-      "XT_MoonStars",
-      "XT_Plants",
-      "XT_Weather"
-    ],
-    "artist": "Coldplay",
-    "genres": 0,
-    "spotId": "58MrV6J9oS46ViY1N6gTJX",
-    "couname": "Yellow",
-    "duration": "411973"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27341531a36b7068c8aa7146e51",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "girl",
-      "XT_Love",
-      "XT_Plants"
-    ],
-    "artist": "Joël Fajerman",
-    "genres": 0,
-    "spotId": "7hQh04tXuXfS3ciyDID0sV",
-    "couname": "Flower's Love",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273817da87bdbfac461a03dccf6",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "girl",
-      "XT_Numbers",
-      "XT_Plants"
-    ],
-    "artist": "Nat King Cole",
-    "genres": 0,
-    "spotId": "4Pm71yb8NDeyYOPLY4lr1h",
-    "couname": "On A Bicycle Built For Two",
-    "duration": null
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27380ee76879341bbb661380b93",
     "pty": 0,
     "Items": [
@@ -4168,51 +5230,6 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27308181b9f840a06e7a071cf72",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "GN_PsychedelicRock",
-      "XT_AboutTime",
-      "XT_Plants",
-      "YR6069"
-    ],
-    "artist": "The Mamas & The Papas",
-    "genres": 0,
-    "spotId": "3EFb1qDgIqf9MegIryKtDj",
-    "couname": "Monday, Monday",
-    "duration": "208293"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738f09dd4d56cde1a2cda18604",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "XT_Food",
-      "XT_Plants"
-    ],
-    "artist": "Van Morrison",
-    "genres": 0,
-    "spotId": "5G4W4UzaJIpYl0ar95Cs17",
-    "couname": "Tupelo Honey",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731f8c1a0ed8c404c469680cc0",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "XT_Baby",
-      "XT_Names",
-      "XT_Plants"
-    ],
-    "artist": "James Taylor",
-    "genres": 0,
-    "spotId": "47cdhtxTfp7WvUbDpDeYa2",
-    "couname": "Sweet Baby James",
-    "duration": "171093"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273ca5c3280d995a78c34bdf210",
     "pty": 0,
     "Items": [
@@ -4225,22 +5242,6 @@
     "genres": 0,
     "spotId": "24sCYoOyqR880pCFfQsika",
     "couname": "Crystal Roses",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273b0c9b7fbfeac390d2d43be81",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "girl",
-      "XT_Compass",
-      "XT_Plants"
-    ],
-    "artist": "ODESZA",
-    "genres": 0,
-    "spotId": "083lOftWDnrpSSL7u9p53d",
-    "couname": "North Garden",
     "duration": null
   },
   {
@@ -4275,22 +5276,6 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27380ffabe879647d46579b48df",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "girl",
-      "XT_Fire",
-      "XT_Plants"
-    ],
-    "artist": "Summer Salt",
-    "genres": 0,
-    "spotId": "7ycZjR2R9sAyOWw8D7MBUF",
-    "couname": "Fire Flower",
-    "duration": null
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273222a7f5b3077122bca25eef0",
     "pty": 0,
     "Items": [
@@ -4320,79 +5305,6 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273990fc9c1cfe30d5c2ea77393",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "girl",
-      "XT_Love",
-      "XT_Plants"
-    ],
-    "artist": "Linda Ronstadt",
-    "genres": 0,
-    "spotId": "2v6HBaafQ3kHEBZqvttnOw",
-    "couname": "Love Is a Rose",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a9c2f1bf89d7949d6192978a",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "girl",
-      "XT_Love",
-      "XT_Plants"
-    ],
-    "artist": "Emmylou Harris",
-    "genres": 0,
-    "spotId": "09GMXX7CdXp98x9sNqKHc9",
-    "couname": "I Think I Love Him / You Are My Flower",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27351ad8ecb9b6e8830d7aecebf",
-    "pty": 0,
-    "Items": [
-      "girl",
-      "XT_Numbers",
-      "XT_Plants"
-    ],
-    "artist": "Kathy Mattea",
-    "genres": 0,
-    "spotId": "6EGRx5TVuHAsmy3JKb8SRC",
-    "couname": "Eighteen Wheels And A Dozen Roses",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d5489dd698f3a1e9cfe0e26e",
-    "pty": 0,
-    "Items": [
-      "girl",
-      "XT_Karaoke",
-      "XT_Plants"
-    ],
-    "artist": "Selena",
-    "genres": 0,
-    "spotId": "5CEm4zZF9bw06Z9jHSMELV",
-    "couname": "Como La Flor",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273a1d9c9969f2a7ed27e449a3c",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "BT_RollingStones",
-      "XT_Plants"
-    ],
-    "artist": "The Rolling Stones",
-    "genres": 0,
-    "spotId": "3oJtUnnt5uYPtzulIbLw3D",
-    "couname": "Dead Flowers",
-    "duration": ""
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273f80a76c8aecff1804443d675",
     "pty": 0,
     "Items": [
@@ -4404,106 +5316,6 @@
     "genres": 0,
     "spotId": "2mlGPkAx4kwF8Df0GlScsC",
     "couname": "Buttercup",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27311a2013a17ee3e5aa9e68da4",
-    "pty": 0,
-    "Items": [
-      "XT_Colors",
-      "XT_Plants"
-    ],
-    "artist": "Louis Armstrong",
-    "genres": 0,
-    "spotId": "0Yj7WP1MbAqQVQA5Na4I7E",
-    "couname": "La vie en rose",
-    "duration": "204266"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736061741cb0d58e56540f163e",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "XT_Intros",
-      "XT_Plants"
-    ],
-    "artist": "The Monkees",
-    "genres": 0,
-    "spotId": "3mumafLiMRofRhyczBxuwE",
-    "couname": "Me & Magdalena",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27336f219e0dcf073df4232b05e",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "XT_Plants",
-      "YR6069"
-    ],
-    "artist": "Donovan",
-    "genres": 0,
-    "spotId": "4cOt4yXLpE0i24ZudX8qFC",
-    "couname": "There Is a Mountain",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273097e70ea81de84651ff055e5",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "girl",
-      "GN_Piano",
-      "XT_Plants"
-    ],
-    "artist": "She & Him",
-    "genres": 0,
-    "spotId": "1ZHYoYfWMYnGAzlwOi2XP4",
-    "couname": "Why Do You Let Me Stay Here?",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273aa1cd7a6881d80d391aa55cd",
-    "pty": 0,
-    "Items": [
-      "girl",
-      "XT_Plants",
-      "XT_Weather"
-    ],
-    "artist": "Miley Cyrus",
-    "genres": 0,
-    "spotId": "6mj77VXJVfo0949oDI28Gu",
-    "couname": "The Floyd Song",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27355bd9d9e0f50d28ddc9c1308",
-    "pty": 0,
-    "Items": [
-      "GN_Choirs",
-      "XT_Plants"
-    ],
-    "artist": "The Paper Kites",
-    "genres": 0,
-    "spotId": "4A0Sov5uki4QILqNVF48Bb",
-    "couname": "Willow Tree March",
-    "duration": "276813"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27301f7cb0d00486a555b8bf5e6",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "GN_Choirs",
-      "XT_Colors",
-      "XT_Plants"
-    ],
-    "artist": "Thee Sacred Souls",
-    "genres": 0,
-    "spotId": "6tXuf3jm5wxrMPtvXREYoE",
-    "couname": "Can I Call You Rose?",
     "duration": ""
   },
   {
@@ -4567,51 +5379,6 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273488af44687de51239df4a655",
-    "pty": 0,
-    "Items": [
-      "GN_PsychedelicRock",
-      "TV_Tarantino",
-      "XT_Plants"
-    ],
-    "artist": "The Statler Brothers",
-    "genres": 0,
-    "spotId": "3uG4ygD1bIP3YspJm9N4KO",
-    "couname": "Flowers on the Wall",
-    "duration": "139813"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273539dc2d465fe4f84684c0676",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "TV_Mafia",
-      "XT_Colors",
-      "XT_Plants",
-      "YR6069"
-    ],
-    "artist": "Nat King Cole",
-    "genres": 0,
-    "spotId": "6bZlab0NrNteVppLu9C2Zy",
-    "couname": "Ramblin' Rose",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27364026be0e09c1beda2f67c32",
-    "pty": 0,
-    "Items": [
-      "girl",
-      "TV_BreakingBad",
-      "XT_Plants",
-      "XT_Weather"
-    ],
-    "artist": "Norah Jones",
-    "genres": 0,
-    "spotId": "7zkLpY72g6lKQbiHDqri1S",
-    "couname": "Sunrise",
-    "duration": ""
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273b6fccabcb9dbfa78a0026482",
     "pty": 0,
     "Items": [
@@ -4625,21 +5392,6 @@
     "spotId": "3euDGpS2R0NC2Xssqxohva",
     "couname": "Scarlet Begonias",
     "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27325751b4b32829d6bbfe6be7f",
-    "pty": 0,
-    "Items": [
-      "GN_Choirs",
-      "XT_Numbers",
-      "XT_Plants",
-      "XT_Water"
-    ],
-    "artist": "Taylor Swift",
-    "genres": 0,
-    "spotId": "3Uo7WG0vmLQ07WB4BDwy7D",
-    "couname": "willow",
-    "duration": "214706"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2735d7096a58c83bf65cb3120f6",
@@ -4657,22 +5409,6 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27355a2136bf7726d3c99f7860b",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "GN_PsychedelicRock",
-      "TV_OneHit",
-      "XT_Plants",
-      "YR6069"
-    ],
-    "artist": "Scott McKenzie",
-    "genres": 0,
-    "spotId": "6vcNJUWtUPB0hKC6VbZriY",
-    "couname": "San Francisco",
-    "duration": "178506"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2731f3ecda94c647aeaa6c51907",
     "pty": 0,
     "Items": [
@@ -4686,25 +5422,6 @@
     "spotId": "5f3KIOH87rvFwfiY098IrY",
     "couname": "Iris",
     "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "BT_TheBeatles",
-      "TV_Rolling500",
-      "XT_Names",
-      "XT_Places",
-      "XT_Plants",
-      "XT_Water"
-    ],
-    "artist": "The Beatles",
-    "genres": 0,
-    "spotId": "7afyyi8zn4FzWbcJ70F56V",
-    "couname": "Penny Lane",
-    "duration": "180520"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2734925d4bea695b5bed7858f1c",
@@ -4737,21 +5454,6 @@
     "spotId": "5TBn5BUiC731JytZDUZZmp",
     "couname": "Rose Garden",
     "duration": "173800"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273d68379d549775b43431478ea",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "girl",
-      "XT_Colors",
-      "XT_Plants"
-    ],
-    "artist": "Kevin Morby",
-    "genres": 0,
-    "spotId": "4q9itBfSlTvqZLGVIdjKuk",
-    "couname": "Black Flowers",
-    "duration": null
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273fc89fa86d248f35366728f9c",
@@ -4788,64 +5490,13 @@
       "BAND",
       "DUDE",
       "girl",
+      "XT_Monarchy",
       "XT_Plants"
     ],
     "artist": "Neutral Milk Hotel",
     "genres": 0,
     "spotId": "17Nowmq4iF2rkbd1rAe1Vt",
     "couname": "King of Carrot Flowers Pt. 1",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273899ee0e89f84dd511a9dfdec",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "girl",
-      "XT_Colors",
-      "XT_Plants"
-    ],
-    "artist": "Town Mountain",
-    "genres": 0,
-    "spotId": "1avQ2x0WLb4l0wENRWSras",
-    "couname": "Black",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dc30583ba717007b00cceb25",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "BT_TheBeatles",
-      "TV_SpotifyS500",
-      "XT_Fire",
-      "XT_Intros",
-      "XT_Plants",
-      "XT_Water",
-      "XT_Weather"
-    ],
-    "artist": "The Beatles",
-    "genres": 0,
-    "spotId": "6dGnYIeXmHdcikdzNNDMm2",
-    "couname": "Here Comes The Sun",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273aecf59ffd0819bd20d7a2960",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "girl",
-      "XT_Kiss",
-      "XT_Plants"
-    ],
-    "artist": "The Licks",
-    "genres": 0,
-    "spotId": "70oY6gKgHfMlVLVxFROeiA",
-    "couname": "Lavender Kiss",
     "duration": null
   },
   {
@@ -4865,51 +5516,6 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731199b19067bd6d21c9e19378",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "girl",
-      "XT_Colors",
-      "XT_Plants"
-    ],
-    "artist": "Nursery Rhymes 123",
-    "genres": 0,
-    "spotId": "7Dcc6PmpWHHyUdCi56k8R0",
-    "couname": "Lavender's Blue",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a",
-    "pty": 0,
-    "Items": [
-      "BT_HarryStyles_One",
-      "XT_Numbers",
-      "XT_Plants",
-      "XT_Weather"
-    ],
-    "artist": "Harry Styles",
-    "genres": 0,
-    "spotId": "6iYMfxznTBlcVOgRHab2W0",
-    "couname": "Sunflower, Vol. 6",
-    "duration": "221826"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273716103d47a4f8fa9820c49ac",
-    "pty": 0,
-    "Items": [
-      "GN_PsychedelicRock",
-      "XT_Colors",
-      "XT_Plants"
-    ],
-    "artist": "Tommy James & The Shondells",
-    "genres": 0,
-    "spotId": "0I4yYE831a8SW8QIx6bz4x",
-    "couname": "Crimson & Clover",
-    "duration": "209640"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2734f11d0c4566eac6d1e13ee21",
     "pty": 0,
     "Items": [
@@ -4925,20 +5531,6 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
-    "pty": 0,
-    "Items": [
-      "girl",
-      "XT_Plants",
-      "XT_Youth"
-    ],
-    "artist": "Taylor Swift",
-    "genres": 0,
-    "spotId": "5kI4eCXXzyuIUXjQra0Cxi",
-    "couname": "betty",
-    "duration": ""
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2730e344b28681e6ee72eb67f78",
     "pty": 0,
     "Items": [
@@ -4952,22 +5544,6 @@
     "spotId": "38FCXf9CTcH9MJKn3WsJ7x",
     "couname": "Oak & Ash & Thorn",
     "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733f0ab9acab2c5907d8b0b8be",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "GN_Choirs",
-      "XT_MoonStars",
-      "XT_Plants"
-    ],
-    "artist": "The Head And The Heart",
-    "genres": 0,
-    "spotId": "5CalS8Gn69OOrR9aiw0ZO9",
-    "couname": "Honeybee",
-    "duration": ""
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273b5d8fc61c7adc43e804978ae",
@@ -4995,32 +5571,6 @@
     "spotId": "3eIX5P1WOs1er26JAogERj",
     "couname": "Vegetables",
     "duration": "128426"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2735fce26509342fe7c8f6dad3a",
-    "pty": 0,
-    "Items": [
-      "XT_Plants",
-      "XT_Water"
-    ],
-    "artist": "Taylor Swift",
-    "genres": 0,
-    "spotId": "5dwQhzeE8LXpl9sbZJZmQS",
-    "couname": "the lakes",
-    "duration": "211798"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734b7294fd398cd8fffb6e2ba8",
-    "pty": 0,
-    "Items": [
-      "TV_SpotifyS500",
-      "XT_Plants"
-    ],
-    "artist": "Ruth B.",
-    "genres": 0,
-    "spotId": "2h5cjNTM2gKzWc0d6WXhSr",
-    "couname": "Dandelions",
-    "duration": "233720"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273f429549123dbe8552764ba1d",
@@ -5178,6 +5728,7 @@
     "Items": [
       "girl",
       "BT_BillieEilish",
+      "TV_Top102024",
       "XT_Plants"
     ],
     "artist": "Billie Eilish",
@@ -5201,41 +5752,6 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273de6de87988f552030de8ac18",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "XT_Colors",
-      "XT_Plants"
-    ],
-    "artist": "Van Morrison",
-    "genres": 0,
-    "spotId": "6HOEvcvvRU6eMtI96SA2Es",
-    "couname": "Purple Heather",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
-    "pty": 0,
-    "Items": [
-      "GN_BalladRock",
-      "GN_DrumSolo",
-      "GN_Piano",
-      "GN_ViolinSolo",
-      "TV_MarvelSongs",
-      "TV_OneHit",
-      "TV_SpotifyS500",
-      "XT_BodyParts",
-      "XT_Intros",
-      "XT_Plants"
-    ],
-    "artist": "The Goo Goo Dolls",
-    "genres": 0,
-    "spotId": "6HLNcLU4jIpafRf4mQ2Ivx",
-    "couname": "Iris",
-    "duration": "289906"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273a8df0c930a741d6f49cc3f8d",
     "pty": 0,
     "Items": [
@@ -5248,20 +5764,6 @@
     "spotId": "1s0uk3LmYulYhdiLlpxqzF",
     "couname": "Flowers",
     "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731783bf064812525d67510e83",
-    "pty": 0,
-    "Items": [
-      "XT_OffAnimals",
-      "XT_Plants",
-      "XT_Running"
-    ],
-    "artist": "Dan Fogelberg",
-    "genres": 0,
-    "spotId": "7lFy3n6Ljb9rFKGEuyHHlO",
-    "couname": "Run for the Roses",
-    "duration": "258906"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27344077730165de8a4b8c36928",
@@ -5292,44 +5794,6 @@
     "duration": ""
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273692d9189b2bd75525893f0c1",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "BT_TheBeatles",
-      "GN_PsychedelicRock",
-      "TV_Rolling500",
-      "XT_Food",
-      "XT_Intros",
-      "XT_Plants",
-      "YR_7079",
-      "YR6069"
-    ],
-    "artist": "The Beatles",
-    "genres": 0,
-    "spotId": "3Am0IbOxmvlSXro7N5iSfZ",
-    "couname": "Strawberry Fields Forever",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738695a646cdeb8376aafc11a4",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "TV_OneHit",
-      "XT_Karaoke",
-      "XT_Plants",
-      "YR_0009"
-    ],
-    "artist": "Plain White T's",
-    "genres": 0,
-    "spotId": "1NarGDteHRuDA9OfGyQ2MG",
-    "couname": "Hey There Delilah",
-    "duration": "226493"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273fffa54c378eded6f8af75de7",
     "pty": 0,
     "Items": [
@@ -5342,156 +5806,5 @@
     "spotId": "0enomf64zREfOd7YOaHhZi",
     "couname": "Flowers",
     "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736dfc4eb5e205507d1a3e8774",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "girl",
-      "XT_Colors",
-      "XT_Plants"
-    ],
-    "artist": "Burl Ives",
-    "genres": 0,
-    "spotId": "1VO400MnY5LKHNI1fiF01B",
-    "couname": "Lavender Blue",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273732fbad9a15df35a70cb1555",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "girl",
-      "XT_Colors",
-      "XT_Plants"
-    ],
-    "artist": "Dolly Parton",
-    "genres": 0,
-    "spotId": "1cBFW0aEJ0rhcgYtC8tQi7",
-    "couname": "Yellow Roses",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2731da6e1da33a17f14599641d5",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "girl",
-      "BT_ABBA",
-      "GN_Choirs",
-      "GN_Disco",
-      "GN_ViolinSolo",
-      "TV_BestVideos",
-      "XT_AboutTime",
-      "XT_Intros",
-      "XT_Plants",
-      "YR_7079"
-    ],
-    "artist": "ABBA",
-    "genres": 0,
-    "spotId": "7r5bS08R8d0jZuDZutVeHQ",
-    "couname": "Gimme! Gimme! Gimme!",
-    "duration": "294346"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27315784f5212050cf2e67f1935",
-    "pty": 0,
-    "Items": [
-      "GN_Choirs",
-      "TV_SpotifyS500",
-      "XT_Plants",
-      "YR_1019"
-    ],
-    "artist": "The Lumineers",
-    "genres": 0,
-    "spotId": "1K3LRUEcUz5FMtPYyg0F45",
-    "couname": "Ho Hey",
-    "duration": "163133"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "TV_SpotifyS500",
-      "XT_Food",
-      "XT_Karaoke",
-      "XT_Plants",
-      "YR_1019"
-    ],
-    "artist": "Drake",
-    "genres": 0,
-    "spotId": "5mCPDVBb16L4XQwDdbRUpz",
-    "couname": "Passionfruit",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2739c188c494d8bfaf895411890",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "XT_Food",
-      "XT_Plants",
-      "YR_1019"
-    ],
-    "artist": "Migos",
-    "genres": 0,
-    "spotId": "2UVbBKQOdFAekPTRsnkzcf",
-    "couname": "Stir Fry",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "GN_Piano",
-      "XT_Plants",
-      "YR_1019"
-    ],
-    "artist": "Ed Sheeran",
-    "genres": 0,
-    "spotId": "4VuS959DSpr82t3qBqCrWG",
-    "couname": "Supermarket Flowers",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736c619c39c853f8b1d67b7859",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "BT_HarryStyles_One",
-      "XT_Food",
-      "XT_Intros",
-      "XT_Plants",
-      "YR_1019"
-    ],
-    "artist": "Harry Styles",
-    "genres": 0,
-    "spotId": "33SNO8AaciGbNaQFkxvPrW",
-    "couname": "Kiwi",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "BT_HarryStyles_One",
-      "TV_BestVideos",
-      "TV_SpotifyS500",
-      "XT_Food",
-      "XT_Plants",
-      "YR_1019"
-    ],
-    "artist": "Harry Styles",
-    "genres": 0,
-    "spotId": "6UelLqGlWMcVH1E5c4H7lY",
-    "couname": "Watermelon Sugar",
-    "duration": ""
   }
 ]
