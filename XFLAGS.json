@@ -11,6 +11,7 @@
       "Texted",
       "Center",
       "2Color",
+      "calendar",
       "area_652230",
       "capi_Kabul",
       "pm_Hasan Akhund",
@@ -19,6 +20,7 @@
       "pol_failed",
       "pol_deat",
       "md_deno_n",
+      "calendar",
       "chopGB",
       "rg2_As_SouthOnly"
     ],
@@ -30,6 +32,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/2560px-Flag_of_the_Taliban.svg.png",
     "Items2": [
+      "calendar",
       "chopGB",
       "rg2_As_SouthOnly"
     ],
@@ -184,6 +187,7 @@
       "IsMoon",
       "Center",
       "3Color",
+      "calendar",
       "area_2381741",
       "capi_Algiers",
       "pm_Sifi Ghrieb",
@@ -191,6 +195,7 @@
       "top30_oil",
       "geo_CapiBeach",
       "md_deno_n",
+      "calendar",
       "arabic",
       "rg2_AF_North"
     ],
@@ -203,6 +208,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/2560px-Flag_of_Algeria.svg.png",
     "Items2": [
+      "calendar",
       "arabic",
       "rg2_AF_North"
     ],
@@ -876,6 +882,7 @@
       "Circle",
       "HasSun",
       "2Color",
+      "calendar",
       "area_147570",
       "capi_Dhaka",
       "pm_Muhammad Yunus",
@@ -883,6 +890,7 @@
       "md_deno_i",
       "md_deno_vw",
       "\r\n",
+      "calendar",
       "chopGB",
       "rg2_As_SouthOnly"
     ],
@@ -894,6 +902,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/2560px-Flag_of_Bangladesh.svg.png",
     "Items2": [
+      "calendar",
       "chopGB",
       "rg2_As_SouthOnly"
     ],
@@ -3107,6 +3116,7 @@
       "Texted",
       "Center",
       "4Color",
+      "calendar",
       "area_1010408",
       "capi_Cairo",
       "pm_Mostafa Madbouly",
@@ -3116,6 +3126,7 @@
       "pol_deat",
       "md_tekken7",
       "md_deno_n",
+      "calendar",
       "bricss",
       "chopGB",
       "arabic",
@@ -3131,6 +3142,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/2560px-Flag_of_Egypt.svg.png",
     "Items2": [
+      "calendar",
       "bricss",
       "chopGB",
       "arabic",
@@ -3465,6 +3477,7 @@
       "Circle",
       "Center",
       "4Color",
+      "calendar",
       "area_1104300",
       "capi_Addis Ababa",
       "pm_Abiy Ahmed",
@@ -3472,6 +3485,7 @@
       "top30_camel",
       "md_deno_n",
       "ntGRRE",
+      "calendar",
       "bricss",
       "rg2_AF_East"
     ],
@@ -3485,6 +3499,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/2560px-Flag_of_Ethiopia.svg.png",
     "Items2": [
+      "calendar",
       "bricss",
       "rg2_AF_East"
     ],
@@ -4798,6 +4813,7 @@
       "Circle",
       "Center",
       "4Color",
+      "calendar",
       "area_3287263",
       "capi_New Delhi",
       "pm_Narendra Modi",
@@ -4808,6 +4824,7 @@
       "top30_oil",
       "pol_deat",
       "md_deno_n",
+      "calendar",
       "bricss",
       "chopGB",
       "englis",
@@ -4823,6 +4840,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/2560px-Flag_of_India.svg.png",
     "Items2": [
+      "calendar",
       "bricss",
       "chopGB",
       "englis",
@@ -4895,6 +4913,7 @@
       "IsMoon",
       "Center",
       "3Color",
+      "calendar",
       "area_1648195",
       "capi_Tehran",
       "pm_Masoud Pezeshkian",
@@ -4903,6 +4922,7 @@
       "pol_deat",
       "md_deno_n",
       "ntGRRE",
+      "calendar",
       "bricss",
       "rg2_As_SouthOnly"
     ],
@@ -4915,6 +4935,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/2560px-Flag_of_Iran.svg.png",
     "Items2": [
+      "calendar",
       "bricss",
       "rg2_As_SouthOnly"
     ],
@@ -4939,6 +4960,7 @@
       "Texted",
       "Center",
       "4Color",
+      "calendar",
       "area_438317",
       "capi_Baghdad",
       "pm_Mohammed Shia’ al-Sudani",
@@ -4950,6 +4972,7 @@
       "md_deno_i",
       "md_deno_vw",
       "ntGRRE",
+      "calendar",
       "chopGB",
       "arabic",
       "rg2_AS_West"
@@ -4964,6 +4987,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/2560px-Flag_of_Iraq.svg.png",
     "Items2": [
+      "calendar",
       "chopGB",
       "arabic",
       "rg2_AS_West"
@@ -5087,6 +5111,7 @@
       "Center",
       "Rotate",
       "2Color",
+      "calendar",
       "area_22072",
       "capi_Jerusalem",
       "pm_Benjamin Netanyahu",
@@ -5095,6 +5120,7 @@
       "pol_pope",
       "md_deno_i",
       "md_deno_vw",
+      "calendar",
       "chopGB",
       "rg2_AS_West"
     ],
@@ -5106,6 +5132,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/2560px-Flag_of_Israel.svg.png",
     "Items2": [
+      "calendar",
       "chopGB",
       "rg2_AS_West"
     ],
@@ -5276,6 +5303,7 @@
       "Center",
       "Rotate",
       "2Color",
+      "calendar",
       "area_377975",
       "capi_Tokyo",
       "pm_Shigeru Ishiba",
@@ -5288,6 +5316,7 @@
       "md_tekken7",
       "md_deno_e",
       "md_deno_vw",
+      "calendar",
       "monarchy",
       "rg2_AS_East"
     ],
@@ -5299,6 +5328,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/2560px-Flag_of_Japan.svg.png",
     "Items2": [
+      "calendar",
       "monarchy",
       "rg2_AS_East"
     ],
@@ -5377,6 +5407,7 @@
       "Horizo",
       "Trside",
       "4Color",
+      "calendar",
       "area_89342",
       "capi_Amman",
       "pm_Bisher Al-Khasawneh",
@@ -5384,6 +5415,7 @@
       "pol_deat",
       "md_Trredd",
       "md_deno_n",
+      "calendar",
       "chopGB",
       "monarchy",
       "arabic",
@@ -5399,6 +5431,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/2560px-Flag_of_Jordan.svg.png",
     "Items2": [
+      "calendar",
       "chopGB",
       "monarchy",
       "arabic",
@@ -5920,6 +5953,7 @@
       "IsMoon",
       "Center",
       "4Color",
+      "calendar",
       "area_1759541",
       "capi_Tripoli",
       "pm_Abdul Hamid Dbeibeh",
@@ -5933,6 +5967,7 @@
       "md_deno_n",
       "ntWHRE",
       "ntGRRE",
+      "calendar",
       "chopGB",
       "arabic",
       "rg2_AF_North"
@@ -5947,6 +5982,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/2560px-Flag_of_Libya.svg.png",
     "Items2": [
+      "calendar",
       "chopGB",
       "arabic",
       "rg2_AF_North"
@@ -6480,12 +6516,14 @@
       "IsMoon",
       "Center",
       "3Color",
+      "calendar",
       "area_1030700",
       "capi_Nouakchott",
       "pm_Mokhtar Ould Djay",
       "top30_camel",
       "geo_CapiBeach",
       "md_deno_n",
+      "calendar",
       "arabic",
       "rg2_AF_West"
     ],
@@ -6498,6 +6536,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/2560px-Flag_of_Mauritania.svg.png",
     "Items2": [
+      "calendar",
       "arabic",
       "rg2_AF_West"
     ],
@@ -6966,6 +7005,7 @@
       "1Stars",
       "Center",
       "2Color",
+      "calendar",
       "area_446550",
       "capi_Rabat",
       "pm_Aziz Akhannouch",
@@ -6973,6 +7013,7 @@
       "top30_camel",
       "geo_CapiBeach",
       "md_deno_n",
+      "calendar",
       "monarchy",
       "arabic",
       "rg2_AF_North"
@@ -6985,6 +7026,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/2560px-Flag_of_Morocco.svg.png",
     "Items2": [
+      "calendar",
       "monarchy",
       "arabic",
       "rg2_AF_North"
@@ -7059,6 +7101,7 @@
       "Horizo",
       "Center",
       "4Color",
+      "calendar",
       "area_676578",
       "capi_Naypyidaw",
       "pm_Min Aung Hlaing",
@@ -7066,6 +7109,7 @@
       "pol_deat",
       "md_deno_e",
       "md_deno_vw",
+      "calendar",
       "chopGB",
       "rg2_AS_SouthEast"
     ],
@@ -7079,6 +7123,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/2560px-Flag_of_Myanmar.svg.png",
     "Items2": [
+      "calendar",
       "chopGB",
       "rg2_AS_SouthEast"
     ],
@@ -7195,6 +7240,7 @@
       "IsMoon",
       "Trside",
       "3Color",
+      "calendar",
       "area_147516",
       "capi_Kathmandu",
       "pm_K. P. Sharma Oli",
@@ -7203,6 +7249,7 @@
       "md_Trbluu",
       "md_deno_i",
       "md_deno_vw",
+      "calendar",
       "rg2_As_SouthOnly"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Nepal",
@@ -7214,6 +7261,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/1680px-Flag_of_Nepal.svg.png",
     "Items2": [
+      "calendar",
       "rg2_As_SouthOnly"
     ],
     "region": "rgn_Asia",
@@ -7619,6 +7667,7 @@
       "Horizo",
       "Circle",
       "3Color",
+      "calendar",
       "area_120538",
       "capi_Pyongyang",
       "pm_Kim Tok-hun",
@@ -7626,6 +7675,7 @@
       "top10_ping",
       "pol_deat",
       "md_deno_n",
+      "calendar",
       "rg2_AS_East"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_North_Korea",
@@ -7637,6 +7687,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/2560px-Flag_of_North_Korea.svg.png",
     "Items2": [
+      "calendar",
       "rg2_AS_East"
     ],
     "region": "rgn_Asia",
@@ -7858,6 +7909,7 @@
       "Weapon",
       "Canton",
       "3Color",
+      "calendar",
       "area_309500",
       "capi_Muscat",
       "pm_Sultan Haitham bin Tariq",
@@ -7868,6 +7920,7 @@
       "geo_CapiBeach",
       "md_deno_i",
       "md_deno_vw",
+      "calendar",
       "chopGB",
       "monarchy",
       "arabic",
@@ -7882,6 +7935,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/2560px-Flag_of_Oman.svg.png",
     "Items2": [
+      "calendar",
       "chopGB",
       "monarchy",
       "arabic",
@@ -7908,6 +7962,7 @@
       "Vertic",
       "IsMoon",
       "2Color",
+      "calendar",
       "area_881913",
       "capi_Islamabad",
       "pm_Shehbaz Sharif",
@@ -7918,6 +7973,7 @@
       "pol_deat",
       "md_deno_i",
       "md_deno_vw",
+      "calendar",
       "chopGB",
       "englis",
       "rg2_As_SouthOnly"
@@ -7930,6 +7986,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/2560px-Flag_of_Pakistan.svg.png",
     "Items2": [
+      "calendar",
       "chopGB",
       "englis",
       "rg2_As_SouthOnly"
@@ -9166,6 +9223,7 @@
       "Weapon",
       "Center",
       "2Color",
+      "calendar",
       "area_2149690",
       "capi_Riyadh",
       "pm_Mohammed bin Salman",
@@ -9176,6 +9234,7 @@
       "md_tekken7",
       "md_deno_i",
       "md_deno_vw",
+      "calendar",
       "monarchy",
       "arabic",
       "rg2_AS_West"
@@ -9188,6 +9247,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/2560px-Flag_of_Saudi_Arabia.svg.png",
     "Items2": [
+      "calendar",
       "monarchy",
       "arabic",
       "rg2_AS_West"
@@ -9764,6 +9824,7 @@
       "1Stars",
       "Center",
       "2Color",
+      "calendar",
       "area_637657",
       "capi_Mogadishu",
       "pm_Hamza Abdi Barre",
@@ -9774,6 +9835,7 @@
       "md_lightbl",
       "md_deno_i",
       "md_deno_vw",
+      "calendar",
       "chopGB",
       "arabic",
       "rg2_AF_East"
@@ -9786,6 +9848,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/2560px-Flag_of_Somalia.svg.png",
     "Items2": [
+      "calendar",
       "chopGB",
       "arabic",
       "rg2_AF_East"
@@ -9862,12 +9925,14 @@
       "Texted",
       "Center",
       "4Color",
+      "calendar",
       "area_100210",
       "capi_Seoul",
       "pm_Kim Min-seok",
       "top10_ping",
       "md_tekken7",
       "md_deno_n",
+      "calendar",
       "rg2_AS_East"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_South_Korea",
@@ -9880,6 +9945,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/2560px-Flag_of_South_Korea.svg.png",
     "Items2": [
+      "calendar",
       "rg2_AS_East"
     ],
     "region": "rgn_Asia",
@@ -10348,6 +10414,7 @@
       "HasSun",
       "Canton",
       "3Color",
+      "calendar",
       "area_36197",
       "capi_Taipei",
       "pm_Cho Jung-tai",
@@ -10360,6 +10427,7 @@
       "md_deno_e",
       "md_deno_vw",
       "ntWHRE",
+      "calendar",
       "cur_Dollar",
       "chines",
       "rg2_AS_East"
@@ -10373,6 +10441,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/2560px-Flag_of_the_Republic_of_China.svg.png",
     "Items2": [
+      "calendar",
       "cur_Dollar",
       "chines",
       "rg2_AS_East"
@@ -10484,6 +10553,7 @@
       "OnlyBa",
       "Rotate",
       "3Color",
+      "calendar",
       "area_513120",
       "capi_Bangkok",
       "pm_Anutin Charnvirakul",
@@ -10492,6 +10562,7 @@
       "md_tekken7",
       "md_deno_i",
       "md_deno_vw",
+      "calendar",
       "monarchy",
       "rg2_AS_SouthEast"
     ],
@@ -10504,6 +10575,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/2560px-Flag_of_Thailand.svg.png",
     "Items2": [
+      "calendar",
       "monarchy",
       "rg2_AS_SouthEast"
     ],
@@ -10705,6 +10777,7 @@
       "IsMoon",
       "Center",
       "2Color",
+      "calendar",
       "area_163610",
       "capi_Tunis",
       "pm_Kamel Madouri",
@@ -10712,6 +10785,7 @@
       "pol_pope",
       "geo_CapiBeach",
       "md_deno_n",
+      "calendar",
       "arabic",
       "rg2_AF_North"
     ],
@@ -10723,6 +10797,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/2560px-Flag_of_Tunisia.svg.png",
     "Items2": [
+      "calendar",
       "arabic",
       "rg2_AF_North"
     ],
@@ -11035,6 +11110,7 @@
       "Vertic",
       "OnlyBa",
       "4Color",
+      "calendar",
       "area_83600",
       "capi_Abu Dhabi",
       "pm_Sheikh Mohammed bin Rashid Al Maktoum",
@@ -11047,6 +11123,7 @@
       "geo_CapiBeach",
       "md_deno_i",
       "md_deno_vw",
+      "calendar",
       "bricss",
       "chopGB",
       "monarchy",
@@ -11063,6 +11140,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/2560px-Flag_of_the_United_Arab_Emirates.svg.png",
     "Items2": [
+      "calendar",
       "bricss",
       "chopGB",
       "monarchy",
