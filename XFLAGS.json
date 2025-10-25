@@ -376,6 +376,42 @@
     "describe": "The black color represents its 19th century history as a protected state, the red color represents the blood of those who fought for independence (specifically, the Anglo-Afghan Treaty of 1919), and the green represents hope and prosperity for the future. Some have alternatively interpreted the black to represent history, the red to represent progress, and the green to represent either agricultural prosperity or Islam."
   },
   {
+    "New": "25/10/2025",
+    "Code": "[JEY]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Flag_of_the_Lieutenant_Governor_of_Jersey.svg/960px-Flag_of_the_Lieutenant_Governor_of_Jersey.svg.png",
+    "type": "Civil",
+    "year": "2010",
+    "Items": [
+      "myrRED",
+      "4+Band",
+      "Crosse",
+      "Circle",
+      "Animal",
+      "Plants",
+      "unjack",
+      "Crowns",
+      "dgband",
+      "Horizo",
+      "Vertic",
+      "5+Color"
+    ],
+    "links": "https://en.m.wikipedia.org/wiki/Lieutenant_Governor_of_Jersey",
+    "lvlup": "4z",
+    "Colors": [
+      "cl_BLU",
+      "cl_RED",
+      "cl_WHI",
+      "cl_YEL",
+      "cl_BLA"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Flag_of_the_Lieutenant_Governor_of_Jersey.svg/1280px-Flag_of_the_Lieutenant_Governor_of_Jersey.svg.png",
+    "Items2": [],
+    "Region": "rgn_Europe",
+    "couname": "[JEY] Lieutenant Governor of Jersey",
+    "subtype": null,
+    "describe": "The position of lieutenant governor is now itself largely ceremonial, with day-to-day responsibility over most functions of government overseen by the Chief Minister of Jersey and judicial and certain other official matters overseen by the Bailiff of Jersey."
+  },
+  {
     "New": ".",
     "Code": "[USA]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Saint_Paul%2C_Minnesota.svg/320px-Flag_of_Saint_Paul%2C_Minnesota.svg.png",
@@ -54954,39 +54990,6 @@
     "couname": "[JEY] Jersey (Civil Ensign)",
     "subtype": null,
     "describe": "A civil ensign for use by Jersey registered merchant ships was approved in 2010, after a consultation process."
-  },
-  {
-    "New": "25/10/2025",
-    "Code": "[JEY]",
-    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Flag_of_the_Lieutenant_Governor_of_Jersey.svg/960px-Flag_of_the_Lieutenant_Governor_of_Jersey.svg.png",
-    "type": "Civil",
-    "year": "2010",
-    "Items": [
-      "myrRED",
-      "NoBand",
-      "Crosse",
-      "Circle",
-      "Animal",
-      "Plants",
-      "unjack",
-      "Crowns",
-      "5+Color"
-    ],
-    "links": "https://en.m.wikipedia.org/wiki/Lieutenant_Governor_of_Jersey",
-    "lvlup": "4z",
-    "Colors": [
-      "cl_BLU",
-      "cl_RED",
-      "cl_WHI",
-      "cl_YEL",
-      "cl_BLA"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Flag_of_the_Lieutenant_Governor_of_Jersey.svg/1280px-Flag_of_the_Lieutenant_Governor_of_Jersey.svg.png",
-    "Items2": [],
-    "Region": "rgn_Europe",
-    "couname": "[JEY] Lieutenant Governor of Jersey",
-    "subtype": null,
-    "describe": "The position of lieutenant governor is now itself largely ceremonial, with day-to-day responsibility over most functions of government overseen by the Chief Minister of Jersey and judicial and certain other official matters overseen by the Bailiff of Jersey."
   },
   {
     "New": ".",
