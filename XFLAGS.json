@@ -1,5 +1,36 @@
 [
   {
+    "New": "25/10/2025",
+    "Code": "[JEY]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Government_Ensign_of_Jersey.svg/960px-Government_Ensign_of_Jersey.svg.png",
+    "type": "Government",
+    "year": "1907",
+    "Items": [
+      "myrBLU",
+      "NoBand",
+      "Crosse",
+      "Animal",
+      "Canton",
+      "unjack",
+      "5+Color"
+    ],
+    "links": "https://en.m.wikipedia.org/wiki/Flag_of_Jersey",
+    "lvlup": "4z",
+    "Colors": [
+      "cl_BLU",
+      "cl_RED",
+      "cl_WHI",
+      "cl_YEL",
+      "cl_BLA"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Government_Ensign_of_Jersey.svg/1280px-Government_Ensign_of_Jersey.svg.png",
+    "Items2": [],
+    "Region": "rgn_Europe",
+    "couname": "[JEY] Jersey (Government Ensign)",
+    "subtype": null,
+    "describe": "A government Blue Ensign, with the badge without the crown in the fly, was given a general warrant in 1997, having originally been issued in 1907 specifically for the government-owned tugboat Duke of Normandy."
+  },
+  {
     "New": ".",
     "Code": "[ARG]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/320px-Flag_of_Argentina.svg.png",
@@ -54858,102 +54889,6 @@
     "describe": "The flag is based on the coat of arms of the parish.\\n\\nThe parish church is dedicated to the Holy Trinity. The coat of arms of the Parish of Trinity shows the Shield of the Trinity diagram. Wherein the Father ('Vater'), the Son ('Filius'), and the Holy Spirit ('Spiritus Sanctus') are not one or the other ('non est'), but all three of them are a part ('Est') of God ('Deus')."
   },
   {
-    "New": "w4",
-    "Code": "[JEY]",
-    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Government_Ensign_of_Jersey.svg/960px-Government_Ensign_of_Jersey.svg.png",
-    "type": "Government",
-    "year": "1907",
-    "Items": [
-      "myrBLU",
-      "NoBand",
-      "Crosse",
-      "Animal",
-      "Canton",
-      "unjack",
-      "5+Color"
-    ],
-    "links": "https://en.m.wikipedia.org/wiki/Flag_of_Jersey",
-    "lvlup": "4z",
-    "Colors": [
-      "cl_BLU",
-      "cl_RED",
-      "cl_WHI",
-      "cl_YEL",
-      "cl_BLA"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Government_Ensign_of_Jersey.svg/1280px-Government_Ensign_of_Jersey.svg.png",
-    "Items2": [],
-    "Region": "rgn_Europe",
-    "couname": "[JEY] Jersey (Government Ensign)",
-    "subtype": null,
-    "describe": "A government Blue Ensign, with the badge without the crown in the fly, was given a general warrant in 1997, having originally been issued in 1907 specifically for the government-owned tugboat Duke of Normandy."
-  },
-  {
-    "New": "w4",
-    "Code": "[JEY]",
-    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Civil_Ensign_of_Jersey.svg/640px-Civil_Ensign_of_Jersey.svg.png",
-    "type": "Civil",
-    "year": "2010",
-    "Items": [
-      "myrRED",
-      "NoBand",
-      "Crosse",
-      "Animal",
-      "Canton",
-      "unjack",
-      "Crowns",
-      "5+Color"
-    ],
-    "links": "https://en.m.wikipedia.org/wiki/Flag_of_Jersey",
-    "lvlup": "4z",
-    "Colors": [
-      "cl_BLU",
-      "cl_RED",
-      "cl_WHI",
-      "cl_YEL",
-      "cl_BLA"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Civil_Ensign_of_Jersey.svg/1280px-Civil_Ensign_of_Jersey.svg.png",
-    "Items2": [],
-    "Region": "rgn_Europe",
-    "couname": "[JEY] Jersey (Civil Ensign)",
-    "subtype": null,
-    "describe": "A civil ensign for use by Jersey registered merchant ships was approved in 2010, after a consultation process."
-  },
-  {
-    "New": "w4",
-    "Code": "[JEY]",
-    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Flag_of_the_Lieutenant_Governor_of_Jersey.svg/960px-Flag_of_the_Lieutenant_Governor_of_Jersey.svg.png",
-    "type": "Civil",
-    "year": "2010",
-    "Items": [
-      "myrRED",
-      "NoBand",
-      "Crosse",
-      "Circle",
-      "Animal",
-      "Plants",
-      "unjack",
-      "Crowns",
-      "5+Color"
-    ],
-    "links": "https://en.m.wikipedia.org/wiki/Lieutenant_Governor_of_Jersey",
-    "lvlup": "4z",
-    "Colors": [
-      "cl_BLU",
-      "cl_RED",
-      "cl_WHI",
-      "cl_YEL",
-      "cl_BLA"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Flag_of_the_Lieutenant_Governor_of_Jersey.svg/1280px-Flag_of_the_Lieutenant_Governor_of_Jersey.svg.png",
-    "Items2": [],
-    "Region": "rgn_Europe",
-    "couname": "[JEY] Lieutenant Governor of Jersey",
-    "subtype": null,
-    "describe": "The position of lieutenant governor is now itself largely ceremonial, with day-to-day responsibility over most functions of government overseen by the Chief Minister of Jersey and judicial and certain other official matters overseen by the Bailiff of Jersey."
-  },
-  {
     "New": ".",
     "Code": "[JOR]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Greater_Karak_Municipality.png/960px-Flag_of_Greater_Karak_Municipality.png",
@@ -54988,6 +54923,71 @@
     "couname": "[JOR] Al-Karak",
     "subtype": null,
     "describe": "The flag depicts a circular image of Kerak Castle flanked on both sides by Jordanian flags. Under the circle is written Great Karak Municipality. There's a sun above the circular image. The entire field of the flag is yellow."
+  },
+  {
+    "New": "25/10/2025",
+    "Code": "[JEY]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Civil_Ensign_of_Jersey.svg/640px-Civil_Ensign_of_Jersey.svg.png",
+    "type": "Civil",
+    "year": "2010",
+    "Items": [
+      "myrRED",
+      "NoBand",
+      "Crosse",
+      "Animal",
+      "Canton",
+      "unjack",
+      "Crowns",
+      "5+Color"
+    ],
+    "links": "https://en.m.wikipedia.org/wiki/Flag_of_Jersey",
+    "lvlup": "4z",
+    "Colors": [
+      "cl_BLU",
+      "cl_RED",
+      "cl_WHI",
+      "cl_YEL",
+      "cl_BLA"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Civil_Ensign_of_Jersey.svg/1280px-Civil_Ensign_of_Jersey.svg.png",
+    "Items2": [],
+    "Region": "rgn_Europe",
+    "couname": "[JEY] Jersey (Civil Ensign)",
+    "subtype": null,
+    "describe": "A civil ensign for use by Jersey registered merchant ships was approved in 2010, after a consultation process."
+  },
+  {
+    "New": "25/10/2025",
+    "Code": "[JEY]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Flag_of_the_Lieutenant_Governor_of_Jersey.svg/960px-Flag_of_the_Lieutenant_Governor_of_Jersey.svg.png",
+    "type": "Civil",
+    "year": "2010",
+    "Items": [
+      "myrRED",
+      "NoBand",
+      "Crosse",
+      "Circle",
+      "Animal",
+      "Plants",
+      "unjack",
+      "Crowns",
+      "5+Color"
+    ],
+    "links": "https://en.m.wikipedia.org/wiki/Lieutenant_Governor_of_Jersey",
+    "lvlup": "4z",
+    "Colors": [
+      "cl_BLU",
+      "cl_RED",
+      "cl_WHI",
+      "cl_YEL",
+      "cl_BLA"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Flag_of_the_Lieutenant_Governor_of_Jersey.svg/1280px-Flag_of_the_Lieutenant_Governor_of_Jersey.svg.png",
+    "Items2": [],
+    "Region": "rgn_Europe",
+    "couname": "[JEY] Lieutenant Governor of Jersey",
+    "subtype": null,
+    "describe": "The position of lieutenant governor is now itself largely ceremonial, with day-to-day responsibility over most functions of government overseen by the Chief Minister of Jersey and judicial and certain other official matters overseen by the Bailiff of Jersey."
   },
   {
     "New": ".",
