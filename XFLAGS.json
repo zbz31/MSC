@@ -22271,38 +22271,6 @@
   {
     "New": ".",
     "Code": "[CHI]",
-    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Tibet_%281916-1951%29.svg/640px-Flag_of_Tibet_%281916-1951%29.svg.png",
-    "Year": "1916",
-    "type": "Autonomous Region",
-    "Items": [
-      "myrRED",
-      "NoBand",
-      "Circle",
-      "Animal",
-      "HasSun",
-      "Geogrh",
-      "5+Color"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Tibet",
-    "lvlup": "2b",
-    "Colors": [
-      "cl_YEL",
-      "cl_RED",
-      "cl_BLU",
-      "cl_WHI",
-      "cl_GRE",
-      "cl_ORA"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Tibet_%281916-1951%29.svg/2560px-Flag_of_Tibet_%281916-1951%29.svg.png",
-    "Items2": [],
-    "Region": "rgn_Asia",
-    "couname": "[CHI] Tibet",
-    "subtype": null,
-    "describe": "\\n\\n • The white triangle at the center of the flag symbolises a snow-clad mountain.\\n\\n • The six red stripes exist atop a blue sky representing the original ancestors of the Tibetan people: the six tribes called Se, Mu, Dong, Tong, Dru, and Ra.\\n\\n • The yellow sun represents the equal enjoyment of freedom, spiritual and material happiness and prosperity by all beings in Tibet.\\n\\n • The pair of snow lions represent Tibet’s victorious accomplishment of a unified spiritual and secular life.\\n\\n • The three-coloured jewel held by the snow lions represent the three supreme gems, the objects of refuge: Buddha, Dharma and Sangha.\\n\\n • The two coloured swirling jewel held between the two lions represents the people’s guarding and cherishing of the self discipline of correct ethical behaviour.\\n\\n • The flag’s yellow border symbolises that the teachings of the Buddha are flourishing and spreading"
-  },
-  {
-    "New": ".",
-    "Code": "[CHI]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Manchukuo.svg/320px-Flag_of_Manchukuo.svg.png",
     "Year": "1932",
     "type": "Historical",
@@ -65905,40 +65873,6 @@
   {
     "New": ".",
     "Code": "[RUS]",
-    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Nizhny_Novgorod_Region.svg/640px-Flag_of_Nizhny_Novgorod_Region.svg.png",
-    "Year": "2005",
-    "type": "Oblast (Region)",
-    "Items": [
-      "myrWHI",
-      "NoBand",
-      "Crosse",
-      "Circle",
-      "Animal",
-      "Plants",
-      "Center",
-      "Crowns",
-      "5+Color"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Nizhny_Novgorod_Oblast",
-    "lvlup": "2a",
-    "Colors": [
-      "cl_BLA",
-      "cl_BLU",
-      "cl_RED",
-      "cl_YEL",
-      "cl_BRO",
-      "cl_WHI"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Nizhny_Novgorod_Region.svg/2560px-Flag_of_Nizhny_Novgorod_Region.svg.png",
-    "Items2": [],
-    "Region": "rgn_Asia, rgn_Europe",
-    "couname": "[RUS] Nizhny Novgorod Oblast",
-    "subtype": null,
-    "describe": "\\n\\nThe flag is a white banner with the region's coat of arms in the middle."
-  },
-  {
-    "New": ".",
-    "Code": "[RUS]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Novgorod_Oblast.svg/640px-Flag_of_Novgorod_Oblast.svg.png",
     "Year": "2007",
     "type": "Oblast (Region)",
@@ -74541,6 +74475,44 @@
   },
   {
     "New": ".",
+    "Code": "[LKA]",
+    "Flag": "https://i.ibb.co/zxcMwLH/Sri-Lanka-Flag.png",
+    "Year": "1972",
+    "type": null,
+    "Items": [
+      "myrYEL",
+      "NoBand",
+      "Plants",
+      "Texted",
+      "HasSun",
+      "5+Color",
+      "area_65610,capi_Sri Jayawardenepura Kotte",
+      "Colombo,pm_Dinesh Gunawardena,island",
+      "geo_CapiBeach",
+      "md_deno_n",
+      "ntGRRE,",
+      "chopGB,rg2_As_SouthOnly"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Sri_Lanka",
+    "lvlup": "1",
+    "Colors": [
+      "cl_YEL",
+      "cl_RED",
+      "cl_GRE",
+      "cl_ORA",
+      "cl_BLA"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/2560px-Flag_of_Sri_Lanka.svg.png",
+    "Items2": [
+      "chopGB,rg2_As_SouthOnly"
+    ],
+    "Region": "rgn_Asia",
+    "couname": "Sri Lanka",
+    "subtype": null,
+    "describe": "\\n • The Lion: The golden lion holding a sword in its right forepaw represents bravery and strength. The lion is a symbol historically associated with the Sinhalese ethnicity, which makes up the majority of the population.\\n\\n • The Four Bo Leaves: Positioned in each corner of the flag, these leaves come from the sacred Bo tree under which Buddha attained enlightenment. They symbolize four key Buddhist virtues: Metta (loving-kindness), Karuna (compassion), Mudita (sympathetic joy), and Upekkha (equanimity).\\n\\n • Saffron (orange): Represents the Tamil minority and symbolizes the country's Hindu population.\\n\\n • Green: Represents the Muslim minority.\\n\\n • Maroon (dark red background): Represents the Sinhalese majority.\\n\\n • Yellow border: Signifies unity and a harmonious relationship among all ethnic groups in Sri Lanka."
+  },
+  {
+    "New": ".",
     "Code": "[BEL]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/554px-Flag_of_Belgium.svg.png",
     "Year": "1831",
@@ -81165,7 +81137,7 @@
     "Region": "rgn_Asia",
     "couname": "Israel",
     "subtype": null,
-    "describe": "\\n\\n • Star of David (Magen David): The six-pointed star is a widely recognized symbol of Judaism and Jewish identity. It has been associated with the Jewish people for centuries and represents their faith, heritage, and unity.\\n\\n • Blue Stripes: The two blue stripes are inspired by the traditional Jewish prayer shawl, known as the tallit. The tallit typically has blue stripes along its edges, symbolizing divine commandments and a connection to Jewish religious practices.\\n\\n • Colors: The blue and white colors are also tied to the Jewish faith. The white represents purity and peace, while the blue signifies divine presence and protection."
+    "describe": "\\n • Star of David (Magen David): The six-pointed star is a widely recognized symbol of Judaism and Jewish identity. It has been associated with the Jewish people for centuries and represents their faith, heritage, and unity.\\n\\n • Blue Stripes: The two blue stripes are inspired by the traditional Jewish prayer shawl, known as the tallit. The tallit typically has blue stripes along its edges, symbolizing divine commandments and a connection to Jewish religious practices.\\n\\n • Colors: The blue and white colors are also tied to the Jewish faith. The white represents purity and peace, while the blue signifies divine presence and protection."
   },
   {
     "New": ".",
@@ -83679,41 +83651,6 @@
   },
   {
     "New": ".",
-    "Code": "[CMR]",
-    "Flag": "https://i.ibb.co/vjJbmfZ/Cameroon-Flag.png",
-    "Year": "1975",
-    "type": null,
-    "Items": [
-      "myrYEL",
-      "001GRE, 002RED, 003YEL",
-      "3Bands",
-      "staYEL",
-      "1Stars",
-      "dgband",
-      "Canton",
-      "3Color",
-      "area_475442,capi_Yaoundé,pm_Joseph Ngute,md_deno_n",
-      "ntGRYE,",
-      "englis,french,rg2_AF_Mid"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Cameroon",
-    "lvlup": "1",
-    "Colors": [
-      "cl_GRE",
-      "cl_RED",
-      "cl_YEL"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/2560px-Flag_of_Cameroon.svg.png",
-    "Items2": [
-      "englis,french,rg2_AF_Mid"
-    ],
-    "Region": "rgn_Africa",
-    "couname": "Cameroon",
-    "subtype": null,
-    "describe": "\\n\\n • Green represents the lush vegetation of the southern part of the country and stands for hope.\\n\\n • Red symbolizes unity and independence.\\n\\n • Yellow reflects the savannas in the northern region and stands for the sun and the prosperity it brings.\\n\\n • The star, often referred to as the star of unity, signifies the unity of the country​"
-  },
-  {
-    "New": ".",
     "Code": "[CAN]",
     "Flag": "https://i.ibb.co/qnHkbh8/Canada-Flag.png",
     "Year": "1965",
@@ -84259,85 +84196,6 @@
   },
   {
     "New": ".",
-    "Code": "[CRI]",
-    "Flag": "https://i.ibb.co/GM89PDg/Costa-Rica-Flag.png",
-    "Year": "1848",
-    "type": null,
-    "Items": [
-      "myrEQ",
-      "001BLU, 002RED, 003BLU",
-      "4+Band",
-      "Vertic",
-      "Geogrh",
-      "southc",
-      "3Color",
-      "area_51100,capi_San José,pm_Rodrigo Chaves Robles,pol_samesx",
-      "md_deno_n,",
-      "spanis,rg2_AM_Central"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Costa_Rica",
-    "lvlup": "1",
-    "Colors": [
-      "cl_BLU",
-      "cl_RED",
-      "cl_WHI"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/2560px-Flag_of_Costa_Rica.svg.png",
-    "Items2": [
-      "spanis,rg2_AM_Central"
-    ],
-    "Region": "rgn_North America",
-    "couname": "Costa Rica",
-    "subtype": null,
-    "describe": "\\n\\n • Blue: Represents the sky, opportunities, idealism, and perseverance.\\n\\n • White: Symbolizes clear thinking, happiness, wisdom, power and beauty of the sky, the driving force of initiatives to search for new endeavors, and the peace of Costa Rica\\n\\n • Red: Stands for the blood shed for freedom, as well as the warmth and generosity of the Costa Rican people."
-  },
-  {
-    "New": ".",
-    "Code": "[CRO]",
-    "Flag": "https://i.ibb.co/hCDQMMX/Croatia-Flag.png",
-    "Year": "1990",
-    "type": null,
-    "Items": [
-      "myrRED",
-      "001RED, 002WHI, 003BLU",
-      "3Bands",
-      "staYEL, BLA",
-      "2Stars",
-      "Vertic",
-      "Plants",
-      "Trside",
-      "Canton",
-      "Rotate",
-      "5+Color",
-      "area_56594,capi_Zagreb,pm_Andrej Plenković,rg3_austrohungary",
-      "pol_pope",
-      "md_lightbl",
-      "md_LOTRNation",
-      "md_deno_n",
-      "ntBLYE",
-      "ntWHYE,",
-      "balkan,rg3_romanempire,eunion,cur_EUR,italia,rg2_EU_South"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Croatia",
-    "lvlup": "1",
-    "Colors": [
-      "cl_RED",
-      "cl_WHI",
-      "cl_BLU",
-      "cl_YEL",
-      "cl_BLA"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/2560px-Flag_of_Croatia.svg.png",
-    "Items2": [
-      "balkan,rg3_romanempire,eunion,cur_EUR,italia,rg2_EU_South"
-    ],
-    "Region": "rgn_Europe",
-    "couname": "Croatia",
-    "subtype": null,
-    "describe": "\\n\\n • Red symbolizes the struggle for independence and the bloodshed in defending the country.\\n\\n • White stands for peace, purity, and freedom.\\n\\n • Blue represents faith, loyalty, and the sky and sea.\\n\\n • The main shield features a checkerboard pattern (known as the šahovnica) of 13 red and 12 white fields. This pattern has been associated with Croatia since at least the 10th century and is a prominent national symbol.\\n\\n • Crown: Above the main shield is a crown made up of five smaller shields, each representing different historical regions of Croatia. From left to right:\\n • The oldest known Croatian coat of arms (a golden six-pointed star with a white crescent on a blue field, representing the region of Illyria).\\n • The coat of arms of the Republic of Dubrovnik (two red stripes on a dark blue field).\\n • The coat of arms of Dalmatia (three golden, crowned leopard heads on a blue shield).\\n • The coat of arms of Istria (a golden goat with red hooves and horns on a blue shield).\\n • The coat of arms of Slavonia (a silver stripe with a marten running on it between two blue fields, with a six-pointed star above)."
-  },
-  {
-    "New": ".",
     "Code": "[CUB]",
     "Flag": "https://i.ibb.co/3WB8QRg/Cuba-Flag.png",
     "Year": "1902",
@@ -84718,98 +84576,6 @@
   },
   {
     "New": ".",
-    "Code": "[ECU]",
-    "Flag": "https://i.ibb.co/TbYwmWF/Ecuador-Flag.png",
-    "Year": "1860, 1900, 2009",
-    "type": null,
-    "Items": [
-      "myrYEL",
-      "001YEL, 002BLU, 003RED",
-      "3Bands",
-      "Vertic",
-      "Animal",
-      "Plants",
-      "Texted",
-      "HasSun",
-      "IsMoon",
-      "Canton",
-      "Humans",
-      "Builds",
-      "Crowns",
-      "5+Color",
-      "area_283561,capi_Quito,pm_Daniel Noboa,top30_oil",
-      "pol_samesx",
-      "md_lightbl",
-      "md_deno_n",
-      "ntWHRE",
-      "ntGRRE",
-      "ntGRYE",
-      "ntWHYE,",
-      "bolivarian,cur_Dollar,spanis,rg2_AM_South"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Ecuador",
-    "lvlup": "1",
-    "Colors": [
-      "cl_YEL",
-      "cl_RED",
-      "cl_BLU",
-      "cl_BRO",
-      "cl_WHI",
-      "cl_GRE",
-      "cl_GRA",
-      "cl_BLA"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2560px-Flag_of_Ecuador.svg.png",
-    "Items2": [
-      "bolivarian,cur_Dollar,spanis,rg2_AM_South"
-    ],
-    "Region": "rgn_South America",
-    "couname": "Ecuador",
-    "subtype": null,
-    "describe": "\\n\\n • Yellow: The crops and the fertile soil.\\n\\n • Blue: The ocean and the clear skies\\n\\n • Red: The blood spilled by the heroes who died in the name of their countrymen's Fatherland and Freedom."
-  },
-  {
-    "New": ".",
-    "Code": "[EGY]",
-    "Flag": "https://i.ibb.co/grvKyVf/Egypt-Flag.png",
-    "Year": "1984",
-    "type": null,
-    "Items": [
-      "myrEQ",
-      "001RED, 002WHI, 003BLA",
-      "3Bands",
-      "Vertic",
-      "Plants",
-      "Weapon",
-      "Canton",
-      "4Color",
-      "area_1010408,capi_Cairo,pm_Mostafa Madbouly,pol_2025Gaz",
-      "top30_camel",
-      "top30_oil",
-      "pol_deat",
-      "md_tekken7",
-      "md_deno_n,",
-      "bricss,chopGB,arabic,rg2_AF_North"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Egypt",
-    "lvlup": "1",
-    "Colors": [
-      "cl_RED",
-      "cl_WHI",
-      "cl_BLA",
-      "cl_YEL"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/2560px-Flag_of_Egypt.svg.png",
-    "Items2": [
-      "bricss,chopGB,arabic,rg2_AF_North"
-    ],
-    "Region": "rgn_Africa",
-    "couname": "Egypt",
-    "subtype": null,
-    "describe": "\\n\\n • Red: Represents the struggle for freedom against oppression.\\n\\n • White: Symbolizes the revolution of 1952, which led to the establishment of the Republic of Egypt.\\n\\n • Black: Signifies the end of the oppression of the people.\\n\\n • Golden Eagle: Represents the strength and unity of the Egyptian people."
-  },
-  {
-    "New": ".",
     "Code": "[EQG]",
     "Flag": "https://i.ibb.co/jH6h4M3/Equatorial-Guinea-Flag.png",
     "Year": "1979",
@@ -84895,41 +84661,6 @@
     "couname": "Eritrea",
     "subtype": null,
     "describe": "\\nThe green color in the flag stands for the agriculture and livestock of the country, while the blue represents the bounty of the sea. The red stands for the blood shed in the struggle for Eritrean independence, with the 30 leaves in the wreath representing the thirty years spent in the struggle for independence.  The shape of the red triangle broadly mimics the shape of the country."
-  },
-  {
-    "New": ".",
-    "Code": "[EST]",
-    "Flag": "https://i.ibb.co/NLq4VGw/Estonia-Flag.png",
-    "Year": "1990",
-    "type": null,
-    "Items": [
-      "myrEQ",
-      "001BLU, 002BLA, 003WHI",
-      "3Bands",
-      "Vertic",
-      "Geogrh",
-      "3Color",
-      "area_45227,capi_Tallinn,pm_Kristen Michal,pol_samesx",
-      "geo_CapiBeach",
-      "md_lightbl",
-      "md_deno_n,",
-      "soviet,eunion,cur_EUR,rg2_EU_North"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Estonia",
-    "lvlup": "1",
-    "Colors": [
-      "cl_BLU",
-      "cl_BLA",
-      "cl_WHI"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/2560px-Flag_of_Estonia.svg.png",
-    "Items2": [
-      "soviet,eunion,cur_EUR,rg2_EU_North"
-    ],
-    "Region": "rgn_Europe",
-    "couname": "Estonia",
-    "subtype": null,
-    "describe": "\\n\\n • Blue: Represents the clear blue skies over Estonia and the country's commitment to freedom, loyalty, and faith.\\n\\n • Black: Symbolizes the dark past and difficult times the Estonian people have endured, as well as the fertile soil of the country.\\n\\n • White: Represents the aspiration towards enlightenment, virtue, and the future."
   },
   {
     "New": ".",
@@ -85476,39 +85207,6 @@
   },
   {
     "New": ".",
-    "Code": "[GEO]",
-    "Flag": "https://i.ibb.co/1QHJzFd/Georgia-Flag.png",
-    "Year": "2004",
-    "type": null,
-    "Items": [
-      "myrWHI",
-      "2Bands",
-      "Horizo",
-      "Vertic",
-      "dgband",
-      "Canton",
-      "southc",
-      "2Color",
-      "area_69700,capi_Tbilisi,pm_Irakli Kobakhidze,md_deno_n,",
-      "soviet,noeuni,rg2_AS_West"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Georgia_(country)",
-    "lvlup": "1",
-    "Colors": [
-      "cl_RED",
-      "cl_WHI"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/2560px-Flag_of_Georgia.svg.png",
-    "Items2": [
-      "soviet,noeuni,rg2_AS_West"
-    ],
-    "Region": "rgn_Asia, rgn_Europe",
-    "couname": "Georgia",
-    "subtype": null,
-    "describe": "\\n\\n • Large Red Cross: The large red cross represents the symbol of Christianity, which has been the state religion in Georgia since the 4th century.\\n\\n • Four Smaller Crosses: The four smaller crosses are a form of the Bolnur-Katskhuri cross, and their presence further emphasizes the country's strong ties to Christianity."
-  },
-  {
-    "New": ".",
     "Code": "[GER]",
     "Flag": "https://i.ibb.co/GQp6cw9/Germany-Flag.png",
     "Year": "1919, 1949",
@@ -86004,44 +85702,6 @@
     "couname": "Honduras",
     "subtype": null,
     "describe": "\\nThe two blue bands stand for the two oceans (The Pacific and the Caribbean Sea) that surround the country. The blue color also represents the bonds of brotherhood or the blue skies seen over the country. The middle white band represents Honduras’ land area that sits between two oceans. White is also said to stand for the virtues of purity, peace, and prosperity among the inhabitants. The five stars stand for the five countries that made up the now-defunct Federal Republic of Central America."
-  },
-  {
-    "New": ".",
-    "Code": "[HUN]",
-    "Flag": "https://i.ibb.co/r6N9c52/Hungary-Flag.png",
-    "Year": "1957",
-    "type": null,
-    "Items": [
-      "myrEQ",
-      "001RED, 002WHI, 003GRE",
-      "3Bands",
-      "Vertic",
-      "Geogrh",
-      "3Color",
-      "area_93028,capi_Budapest,pm_Viktor Orbán,landlo",
-      "locate_MI",
-      "pol_2025Gaz",
-      "top10_ping",
-      "rg3_austrohungary",
-      "md_deno_n",
-      "ntGRRE,",
-      "eunion,rg2_EU_East"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Hungary",
-    "lvlup": "1",
-    "Colors": [
-      "cl_RED",
-      "cl_WHI",
-      "cl_GRE"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/2560px-Flag_of_Hungary.svg.png",
-    "Items2": [
-      "eunion,rg2_EU_East"
-    ],
-    "Region": "rgn_Europe",
-    "couname": "Hungary",
-    "subtype": null,
-    "describe": "\\n\\n • Red: Represents strength and the blood shed for the country’s freedom and independence.\\n\\n • White: Symbolizes faithfulness and purity.\\n\\n • Green: Denotes hope, as well as Hungary's lush vegetation and agricultural heritage."
   },
   {
     "New": ".",
@@ -86579,43 +86239,6 @@
   },
   {
     "New": ".",
-    "Code": "[LAO]",
-    "Flag": "https://i.ibb.co/4TvGkJQ/Laos-Flag.png",
-    "Year": "1945, 1975",
-    "type": null,
-    "Items": [
-      "myrRED",
-      "001RED, 002BLU, 003RED",
-      "3Bands",
-      "Vertic",
-      "Animal",
-      "Trside",
-      "Canton",
-      "southc",
-      "3Color",
-      "area_236800,capi_Vientiane,pm_Sonexay Siphandone,landlo",
-      "md_deno_n",
-      "ntWHRE,",
-      "rg2_AS_SouthEast"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Laos",
-    "lvlup": "1",
-    "Colors": [
-      "cl_RED",
-      "cl_BLU",
-      "cl_WHI"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/2560px-Flag_of_Laos.svg.png",
-    "Items2": [
-      "rg2_AS_SouthEast"
-    ],
-    "Region": "rgn_Asia",
-    "couname": "Laos",
-    "subtype": null,
-    "describe": "\\n\\n • Red Stripes: The red stripes symbolize the blood shed by the Lao people during their struggle for independence and freedom. It honors the sacrifices made by those who fought for the country's sovereignty.\\n\\n • Blue Stripe: The blue stripe represents the wealth and prosperity of the nation. It also symbolizes the Mekong River, which is a crucial resource for the country's agriculture and a vital part of its geography and economy.\\n\\n • White Disc: The white disc in the center stands for unity and justice under the leadership of the Lao People's Revolutionary Party. It also represents the full moon shining over the Mekong River, symbolizing the bright future and hope for the country."
-  },
-  {
-    "New": ".",
     "Code": "[LVA]",
     "Flag": "https://i.ibb.co/fHFqFWN/Latvia-Flag.png",
     "Year": "1921, 1990",
@@ -86646,44 +86269,6 @@
     "couname": "Latvia",
     "subtype": null,
     "describe": "\\nThe red colour is sometimes described as symbolizing the readiness of the Latvians to give the blood from their hearts for freedom and their willingness to defend their sovereignty. An alternative interpretation, according to the Rhymed Chronicle of Livonia, is that a Latgalian leader was wounded in battle, and sheet on which he was laid on were stained by his blood with only the centre stripe of the sheet being left unstained. This story is similar to the legend of the origins of the flag of Austria."
-  },
-  {
-    "New": ".",
-    "Code": "[NAM]",
-    "Flag": "https://i.ibb.co/Wkrd913/Namibia-Flag.png",
-    "Year": "1990",
-    "type": null,
-    "Items": [
-      "myrGRE",
-      "001BLU, 002RED, 003GRE",
-      "4+Band",
-      "Circle",
-      "Animal",
-      "IsMoon",
-      "5+Color",
-      "area_825615,capi_Windhoek,pm_Elijah Ngurare,md_deno_n",
-      "ntGRRE",
-      "ntGRYE",
-      "ntWHYE,",
-      "cur_Dollar,englis,rg2_AF_South"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Namibia",
-    "lvlup": "1",
-    "Colors": [
-      "cl_BLU",
-      "cl_RED",
-      "cl_GRE",
-      "cl_YEL",
-      "cl_WHI"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/2560px-Flag_of_Namibia.svg.png",
-    "Items2": [
-      "cur_Dollar,englis,rg2_AF_South"
-    ],
-    "Region": "rgn_Africa",
-    "couname": "Namibia",
-    "subtype": null,
-    "describe": "\\n\\n • Red – represents Namibia's most important resource, its people. It refers to their heroism and their determination to build a future of equal opportunity for all.\\n\\n • White – represents peace, unity, tranquility, and harmony.\\n\\n • Green – symbolises vegetation and agricultural resources.\\n\\n • Blue – represents the clear Namibian sky and the Atlantic Ocean, the country's precious water resources and rain.\\n\\n • Golden-yellow sun – life and energy. The golden-yellow colour represents wealth of the country.\\n\\n • The twelve rays of the sun – represents the twelve ethnicities of Namibia, which make up most of the Namibian population, which are divided into four main groups of three."
   },
   {
     "New": ".",
@@ -87199,42 +86784,6 @@
   },
   {
     "New": ".",
-    "Code": "[MUS]",
-    "Flag": "https://i.ibb.co/ZXvX95X/Mauritius-Flag.png",
-    "Year": "1968",
-    "type": null,
-    "Items": [
-      "myrEQ",
-      "001RED, 003GRE",
-      "4+Band",
-      "Vertic",
-      "Geogrh",
-      "4Color",
-      "area_2040,capi_Port Louis,pm_Navin Ramgoolam,island",
-      "geo_CapiBeach",
-      "md_deno_n",
-      "ntGRRE,",
-      "chopGB,englis,rg2_AF_East"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Mauritius",
-    "lvlup": "1",
-    "Colors": [
-      "cl_RED",
-      "cl_YEL",
-      "cl_GRE",
-      "cl_BLU"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/2560px-Flag_of_Mauritius.svg.png",
-    "Items2": [
-      "chopGB,englis,rg2_AF_East"
-    ],
-    "Region": "rgn_Africa",
-    "couname": "Mauritius",
-    "subtype": null,
-    "describe": "\\n\\n • Red represents the struggle for freedom and independence.\\n\\n • Blue represents the Indian Ocean, in which Mauritius is situated.\\n\\n • Yellow represents the light of freedom shining over the island.\\n\\n • Green represents the agriculture of Mauritius and its colour throughout the 12 months of the year."
-  },
-  {
-    "New": ".",
     "Code": "[MYT]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Mayotte_%28Local%29.svg/640px-Flag_of_Mayotte_%28Local%29.svg.png",
     "Year": "2011",
@@ -87474,44 +87023,6 @@
   },
   {
     "New": ".",
-    "Code": "[MNE]",
-    "Flag": "https://i.ibb.co/kMKBgP1/Montenegro-Flag.png",
-    "Year": "2004",
-    "type": null,
-    "Items": [
-      "myrRED",
-      "NoBand",
-      "Horizo",
-      "Plants",
-      "Texted",
-      "Canton",
-      "Rotate",
-      "4Color",
-      "area_13812,capi_Podgorica,pm_Milojko Spajić,rg3_austrohungary",
-      "md_lightbl",
-      "md_deno_n",
-      "ntGRRE,",
-      "balkan,rg3_romanempire,noeuni,cur_EUR,rg2_EU_South"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Montenegro",
-    "lvlup": "1",
-    "Colors": [
-      "cl_RED",
-      "cl_YEL",
-      "cl_BLU",
-      "cl_GRE"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/2560px-Flag_of_Montenegro.svg.png",
-    "Items2": [
-      "balkan,rg3_romanempire,noeuni,cur_EUR,rg2_EU_South"
-    ],
-    "Region": "rgn_Europe",
-    "couname": "Montenegro",
-    "subtype": null,
-    "describe": "\\n\\n • The red color represents the country’s history and the blood of its people.\\n\\n • The golden border around the coat of arms represents the country’s prosperity and wealth.\\n\\n • The coat of arms features a two-headed eagle, a traditional symbol of Montenegro, holding a scepter and an orb that represent the country’s independence and sovereignty.\\n\\n • The eagle’s heads are turned towards the East and the West, representing Montenegro’s desire to be a bridge between the two.\\n\\n • The crown on top of the eagle’s head represents the country’s royal heritage, while the shield at the eagle’s breast depicts a lion with a sword, representing courage and strength."
-  },
-  {
-    "New": ".",
     "Code": "[MSR]",
     "Flag": "https://i.ibb.co/ZBbgCMb/Montserrat-Flag.png",
     "Year": "1960",
@@ -87554,40 +87065,6 @@
     "couname": "Montserrat",
     "subtype": null,
     "describe": "\\nThe woman donning a green dress portrays Erin, the national personification of Ireland. The Celtic harp she is grasping is another representation of that nation. Both these symbols pay tribute to the Irish settlers who moved to Montserrat from 1632 onwards. The inaugural census conducted in the British Leeward Islands in 1678 found that 70% of the island's inhabitants who were Caucasian claimed Irish ancestry, representing the highest concentration of Irish residents in the federation. The cross alludes to the Christian heritage of the island, while the woman's hold of it signifies the Montserratians' love of Christ."
-  },
-  {
-    "New": ".",
-    "Code": "[MAR]",
-    "Flag": "https://i.ibb.co/4MPL9Pt/Morocco-Flag.png",
-    "Year": "1915",
-    "type": null,
-    "Items": [
-      "myrRED",
-      "NoBand",
-      "staGRE",
-      "1Stars",
-      "Canton",
-      "2Color",
-      "area_446550,capi_Rabat,pm_Aziz Akhannouch,locate_MI",
-      "top30_camel",
-      "geo_CapiBeach",
-      "md_deno_n,",
-      "monarchy,arabic,rg2_AF_North"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Morocco",
-    "lvlup": "1",
-    "Colors": [
-      "cl_RED",
-      "cl_GRE"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/2560px-Flag_of_Morocco.svg.png",
-    "Items2": [
-      "monarchy,arabic,rg2_AF_North"
-    ],
-    "Region": "rgn_Africa",
-    "couname": "Morocco",
-    "subtype": null,
-    "describe": "\\n\\n • Red Field: The red color has historical significance in Moroccan culture, symbolizing strength, valor, bravery, and hardiness. It is also associated with the Alaouite dynasty, which has ruled Morocco since the 17th century, and it reflects the country's ties to the Arab world.\\n\\n • Green Pentagram: The green color represents Islam, which is the dominant religion in Morocco. Green is considered a sacred color in Islam, symbolizing peace, wisdom, and joy. The five points of the star stand for the Five Pillars of Islam, which are the basic acts of worship and foundation of a Muslim's faith and practice."
   },
   {
     "New": ".",
@@ -88155,46 +87632,6 @@
   },
   {
     "New": ".",
-    "Code": "[OMN]",
-    "Flag": "https://i.ibb.co/Lxm3y1F/Oman-Flag.png",
-    "Year": "1970, 1995",
-    "type": null,
-    "Items": [
-      "myrRED",
-      "001RED, 003GRE",
-      "4+Band",
-      "Vertic",
-      "dgband",
-      "HasSun",
-      "unjack",
-      "3Color",
-      "area_309500,capi_Muscat,pm_Sultan Haitham bin Tariq,pol_2025Gaz",
-      "top30_camel",
-      "top30_oil",
-      "pol_deat",
-      "geo_CapiBeach",
-      "md_deno_i",
-      "md_deno_vw,",
-      "chopGB,monarchy,arabic,rg2_AS_West"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Oman",
-    "lvlup": "1",
-    "Colors": [
-      "cl_GRE",
-      "cl_RED",
-      "cl_WHI"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/2560px-Flag_of_Oman.svg.png",
-    "Items2": [
-      "chopGB,monarchy,arabic,rg2_AS_West"
-    ],
-    "Region": "rgn_Asia",
-    "couname": "Oman",
-    "subtype": null,
-    "describe": "\\n\\n • White Stripe: Symbolizes peace and prosperity.\\n\\n • Red Stripe: Represents the struggles and battles fought against invaders to maintain the country's independence.\\n\\n • Green Stripe: Signifies the fertility of the land and the Jebel Akhdar (Green Mountain), a region in northern Oman.\\n\\n • Two crossed swords: Representing the country's military tradition and defense.\\n\\n • A khanjar (a traditional curved dagger): A symbol of the Omani people’s heritage and bravery.\\n\\n • A belt: Binding the khanjar to the crossed swords, representing unity and the national identity."
-  },
-  {
-    "New": ".",
     "Code": "[PAK]",
     "Flag": "https://i.ibb.co/7K9kfvC/Pakistan-Flag.png",
     "Year": "1947",
@@ -88268,76 +87705,6 @@
   },
   {
     "New": ".",
-    "Code": "[PSE]",
-    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/383px-Flag_of_Palestine.svg.png",
-    "Year": "1964, 1988",
-    "type": null,
-    "Items": [
-      "myrEQ",
-      "001BLA, 002WHI, 003GRE",
-      "3Bands",
-      "Vertic",
-      "Center",
-      "4Color",
-      "area_6020,capi_Ramallah",
-      "Jerusalem,pm_Mohammad Mustafa,pol_2025Gaz",
-      "pol_pope",
-      "pol_deat",
-      "md_Trredd",
-      "md_deno_n,",
-      "arabic,rg2_AS_West"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Palestine",
-    "lvlup": "1",
-    "Colors": [
-      "cl_RED",
-      "cl_WHI",
-      "cl_BLA",
-      "cl_GRE"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/2560px-Flag_of_Palestine.svg.png",
-    "Items2": [
-      "arabic,rg2_AS_West"
-    ],
-    "Region": "rgn_Asia",
-    "couname": "Palestine",
-    "subtype": null,
-    "describe": "\\n\\n • Red: The Hashemite dynasty, symbolizes the blood on the swords of the warriors.\\n\\n • White: The Umayyad dynasty, symbolizes purity and noble deeds.\\n\\n • Green: The Fatimid dynasty, represents the fertile Arab lands.\\n\\n • Black: The Abbasid dynasty, represents the defeat of enemies in battle."
-  },
-  {
-    "New": ".",
-    "Code": "[PAN]",
-    "Flag": "https://i.ibb.co/Tcs2gdF/Panama-Flag.png",
-    "Year": "1925",
-    "type": null,
-    "Items": [
-      "myrWHI",
-      "NoBand",
-      "staRED, BLU",
-      "2Stars",
-      "3Color",
-      "area_75417,capi_Panama City,pm_José Raúl Mulino,geo_CapiBeach",
-      "md_deno_n,",
-      "bolivarian,cur_Dollar,spanis,rg2_AM_Central"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Panama",
-    "lvlup": "1",
-    "Colors": [
-      "cl_RED",
-      "cl_WHI",
-      "cl_BLU"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/2560px-Flag_of_Panama.svg.png",
-    "Items2": [
-      "bolivarian,cur_Dollar,spanis,rg2_AM_Central"
-    ],
-    "Region": "rgn_North America",
-    "couname": "Panama",
-    "subtype": null,
-    "describe": "\\n\\n • The blue was intended to represent the Conservative Party\\n\\n • The red to represent the Liberal Party.\\n\\n • The white was intended to stand for peace and purity;\\n\\n • The blue star stands for the purity and honesty of the life of the country;\\n\\n • The red star represents the authority and law in the country, and together the stars stand for the new republic."
-  },
-  {
-    "New": ".",
     "Code": "[PNG]",
     "Flag": "https://i.ibb.co/dGNHyxn/Papua-Flag.png",
     "Year": "1971",
@@ -88374,50 +87741,6 @@
     "couname": "Papua New Guinea",
     "subtype": null,
     "describe": "\\nRed and black have long been traditional colours of many Papua New Guinean tribes. Black-white-red was the colour of the German Empire flag, which had colonised New Guinea prior to 1918. The bird-of-paradise is also found on the national coat-of-arms. The Southern Cross shows that it is a country in the Southern Hemisphere and can be seen in Papua New Guinea"
-  },
-  {
-    "New": ".",
-    "Code": "[POR]",
-    "Flag": "https://i.ibb.co/c21RKhx/Portugal-Flag.png",
-    "Year": "1911",
-    "type": null,
-    "Items": [
-      "myrRED",
-      "001GRE, 003RED",
-      "2Bands",
-      "dgband",
-      "Animal",
-      "Ships!",
-      "5+Color",
-      "area_92090,capi_Lisbon,pm_Luís Montenegro,pol_samesx",
-      "pol_pope",
-      "geo_CapiBeach",
-      "md_deno_e",
-      "md_deno_vw",
-      "ntWHRE",
-      "ntGRYE",
-      "ntBLYE",
-      "ntWHYE,",
-      "rg3_romanempire,eunion,cur_EUR,portug,rg2_EU_South"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Portugal",
-    "lvlup": "1",
-    "Colors": [
-      "cl_RED",
-      "cl_GRE",
-      "cl_YEL",
-      "cl_WHI",
-      "cl_BLU",
-      "cl_BLA"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/2560px-Flag_of_Portugal.svg.png",
-    "Items2": [
-      "rg3_romanempire,eunion,cur_EUR,portug,rg2_EU_South"
-    ],
-    "Region": "rgn_Europe",
-    "couname": "Portugal",
-    "subtype": null,
-    "describe": "\\n\\n • Green Field: Traditionally interpreted to symbolize hope and the country's aspiration for a better future. Some historical interpretations suggest it represents the sea and the Portuguese discoveries.\\n\\n • Red Field: Symbolizes the blood of those who died serving the nation, particularly during the Portuguese Revolution of 1910 that led to the establishment of the republic.\\n\\n • The Portuguese Shield: Central to the coat of arms, it includes five smaller blue shields each containing five white dots. This symbolizes the first king of Portugal, Afonso I, and his victory over five Moorish kings. The dots represent the divine protection believed to have been bestowed upon him.\\n\\n • The Red Border with Seven Golden Castles: Surrounding the Portuguese shield, it symbolizes the historical expansion and defense of the nation.\\n\\n • The Armillary Sphere: Positioned behind the shield, it represents Portugal's maritime exploration and discoveries during the Age of Exploration."
   },
   {
     "New": ".",
@@ -88500,49 +87823,6 @@
     "couname": "Peru",
     "subtype": null,
     "describe": "\\nRed represents the blood that was spilled by the fallen freedom fighters that fought for the independence of the country. White represents purity and peace. However, the colours are also linked to the Chilean flamingo, or parihuana, a red and white type of flamingo that General San Martín dreamed about during the revolution."
-  },
-  {
-    "New": ".",
-    "Code": "[PHI]",
-    "Flag": "https://i.ibb.co/FmrMSmP/Phillippines-Flag.png",
-    "Year": "1898, 1936, 1998",
-    "type": null,
-    "Items": [
-      "myrEQ",
-      "001BLU, 003RED",
-      "2Bands",
-      "staYEL",
-      "3+Stars",
-      "Vertic",
-      "Animal",
-      "IsMoon",
-      "Center",
-      "4Color",
-      "area_300000,capi_Manila,pm_Ferdinand Marcos Jr.,island",
-      "orinoc",
-      "geo_CapiBeach",
-      "md_tekken7",
-      "md_Trwht",
-      "md_deno_vw",
-      "ntBLYE,",
-      "englis,rg2_AS_SouthEast"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_the_Philippines",
-    "lvlup": "1",
-    "Colors": [
-      "cl_BLU",
-      "cl_WHI",
-      "cl_RED",
-      "cl_YEL"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/2560px-Flag_of_the_Philippines.svg.png",
-    "Items2": [
-      "englis,rg2_AS_SouthEast"
-    ],
-    "Region": "rgn_Asia",
-    "couname": "Philippines",
-    "subtype": null,
-    "describe": "\\n\\n • Blue: Represents peace, truth, and justice.\\n\\n • Red: Symbolizes patriotism and valor.\\n\\n • White: Stands for purity and hope.\\n\\n • The Sun: The golden yellow sun symbolizes freedom, independence, and democracy. The eight rays represent the first eight provinces (Manila, Cavite, Batangas, Bulacan, Pampanga, Nueva Ecija, Tarlac, and Laguna) that revolted against Spanish rule.\\n\\n • The Three Stars: Represent the three main geographical regions of the Philippines: Luzon, Visayas, and Mindanao.\\n\\n • Orientation: The flag can be displayed with either the blue or red band on top. During peacetime, the blue band is on top, symbolizing peace and harmony. During times of war, the red band is displayed on top, indicating the country's readiness to fight for its sovereignty."
   },
   {
     "New": ".",
@@ -89699,90 +88979,6 @@
   },
   {
     "New": ".",
-    "Code": "[SSD]",
-    "Flag": "https://i.ibb.co/hFhLmF9/South-Sudan-Flag.png",
-    "Year": "2011, 2023",
-    "type": null,
-    "Items": [
-      "myrEQ",
-      "001BLA, 002RED, 003GRE",
-      "4+Band",
-      "staYEL",
-      "1Stars",
-      "Vertic",
-      "Center",
-      "5+Color",
-      "area_619745,capi_Juba,pm_Salva Kiir Mayardit,landlo",
-      "pol_failed",
-      "pol_deat",
-      "md_lightbl",
-      "md_Trbluu",
-      "md_deno_e",
-      "md_deno_vw",
-      "ntGRRE",
-      "ntGRYE",
-      "ntWHYE,",
-      "englis,rg2_AF_East"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_South_Sudan",
-    "lvlup": "1",
-    "Colors": [
-      "cl_BLU",
-      "cl_YEL",
-      "cl_BLA",
-      "cl_RED",
-      "cl_GRE",
-      "cl_WHI"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/2560px-Flag_of_South_Sudan.svg.png",
-    "Items2": [
-      "englis,rg2_AF_East"
-    ],
-    "Region": "rgn_Africa",
-    "couname": "South Sudan",
-    "subtype": null,
-    "describe": "\\n\\n • Black: Represents the people of South Sudan.\\n\\n • Red: Represents blood that was shed for the independence of the country.\\n\\n • Green: Represents the country's agricultural, natural wealth, land, as well as progress.\\n\\n • White: Represents peace.\\n\\n • Blue: Represents waters of the Nile River, a source of life.\\n\\n • Yellow: Represents unity (of the states), hope, and determination for all people."
-  },
-  {
-    "New": ".",
-    "Code": "[LKA]",
-    "Flag": "https://i.ibb.co/zxcMwLH/Sri-Lanka-Flag.png",
-    "Year": "1972",
-    "type": null,
-    "Items": [
-      "myrYEL",
-      "NoBand",
-      "Plants",
-      "Texted",
-      "HasSun",
-      "5+Color",
-      "area_65610,capi_Sri Jayawardenepura Kotte",
-      "Colombo,pm_Dinesh Gunawardena,island",
-      "geo_CapiBeach",
-      "md_deno_n",
-      "ntGRRE,",
-      "chopGB,rg2_As_SouthOnly"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Sri_Lanka",
-    "lvlup": "1",
-    "Colors": [
-      "cl_YEL",
-      "cl_RED",
-      "cl_GRE",
-      "cl_ORA",
-      "cl_BLA"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/2560px-Flag_of_Sri_Lanka.svg.png",
-    "Items2": [
-      "chopGB,rg2_As_SouthOnly"
-    ],
-    "Region": "rgn_Asia",
-    "couname": "Sri Lanka",
-    "subtype": null,
-    "describe": "\\n\\n • The Lion: The golden lion holding a sword in its right forepaw represents bravery and strength. The lion is a symbol historically associated with the Sinhalese ethnicity, which makes up the majority of the population.\\n\\n • The Four Bo Leaves: Positioned in each corner of the flag, these leaves come from the sacred Bo tree under which Buddha attained enlightenment. They symbolize four key Buddhist virtues: Metta (loving-kindness), Karuna (compassion), Mudita (sympathetic joy), and Upekkha (equanimity).\\n\\n • Saffron (orange): Represents the Tamil minority and symbolizes the country's Hindu population.\\n\\n • Green: Represents the Muslim minority.\\n\\n • Maroon (dark red background): Represents the Sinhalese majority.\\n\\n • Yellow border: Signifies unity and a harmonious relationship among all ethnic groups in Sri Lanka."
-  },
-  {
-    "New": ".",
     "Code": "[SPM]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Saint-Pierre_and_Miquelon.svg/480px-Flag_of_Saint-Pierre_and_Miquelon.svg.png",
     "Year": "1982",
@@ -90119,83 +89315,6 @@
     "couname": "Thailand",
     "subtype": null,
     "describe": "\\nThe red symbolizes the nation and the blood of life, the white represents Buddhism and purity, and the blue stands for the monarchy and the country's king."
-  },
-  {
-    "New": ".",
-    "Code": "[TLS]",
-    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/2560px-Flag_of_East_Timor.svg.png",
-    "Year": "1975, 2002",
-    "type": null,
-    "Items": [
-      "myrRED",
-      "NoBand",
-      "staWHI",
-      "1Stars",
-      "Center",
-      "4Color",
-      "area_14874,capi_Dili,pm_Xanana Gusmão,island",
-      "geo_CapiBeach",
-      "md_Trblac",
-      "md_deno_e",
-      "md_deno_vw",
-      "ntWHRE",
-      "ntWHYE,",
-      "cur_Dollar,portug,rg2_AS_SouthEast"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_East_Timor",
-    "lvlup": "1",
-    "Colors": [
-      "cl_RED",
-      "cl_BLA",
-      "cl_YEL",
-      "cl_WHI"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/2560px-Flag_of_East_Timor.svg.png",
-    "Items2": [
-      "cur_Dollar,portug,rg2_AS_SouthEast"
-    ],
-    "Region": "rgn_Asia",
-    "couname": "Timor-Leste",
-    "subtype": null,
-    "describe": "\\n\\n • Black symbolises obscurantism, which must be overcome.\\n\\n • Yellow represents the wealth of the country.\\n\\n • Red symbolises the struggle for national liberation.\\n\\n • The white star, or the light that guides, is white to represent peace."
-  },
-  {
-    "New": ".",
-    "Code": "[TGO]",
-    "Flag": "https://i.ibb.co/Z89CzBV/Togo-Flag.png",
-    "Year": "1960",
-    "type": null,
-    "Items": [
-      "myrGRE",
-      "001GRE, 002GRE, 003GRE",
-      "4+Band",
-      "staWHI",
-      "1Stars",
-      "Vertic",
-      "unjack",
-      "4Color",
-      "area_56785,capi_Lomé,pm_Faure Gnassingbé,geo_CapiBeach",
-      "md_deno_e",
-      "md_deno_vw",
-      "ntWHYE,",
-      "french,rg2_AF_West"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Togo",
-    "lvlup": "1",
-    "Colors": [
-      "cl_GRE",
-      "cl_YEL",
-      "cl_RED",
-      "cl_WHI"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/2560px-Flag_of_Togo.svg.png",
-    "Items2": [
-      "french,rg2_AF_West"
-    ],
-    "Region": "rgn_Africa",
-    "couname": "Togo",
-    "subtype": null,
-    "describe": "\\n\\n • Red represents blood shed by Togo's freedom fighters\\n\\n • White star represents hope\\n\\n • Green represents the forests, agriculture, nature, and overall hope for the future\\n\\n • Yellow represents the natural resources of the country\\n\\n • The five stripes represent the five regions of Togo."
   },
   {
     "New": ".",
@@ -90831,45 +89950,6 @@
     "couname": "Vatican City",
     "subtype": null,
     "describe": "\\nThe papal coat of arms and banner were red with two crossed gold keys, referring to the keys mentioned in the New Testament and symbolizing either the access that St. Peter was given to the kingdom of heaven or papal claims to dominion over both spiritual and temporal matters. This coat of arms dates from at least the early 13th century, as does the tiara that the pope traditionally has worn as a symbol of sovereignty. Today both the coat of arms and flag of Vatican City bear crossed gold and silver keys bound with a red cord and surmounted by the tiara."
-  },
-  {
-    "New": ".",
-    "Code": "[VEN]",
-    "Flag": "https://i.ibb.co/FnjCzQh/Venezuela-Flag.png",
-    "Year": "2006",
-    "type": null,
-    "Items": [
-      "myrEQ",
-      "001YEL, 002BLU, 003RED",
-      "3Bands",
-      "staWHI",
-      "3+Stars",
-      "Vertic",
-      "Canton",
-      "4Color",
-      "area_916445,capi_Caracas,pm_Nicolás Maduro,orinoc",
-      "top30_oil",
-      "md_deno_n",
-      "ntWHRE",
-      "ntWHYE,",
-      "mercosr,bolivarian,spanis,rg2_AM_South"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Flag_of_Venezuela",
-    "lvlup": "1",
-    "Colors": [
-      "cl_YEL",
-      "cl_BLU",
-      "cl_RED",
-      "cl_WHI"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/2560px-Flag_of_Venezuela.svg.png",
-    "Items2": [
-      "mercosr,bolivarian,spanis,rg2_AM_South"
-    ],
-    "Region": "rgn_South America",
-    "couname": "Venezuela",
-    "subtype": null,
-    "describe": "\\n\\n • Yellow: Represents the riches of the country, the wealth of Venezuelan soil, gold, sovereignty, harmony, justice and agriculture, as well as the Sun, the source of light.\\n\\n • Blue: Represents the Sea of the Caribbean that surrounds the country, as well as Venezuela's beaches.\\n\\n • Red: Represents the blood spilt in the battle of independence from Spain."
   },
   {
     "New": ".",
@@ -92325,6 +91405,38 @@
   },
   {
     "New": ".",
+    "Code": "[CHI]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Tibet_%281916-1951%29.svg/640px-Flag_of_Tibet_%281916-1951%29.svg.png",
+    "Year": "1916",
+    "type": "Autonomous Region",
+    "Items": [
+      "myrRED",
+      "NoBand",
+      "Circle",
+      "Animal",
+      "HasSun",
+      "Geogrh",
+      "5+Color"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Tibet",
+    "lvlup": "2b",
+    "Colors": [
+      "cl_YEL",
+      "cl_RED",
+      "cl_BLU",
+      "cl_WHI",
+      "cl_GRE",
+      "cl_ORA"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Tibet_%281916-1951%29.svg/2560px-Flag_of_Tibet_%281916-1951%29.svg.png",
+    "Items2": [],
+    "Region": "rgn_Asia",
+    "couname": "[CHI] Tibet",
+    "subtype": null,
+    "describe": "\\n • The white triangle at the center of the flag symbolises a snow-clad mountain.\\n\\n • The six red stripes exist atop a blue sky representing the original ancestors of the Tibetan people: the six tribes called Se, Mu, Dong, Tong, Dru, and Ra.\\n\\n • The yellow sun represents the equal enjoyment of freedom, spiritual and material happiness and prosperity by all beings in Tibet.\\n\\n • The pair of snow lions represent Tibet’s victorious accomplishment of a unified spiritual and secular life.\\n\\n • The three-coloured jewel held by the snow lions represent the three supreme gems, the objects of refuge: Buddha, Dharma and Sangha.\\n\\n • The two coloured swirling jewel held between the two lions represents the people’s guarding and cherishing of the self discipline of correct ethical behaviour.\\n\\n • The flag’s yellow border symbolises that the teachings of the Buddha are flourishing and spreading"
+  },
+  {
+    "New": ".",
     "Code": "[USA]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Jack_of_the_United_States.svg/640px-Jack_of_the_United_States.svg.png",
     "Year": "1997, 2021",
@@ -93513,6 +92625,40 @@
     "describe": "\\nThe current flag of the Islamic Emirate of Afghanistan is a plain white flag with the black words of the shahada in the centre. The white stands for the (Islamic Movement of Taliban's) purity of faith and government; the flag incorporated the shahada, the Islamic declaration of faith, after 1997"
   },
   {
+    "New": ".",
+    "Code": "[RUS]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Nizhny_Novgorod_Region.svg/640px-Flag_of_Nizhny_Novgorod_Region.svg.png",
+    "Year": "2005",
+    "type": "Oblast (Region)",
+    "Items": [
+      "myrWHI",
+      "NoBand",
+      "Crosse",
+      "Circle",
+      "Animal",
+      "Plants",
+      "Center",
+      "Crowns",
+      "5+Color"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Nizhny_Novgorod_Oblast",
+    "lvlup": "2a",
+    "Colors": [
+      "cl_BLA",
+      "cl_BLU",
+      "cl_RED",
+      "cl_YEL",
+      "cl_BRO",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Nizhny_Novgorod_Region.svg/2560px-Flag_of_Nizhny_Novgorod_Region.svg.png",
+    "Items2": [],
+    "Region": "rgn_Asia, rgn_Europe",
+    "couname": "[RUS] Nizhny Novgorod Oblast",
+    "subtype": null,
+    "describe": "\\nThe flag is a white banner with the region's coat of arms in the middle."
+  },
+  {
     "New": "w4",
     "Code": "[USA]",
     "Flag": "https://www.crwflags.com/fotw/images/u/um-navsa.gif",
@@ -93645,6 +92791,43 @@
     "couname": "[SWI] Aargau",
     "subtype": null,
     "describe": "\\nThe current flag of the Islamic Emirate of Afghanistan is a plain white flag with the black words of the shahada in the centre. The white stands for the (Islamic Movement of Taliban's) purity of faith and government; the flag incorporated the shahada, the Islamic declaration of faith, after 1997"
+  },
+  {
+    "New": ".",
+    "Code": "[LAO]",
+    "Flag": "https://i.ibb.co/4TvGkJQ/Laos-Flag.png",
+    "Year": "1945, 1975",
+    "type": null,
+    "Items": [
+      "myrRED",
+      "001RED, 002BLU, 003RED",
+      "3Bands",
+      "Vertic",
+      "Animal",
+      "Trside",
+      "Canton",
+      "southc",
+      "3Color",
+      "area_236800,capi_Vientiane,pm_Sonexay Siphandone,landlo",
+      "md_deno_n",
+      "ntWHRE,",
+      "rg2_AS_SouthEast"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Laos",
+    "lvlup": "1",
+    "Colors": [
+      "cl_RED",
+      "cl_BLU",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/2560px-Flag_of_Laos.svg.png",
+    "Items2": [
+      "rg2_AS_SouthEast"
+    ],
+    "Region": "rgn_Asia",
+    "couname": "Laos",
+    "subtype": null,
+    "describe": "\\n • Red Stripes: The red stripes symbolize the blood shed by the Lao people during their struggle for independence and freedom. It honors the sacrifices made by those who fought for the country's sovereignty.\\n\\n • Blue Stripe: The blue stripe represents the wealth and prosperity of the nation. It also symbolizes the Mekong River, which is a crucial resource for the country's agriculture and a vital part of its geography and economy.\\n\\n • White Disc: The white disc in the center stands for unity and justice under the leadership of the Lao People's Revolutionary Party. It also represents the full moon shining over the Mekong River, symbolizing the bright future and hope for the country."
   },
   {
     "New": ".",
@@ -93865,6 +93048,44 @@
     "couname": "[SWI] Glarus",
     "subtype": null,
     "describe": "\\nThe current flag of the Islamic Emirate of Afghanistan is a plain white flag with the black words of the shahada in the centre. The white stands for the (Islamic Movement of Taliban's) purity of faith and government; the flag incorporated the shahada, the Islamic declaration of faith, after 1997"
+  },
+  {
+    "New": ".",
+    "Code": "[NAM]",
+    "Flag": "https://i.ibb.co/Wkrd913/Namibia-Flag.png",
+    "Year": "1990",
+    "type": null,
+    "Items": [
+      "myrGRE",
+      "001BLU, 002RED, 003GRE",
+      "4+Band",
+      "Circle",
+      "Animal",
+      "IsMoon",
+      "5+Color",
+      "area_825615,capi_Windhoek,pm_Elijah Ngurare,md_deno_n",
+      "ntGRRE",
+      "ntGRYE",
+      "ntWHYE,",
+      "cur_Dollar,englis,rg2_AF_South"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Namibia",
+    "lvlup": "1",
+    "Colors": [
+      "cl_BLU",
+      "cl_RED",
+      "cl_GRE",
+      "cl_YEL",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/2560px-Flag_of_Namibia.svg.png",
+    "Items2": [
+      "cur_Dollar,englis,rg2_AF_South"
+    ],
+    "Region": "rgn_Africa",
+    "couname": "Namibia",
+    "subtype": null,
+    "describe": "\\n • Red – represents Namibia's most important resource, its people. It refers to their heroism and their determination to build a future of equal opportunity for all.\\n\\n • White – represents peace, unity, tranquility, and harmony.\\n\\n • Green – symbolises vegetation and agricultural resources.\\n\\n • Blue – represents the clear Namibian sky and the Atlantic Ocean, the country's precious water resources and rain.\\n\\n • Golden-yellow sun – life and energy. The golden-yellow colour represents wealth of the country.\\n\\n • The twelve rays of the sun – represents the twelve ethnicities of Namibia, which make up most of the Namibian population, which are divided into four main groups of three."
   },
   {
     "New": ".",
@@ -94392,5 +93613,784 @@
     "couname": "[BLM] Twinning Committe of Saint-Barthélemy and Piteå",
     "subtype": null,
     "describe": "\\nA flag with the emblem of the twinning committee could be seen for example during the exhibition 140 years of Franco-Swedish History at the WallHouse Museum in Gustavia in 2018. The emblem mixes the shield of the arms of Piteå with the the two pelicans supporting the arms of Saint-Barthélemy, and the french and swedish flags."
+  },
+  {
+    "New": ".",
+    "Code": "[CMR]",
+    "Flag": "https://i.ibb.co/vjJbmfZ/Cameroon-Flag.png",
+    "Year": "1975",
+    "type": null,
+    "Items": [
+      "myrYEL",
+      "001GRE, 002RED, 003YEL",
+      "3Bands",
+      "staYEL",
+      "1Stars",
+      "dgband",
+      "Canton",
+      "3Color",
+      "area_475442,capi_Yaoundé,pm_Joseph Ngute,md_deno_n",
+      "ntGRYE,",
+      "englis,french,rg2_AF_Mid"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Cameroon",
+    "lvlup": "1",
+    "Colors": [
+      "cl_GRE",
+      "cl_RED",
+      "cl_YEL"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/2560px-Flag_of_Cameroon.svg.png",
+    "Items2": [
+      "englis,french,rg2_AF_Mid"
+    ],
+    "Region": "rgn_Africa",
+    "couname": "Cameroon",
+    "subtype": null,
+    "describe": "\\n • Green represents the lush vegetation of the southern part of the country and stands for hope.\\n\\n • Red symbolizes unity and independence.\\n\\n • Yellow reflects the savannas in the northern region and stands for the sun and the prosperity it brings.\\n\\n • The star, often referred to as the star of unity, signifies the unity of the country​"
+  },
+  {
+    "New": ".",
+    "Code": "[CRI]",
+    "Flag": "https://i.ibb.co/GM89PDg/Costa-Rica-Flag.png",
+    "Year": "1848",
+    "type": null,
+    "Items": [
+      "myrEQ",
+      "001BLU, 002RED, 003BLU",
+      "4+Band",
+      "Vertic",
+      "Geogrh",
+      "southc",
+      "3Color",
+      "area_51100,capi_San José,pm_Rodrigo Chaves Robles,pol_samesx",
+      "md_deno_n,",
+      "spanis,rg2_AM_Central"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Costa_Rica",
+    "lvlup": "1",
+    "Colors": [
+      "cl_BLU",
+      "cl_RED",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/2560px-Flag_of_Costa_Rica.svg.png",
+    "Items2": [
+      "spanis,rg2_AM_Central"
+    ],
+    "Region": "rgn_North America",
+    "couname": "Costa Rica",
+    "subtype": null,
+    "describe": "\\n • Blue: Represents the sky, opportunities, idealism, and perseverance.\\n\\n • White: Symbolizes clear thinking, happiness, wisdom, power and beauty of the sky, the driving force of initiatives to search for new endeavors, and the peace of Costa Rica\\n\\n • Red: Stands for the blood shed for freedom, as well as the warmth and generosity of the Costa Rican people."
+  },
+  {
+    "New": ".",
+    "Code": "[CRO]",
+    "Flag": "https://i.ibb.co/hCDQMMX/Croatia-Flag.png",
+    "Year": "1990",
+    "type": null,
+    "Items": [
+      "myrRED",
+      "001RED, 002WHI, 003BLU",
+      "3Bands",
+      "staYEL, BLA",
+      "2Stars",
+      "Vertic",
+      "Plants",
+      "Trside",
+      "Canton",
+      "Rotate",
+      "5+Color",
+      "area_56594,capi_Zagreb,pm_Andrej Plenković,rg3_austrohungary",
+      "pol_pope",
+      "md_lightbl",
+      "md_LOTRNation",
+      "md_deno_n",
+      "ntBLYE",
+      "ntWHYE,",
+      "balkan,rg3_romanempire,eunion,cur_EUR,italia,rg2_EU_South"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Croatia",
+    "lvlup": "1",
+    "Colors": [
+      "cl_RED",
+      "cl_WHI",
+      "cl_BLU",
+      "cl_YEL",
+      "cl_BLA"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/2560px-Flag_of_Croatia.svg.png",
+    "Items2": [
+      "balkan,rg3_romanempire,eunion,cur_EUR,italia,rg2_EU_South"
+    ],
+    "Region": "rgn_Europe",
+    "couname": "Croatia",
+    "subtype": null,
+    "describe": "\\n • Red symbolizes the struggle for independence and the bloodshed in defending the country.\\n\\n • White stands for peace, purity, and freedom.\\n\\n • Blue represents faith, loyalty, and the sky and sea.\\n\\n • The main shield features a checkerboard pattern (known as the šahovnica) of 13 red and 12 white fields. This pattern has been associated with Croatia since at least the 10th century and is a prominent national symbol.\\n\\n • Crown: Above the main shield is a crown made up of five smaller shields, each representing different historical regions of Croatia. From left to right:\\n • The oldest known Croatian coat of arms (a golden six-pointed star with a white crescent on a blue field, representing the region of Illyria).\\n • The coat of arms of the Republic of Dubrovnik (two red stripes on a dark blue field).\\n • The coat of arms of Dalmatia (three golden, crowned leopard heads on a blue shield).\\n • The coat of arms of Istria (a golden goat with red hooves and horns on a blue shield).\\n • The coat of arms of Slavonia (a silver stripe with a marten running on it between two blue fields, with a six-pointed star above)."
+  },
+  {
+    "New": ".",
+    "Code": "[ECU]",
+    "Flag": "https://i.ibb.co/TbYwmWF/Ecuador-Flag.png",
+    "Year": "1860, 1900, 2009",
+    "type": null,
+    "Items": [
+      "myrYEL",
+      "001YEL, 002BLU, 003RED",
+      "3Bands",
+      "Vertic",
+      "Animal",
+      "Plants",
+      "Texted",
+      "HasSun",
+      "IsMoon",
+      "Canton",
+      "Humans",
+      "Builds",
+      "Crowns",
+      "5+Color",
+      "area_283561,capi_Quito,pm_Daniel Noboa,top30_oil",
+      "pol_samesx",
+      "md_lightbl",
+      "md_deno_n",
+      "ntWHRE",
+      "ntGRRE",
+      "ntGRYE",
+      "ntWHYE,",
+      "bolivarian,cur_Dollar,spanis,rg2_AM_South"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Ecuador",
+    "lvlup": "1",
+    "Colors": [
+      "cl_YEL",
+      "cl_RED",
+      "cl_BLU",
+      "cl_BRO",
+      "cl_WHI",
+      "cl_GRE",
+      "cl_GRA",
+      "cl_BLA"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/2560px-Flag_of_Ecuador.svg.png",
+    "Items2": [
+      "bolivarian,cur_Dollar,spanis,rg2_AM_South"
+    ],
+    "Region": "rgn_South America",
+    "couname": "Ecuador",
+    "subtype": null,
+    "describe": "\\n • Yellow: The crops and the fertile soil.\\n\\n • Blue: The ocean and the clear skies\\n\\n • Red: The blood spilled by the heroes who died in the name of their countrymen's Fatherland and Freedom."
+  },
+  {
+    "New": ".",
+    "Code": "[EGY]",
+    "Flag": "https://i.ibb.co/grvKyVf/Egypt-Flag.png",
+    "Year": "1984",
+    "type": null,
+    "Items": [
+      "myrEQ",
+      "001RED, 002WHI, 003BLA",
+      "3Bands",
+      "Vertic",
+      "Plants",
+      "Weapon",
+      "Canton",
+      "4Color",
+      "area_1010408,capi_Cairo,pm_Mostafa Madbouly,pol_2025Gaz",
+      "top30_camel",
+      "top30_oil",
+      "pol_deat",
+      "md_tekken7",
+      "md_deno_n,",
+      "bricss,chopGB,arabic,rg2_AF_North"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Egypt",
+    "lvlup": "1",
+    "Colors": [
+      "cl_RED",
+      "cl_WHI",
+      "cl_BLA",
+      "cl_YEL"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/2560px-Flag_of_Egypt.svg.png",
+    "Items2": [
+      "bricss,chopGB,arabic,rg2_AF_North"
+    ],
+    "Region": "rgn_Africa",
+    "couname": "Egypt",
+    "subtype": null,
+    "describe": "\\n • Red: Represents the struggle for freedom against oppression.\\n\\n • White: Symbolizes the revolution of 1952, which led to the establishment of the Republic of Egypt.\\n\\n • Black: Signifies the end of the oppression of the people.\\n\\n • Golden Eagle: Represents the strength and unity of the Egyptian people."
+  },
+  {
+    "New": ".",
+    "Code": "[EST]",
+    "Flag": "https://i.ibb.co/NLq4VGw/Estonia-Flag.png",
+    "Year": "1990",
+    "type": null,
+    "Items": [
+      "myrEQ",
+      "001BLU, 002BLA, 003WHI",
+      "3Bands",
+      "Vertic",
+      "Geogrh",
+      "3Color",
+      "area_45227,capi_Tallinn,pm_Kristen Michal,pol_samesx",
+      "geo_CapiBeach",
+      "md_lightbl",
+      "md_deno_n,",
+      "soviet,eunion,cur_EUR,rg2_EU_North"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Estonia",
+    "lvlup": "1",
+    "Colors": [
+      "cl_BLU",
+      "cl_BLA",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/2560px-Flag_of_Estonia.svg.png",
+    "Items2": [
+      "soviet,eunion,cur_EUR,rg2_EU_North"
+    ],
+    "Region": "rgn_Europe",
+    "couname": "Estonia",
+    "subtype": null,
+    "describe": "\\n • Blue: Represents the clear blue skies over Estonia and the country's commitment to freedom, loyalty, and faith.\\n\\n • Black: Symbolizes the dark past and difficult times the Estonian people have endured, as well as the fertile soil of the country.\\n\\n • White: Represents the aspiration towards enlightenment, virtue, and the future."
+  },
+  {
+    "New": ".",
+    "Code": "[GEO]",
+    "Flag": "https://i.ibb.co/1QHJzFd/Georgia-Flag.png",
+    "Year": "2004",
+    "type": null,
+    "Items": [
+      "myrWHI",
+      "2Bands",
+      "Horizo",
+      "Vertic",
+      "dgband",
+      "Canton",
+      "southc",
+      "2Color",
+      "area_69700,capi_Tbilisi,pm_Irakli Kobakhidze,md_deno_n,",
+      "soviet,noeuni,rg2_AS_West"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Georgia_(country)",
+    "lvlup": "1",
+    "Colors": [
+      "cl_RED",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/2560px-Flag_of_Georgia.svg.png",
+    "Items2": [
+      "soviet,noeuni,rg2_AS_West"
+    ],
+    "Region": "rgn_Asia, rgn_Europe",
+    "couname": "Georgia",
+    "subtype": null,
+    "describe": "\\n • Large Red Cross: The large red cross represents the symbol of Christianity, which has been the state religion in Georgia since the 4th century.\\n\\n • Four Smaller Crosses: The four smaller crosses are a form of the Bolnur-Katskhuri cross, and their presence further emphasizes the country's strong ties to Christianity."
+  },
+  {
+    "New": ".",
+    "Code": "[HUN]",
+    "Flag": "https://i.ibb.co/r6N9c52/Hungary-Flag.png",
+    "Year": "1957",
+    "type": null,
+    "Items": [
+      "myrEQ",
+      "001RED, 002WHI, 003GRE",
+      "3Bands",
+      "Vertic",
+      "Geogrh",
+      "3Color",
+      "area_93028,capi_Budapest,pm_Viktor Orbán,landlo",
+      "locate_MI",
+      "pol_2025Gaz",
+      "top10_ping",
+      "rg3_austrohungary",
+      "md_deno_n",
+      "ntGRRE,",
+      "eunion,rg2_EU_East"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Hungary",
+    "lvlup": "1",
+    "Colors": [
+      "cl_RED",
+      "cl_WHI",
+      "cl_GRE"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/2560px-Flag_of_Hungary.svg.png",
+    "Items2": [
+      "eunion,rg2_EU_East"
+    ],
+    "Region": "rgn_Europe",
+    "couname": "Hungary",
+    "subtype": null,
+    "describe": "\\n • Red: Represents strength and the blood shed for the country’s freedom and independence.\\n\\n • White: Symbolizes faithfulness and purity.\\n\\n • Green: Denotes hope, as well as Hungary's lush vegetation and agricultural heritage."
+  },
+  {
+    "New": ".",
+    "Code": "[MUS]",
+    "Flag": "https://i.ibb.co/ZXvX95X/Mauritius-Flag.png",
+    "Year": "1968",
+    "type": null,
+    "Items": [
+      "myrEQ",
+      "001RED, 003GRE",
+      "4+Band",
+      "Vertic",
+      "Geogrh",
+      "4Color",
+      "area_2040,capi_Port Louis,pm_Navin Ramgoolam,island",
+      "geo_CapiBeach",
+      "md_deno_n",
+      "ntGRRE,",
+      "chopGB,englis,rg2_AF_East"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Mauritius",
+    "lvlup": "1",
+    "Colors": [
+      "cl_RED",
+      "cl_YEL",
+      "cl_GRE",
+      "cl_BLU"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/2560px-Flag_of_Mauritius.svg.png",
+    "Items2": [
+      "chopGB,englis,rg2_AF_East"
+    ],
+    "Region": "rgn_Africa",
+    "couname": "Mauritius",
+    "subtype": null,
+    "describe": "\\n • Red represents the struggle for freedom and independence.\\n\\n • Blue represents the Indian Ocean, in which Mauritius is situated.\\n\\n • Yellow represents the light of freedom shining over the island.\\n\\n • Green represents the agriculture of Mauritius and its colour throughout the 12 months of the year."
+  },
+  {
+    "New": ".",
+    "Code": "[MNE]",
+    "Flag": "https://i.ibb.co/kMKBgP1/Montenegro-Flag.png",
+    "Year": "2004",
+    "type": null,
+    "Items": [
+      "myrRED",
+      "NoBand",
+      "Horizo",
+      "Plants",
+      "Texted",
+      "Canton",
+      "Rotate",
+      "4Color",
+      "area_13812,capi_Podgorica,pm_Milojko Spajić,rg3_austrohungary",
+      "md_lightbl",
+      "md_deno_n",
+      "ntGRRE,",
+      "balkan,rg3_romanempire,noeuni,cur_EUR,rg2_EU_South"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Montenegro",
+    "lvlup": "1",
+    "Colors": [
+      "cl_RED",
+      "cl_YEL",
+      "cl_BLU",
+      "cl_GRE"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/2560px-Flag_of_Montenegro.svg.png",
+    "Items2": [
+      "balkan,rg3_romanempire,noeuni,cur_EUR,rg2_EU_South"
+    ],
+    "Region": "rgn_Europe",
+    "couname": "Montenegro",
+    "subtype": null,
+    "describe": "\\n • The red color represents the country’s history and the blood of its people.\\n\\n • The golden border around the coat of arms represents the country’s prosperity and wealth.\\n\\n • The coat of arms features a two-headed eagle, a traditional symbol of Montenegro, holding a scepter and an orb that represent the country’s independence and sovereignty.\\n\\n • The eagle’s heads are turned towards the East and the West, representing Montenegro’s desire to be a bridge between the two.\\n\\n • The crown on top of the eagle’s head represents the country’s royal heritage, while the shield at the eagle’s breast depicts a lion with a sword, representing courage and strength."
+  },
+  {
+    "New": ".",
+    "Code": "[MAR]",
+    "Flag": "https://i.ibb.co/4MPL9Pt/Morocco-Flag.png",
+    "Year": "1915",
+    "type": null,
+    "Items": [
+      "myrRED",
+      "NoBand",
+      "staGRE",
+      "1Stars",
+      "Canton",
+      "2Color",
+      "area_446550,capi_Rabat,pm_Aziz Akhannouch,locate_MI",
+      "top30_camel",
+      "geo_CapiBeach",
+      "md_deno_n,",
+      "monarchy,arabic,rg2_AF_North"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Morocco",
+    "lvlup": "1",
+    "Colors": [
+      "cl_RED",
+      "cl_GRE"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/2560px-Flag_of_Morocco.svg.png",
+    "Items2": [
+      "monarchy,arabic,rg2_AF_North"
+    ],
+    "Region": "rgn_Africa",
+    "couname": "Morocco",
+    "subtype": null,
+    "describe": "\\n • Red Field: The red color has historical significance in Moroccan culture, symbolizing strength, valor, bravery, and hardiness. It is also associated with the Alaouite dynasty, which has ruled Morocco since the 17th century, and it reflects the country's ties to the Arab world.\\n\\n • Green Pentagram: The green color represents Islam, which is the dominant religion in Morocco. Green is considered a sacred color in Islam, symbolizing peace, wisdom, and joy. The five points of the star stand for the Five Pillars of Islam, which are the basic acts of worship and foundation of a Muslim's faith and practice."
+  },
+  {
+    "New": ".",
+    "Code": "[OMN]",
+    "Flag": "https://i.ibb.co/Lxm3y1F/Oman-Flag.png",
+    "Year": "1970, 1995",
+    "type": null,
+    "Items": [
+      "myrRED",
+      "001RED, 003GRE",
+      "4+Band",
+      "Vertic",
+      "dgband",
+      "HasSun",
+      "unjack",
+      "3Color",
+      "area_309500,capi_Muscat,pm_Sultan Haitham bin Tariq,pol_2025Gaz",
+      "top30_camel",
+      "top30_oil",
+      "pol_deat",
+      "geo_CapiBeach",
+      "md_deno_i",
+      "md_deno_vw,",
+      "chopGB,monarchy,arabic,rg2_AS_West"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Oman",
+    "lvlup": "1",
+    "Colors": [
+      "cl_GRE",
+      "cl_RED",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/2560px-Flag_of_Oman.svg.png",
+    "Items2": [
+      "chopGB,monarchy,arabic,rg2_AS_West"
+    ],
+    "Region": "rgn_Asia",
+    "couname": "Oman",
+    "subtype": null,
+    "describe": "\\n • White Stripe: Symbolizes peace and prosperity.\\n\\n • Red Stripe: Represents the struggles and battles fought against invaders to maintain the country's independence.\\n\\n • Green Stripe: Signifies the fertility of the land and the Jebel Akhdar (Green Mountain), a region in northern Oman.\\n\\n • Two crossed swords: Representing the country's military tradition and defense.\\n\\n • A khanjar (a traditional curved dagger): A symbol of the Omani people’s heritage and bravery.\\n\\n • A belt: Binding the khanjar to the crossed swords, representing unity and the national identity."
+  },
+  {
+    "New": ".",
+    "Code": "[PSE]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/383px-Flag_of_Palestine.svg.png",
+    "Year": "1964, 1988",
+    "type": null,
+    "Items": [
+      "myrEQ",
+      "001BLA, 002WHI, 003GRE",
+      "3Bands",
+      "Vertic",
+      "Center",
+      "4Color",
+      "area_6020,capi_Ramallah",
+      "Jerusalem,pm_Mohammad Mustafa,pol_2025Gaz",
+      "pol_pope",
+      "pol_deat",
+      "md_Trredd",
+      "md_deno_n,",
+      "arabic,rg2_AS_West"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Palestine",
+    "lvlup": "1",
+    "Colors": [
+      "cl_RED",
+      "cl_WHI",
+      "cl_BLA",
+      "cl_GRE"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/2560px-Flag_of_Palestine.svg.png",
+    "Items2": [
+      "arabic,rg2_AS_West"
+    ],
+    "Region": "rgn_Asia",
+    "couname": "Palestine",
+    "subtype": null,
+    "describe": "\\n • Red: The Hashemite dynasty, symbolizes the blood on the swords of the warriors.\\n\\n • White: The Umayyad dynasty, symbolizes purity and noble deeds.\\n\\n • Green: The Fatimid dynasty, represents the fertile Arab lands.\\n\\n • Black: The Abbasid dynasty, represents the defeat of enemies in battle."
+  },
+  {
+    "New": ".",
+    "Code": "[PAN]",
+    "Flag": "https://i.ibb.co/Tcs2gdF/Panama-Flag.png",
+    "Year": "1925",
+    "type": null,
+    "Items": [
+      "myrWHI",
+      "NoBand",
+      "staRED, BLU",
+      "2Stars",
+      "3Color",
+      "area_75417,capi_Panama City,pm_José Raúl Mulino,geo_CapiBeach",
+      "md_deno_n,",
+      "bolivarian,cur_Dollar,spanis,rg2_AM_Central"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Panama",
+    "lvlup": "1",
+    "Colors": [
+      "cl_RED",
+      "cl_WHI",
+      "cl_BLU"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/2560px-Flag_of_Panama.svg.png",
+    "Items2": [
+      "bolivarian,cur_Dollar,spanis,rg2_AM_Central"
+    ],
+    "Region": "rgn_North America",
+    "couname": "Panama",
+    "subtype": null,
+    "describe": "\\n • The blue was intended to represent the Conservative Party\\n\\n • The red to represent the Liberal Party.\\n\\n • The white was intended to stand for peace and purity;\\n\\n • The blue star stands for the purity and honesty of the life of the country;\\n\\n • The red star represents the authority and law in the country, and together the stars stand for the new republic."
+  },
+  {
+    "New": ".",
+    "Code": "[POR]",
+    "Flag": "https://i.ibb.co/c21RKhx/Portugal-Flag.png",
+    "Year": "1911",
+    "type": null,
+    "Items": [
+      "myrRED",
+      "001GRE, 003RED",
+      "2Bands",
+      "dgband",
+      "Animal",
+      "Ships!",
+      "5+Color",
+      "area_92090,capi_Lisbon,pm_Luís Montenegro,pol_samesx",
+      "pol_pope",
+      "geo_CapiBeach",
+      "md_deno_e",
+      "md_deno_vw",
+      "ntWHRE",
+      "ntGRYE",
+      "ntBLYE",
+      "ntWHYE,",
+      "rg3_romanempire,eunion,cur_EUR,portug,rg2_EU_South"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Portugal",
+    "lvlup": "1",
+    "Colors": [
+      "cl_RED",
+      "cl_GRE",
+      "cl_YEL",
+      "cl_WHI",
+      "cl_BLU",
+      "cl_BLA"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/2560px-Flag_of_Portugal.svg.png",
+    "Items2": [
+      "rg3_romanempire,eunion,cur_EUR,portug,rg2_EU_South"
+    ],
+    "Region": "rgn_Europe",
+    "couname": "Portugal",
+    "subtype": null,
+    "describe": "\\n • Green Field: Traditionally interpreted to symbolize hope and the country's aspiration for a better future. Some historical interpretations suggest it represents the sea and the Portuguese discoveries.\\n\\n • Red Field: Symbolizes the blood of those who died serving the nation, particularly during the Portuguese Revolution of 1910 that led to the establishment of the republic.\\n\\n • The Portuguese Shield: Central to the coat of arms, it includes five smaller blue shields each containing five white dots. This symbolizes the first king of Portugal, Afonso I, and his victory over five Moorish kings. The dots represent the divine protection believed to have been bestowed upon him.\\n\\n • The Red Border with Seven Golden Castles: Surrounding the Portuguese shield, it symbolizes the historical expansion and defense of the nation.\\n\\n • The Armillary Sphere: Positioned behind the shield, it represents Portugal's maritime exploration and discoveries during the Age of Exploration."
+  },
+  {
+    "New": ".",
+    "Code": "[PHI]",
+    "Flag": "https://i.ibb.co/FmrMSmP/Phillippines-Flag.png",
+    "Year": "1898, 1936, 1998",
+    "type": null,
+    "Items": [
+      "myrEQ",
+      "001BLU, 003RED",
+      "2Bands",
+      "staYEL",
+      "3+Stars",
+      "Vertic",
+      "Animal",
+      "IsMoon",
+      "Center",
+      "4Color",
+      "area_300000,capi_Manila,pm_Ferdinand Marcos Jr.,island",
+      "orinoc",
+      "geo_CapiBeach",
+      "md_tekken7",
+      "md_Trwht",
+      "md_deno_vw",
+      "ntBLYE,",
+      "englis,rg2_AS_SouthEast"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_the_Philippines",
+    "lvlup": "1",
+    "Colors": [
+      "cl_BLU",
+      "cl_WHI",
+      "cl_RED",
+      "cl_YEL"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/2560px-Flag_of_the_Philippines.svg.png",
+    "Items2": [
+      "englis,rg2_AS_SouthEast"
+    ],
+    "Region": "rgn_Asia",
+    "couname": "Philippines",
+    "subtype": null,
+    "describe": "\\n • Blue: Represents peace, truth, and justice.\\n\\n • Red: Symbolizes patriotism and valor.\\n\\n • White: Stands for purity and hope.\\n\\n • The Sun: The golden yellow sun symbolizes freedom, independence, and democracy. The eight rays represent the first eight provinces (Manila, Cavite, Batangas, Bulacan, Pampanga, Nueva Ecija, Tarlac, and Laguna) that revolted against Spanish rule.\\n\\n • The Three Stars: Represent the three main geographical regions of the Philippines: Luzon, Visayas, and Mindanao.\\n\\n • Orientation: The flag can be displayed with either the blue or red band on top. During peacetime, the blue band is on top, symbolizing peace and harmony. During times of war, the red band is displayed on top, indicating the country's readiness to fight for its sovereignty."
+  },
+  {
+    "New": ".",
+    "Code": "[SSD]",
+    "Flag": "https://i.ibb.co/hFhLmF9/South-Sudan-Flag.png",
+    "Year": "2011, 2023",
+    "type": null,
+    "Items": [
+      "myrEQ",
+      "001BLA, 002RED, 003GRE",
+      "4+Band",
+      "staYEL",
+      "1Stars",
+      "Vertic",
+      "Center",
+      "5+Color",
+      "area_619745,capi_Juba,pm_Salva Kiir Mayardit,landlo",
+      "pol_failed",
+      "pol_deat",
+      "md_lightbl",
+      "md_Trbluu",
+      "md_deno_e",
+      "md_deno_vw",
+      "ntGRRE",
+      "ntGRYE",
+      "ntWHYE,",
+      "englis,rg2_AF_East"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_South_Sudan",
+    "lvlup": "1",
+    "Colors": [
+      "cl_BLU",
+      "cl_YEL",
+      "cl_BLA",
+      "cl_RED",
+      "cl_GRE",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/2560px-Flag_of_South_Sudan.svg.png",
+    "Items2": [
+      "englis,rg2_AF_East"
+    ],
+    "Region": "rgn_Africa",
+    "couname": "South Sudan",
+    "subtype": null,
+    "describe": "\\n • Black: Represents the people of South Sudan.\\n\\n • Red: Represents blood that was shed for the independence of the country.\\n\\n • Green: Represents the country's agricultural, natural wealth, land, as well as progress.\\n\\n • White: Represents peace.\\n\\n • Blue: Represents waters of the Nile River, a source of life.\\n\\n • Yellow: Represents unity (of the states), hope, and determination for all people."
+  },
+  {
+    "New": ".",
+    "Code": "[TLS]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/2560px-Flag_of_East_Timor.svg.png",
+    "Year": "1975, 2002",
+    "type": null,
+    "Items": [
+      "myrRED",
+      "NoBand",
+      "staWHI",
+      "1Stars",
+      "Center",
+      "4Color",
+      "area_14874,capi_Dili,pm_Xanana Gusmão,island",
+      "geo_CapiBeach",
+      "md_Trblac",
+      "md_deno_e",
+      "md_deno_vw",
+      "ntWHRE",
+      "ntWHYE,",
+      "cur_Dollar,portug,rg2_AS_SouthEast"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_East_Timor",
+    "lvlup": "1",
+    "Colors": [
+      "cl_RED",
+      "cl_BLA",
+      "cl_YEL",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/2560px-Flag_of_East_Timor.svg.png",
+    "Items2": [
+      "cur_Dollar,portug,rg2_AS_SouthEast"
+    ],
+    "Region": "rgn_Asia",
+    "couname": "Timor-Leste",
+    "subtype": null,
+    "describe": "\\n • Black symbolises obscurantism, which must be overcome.\\n\\n • Yellow represents the wealth of the country.\\n\\n • Red symbolises the struggle for national liberation.\\n\\n • The white star, or the light that guides, is white to represent peace."
+  },
+  {
+    "New": ".",
+    "Code": "[TGO]",
+    "Flag": "https://i.ibb.co/Z89CzBV/Togo-Flag.png",
+    "Year": "1960",
+    "type": null,
+    "Items": [
+      "myrGRE",
+      "001GRE, 002GRE, 003GRE",
+      "4+Band",
+      "staWHI",
+      "1Stars",
+      "Vertic",
+      "unjack",
+      "4Color",
+      "area_56785,capi_Lomé,pm_Faure Gnassingbé,geo_CapiBeach",
+      "md_deno_e",
+      "md_deno_vw",
+      "ntWHYE,",
+      "french,rg2_AF_West"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Togo",
+    "lvlup": "1",
+    "Colors": [
+      "cl_GRE",
+      "cl_YEL",
+      "cl_RED",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/2560px-Flag_of_Togo.svg.png",
+    "Items2": [
+      "french,rg2_AF_West"
+    ],
+    "Region": "rgn_Africa",
+    "couname": "Togo",
+    "subtype": null,
+    "describe": "\\n • Red represents blood shed by Togo's freedom fighters\\n\\n • White star represents hope\\n\\n • Green represents the forests, agriculture, nature, and overall hope for the future\\n\\n • Yellow represents the natural resources of the country\\n\\n • The five stripes represent the five regions of Togo."
+  },
+  {
+    "New": ".",
+    "Code": "[VEN]",
+    "Flag": "https://i.ibb.co/FnjCzQh/Venezuela-Flag.png",
+    "Year": "2006",
+    "type": null,
+    "Items": [
+      "myrEQ",
+      "001YEL, 002BLU, 003RED",
+      "3Bands",
+      "staWHI",
+      "3+Stars",
+      "Vertic",
+      "Canton",
+      "4Color",
+      "area_916445,capi_Caracas,pm_Nicolás Maduro,orinoc",
+      "top30_oil",
+      "md_deno_n",
+      "ntWHRE",
+      "ntWHYE,",
+      "mercosr,bolivarian,spanis,rg2_AM_South"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Venezuela",
+    "lvlup": "1",
+    "Colors": [
+      "cl_YEL",
+      "cl_BLU",
+      "cl_RED",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/2560px-Flag_of_Venezuela.svg.png",
+    "Items2": [
+      "mercosr,bolivarian,spanis,rg2_AM_South"
+    ],
+    "Region": "rgn_South America",
+    "couname": "Venezuela",
+    "subtype": null,
+    "describe": "\\n • Yellow: Represents the riches of the country, the wealth of Venezuelan soil, gold, sovereignty, harmony, justice and agriculture, as well as the Sun, the source of light.\\n\\n • Blue: Represents the Sea of the Caribbean that surrounds the country, as well as Venezuela's beaches.\\n\\n • Red: Represents the blood spilt in the battle of independence from Spain."
   }
 ]
