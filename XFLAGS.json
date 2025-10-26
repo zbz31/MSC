@@ -8359,7 +8359,8 @@
       "cl_YEL",
       "cl_BLU",
       "cl_BLA",
-      "cl_PIN"
+      "cl_PIN",
+      "cl_ORA"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png",
     "Items2": [
@@ -18031,7 +18032,7 @@
       "3Bands",
       "001BLU",
       "002WHI",
-      "003PUR",
+      "003PIN",
       "NoStar",
       "Horizo",
       "Texted",
@@ -18043,7 +18044,7 @@
     "Colors": [
       "cl_BLU",
       "cl_WHI",
-      "cl_PUR"
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/2560px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png",
     "Items2": [],
@@ -19196,7 +19197,7 @@
       "cl_YEL",
       "cl_ORA",
       "cl_BRO",
-      "cl_PUR",
+      "cl_PIN",
       "cl_WHI"
     ],
     "HDFlag": "https://www.crwflags.com/fotw/images/c/cl-11.gif",
@@ -19305,7 +19306,8 @@
       "cl_RED",
       "cl_YEL",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_PIN"
     ],
     "HDFlag": "https://www.crwflags.com/fotw/images/c/cl-06.gif",
     "Items2": [],
@@ -27911,7 +27913,8 @@
       "cl_RED",
       "cl_ORA",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Flag_of_Baja_Verapaz%2C_Guatemala.png",
     "Items2": [],
@@ -28562,7 +28565,7 @@
       "cl_RED",
       "cl_YEL",
       "cl_WHI",
-      "cl_PUR",
+      "cl_PIN",
       "cl_BRO"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/FLAG-Kom%C3%A1rom-Esztergom-megye.svg/1280px-FLAG-Kom%C3%A1rom-Esztergom-megye.svg.png",
@@ -28673,7 +28676,7 @@
       "cl_RED",
       "cl_YEL",
       "cl_WHI",
-      "cl_PUR"
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/FLAG-Somogy-megye.svg/1280px-FLAG-Somogy-megye.svg.png",
     "Items2": [],
@@ -32422,7 +32425,8 @@
       "cl_PUR",
       "cl_BLA",
       "cl_GRE",
-      "cl_BLU"
+      "cl_BLU",
+      "cl_GRA"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/1/14/Flag_of_Rahovec.png",
     "Items2": [],
@@ -32526,7 +32530,7 @@
       "cl_RED",
       "cl_ORA",
       "cl_BRO",
-      "cl_PUR",
+      "cl_PIN",
       "cl_WHI"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Bong_County.svg/800px-Flag_of_Bong_County.svg.png",
@@ -35059,7 +35063,7 @@
       "cl_RED",
       "cl_YEL",
       "cl_WHI",
-      "cl_PUR",
+      "cl_PIN",
       "cl_BRO",
       "cl_GRA"
     ],
@@ -35212,7 +35216,8 @@
       "cl_BRO",
       "cl_PUR",
       "cl_WHI",
-      "cl_GRA"
+      "cl_GRA",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_Colima.svg/2560px-Flag_of_Colima.svg.png",
     "Items2": [],
@@ -35631,7 +35636,7 @@
       "cl_YEL",
       "cl_ORA",
       "cl_BRO",
-      "cl_PUR",
+      "cl_PIN",
       "cl_WHI",
       "cl_GRA"
     ],
@@ -35703,6 +35708,7 @@
       "Center",
       "Geogrh",
       "Humans",
+      "Texted",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Quer%C3%A9taro",
@@ -35716,7 +35722,8 @@
       "cl_ORA",
       "cl_BRO",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Flag_of_Queretaro.svg/1280px-Flag_of_Queretaro.svg.png",
     "Items2": [],
@@ -35899,7 +35906,7 @@
       "cl_GRE",
       "cl_RED",
       "cl_YEL",
-      "cl_PUR",
+      "cl_PIN",
       "cl_WHI",
       "cl_GRA"
     ],
@@ -43044,7 +43051,8 @@
       "cl_BRO",
       "cl_BLA",
       "cl_PUR",
-      "cl_ORA"
+      "cl_ORA",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bandera_de_Cidra%2C_Puerto_Rico.svg/2560px-Bandera_de_Cidra%2C_Puerto_Rico.svg.png",
     "Items2": [],
@@ -46014,7 +46022,7 @@
       "3Bands",
       "001BLU",
       "002WHI",
-      "003PUR",
+      "003PIN",
       "NoStar",
       "Horizo",
       "Plants",
@@ -46031,7 +46039,7 @@
       "cl_BLU",
       "cl_GRE",
       "cl_YEL",
-      "cl_PUR",
+      "cl_PIN",
       "cl_WHI"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Bandera_del_Departamento_de_Cuscatl%C3%A1n.PNG",
@@ -46517,7 +46525,8 @@
       "cl_RED",
       "cl_YEL",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/7/70/Flag_Makira_and_Ulawa.png",
     "Items2": [],
@@ -48379,7 +48388,8 @@
       "cl_YEL",
       "cl_BRO",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/9/96/Flag_of_Bueng_Kan_Province.png",
     "Items2": [],
@@ -48563,7 +48573,8 @@
       "cl_YEL",
       "cl_BRO",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_GRA"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Flag_commune_Sousse.svg/1280px-Flag_commune_Sousse.svg.png",
     "Items2": [],
@@ -49878,7 +49889,7 @@
       "cl_BLA",
       "cl_BLU",
       "cl_YEL",
-      "cl_PUR"
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Zaporizhia_Oblast.svg/1024px-Flag_of_Zaporizhia_Oblast.svg.png",
     "Items2": [],
@@ -50461,7 +50472,8 @@
       "cl_GRE",
       "cl_BRO",
       "cl_ORA",
-      "cl_PUR"
+      "cl_PUR",
+      "cl_GRA"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Idaho.svg/2560px-Flag_of_Idaho.svg.png",
     "Items2": [],
@@ -50606,7 +50618,9 @@
       "cl_GRE",
       "cl_BRO",
       "cl_WHI",
-      "cl_PUR"
+      "cl_PUR",
+      "cl_GRA",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Kansas.svg/2560px-Flag_of_Kansas.svg.png",
     "Items2": [],
@@ -51100,7 +51114,8 @@
       "cl_ORA",
       "cl_GRE",
       "cl_BRO",
-      "cl_PUR"
+      "cl_PUR",
+      "cl_GRA"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/2560px-Flag_of_New_Jersey.svg.png",
     "Items2": [],
@@ -51654,7 +51669,8 @@
       "cl_BLA",
       "cl_WHI",
       "cl_YEL",
-      "cl_PUR"
+      "cl_PUR",
+      "cl_GRA"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Virginia.svg/2560px-Flag_of_Virginia.svg.png",
     "Items2": [],
@@ -52662,7 +52678,9 @@
       "cl_ORA",
       "cl_BRO",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_GRA",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Sucre_State.svg/800px-Flag_of_Sucre_State.svg.png",
     "Items2": [],
@@ -54543,7 +54561,8 @@
       "cl_YEL",
       "cl_ORA",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Russia_flag_of_Moscow_oblast.svg/2560px-Russia_flag_of_Moscow_oblast.svg.png",
     "Items2": [],
@@ -59125,7 +59144,7 @@
       "cl_RED",
       "cl_YEL",
       "cl_WHI",
-      "cl_PUR"
+      "cl_PIN"
     ],
     "HDFlag": "https://en.wikipedia.org/wiki/List_of_Welsh_flags#/media/File:Flag_of_Cardiff.svg",
     "Items2": [],
@@ -59242,7 +59261,7 @@
       "myrEQ",
       "3Bands",
       "001BLU",
-      "002PUR",
+      "002PIN",
       "003GRE",
       "NoStar",
       "Crosse",
@@ -59263,7 +59282,7 @@
       "cl_BLU",
       "cl_GRE",
       "cl_YEL",
-      "cl_PUR"
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Flag_of_Krasnodar_Krai.svg/1024px-Flag_of_Krasnodar_Krai.svg.png",
     "Items2": [],
@@ -67732,7 +67751,8 @@
       "cl_YEL",
       "cl_ORA",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_GRA"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_the_Northern_Mariana_Islands_%281976%E2%80%931989%29.svg/1280px-Flag_of_the_Northern_Mariana_Islands_%281976%E2%80%931989%29.svg.png",
     "Items2": [],
@@ -72763,7 +72783,7 @@
     "Colors": [
       "cl_BLU",
       "cl_YEL",
-      "cl_PUR",
+      "cl_PIN",
       "cl_WHI"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Dnipro_prapor.png",
@@ -76190,7 +76210,8 @@
       "cl_ORA",
       "cl_BRO",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_GRA"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Tucson%2C_Arizona.svg/2560px-Flag_of_Tucson%2C_Arizona.svg.png",
     "Items2": [],
@@ -76471,7 +76492,7 @@
     "Colors": [
       "cl_GRE",
       "cl_YEL",
-      "cl_ORA",
+      "cl_RED",
       "cl_BRO",
       "cl_PUR"
     ],
@@ -76862,7 +76883,9 @@
       "cl_ORA",
       "cl_BRO",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_GRA",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Bridgeport_flag.png",
     "Items2": [],
@@ -77421,7 +77444,9 @@
       "cl_ORA",
       "cl_BRO",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_GRA",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Little_Havana%2C_Florida.png",
     "Items2": [],
@@ -79473,7 +79498,7 @@
       "cl_BLA",
       "cl_GRE",
       "cl_ORA",
-      "cl_PUR",
+      "cl_BLU",
       "cl_WHI"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Flag_of_Lansing%2C_Michigan.svg/640px-Flag_of_Lansing%2C_Michigan.svg.png",
@@ -80804,7 +80829,8 @@
       "cl_ORA",
       "cl_BRO",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_GRA"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_Mercer_County%2C_Ohio.svg/2560px-Flag_of_Mercer_County%2C_Ohio.svg.png",
     "Items2": [],
@@ -81140,7 +81166,8 @@
       "cl_ORA",
       "cl_BRO",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_GRA"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_Philadelphia%2C_Pennsylvania.svg/800px-Flag_of_Philadelphia%2C_Pennsylvania.svg.png",
     "Items2": [],
@@ -81369,7 +81396,8 @@
       "cl_YEL",
       "cl_BRO",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_GRA"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_Chattanooga%2C_Tennessee.svg/2560px-Flag_of_Chattanooga%2C_Tennessee.svg.png",
     "Items2": [],
@@ -82566,7 +82594,7 @@
       "cl_BLA",
       "cl_GRE",
       "cl_YEL",
-      "cl_PUR",
+      "cl_PIN",
       "cl_GRA"
     ],
     "HDFlag": "https://www.crwflags.com/fotw/images/u/us-wy-bh.gif",
@@ -83445,7 +83473,8 @@
       "cl_ORA",
       "cl_BRO",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Flag_of_the_House_of_Assembly_of_the_Bahamas.svg/1280px-Flag_of_the_House_of_Assembly_of_the_Bahamas.svg.png",
     "Items2": [],
@@ -83486,7 +83515,8 @@
       "cl_ORA",
       "cl_BRO",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Senate_of_the_Bahamas.svg/1280px-Flag_of_the_Senate_of_the_Bahamas.svg.png",
     "Items2": [],
@@ -83562,7 +83592,7 @@
       "cl_YEL",
       "cl_WHI",
       "cl_ORA",
-      "cl_PUR",
+      "cl_PIN",
       "cl_BRO",
       "cl_GRA"
     ],
@@ -87711,7 +87741,7 @@
       "cl_BLU",
       "cl_RED",
       "cl_YEL",
-      "cl_PUR",
+      "cl_PIN",
       "cl_WHI"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Mindan.svg/800px-Flag_of_Mindan.svg.png",
@@ -90300,7 +90330,7 @@
       "cl_YEL",
       "cl_ORA",
       "cl_BRO",
-      "cl_PUR",
+      "cl_PIN",
       "cl_WHI"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_Saint_Vincent_and_the_Grenadines_%281877-1907%29.svg/2560px-Flag_of_Saint_Vincent_and_the_Grenadines_%281877-1907%29.svg.png",
@@ -95528,7 +95558,7 @@
       "cl_RED",
       "cl_YEL",
       "cl_WHI",
-      "cl_PUR",
+      "cl_PIN",
       "cl_BRO",
       "cl_GRA"
     ],
@@ -96844,7 +96874,8 @@
       "cl_ORA",
       "cl_PUR",
       "cl_BRO",
-      "cl_GRA"
+      "cl_GRA",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Naval_Ensign_of_Honduras.svg",
     "Items2": [],
@@ -97641,7 +97672,7 @@
   {
     "New": ".",
     "Code": "[MEX]",
-    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bandera_pur%C3%A9pecha.png/200px-Bandera_pur%C3%A9pecha.png",
+    "Flag": "https://www.flagsonline.it/uploads/2016-6-6/420-272/purepecha.jpg",
     "type": "People",
     "year": "1980",
     "Items": [
@@ -97667,7 +97698,7 @@
       "cl_WHI",
       "cl_GRA"
     ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Bandera_pur%C3%A9pecha.png",
+    "HDFlag": "https://www.flagsonline.it/uploads/2016-6-6/420-272/purepecha.jpg",
     "Items2": [],
     "region": "rgn_North America",
     "couname": "[MEX] Purepecha",
@@ -97751,7 +97782,7 @@
       "4+Band",
       "001GRE",
       "002WHI",
-      "003PUR",
+      "003PIN",
       "NoStar",
       "Horizo",
       "OnlyBa",
@@ -97761,7 +97792,7 @@
     "lvlup": "3p",
     "Colors": [
       "cl_GRE",
-      "cl_PUR",
+      "cl_PIN",
       "cl_WHI"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Abrosexual_flag.svg/1200px-Abrosexual_flag.svg.png",
@@ -97781,18 +97812,19 @@
       "myrPUR",
       "4+Band",
       "001RED",
-      "002PUR",
+      "002PIN",
       "003PUR",
       "NoStar",
       "Horizo",
       "OnlyBa",
-      "2Color"
+      "3Color"
     ],
     "links": "https://lgbtqia.wiki/wiki/Aceflux#Flag_and_Symbol",
     "lvlup": "3p",
     "Colors": [
       "cl_RED",
-      "cl_PUR"
+      "cl_PUR",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Acefluxflag.svg/2560px-Acefluxflag.svg.png",
     "Items2": [],
@@ -97904,19 +97936,20 @@
     "Items": [
       "myrPUR",
       "3Bands",
-      "001PUR",
+      "001PIN",
       "002PUR",
       "003BLU",
       "NoStar",
       "Vertic",
       "OnlyBa",
-      "2Color"
+      "3Color"
     ],
     "links": "https://lgbtqia.wiki/wiki/Androgyne",
     "lvlup": "3p",
     "Colors": [
       "cl_BLU",
-      "cl_PUR"
+      "cl_PUR",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Androgyne_flag.png/960px-Androgyne_flag.png",
     "Items2": [],
@@ -98058,19 +98091,20 @@
     "Items": [
       "myrPUR",
       "3Bands",
-      "001PUR",
+      "001PIN",
       "002PUR",
       "003BLU",
       "NoStar",
       "Horizo",
       "OnlyBa",
-      "2Color"
+      "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Bisexual_flag",
     "lvlup": "3p",
     "Colors": [
       "cl_BLU",
-      "cl_PUR"
+      "cl_PUR",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Bisexual_Pride_Flag.svg/2560px-Bisexual_Pride_Flag.svg.png",
     "Items2": [],
@@ -98277,13 +98311,13 @@
     "Items": [
       "myrEQ",
       "4+Band",
-      "001PUR",
+      "001PIN",
       "002PUR",
       "003BLU",
       "NoStar",
       "Horizo",
       "OnlyBa",
-      "4Color"
+      "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Gender_fluidity",
     "lvlup": "3p",
@@ -98291,7 +98325,8 @@
       "cl_BLA",
       "cl_BLU",
       "cl_WHI",
-      "cl_PUR"
+      "cl_PUR",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Genderfluidity_Pride-Flag.svg/512px-Genderfluidity_Pride-Flag.svg.png",
     "Items2": [],
@@ -98421,7 +98456,8 @@
       "cl_WHI",
       "cl_ORA",
       "cl_PUR",
-      "cl_BRO"
+      "cl_BRO",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Intersex-inclusive_pride_flag.svg/512px-Intersex-inclusive_pride_flag.svg.png",
     "Items2": [],
@@ -98469,7 +98505,7 @@
       "4+Band",
       "001ORA",
       "002WHI",
-      "003PUR",
+      "003PIN",
       "NoStar",
       "Horizo",
       "OnlyBa",
@@ -98479,7 +98515,7 @@
     "lvlup": "3p",
     "Colors": [
       "cl_ORA",
-      "cl_PUR",
+      "cl_PIN",
       "cl_WHI"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Lesbian_Pride_Flag_2019.svg/2560px-Lesbian_Pride_Flag_2019.svg.png",
@@ -98529,8 +98565,8 @@
     "Items": [
       "myrPUR",
       "4+Band",
-      "001PUR",
-      "002PUR",
+      "001PIN",
+      "002BLU",
       "003BLU",
       "NoStar",
       "Horizo",
@@ -98541,7 +98577,7 @@
     "lvlup": "3p",
     "Colors": [
       "cl_BLU",
-      "cl_PUR"
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Omnisexuality_flag.svg/2560px-Omnisexuality_flag.svg.png",
     "Items2": [],
@@ -98573,7 +98609,7 @@
     "Colors": [
       "cl_RED",
       "cl_YEL",
-      "cl_PUR",
+      "cl_PIN",
       "cl_WHI"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Pangender_flag.svg/2560px-Pangender_flag.svg.png",
@@ -98592,7 +98628,7 @@
     "Items": [
       "myrEQ",
       "3Bands",
-      "001PUR",
+      "001PIN",
       "002YEL",
       "003BLU",
       "NoStar",
@@ -98604,7 +98640,7 @@
     "lvlup": "3p",
     "Colors": [
       "cl_BLU",
-      "cl_PUR",
+      "cl_PIN",
       "cl_YEL"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Pansexuality_Pride_Flag.svg/512px-Pansexuality_Pride_Flag.svg.png",
@@ -98657,7 +98693,7 @@
       "myrEQ",
       "3Bands",
       "001BLU",
-      "002RED",
+      "002PIN",
       "003PUR",
       "NoStar",
       "Horizo",
@@ -98670,7 +98706,7 @@
     "lvlup": "3p",
     "Colors": [
       "cl_BLU",
-      "cl_RED",
+      "cl_PIN",
       "cl_YEL",
       "cl_WHI",
       "cl_PUR"
@@ -98691,7 +98727,7 @@
     "Items": [
       "myrEQ",
       "3Bands",
-      "001PUR",
+      "001PIN",
       "002GRE",
       "003BLU",
       "NoStar",
@@ -98704,7 +98740,7 @@
     "Colors": [
       "cl_BLU",
       "cl_GRE",
-      "cl_PUR"
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Polysexuality_Pride_Flag.svg/2560px-Polysexuality_Pride_Flag.svg.png",
     "Items2": [],
@@ -98740,7 +98776,8 @@
       "cl_ORA",
       "cl_BRO",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/LGBTQ%2B_rainbow_flag_Quasar_%22Progress%22_variant.svg/2560px-LGBTQ%2B_rainbow_flag_Quasar_%22Progress%22_variant.svg.png",
     "Items2": [],
@@ -98774,7 +98811,7 @@
       "cl_GRE",
       "cl_YEL",
       "cl_ORA",
-      "cl_PUR",
+      "cl_PIN",
       "cl_WHI"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Queer_Flag.svg/2560px-Queer_Flag.svg.png",
@@ -98793,9 +98830,9 @@
     "Items": [
       "myrPUR",
       "3Bands",
-      "001PUR",
+      "001PIN",
       "002WHI",
-      "003PUR",
+      "003PIN",
       "NoStar",
       "Horizo",
       "Circle",
@@ -98807,7 +98844,7 @@
     "lvlup": "3p",
     "Colors": [
       "cl_YEL",
-      "cl_PUR",
+      "cl_PIN",
       "cl_WHI"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Sapphic_Flag_alternate_with_violet.svg/800px-Sapphic_Flag_alternate_with_violet.svg.png",
@@ -98840,7 +98877,7 @@
     "Colors": [
       "cl_BLU",
       "cl_WHI",
-      "cl_PUR"
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Transgender_Pride_flag.svg/2560px-Transgender_Pride_flag.svg.png",
     "Items2": [],
@@ -100291,7 +100328,9 @@
       "cl_RED",
       "cl_YEL",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_PIN",
+      "cl_GRE"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Etrurian_Kingdom_and_War_Flag_with_Great_Royal_Coat_of_Arms.svg/2560px-Etrurian_Kingdom_and_War_Flag_with_Great_Royal_Coat_of_Arms.svg.png",
     "Items2": [],
@@ -100431,7 +100470,9 @@
       "cl_YEL",
       "cl_BRO",
       "cl_PUR",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_PIN",
+      "cl_GRA"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Republic_of_Venice_%281659-1675%29.svg/800px-Flag_of_Republic_of_Venice_%281659-1675%29.svg.png",
     "Items2": [],
@@ -100708,6 +100749,7 @@
       "Crosse",
       "HasSun",
       "Humans",
+      "Center",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_the_Hispanic_People",
@@ -101029,7 +101071,7 @@
       "3Bands",
       "001GRE",
       "002WHI",
-      "003PUR",
+      "003PIN",
       "NoStar",
       "Vertic",
       "OnlyBa",
@@ -101040,7 +101082,7 @@
     "Colors": [
       "cl_GRE",
       "cl_WHI",
-      "cl_PUR"
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Newfoundland_Tricolour.svg/2560px-Newfoundland_Tricolour.svg.png",
     "Items2": [],
@@ -103521,7 +103563,6 @@
       "cl_BLU",
       "cl_YEL",
       "cl_BRO",
-      "cl_PUR",
       "cl_WHI"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Flag_of_the_Midway_Islands_%28local%29.svg/2560px-Flag_of_the_Midway_Islands_%28local%29.svg.png",
