@@ -74024,6 +74024,37 @@
     "describe": "The flag depicts a literal meaning of the city name, as Bila Tserkva in Ukrainian means White Church"
   },
   {
+    "New": "28/10/2025",
+    "Code": "[UKR]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_the_town_of_Boyarka.svg/1250px-Flag_of_the_town_of_Boyarka.svg.png",
+    "type": "City",
+    "year": "N/A",
+    "Items": [
+      "myrEQU",
+      "3Bands",
+      "001YEL",
+      "002WHI",
+      "003GRE",
+      "NoStar",
+      "Horizo",
+      "OnlyBa",
+      "3Color"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Boiarka",
+    "lvlup": "3",
+    "Colors": [
+      "cl_GRE",
+      "cl_YEL",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flag_of_the_town_of_Boyarka.svg/1250px-Flag_of_the_town_of_Boyarka.svg.png",
+    "Items2": [],
+    "region": "rgn_Europe",
+    "couname": "[UKR] Boiarka",
+    "subtype": "[UKR] Kyiv Oblast",
+    "describe": ""
+  },
+  {
     "New": "45935",
     "Code": "[UKR]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8F.jpg/1250px-%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8F.jpg",
