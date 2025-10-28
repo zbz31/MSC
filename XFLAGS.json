@@ -17471,6 +17471,39 @@
     "describe": "Not available"
   },
   {
+    "New": "28/10/2025",
+    "Code": "[BOL]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Naval_ensign_of_Bolivia.svg/1280px-Naval_ensign_of_Bolivia.svg.png",
+    "type": "Naval Ensign",
+    "year": "2013",
+    "Items": [
+      "HasSta",
+      "myrBLU",
+      "NoBand",
+      "staYEL",
+      "3+Star",
+      "Canton",
+      "5+Color"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Bolivia",
+    "lvlup": "2",
+    "Colors": [
+      "cl_BLU",
+      "cl_GRE",
+      "cl_ORA",
+      "cl_PUR",
+      "cl_RED",
+      "cl_YEL",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Naval_ensign_of_Bolivia.svg/2560px-Naval_ensign_of_Bolivia.svg.png",
+    "Items2": [],
+    "region": "rgn_South America",
+    "couname": "[BOL] Bolivia (Naval Ensign)",
+    "subtype": null,
+    "describe": ""
+  },
+  {
     "New": ".",
     "Code": "[BOL]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bandera_de_Bolivia_%28Estado%29.svg/640px-Bandera_de_Bolivia_%28Estado%29.svg.png",
@@ -61243,6 +61276,79 @@
     "describe": "N/A"
   },
   {
+    "New": "28/10/2025",
+    "Code": "[BRA]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bandeira_de_Fernando_de_Noronha.png",
+    "type": "Territory, City",
+    "year": "1982",
+    "Items": [
+      "myrBLU",
+      "NoBand",
+      "NoStar",
+      "Plants",
+      "Texted",
+      "Crowns",
+      "Builds",
+      "Geogrh",
+      "5+Color"
+    ],
+    "links": "https://commons.wikimedia.org/wiki/Flags_of_states_of_Brazil",
+    "lvlup": "3",
+    "Colors": [
+      "cl_BLA",
+      "cl_BLU",
+      "cl_GRE",
+      "cl_RED",
+      "cl_YEL",
+      "cl_WHI",
+      "cl_GRA"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bandeira_de_Fernando_de_Noronha.png",
+    "Items2": [],
+    "region": "rgn_South America",
+    "couname": "[BRA] Fernando de Noronha",
+    "subtype": "[BRA] Pernambuco",
+    "describe": "Flag of the island of Fernando de Noronha, first designed when it was a separate territory, maintained once the territory was reabsorbed as a district of the city of Recife."
+  },
+  {
+    "New": "28/10/2025",
+    "Code": "[BRA]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bandeira_de_Recife.svg/1280px-Bandeira_de_Recife.svg.png",
+    "type": "City, State Capital",
+    "year": "1973",
+    "Items": [
+      "HasSta",
+      "myrBLU",
+      "3Bands",
+      "001BLU",
+      "002WHI",
+      "003BLU",
+      "staYEL",
+      "1Stars",
+      "HasSun",
+      "Animal",
+      "Crosse",
+      "Texted",
+      "Crowns",
+      "Vertic",
+      "4Color"
+    ],
+    "links": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Recife.svg",
+    "lvlup": "3",
+    "Colors": [
+      "cl_BLU",
+      "cl_RED",
+      "cl_YEL",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bandeira_de_Recife.svg/1280px-Bandeira_de_Recife.svg.png",
+    "Items2": [],
+    "region": "rgn_South America",
+    "couname": "[BRA] Recife",
+    "subtype": "[BRA] Pernambuco",
+    "describe": "Flag of the city of Recife, capital of Pernambuco"
+  },
+  {
     "New": ".",
     "Code": "[BRB]",
     "Flag": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Flag_of_the_Barbados_Defence_Force.svg/640px-Flag_of_the_Barbados_Defence_Force.svg.png",
@@ -65201,6 +65307,45 @@
     "couname": "[HTI] Saint-Domingue (Revolutionary)",
     "subtype": "[HTI] Saint-Domingue",
     "describe": "Jean-Jacques Dessalines, chief of the black rebels, and Alexandre Pétion, leader of the mulattoes, decide in 1803 to stop fighting alongside the French. On May 18, 1803, Dessalines removes the white band from the French flag and has his relative, Catherine Flon, sew together the blue and red bands together to form the first Haitian flag symbolizing the alliance between the blacks and mulattoes. Dessalines orders that the words Liberté ou la mort (Freedom or death), be inscribed on the flag."
+  },
+  {
+    "New": "28/10/2025",
+    "Code": "[IRE]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Flag_of_Castlebar.png",
+    "type": "Town",
+    "year": "1953",
+    "Items": [
+      "myrRED",
+      "2Bands",
+      "001NON",
+      "002NON",
+      "003NON",
+      "NoStar",
+      "Plants",
+      "Crosse",
+      "Weapon",
+      "Canton",
+      "Builds",
+      "dgband",
+      "5+Color"
+    ],
+    "links": "https://www.crwflags.com/fotw/flags/ie-may.html#castlebar",
+    "lvlup": "3",
+    "Colors": [
+      "cl_BLA",
+      "cl_BRO",
+      "cl_GRE",
+      "cl_RED",
+      "cl_YEL",
+      "cl_WHI",
+      "cl_GRA"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Flag_of_Castlebar.png",
+    "Items2": [],
+    "region": "rgn_Europe",
+    "couname": "[IRE] Castlebar",
+    "subtype": "[IRE] Connacht",
+    "describe": "Banner of the arms granted by the Chief Herald of Ireland on 20th August 1953.\n\nGules, on a saltire argent between in chief a castle and in fesse two yew trees all proper, five crosses patonce vert on a canton or two pikes in saltire gules, with the motto: AR AGHAIDH"
   },
   {
     "New": ".",
@@ -73962,6 +74107,40 @@
     "Items2": [],
     "region": "rgn_Europe",
     "couname": "[UKR] Shepetivka",
+    "subtype": "[UKR] Khmelnytskyi Oblast",
+    "describe": ""
+  },
+  {
+    "New": "28/10/2025",
+    "Code": "[UKR]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Slavuta.svg/1250px-Flag_of_Slavuta.svg.png",
+    "type": "City",
+    "year": "N/A",
+    "Items": [
+      "myrBLU",
+      "4+Band",
+      "001PIN",
+      "002BLU",
+      "003BLU",
+      "NoStar",
+      "Circle",
+      "HasSun",
+      "Trside",
+      "Horizo",
+      "4Color"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Slavuta",
+    "lvlup": "3",
+    "Colors": [
+      "cl_BLU",
+      "cl_GRE",
+      "cl_PIN",
+      "cl_YEL"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Slavuta.svg/1250px-Flag_of_Slavuta.svg.png",
+    "Items2": [],
+    "region": "rgn_Europe",
+    "couname": "[UKR] Slavuta",
     "subtype": "[UKR] Khmelnytskyi Oblast",
     "describe": ""
   },
