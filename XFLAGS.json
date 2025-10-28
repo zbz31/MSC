@@ -1790,7 +1790,7 @@
       "landlo",
       "pol_deat",
       "md_lightbl",
-      "md_deno_n",
+      "md_deno_vw",
       "chopGB",
       "englis",
       "rg2_AF_South"
@@ -12568,7 +12568,8 @@
       "cl_GRE",
       "cl_PIN",
       "cl_RED",
-      "cl_YEL"
+      "cl_YEL",
+      "cl_WHI"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/2560px-Flag_of_Spain.svg.png ",
     "Items2": [
@@ -12859,6 +12860,7 @@
       "geo_CapiBeach",
       "md_tekken7",
       "md_lightbl",
+      "md_deno_vw",
       "eunion",
       "monarchy",
       "rg2_EU_North"
@@ -41577,6 +41579,7 @@
       "NoStar",
       "Circle",
       "Center",
+      "Crowns",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Bougainville",
