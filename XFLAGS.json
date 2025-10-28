@@ -47633,6 +47633,40 @@
     "describe": "N/A"
   },
   {
+    "New": "28/10/2025",
+    "Code": "[SVN]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_Ljubljana.svg/1920px-Flag_of_Ljubljana.svg.png",
+    "type": "Capital City",
+    "year": "2012",
+    "Items": [
+      "myrGRE",
+      "2Bands",
+      "001WHI",
+      "003GRE",
+      "NoStar",
+      "Animal",
+      "Builds",
+      "Geogrh",
+      "Horizo",
+      "5+Color"
+    ],
+    "links": "https://web.archive.org/web/20230131062440/https://www.ljubljana.si/sl/o-ljubljani/mestni-simboli-in-prazniki/",
+    "lvlup": "2",
+    "Colors": [
+      "cl_BLA",
+      "cl_GRE",
+      "cl_RED",
+      "cl_YEL",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_Ljubljana.svg/2560px-Flag_of_Ljubljana.svg.png",
+    "Items2": [],
+    "region": "rgn_Europe",
+    "couname": "[SVN] Ljubljana",
+    "subtype": null,
+    "describe": "The flag of the Municipality of Ljubljana is rectangular in shape, with a width-to-length ratio of 1:2.5. The flagpole is divided into two equally sized colored fields: the first (from top to bottom) is white and the second is green; In the middle of the flagpole is the coat of arms, the height of the shield of which is equal to half the height of the flagpole; its shield connects both colored fields, each to its horizontal half."
+  },
+  {
     "New": ".",
     "Code": "[SWI]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Flag_of_Canton_of_Aargau.svg/480px-Flag_of_Canton_of_Aargau.svg.png",
