@@ -26993,7 +26993,7 @@
   {
     "New": "28/10/2025",
     "Code": "[GER]",
-    "Flag": "https://cdn.pixabay.com/photo/2012/04/10/23/08/east-germany-26865_1280.png",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_the_German_Democratic_Republic.svg/2560px-Flag_of_the_German_Democratic_Republic.svg.png",
     "type": "Historical",
     "year": "1959",
     "Items": [
@@ -27015,7 +27015,7 @@
       "cl_RED",
       "cl_YEL"
     ],
-    "HDFlag": "https://cdn.pixabay.com/photo/2012/04/10/23/08/east-germany-26865_1280.png",
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_the_German_Democratic_Republic.svg/2560px-Flag_of_the_German_Democratic_Republic.svg.png",
     "Items2": [],
     "region": "rgn_Europe",
     "couname": "[GER] German Democratic Republic (1959-1990)",
@@ -45012,7 +45012,7 @@
     "New": ".",
     "Code": "[PRY]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Flag_of_Paraguay_%28reverse%29.svg/2560px-Flag_of_Paraguay_%28reverse%29.svg.png",
-    "type": "Other",
+    "type": "National",
     "year": "1842, 2013",
     "Items": [
       "myrEQ",
@@ -68096,7 +68096,7 @@
     "New": ".",
     "Code": "[MUS]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/3/39/Flag_of_Rodrigues.png",
-    "type": "Autonomous outer island",
+    "type": "Autonomous Outer Island",
     "year": "???",
     "Items": [
       "myrWHI",
@@ -75893,7 +75893,7 @@
     "New": "w4",
     "Code": "[UKR]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/1/10/Prapor_of_Melitopol.gif",
-    "type": "city",
+    "type": "City",
     "year": "2003",
     "Items": [
       "myrEQ",
