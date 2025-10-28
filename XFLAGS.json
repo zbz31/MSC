@@ -71269,6 +71269,36 @@
     "describe": "The flag of Szczecin is composed of 6 horizontal bands of equal width, alternating between red and dark blue. On the left side of the flag there is a coat of arms of Szczecin - an red griffin head with a crown facing left on a blue estuechon with a golden contour. The symbol refers to the historical emblem of the house of Griffin, the Dukes of Pomerania during the medieval ages. This design of the flag without the coat of arms was used since 1720, when the city was incorporated into the Kingdom of Prussia.\\n\\nThere used to be one variant of this coat of arms in the early modern era, when Charles IX, the King of Sweden, added two lions which were symbols of Sweden at the time holding the estuechon from the sides. While ultimately they were removed, they still can be seen on some historical monuments, like the 'Czerwony Ratusz' of Szczecin, the former city hall."
   },
   {
+    "New": "28/10/2025",
+    "Code": "[POL]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Vorpommern_flag.svg/1920px-Vorpommern_flag.svg.png",
+    "type": "Region, Historical",
+    "year": "1996,1882",
+    "Items": [
+      "myrEQ",
+      "2Bands",
+      "001BLU",
+      "002NON",
+      "003WHI",
+      "NoStar",
+      "Horizo",
+      "OnlyBa",
+      "2Color"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Western_Pomerania",
+    "lvlup": "3",
+    "Colors": [
+      "cl_BLU",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Vorpommern_flag.svg/1920px-Vorpommern_flag.svg.png",
+    "Items2": [],
+    "region": "rgn_Europe",
+    "couname": "[POL] Western Pomerania",
+    "subtype": "[POL] West Pomeranian Voivodeship",
+    "describe": "A horizontal divided into light blue and white stripes"
+  },
+  {
     "New": ".",
     "Code": "[POL]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/POL_Piotrk%C3%B3w_Trybunalski_flag_1.svg/640px-POL_Piotrk%C3%B3w_Trybunalski_flag_1.svg.png",
