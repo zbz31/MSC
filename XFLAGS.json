@@ -26958,6 +26958,38 @@
     "describe": "Not available"
   },
   {
+    "New": "28/10/2025",
+    "Code": "[GER]",
+    "Flag": "https://cdn.pixabay.com/photo/2012/04/10/23/08/east-germany-26865_1280.png",
+    "type": "Historical",
+    "year": "1959",
+    "Items": [
+      "myrYEL",
+      "3Bands",
+      "001BLA",
+      "002RED",
+      "003YEL",
+      "NoStar",
+      "Circle",
+      "Plants",
+      "Horizo",
+      "3Color"
+    ],
+    "links": "https://en.m.wikipedia.org/wiki/Flag_of_East_Germany",
+    "lvlup": "2",
+    "Colors": [
+      "cl_BLA",
+      "cl_RED",
+      "cl_YEL"
+    ],
+    "HDFlag": "https://cdn.pixabay.com/photo/2012/04/10/23/08/east-germany-26865_1280.png",
+    "Items2": [],
+    "region": "rgn_Europe",
+    "couname": "[GER] German Democratic Republic (1959-1990)",
+    "subtype": null,
+    "describe": "The flag of East Germany was a tricolour of black, red and gold, identical to the flags of the Weimar Republic, West Germany, and present-day Germany. From 1959 until the reunification of Germany in 1990, it was charged with the national emblem, consisting of a hammer and compass inside a wreath of wheat, centered on a red background. The second flag's design and symbolism were derived from the flag of the Weimar Republic and communist symbolism."
+  },
+  {
     "New": ".",
     "Code": "[GER]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_Hamburg.svg/500px-Flag_of_Hamburg.svg.png",
@@ -74030,7 +74062,7 @@
     "type": "City",
     "year": "N/A",
     "Items": [
-      "myrEQU",
+      "myrEQ",
       "3Bands",
       "001YEL",
       "002WHI",
