@@ -78209,7 +78209,7 @@
       "NoStar",
       "Horizo",
       "HasSun",
-      "Geogrh,",
+      "Geogrh",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Pocatello,_Idaho",
@@ -78238,7 +78238,7 @@
       "NoBand",
       "NoStar",
       "Texted",
-      "Geogrh,",
+      "Geogrh",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Pocatello,_Idaho",
@@ -82835,6 +82835,8 @@
     "Items": [
       "myrBLU",
       "NoBand",
+      "staYEL",
+      "staBLU",
       "NoStar",
       "Crosse",
       "Circle",
