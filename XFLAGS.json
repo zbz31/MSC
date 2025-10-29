@@ -18542,6 +18542,7 @@
       "myrBLU",
       "NoBand",
       "staGRA",
+      "staBLA",
       "2Stars",
       "Circle",
       "Animal",
@@ -27007,14 +27008,16 @@
       "Circle",
       "Plants",
       "Horizo",
-      "3Color"
+      "Weapon",
+      "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_East_Germany",
     "lvlup": "2",
     "Colors": [
       "cl_BLA",
       "cl_RED",
-      "cl_YEL"
+      "cl_YEL",
+      "cl_BRO"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Flag_of_the_German_Democratic_Republic.svg/2560px-Flag_of_the_German_Democratic_Republic.svg.png",
     "Items2": [],
@@ -37310,6 +37313,7 @@
       "002WHI",
       "003BLA",
       "staORA",
+      "staBLA",
       "1Stars",
       "Horizo",
       "Animal",
@@ -40113,35 +40117,6 @@
   {
     "New": ".",
     "Code": "[NOR]",
-    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Nord-Tr%C3%B8ndelag.svg/2364px-Flag_of_Nord-Tr%C3%B8ndelag.svg.png",
-    "type": "County",
-    "year": "2016",
-    "Items": [
-      "myrWHI",
-      "2Bands",
-      "NoStar",
-      "Crosse",
-      "Horizo",
-      "Vertic",
-      "Nordic",
-      "2Color"
-    ],
-    "links": "https://en.m.wikipedia.org/wiki/Tr%C3%B8ndelag#Coat_of_arms",
-    "lvlup": "2",
-    "Colors": [
-      "cl_YEL",
-      "cl_WHI"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Nord-Tr%C3%B8ndelag.svg/2364px-Flag_of_Nord-Tr%C3%B8ndelag.svg.png",
-    "Items2": [],
-    "region": "rgn_Europe",
-    "couname": "[NOR] Troendelag",
-    "subtype": null,
-    "describe": "A golden cross on a white background. The flag is inspired by Olaf II of Norway's shield being described as such in the royal saga."
-  },
-  {
-    "New": ".",
-    "Code": "[NOR]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Flag_of_Troms.svg",
     "type": "County",
     "year": "1960",
@@ -40165,6 +40140,35 @@
     "couname": "[NOR] Troms",
     "subtype": null,
     "describe": "The flag features a yellow griffin on red background. A griffin is used due its symbol of the mighty clan of Bjarne Erlingsson on Bjarkøy in the 13th century."
+  },
+  {
+    "New": ".",
+    "Code": "[NOR]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Nord-Tr%C3%B8ndelag.svg/2364px-Flag_of_Nord-Tr%C3%B8ndelag.svg.png",
+    "type": "County",
+    "year": "2016",
+    "Items": [
+      "myrWHI",
+      "2Bands",
+      "NoStar",
+      "Crosse",
+      "Horizo",
+      "Vertic",
+      "Nordic",
+      "2Color"
+    ],
+    "links": "https://en.m.wikipedia.org/wiki/Tr%C3%B8ndelag#Coat_of_arms",
+    "lvlup": "2",
+    "Colors": [
+      "cl_YEL",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Nord-Tr%C3%B8ndelag.svg/2364px-Flag_of_Nord-Tr%C3%B8ndelag.svg.png",
+    "Items2": [],
+    "region": "rgn_Europe",
+    "couname": "[NOR] Trøndelag",
+    "subtype": null,
+    "describe": "A golden cross on a white background. The flag is inspired by Olaf II of Norway's shield being described as such in the royal saga."
   },
   {
     "New": ".",
@@ -47649,6 +47653,7 @@
       "Builds",
       "Geogrh",
       "Horizo",
+      "Center",
       "5+Color"
     ],
     "links": "https://web.archive.org/web/20230131062440/https://www.ljubljana.si/sl/o-ljubljani/mestni-simboli-in-prazniki/",
@@ -52006,7 +52011,8 @@
       "HasSta",
       "myrRED",
       "2Bands",
-      "staORA",
+      "staBLA",
+      "staYEL",
       "1Stars",
       "Crosse",
       "Horizo",
@@ -60003,35 +60009,6 @@
   {
     "New": ".",
     "Code": "[NOR]",
-    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Nord-Tr%C3%B8ndelag.svg/1920px-Flag_of_Nord-Tr%C3%B8ndelag.svg.png",
-    "type": "State",
-    "year": "1956-2017",
-    "Items": [
-      "myrWHI",
-      "2Bands",
-      "NoStar",
-      "Crosse",
-      "Horizo",
-      "Vertic",
-      "Nordic",
-      "2Color"
-    ],
-    "links": "https://en.wikipedia.org/wiki/Nord-Tr%C3%B8ndelag",
-    "lvlup": "2s",
-    "Colors": [
-      "cl_YEL",
-      "cl_WHI"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Nord-Tr%C3%B8ndelag.svg/1920px-Flag_of_Nord-Tr%C3%B8ndelag.svg.png",
-    "Items2": [],
-    "region": "rgn_Europe",
-    "couname": "[NOR] Nord-Trøndelag",
-    "subtype": null,
-    "describe": "The flag is based of Olaf II of Norway's iconic shield. According to the saga tradition, he had a gold cross on a white shield during the battle at Stiklestad in the year 1030, or as it says in Heimskringla: A white shield on which the holy cross was placed with gold.\\n\\nThe combination of gold on silver (yellow on white) was prohibited by the heraldic rules, which took effect from the 1150s. You could combine colors and metal, but not put metal on top of metal. There are also a number of exceptions, the most famous of which are: the Kingdom of Jerusalem's coat of arms (gold cross on silver) and the Pope's coat of arms and flag colors (gold on white)."
-  },
-  {
-    "New": ".",
-    "Code": "[NOR]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Flag_of_Oppland.svg/1920px-Flag_of_Oppland.svg.png",
     "type": "State",
     "year": "1989-2019",
@@ -61326,6 +61303,8 @@
       "Crowns",
       "Builds",
       "Geogrh",
+      "Animal",
+      "Center",
       "5+Color"
     ],
     "links": "https://commons.wikimedia.org/wiki/Flags_of_states_of_Brazil",
@@ -61337,7 +61316,8 @@
       "cl_RED",
       "cl_YEL",
       "cl_WHI",
-      "cl_GRA"
+      "cl_GRA",
+      "cl_BRO"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Bandeira_de_Fernando_de_Noronha.png",
     "Items2": [],
@@ -61367,7 +61347,7 @@
       "Texted",
       "Crowns",
       "Vertic",
-      "4Color"
+      "5+Color"
     ],
     "links": "https://commons.wikimedia.org/wiki/File:Bandeira_de_Recife.svg",
     "lvlup": "3",
@@ -61375,7 +61355,8 @@
       "cl_BLU",
       "cl_RED",
       "cl_YEL",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_BLA"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bandeira_de_Recife.svg/1280px-Bandeira_de_Recife.svg.png",
     "Items2": [],
@@ -62280,6 +62261,7 @@
       "001RED",
       "003BLU",
       "staORA",
+      "staBLA",
       "2Stars",
       "Horizo",
       "Circle",
@@ -64447,6 +64429,8 @@
       "HasSta",
       "myrBLU",
       "NoBand",
+      "staRED",
+      "staBLA",
       "3+Star",
       "Crosse",
       "Circle",
@@ -81848,13 +81832,12 @@
     "type": "City",
     "year": "1997, 2021",
     "Items": [
-      "HasSta",
       "myrBLU",
       "2Bands",
       "001BLU",
       "002WHI",
       "003YEL",
-      "1Stars",
+      "NoStar",
       "Vertic",
       "Circle",
       "Animal",
@@ -82305,10 +82288,9 @@
     "type": "City",
     "year": "1997, 2021",
     "Items": [
-      "HasSta",
       "myrBLU",
       "NoBand",
-      "3+Star",
+      "NoStar",
       "Circle",
       "HasSun",
       "Center",
@@ -93957,13 +93939,14 @@
       "NoStar",
       "Animal",
       "Center",
-      "2Color"
+      "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Mbunda_Kingdom",
     "lvlup": "3h",
     "Colors": [
       "cl_WHI",
-      "cl_GRA"
+      "cl_GRA",
+      "cl_BLA"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/9/97/Flag_of_the_Mbunda_Kingdom.svg",
     "Items2": [],
