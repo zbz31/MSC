@@ -55534,14 +55534,15 @@
       "NoBand",
       "NoStar",
       "Geogrh",
-      "3Color"
+      "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Voronezh_Oblast",
     "lvlup": "2a",
     "Colors": [
       "cl_RED",
       "cl_YEL",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_BLA"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Voronezh_Oblast.svg/1024px-Flag_of_Voronezh_Oblast.svg.png",
     "Items2": [],
