@@ -26948,6 +26948,33 @@
     "describe": "Woleu-Ntem Coat of Arms on a white field"
   },
   {
+    "New": "29/10/2025",
+    "Code": "[GEO]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Georgia_%281990%E2%80%932004%29.svg/960px-Flag_of_Georgia_%281990%E2%80%932004%29.svg.png",
+    "type": "Historical",
+    "year": "1991",
+    "Items": [
+      "myrRED",
+      "NoBand",
+      "NoStar",
+      "Canton",
+      "3Color"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Flag_of_Georgia_(country)#/media/File:Flag_of_Georgia_(1990%E2%80%932004).svg",
+    "lvlup": "2",
+    "Colors": [
+      "cl_BLA",
+      "cl_RED",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Georgia_%281990%E2%80%932004%29.svg/2560px-Flag_of_Georgia_%281990%E2%80%932004%29.svg.png",
+    "Items2": [],
+    "region": "rgn_Asia, rgn_Europe",
+    "couname": "[GEO] Georgia (1991–2004)",
+    "subtype": null,
+    "describe": "Flag of Georgia (1991–2004)"
+  },
+  {
     "New": ".",
     "Code": "[GER]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Baden-W%C3%BCrttemberg.svg/500px-Flag_of_Baden-W%C3%BCrttemberg.svg.png",
@@ -38256,6 +38283,38 @@
     "describe": "The flag depicts a lambi, an emblematic shell of the Antilles whose conch is used as a traditional musical instrument. Around it, 34 Amerindian stars symbolize the 34 municipalities of Martinique and eight segments evoke eight of the different languages spoken on the island: French, Creole, English, Spanish, Portuguese, Italian, Chinese and Arabic. The colour blue refers to the Atlantic Ocean and the Caribbean Sea, while green recalls the steep hills and nature of the territory."
   },
   {
+    "New": "29/10/2025",
+    "Code": "[MTQ]",
+    "Flag": "https://www.crwflags.com/fotw/images/m/mq!22_02.gif",
+    "type": "Proposed",
+    "year": "2022",
+    "Items": [
+      "myrBLA",
+      "3Bands",
+      "001RED",
+      "002GRE",
+      "003BLA",
+      "NoStar",
+      "Animal",
+      "dgband",
+      "4Color"
+    ],
+    "links": "https://www.crwflags.com/fotw/flags/mq23.html#hum",
+    "lvlup": "2",
+    "Colors": [
+      "cl_BLA",
+      "cl_GRE",
+      "cl_RED",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://www.crwflags.com/fotw/images/m/mq-2022.gif",
+    "Items2": [],
+    "region": "rgn_North America",
+    "couname": "[MTQ] Martinique (Original Proposal)",
+    "subtype": null,
+    "describe": "A diagonal tri-colour of red, green, and black, with a black hummingbird in the center, which gained controversy for being an image from Shutterstock, leading for this design to be disqualified."
+  },
+  {
     "New": ".",
     "Code": "[MUS]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Port_Louis%2C_Mauritius.svg/640px-Flag_of_Port_Louis%2C_Mauritius.svg.png",
@@ -48702,6 +48761,42 @@
     "couname": "[THA] Bueng Kan",
     "subtype": null,
     "describe": "Purple, White, purple with the center bar being wider than the purple bars with the Provincial Seal on the center."
+  },
+  {
+    "New": "29/10/2025",
+    "Code": "[THA]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Lampang_Province.png/960px-Flag_of_Lampang_Province.png",
+    "type": "Province",
+    "year": "",
+    "Items": [
+      "myrGRE",
+      "NoBand",
+      "NoStar",
+      "Circle",
+      "Plants",
+      "Animal",
+      "Texted",
+      "Builds",
+      "Geogrh",
+      "5+Color"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Lampang_province",
+    "lvlup": "2",
+    "Colors": [
+      "cl_BLU",
+      "cl_BRO",
+      "cl_GRE",
+      "cl_RED",
+      "cl_YEL",
+      "cl_WHI",
+      "cl_GRA"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Lampang_Province.png",
+    "Items2": [],
+    "region": "rgn_Asia",
+    "couname": "[THA] Lampang",
+    "subtype": null,
+    "describe": "Rectangular flag with a green field. In the centre of the flag is the provincial seal, which features a white rooster standing within a mandapa structure of Wat Phra That Lampang Luang."
   },
   {
     "New": ".",
@@ -62154,6 +62249,36 @@
     "couname": "[CAN] Brampton",
     "subtype": "[CAN] Ontario",
     "describe": "The Brampton City Crest was created in 1974 as the official symbol of the newly incorporated City of Brampton. Its symbols convey the historical roots and strengths of the various towns and townships that were combined to form the City of Brampton. The City Crest is crowned in gold, reminiscent of our British origins and our relationship to Brampton, Cumbria, England. The beaver symbolizes our Canadian heritage and the ethic of hard work. Farming and manufacturing, the area's historical mainstays, are represented in the Crest by the sheaf of grain and the ploughshare. The sheaf also represents the Township of Toronto Gore, one of Brampton's founding communities. The Grand Trunk Railway's role in establishing Brampton as an agricultural, manufacturing and political centre is depicted by the steam engine. The majestic pine tree was selected to represent the Township of Chinguacousy, one of Brampton's founding communities. Chinguacousy (meaning \"Land of the Tall Pines\") was a term used by the First Nations Peoples to describe the area."
+  },
+  {
+    "New": "29/10/2025",
+    "Code": "[CAN]",
+    "Flag": "https://www.fotw.info/images/c/ca-on-to-ct.gif",
+    "type": "Neighbourhood",
+    "year": "",
+    "Items": [
+      "myrGRE",
+      "3Bands",
+      "001GRE",
+      "002WHI",
+      "003GRE",
+      "NoStar",
+      "Plants",
+      "Vertic",
+      "2Color"
+    ],
+    "links": "https://en.wikipedia.org/wiki/Cabbagetown,_Toronto",
+    "lvlup": "3",
+    "Colors": [
+      "cl_GRE",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://www.fotw.info/images/c/ca-on-to-ct.gif",
+    "Items2": [],
+    "region": "rgn_North America",
+    "couname": "[CAN] Cabbagetown",
+    "subtype": "[CAN] Ontario",
+    "describe": "The flag of the Toronto neighbourhood of Cabbagetown features its namesake cabbage on a green and white Canadian Pale. In the mid 1800s, the area became a settlement area for Irish immigrants who had recently escaped the famine in their homeland. Many of the residents turned their front yards into gardens where they planted rows of cabbage. The neighbourhood gained its name from this practice."
   },
   {
     "New": "w4",
