@@ -24,6 +24,11 @@
       "Center",
       "2Color",
       "calendar",
+      "calendar",
+      "calendar",
+      "calendar",
+      "calendar",
+      "calendar",
       "area_652230",
       "capi_Kabul",
       "pm_Hasan Akhund",
@@ -32,6 +37,11 @@
       "pol_failed",
       "pol_deat",
       "md_deno_n",
+      "calendar",
+      "calendar",
+      "calendar",
+      "calendar",
+      "calendar",
       "calendar",
       "chopGB",
       "rg2_As_SouthOnly"
@@ -44,6 +54,11 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/2560px-Flag_of_the_Taliban.svg.png",
     "Items2": [
+      "calendar",
+      "calendar",
+      "calendar",
+      "calendar",
+      "calendar",
       "calendar",
       "chopGB",
       "rg2_As_SouthOnly"
@@ -1049,6 +1064,7 @@
       "NoStar",
       "Vertic",
       "OnlyBa",
+      "Zigzaw",
       "2Color",
       "area_765",
       "capi_Manama",
@@ -1221,6 +1237,7 @@
       "NoStar",
       "Crosse",
       "Horizo",
+      "Zigzaw",
       "3Color",
       "area_207600",
       "capi_Minsk",
@@ -1901,6 +1918,7 @@
       "Canton",
       "unjack",
       "Crowns",
+      "Zigzaw",
       "5+Color",
       "area_60",
       "capi_Diego Garcia",
@@ -3220,6 +3238,7 @@
       "IsMoon",
       "Center",
       "Crowns",
+      "Checkd",
       "5+Color",
       "area_56594",
       "capi_Zagreb",
@@ -4407,6 +4426,7 @@
       "unjack",
       "Geogrh",
       "Ships!",
+      "Zigzaw",
       "5+Color",
       "area_12173",
       "capi_Stanley",
@@ -4784,6 +4804,7 @@
       "Center",
       "Humans",
       "Ships!",
+      "Zigzaw",
       "4Color",
       "area_4167",
       "capi_Papeete",
@@ -4952,6 +4973,7 @@
       "Vertic",
       "Center",
       "Rotate",
+      "Quartr",
       "2Color",
       "area_69700",
       "capi_Tbilisi",
@@ -5300,6 +5322,8 @@
       "3+Star",
       "Circle",
       "Plants",
+      "Border",
+      "Radial",
       "3Color",
       "area_344",
       "capi_St. George's",
@@ -5419,6 +5443,7 @@
       "Center",
       "Geogrh",
       "Ships!",
+      "Border",
       "5+Color",
       "area_549",
       "capi_Hagåtña",
@@ -6142,6 +6167,11 @@
       "Center",
       "3Color",
       "calendar",
+      "calendar",
+      "calendar",
+      "calendar",
+      "calendar",
+      "calendar",
       "area_1648195",
       "capi_Tehran",
       "pm_Masoud Pezeshkian",
@@ -6150,6 +6180,11 @@
       "pol_deat",
       "md_deno_n",
       "ntGRRE",
+      "calendar",
+      "calendar",
+      "calendar",
+      "calendar",
+      "calendar",
       "calendar",
       "bricss",
       "rg2_As_SouthOnly"
@@ -6163,6 +6198,11 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/2560px-Flag_of_Iran.svg.png",
     "Items2": [
+      "calendar",
+      "calendar",
+      "calendar",
+      "calendar",
+      "calendar",
       "calendar",
       "bricss",
       "rg2_As_SouthOnly"
@@ -6930,6 +6970,7 @@
       "Horizo",
       "Animal",
       "HasSun",
+      "Zigzaw",
       "5+Color",
       "area_811",
       "capi_Tarawa",
@@ -7854,6 +7895,7 @@
       "NoStar",
       "IsMoon",
       "Center",
+      "Border",
       "3Color",
       "area_298",
       "capi_Malé",
@@ -8032,6 +8074,7 @@
       "1Stars",
       "dgband",
       "HasSun",
+      "Radial",
       "3Color",
       "area_181",
       "capi_Majuro",
@@ -8635,6 +8678,7 @@
       "Plants",
       "Center",
       "Crowns",
+      "Border",
       "4Color",
       "area_13812",
       "capi_Podgorica",
@@ -9060,6 +9104,7 @@
       "HasSun",
       "IsMoon",
       "Trside",
+      "Border",
       "3Color",
       "calendar",
       "area_147516",
@@ -9650,6 +9695,7 @@
       "HasSun",
       "Center",
       "Rotate",
+      "Radial",
       "2Color",
       "area_25713",
       "capi_Skopje",
@@ -10134,6 +10180,7 @@
       "staRED",
       "staBLU",
       "2Stars",
+      "Quartr",
       "3Color",
       "area_75417",
       "capi_Panama City",
@@ -10687,6 +10734,7 @@
       "NoStar",
       "Vertic",
       "OnlyBa",
+      "Zigzaw",
       "2Color",
       "area_11586",
       "capi_Doha",
@@ -10746,6 +10794,7 @@
       "HasSun",
       "Center",
       "Geogrh",
+      "Radial",
       "3Color",
       "area_2512",
       "capi_Saint-Denis",
@@ -11779,6 +11828,7 @@
       "NoStar",
       "dgband",
       "OnlyBa",
+      "Radial",
       "5+Color",
       "area_459",
       "capi_Victoria",
@@ -11959,6 +12009,7 @@
       "Vertic",
       "Center",
       "Geogrh",
+      "Border",
       "5+Color",
       "area_21",
       "capi_Oranjestad",
@@ -12606,6 +12657,7 @@
       "Animal",
       "Plants",
       "Weapon",
+      "Border",
       "5+Color",
       "area_65610",
       "capi_Sri Jayawardenepura Kotte",
@@ -14808,6 +14860,7 @@
       "Center",
       "Geogrh",
       "Builds",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/mk-ohri.html#fla",
@@ -15610,6 +15663,7 @@
       "HasSun",
       "Center",
       "Humans",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Catamarca",
@@ -15686,6 +15740,7 @@
       "Center",
       "Geogrh",
       "Builds",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/ar-u.html",
@@ -16228,6 +16283,7 @@
       "Center",
       "Geogrh",
       "southc",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/ar-z.html",
@@ -17454,6 +17510,7 @@
       "Horizo",
       "Vertic",
       "Center",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/St._George%27s,_Bermuda",
@@ -18863,6 +18920,7 @@
       "Horizo",
       "HasSun",
       "Crowns",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_British_Columbia",
@@ -18931,6 +18989,7 @@
       "Horizo",
       "Animal",
       "Ships!",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://www.canada.ca/en/canadian-heritage/services/provincial-territorial-symbols-canada/new-brunswick.html",
@@ -19095,6 +19154,7 @@
       "Horizo",
       "Vertic",
       "Center",
+      "Quartr",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Quebec",
@@ -21207,6 +21267,7 @@
       "Plants",
       "Center",
       "Geogrh",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://zeljko-heimer-fame.from.hr/descr/hr-kc.html",
@@ -21750,6 +21811,7 @@
       "Trside",
       "Builds",
       "Crowns",
+      "Border",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Havana",
@@ -21933,6 +21995,7 @@
       "Circle",
       "Animal",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_Czech_flags",
@@ -21964,6 +22027,7 @@
       "Animal",
       "Texted",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_Czech_flags",
@@ -21996,6 +22060,7 @@
       "Animal",
       "Plants",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_Czech_flags",
@@ -22027,6 +22092,7 @@
       "Circle",
       "Animal",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_Czech_flags",
@@ -22061,6 +22127,7 @@
       "Plants",
       "Geogrh",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_Czech_flags",
@@ -22095,6 +22162,7 @@
       "Animal",
       "Texted",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_Czech_flags",
@@ -22128,6 +22196,7 @@
       "Animal",
       "Builds",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_Czech_flags",
@@ -22160,6 +22229,7 @@
       "Animal",
       "Builds",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_Czech_flags",
@@ -22193,6 +22263,7 @@
       "Plants",
       "Builds",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_Czech_flags",
@@ -22226,6 +22297,7 @@
       "Animal",
       "Plants",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_Czech_flags",
@@ -22258,6 +22330,7 @@
       "Animal",
       "Plants",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_Czech_flags",
@@ -22295,6 +22368,7 @@
       "Plants",
       "Weapon",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_Czech_flags",
@@ -22329,6 +22403,7 @@
       "Geogrh",
       "Builds",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_Czech_flags",
@@ -22467,6 +22542,7 @@
       "HasSun",
       "Geogrh",
       "Crowns",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Puerto_Plata_Province",
@@ -23111,6 +23187,7 @@
       "Horizo",
       "Vertic",
       "Animal",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Bedfordshire",
@@ -23208,6 +23285,7 @@
       "NoStar",
       "Horizo",
       "Crowns",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Cambridgeshire#Flag",
@@ -23297,6 +23375,7 @@
       "Horizo",
       "Circle",
       "Plants",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Cumberland",
@@ -23551,6 +23630,7 @@
       "NoStar",
       "Horizo",
       "Animal",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Herefordshire",
@@ -23582,6 +23662,7 @@
       "Horizo",
       "Animal",
       "Center",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Hertfordshire",
@@ -23701,6 +23782,7 @@
       "Circle",
       "Animal",
       "Plants",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Leicestershire",
@@ -23852,6 +23934,7 @@
       "NoBand",
       "NoStar",
       "Rotate",
+      "Checkd",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Northumberland",
@@ -23914,6 +23997,7 @@
       "NoStar",
       "Animal",
       "Plants",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Oxfordshire",
@@ -23972,6 +24056,7 @@
       "NoStar",
       "Horizo",
       "Animal",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Shropshire",
@@ -24084,6 +24169,7 @@
       "NoBand",
       "NoStar",
       "Rotate",
+      "Checkd",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Surrey",
@@ -24204,6 +24290,7 @@
       "Circle",
       "Animal",
       "Center",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Wiltshire",
@@ -24236,6 +24323,7 @@
       "Horizo",
       "Plants",
       "Center",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Worcestershire",
@@ -24649,6 +24737,7 @@
       "Animal",
       "Builds",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Castile_and_Le%C3%B3n",
@@ -24815,6 +24904,7 @@
       "Circle",
       "Center",
       "Crowns",
+      "nolrgcrs",
       "5+Color"
     ],
     "links": "https://www.elidealgallego.com/texto-diario/mostrar/2330862/origenes-bandera-galicia-escudo-gallego",
@@ -25869,6 +25959,7 @@
       "Horizo",
       "Plants",
       "Center",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://kainuunliitto.fi/assets/uploads/2020/09/Kainuu_Facts.pdf",
@@ -26116,6 +26207,7 @@
       "003YEL",
       "NoStar",
       "Horizo",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Pirkanmaa",
@@ -26333,6 +26425,7 @@
       "Horizo",
       "Center",
       "Ships!",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://uudenmaanliitto.fi/en/logo-and-photos/",
@@ -26363,6 +26456,7 @@
       "Circle",
       "Animal",
       "Canton",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
@@ -26512,6 +26606,7 @@
       "Circle",
       "Animal",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Provence-Alpes-C%C3%B4te_d%27Azur",
@@ -26883,6 +26978,7 @@
       "myrEQ",
       "NoBand",
       "NoStar",
+      "Checkd",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Bavaria",
@@ -26976,6 +27072,7 @@
       "Horizo",
       "Vertic",
       "OnlyBa",
+      "Checkd",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Bremen",
@@ -27661,6 +27758,7 @@
       "Canton",
       "Geogrh",
       "Ships!",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Torteval,_Guernsey",
@@ -27827,6 +27925,7 @@
       "Center",
       "Humans",
       "Builds",
+      "Radial",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Bissau",
@@ -28486,6 +28585,7 @@
       "Geogrh",
       "Humans",
       "Crowns",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Hajd%C3%BA%E2%80%93Bihar_County",
@@ -28778,6 +28878,7 @@
       "Geogrh",
       "Builds",
       "Crowns",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Szabolcs%E2%80%93Szatm%C3%A1r%E2%80%93Bereg_County",
@@ -30051,11 +30152,10 @@
     "year": "1995",
     "Items": [
       "myrRED",
-      "2Bands",
+      "NoBand",
       "NoStar",
       "Crosse",
-      "Horizo",
-      "Vertic",
+      "Border",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Piedmont",
@@ -32070,6 +32170,7 @@
       "Texted",
       "HasSun",
       "Center",
+      "Radial",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Astana",
@@ -32240,6 +32341,7 @@
       "NoStar",
       "Circle",
       "Center",
+      "Quartr",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Nairobi",
@@ -32332,6 +32434,7 @@
       "Circle",
       "Geogrh",
       "Builds",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://vexillology.fandom.com/wiki/Osh",
@@ -32365,6 +32468,7 @@
       "3+Star",
       "Horizo",
       "Builds",
+      "Zigzaw",
       "3Color"
     ],
     "links": "crwflags.com/fotw/flags/ki-mai.html",
@@ -32700,6 +32804,7 @@
       "1Stars",
       "Canton",
       "Geogrh",
+      "Border",
       "4Color"
     ],
     "links": "https://www.mia.gov.lr/doc/Grand%20Cape%20Mount%20CDA_web.pdf",
@@ -32737,6 +32842,7 @@
       "HasSun",
       "Canton",
       "Geogrh",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://www.mia.gov.lr/doc/Grand%20Gedeh%20CDA_web.pdf",
@@ -32813,6 +32919,7 @@
       "Plants",
       "Geogrh",
       "Humans",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://www.fotw.info/flags/lr-lo.html",
@@ -33174,6 +33281,7 @@
       "NoStar",
       "Vertic",
       "OnlyBa",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/li-es.html",
@@ -33478,6 +33586,7 @@
       "IsMoon",
       "Center",
       "Humans",
+      "Border",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Central_Province,_Sri_Lanka",
@@ -33510,6 +33619,7 @@
       "Plants",
       "HasSun",
       "Humans",
+      "Border",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Eastern_Province,_Sri_Lanka",
@@ -33583,6 +33693,7 @@
       "IsMoon",
       "Center",
       "Humans",
+      "Border",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_North_Western_Province,_Sri_Lanka",
@@ -33652,6 +33763,7 @@
       "HasSun",
       "IsMoon",
       "Humans",
+      "Border",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Sabaragamuwa_Province",
@@ -33684,6 +33796,7 @@
       "Weapon",
       "HasSun",
       "IsMoon",
+      "Border",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/List_of_Sri_Lankan_flags#Provincial_flags",
@@ -33715,6 +33828,7 @@
       "Plants",
       "Center",
       "Builds",
+      "Border",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/List_of_Sri_Lankan_flags#Provincial_flags",
@@ -33745,6 +33859,7 @@
       "Plants",
       "Weapon",
       "Center",
+      "Border",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Western_Province,_Sri_Lanka",
@@ -33776,6 +33891,7 @@
       "Weapon",
       "Center",
       "Humans",
+      "Border",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/lt-al.html",
@@ -33807,6 +33923,7 @@
       "Circle",
       "Animal",
       "Center",
+      "Border",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/lt-ku.html",
@@ -33839,6 +33956,7 @@
       "Circle",
       "Center",
       "Builds",
+      "Border",
       "5+Color"
     ],
     "links": "https://heraldry-wiki.com/wiki/Klaip%C4%97da_(county)",
@@ -33872,6 +33990,7 @@
       "Plants",
       "Center",
       "Humans",
+      "Border",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/lt-mr.html",
@@ -33905,6 +34024,7 @@
       "Weapon",
       "Center",
       "Humans",
+      "Border",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/lt-pn.html",
@@ -33938,6 +34058,7 @@
       "Animal",
       "Weapon",
       "Center",
+      "Border",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/lt-ta.html",
@@ -33969,6 +34090,7 @@
       "Crosse",
       "Animal",
       "Center",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/lt-te.html",
@@ -34003,6 +34125,7 @@
       "Crosse",
       "Animal",
       "Center",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/lt-ut.html",
@@ -34037,6 +34160,7 @@
       "Weapon",
       "Center",
       "Humans",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/lt-vl.html",
@@ -34069,6 +34193,7 @@
       "Circle",
       "Animal",
       "Center",
+      "Border",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/lt-sa.html",
@@ -34743,6 +34868,7 @@
       "1Stars",
       "IsMoon",
       "Canton",
+      "Quartr",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_and_coat_of_arms_of_Selangor",
@@ -34773,6 +34899,7 @@
       "1Stars",
       "IsMoon",
       "Center",
+      "Border",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_and_coat_of_arms_of_Terengganu#Flag",
@@ -34899,6 +35026,7 @@
       "Animal",
       "Center",
       "Canton",
+      "Quartr",
       "4Color"
     ],
     "links": "https://www.fotw.info/flags/mg-antan.html",
@@ -35360,6 +35488,7 @@
       "Center",
       "Humans",
       "Crowns",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Guanajuato",
@@ -36297,6 +36426,7 @@
       "NoStar",
       "dgband",
       "Plants",
+      "Radial",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Kwajalein_Atoll",
@@ -36852,6 +36982,7 @@
       "Crosse",
       "Center",
       "Rotate",
+      "Border",
       "2Color"
     ],
     "links": "https://www.maritimedirectory.com.mt/handbook.asp",
@@ -37129,6 +37260,7 @@
       "myrEQ",
       "NoBand",
       "NoStar",
+      "Checkd",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Briceni_District",
@@ -37158,6 +37290,7 @@
       "NoStar",
       "Horizo",
       "OnlyBa",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Cahul_District",
@@ -37281,6 +37414,7 @@
       "Crosse",
       "Animal",
       "Humans",
+      "Border",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/C%C4%83l%C4%83ra%C8%99i_District",
@@ -37319,6 +37453,7 @@
       "Plants",
       "Weapon",
       "Builds",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/C%C4%83u%C8%99eni_District",
@@ -37443,6 +37578,7 @@
       "NoStar",
       "Horizo",
       "Canton",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Edine%C8%9B_District",
@@ -37652,6 +37788,7 @@
       "NoStar",
       "Animal",
       "Plants",
+      "Quartr",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Nisporeni_District",
@@ -37905,6 +38042,7 @@
       "NoStar",
       "Horizo",
       "Animal",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Taraclia_District",
@@ -38092,6 +38230,7 @@
       "Circle",
       "Animal",
       "Center",
+      "Radial",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Martinique",
@@ -38148,6 +38287,7 @@
       "NoStar",
       "Plants",
       "Center",
+      "Border",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/na-wind.html",
@@ -38299,6 +38439,7 @@
       "003GRE",
       "NoStar",
       "Horizo",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Flevoland",
@@ -38453,6 +38594,7 @@
       "NoBand",
       "NoStar",
       "Rotate",
+      "Checkd",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_North_Brabant",
@@ -38514,6 +38656,7 @@
       "NoStar",
       "Horizo",
       "OnlyBa",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Overijssel",
@@ -38604,6 +38747,7 @@
       "Animal",
       "Center",
       "Crowns",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Zeeland",
@@ -39589,6 +39733,7 @@
       "Circle",
       "Canton",
       "Ships!",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/List_of_flags_used_in_Northern_Ireland#Local_government_flags",
@@ -39650,6 +39795,7 @@
       "NoStar",
       "Plants",
       "Center",
+      "Border",
       "2Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_flags_used_in_Northern_Ireland",
@@ -39682,6 +39828,7 @@
       "Center",
       "Humans",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/List_of_flags_used_in_Northern_Ireland#University_flags",
@@ -39865,6 +40012,7 @@
       "003WHI",
       "NoStar",
       "OnlyBa",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Akershus",
@@ -40180,6 +40328,7 @@
       "NoBand",
       "NoStar",
       "HasSun",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/%C3%98stfold",
@@ -40208,6 +40357,7 @@
       "Plants",
       "Weapon",
       "Ships!",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Auckland_City",
@@ -40244,6 +40394,8 @@
       "Horizo",
       "Vertic",
       "Crowns",
+      "nolrgcrs",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_the_City_of_Nelson",
@@ -40279,6 +40431,7 @@
       "2Stars",
       "Horizo",
       "Geogrh",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Otago",
@@ -40777,6 +40930,7 @@
       "Animal",
       "HasSun",
       "Center",
+      "Radial",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flags_of_the_states_of_Palau#",
@@ -40880,6 +41034,7 @@
       "Plants",
       "Center",
       "Geogrh",
+      "Radial",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flags_of_the_states_of_Palau",
@@ -40977,6 +41132,7 @@
       "Geogrh",
       "Humans",
       "Builds",
+      "Radial",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Amazonas_(Peruvian_department)",
@@ -41419,6 +41575,7 @@
       "Canton",
       "Geogrh",
       "Builds",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Lake_Sebu_(municipality)",
@@ -42269,6 +42426,7 @@
       "NoStar",
       "Animal",
       "Crowns",
+      "Border",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_the_Warmian–Masurian_Voivodeship",
@@ -42367,6 +42525,7 @@
       "Vertic",
       "Animal",
       "Crowns",
+      "nolrgcrs",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_the_Świętokrzyskie_Voivodeship",
@@ -42405,6 +42564,7 @@
       "Center",
       "Builds",
       "Ships!",
+      "Radial",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Lisbon",
@@ -42438,6 +42598,7 @@
       "NoStar",
       "Crosse",
       "dgband",
+      "nolrgcrs",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Adjuntas#Design",
@@ -42474,6 +42635,7 @@
       "Animal",
       "Texted",
       "Center",
+      "nolrgcrs",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Aguada,_Puerto_Rico#Flag",
@@ -42693,6 +42855,7 @@
       "Crosse",
       "Horizo",
       "Vertic",
+      "nolrgcrs",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/A%C3%B1asco,_Puerto_Rico#Flag",
@@ -43121,6 +43284,7 @@
       "Geogrh",
       "Builds",
       "Crowns",
+      "nolrgcrs",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/List_of_Puerto_Rican_flags",
@@ -43506,6 +43670,7 @@
       "Circle",
       "Center",
       "Builds",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/List_of_Puerto_Rican_flags",
@@ -44052,6 +44217,7 @@
       "Crosse",
       "Horizo",
       "Vertic",
+      "nolrgcrs",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/List_of_Puerto_Rican_flags",
@@ -45292,6 +45458,7 @@
       "Horizo",
       "HasSun",
       "Center",
+      "Radial",
       "4Color"
     ],
     "links": "https://www.fotw.info/flags/za-le.html#fl",
@@ -45324,6 +45491,7 @@
       "Horizo",
       "Circle",
       "Plants",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Mpumalanga",
@@ -45519,6 +45687,7 @@
       "Circle",
       "HasSun",
       "Builds",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Banffshire",
@@ -45648,6 +45817,7 @@
       "Crosse",
       "Center",
       "Rotate",
+      "Quartr",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Kirkcudbrightshire",
@@ -46933,6 +47103,7 @@
       "Circle",
       "Animal",
       "Center",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Miquelon-Langlade",
@@ -47360,6 +47531,7 @@
       "Center",
       "Builds",
       "Crowns",
+      "Radial",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/st-sto.html",
@@ -47390,6 +47562,7 @@
       "myrWHI",
       "NoBand",
       "NoStar",
+      "Quartr",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Bansk%C3%A1_Bystrica_Region",
@@ -47419,6 +47592,7 @@
       "002YEL",
       "003BLU",
       "NoStar",
+      "Quartr",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Bratislava_Region",
@@ -47445,6 +47619,7 @@
       "myrYEL",
       "NoBand",
       "NoStar",
+      "Quartr",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Ko%C5%A1ice_Region",
@@ -47471,6 +47646,7 @@
       "myrBLU",
       "NoBand",
       "NoStar",
+      "Quartr",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Nitra_Region",
@@ -47588,6 +47764,7 @@
       "myrEQ",
       "NoBand",
       "NoStar",
+      "Quartr",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/%C5%BDilina_Region",
@@ -47687,6 +47864,7 @@
       "staBLA",
       "3+Star",
       "Vertic",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Aargau",
@@ -47947,6 +48125,7 @@
       "NoStar",
       "Crosse",
       "Animal,",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/ch-gr.html",
@@ -49141,6 +49320,7 @@
       "NoBand",
       "NoStar",
       "Rotate",
+      "Border",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_the_United_Arab_Emirates#Ras_Al_Khaimah_and_Sharjah",
@@ -49167,6 +49347,7 @@
       "NoBand",
       "NoStar",
       "Rotate",
+      "Border",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_the_United_Arab_Emirates#Ras_Al_Khaimah_and_Sharjah",
@@ -49409,6 +49590,7 @@
       "Circle",
       "HasSun",
       "Center",
+      "Radial",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Donetsk_Oblast",
@@ -50253,6 +50435,7 @@
       "1Stars",
       "Horizo",
       "Center,",
+      "Radial",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Arizona",
@@ -50864,6 +51047,8 @@
       "NoStar",
       "Crosse",
       "Vertic,",
+      "Quartr",
+      "Checkd",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Maryland",
@@ -51706,6 +51891,7 @@
       "Center",
       "Geogrh",
       "Builds,",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Utah",
@@ -51846,7 +52032,8 @@
       "Weapon",
       "Center",
       "Geogrh",
-      "Humans,",
+      "Humans",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_West_Virginia",
@@ -51920,7 +52107,8 @@
       "Texted",
       "Weapon",
       "Center",
-      "Humans,",
+      "Humans",
+      "Border",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Wyoming",
@@ -52022,6 +52210,7 @@
       "Center",
       "Canton",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_flags_of_the_Papacy",
@@ -52085,6 +52274,7 @@
       "NoStar",
       "Animal",
       "Texted",
+      "Border",
       "2Color"
     ],
     "links": "https://flages.fandom.com/wiki/Flag_of_Bequia",
@@ -52234,6 +52424,7 @@
       "Geogrh",
       "Humans",
       "Builds",
+      "Radial",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Aragua",
@@ -52568,6 +52759,7 @@
       "NoStar",
       "Horizo",
       "HasSun",
+      "Radial",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/ve-k.html#:~:text=Urdaneta%20(Siquisique)-,Overview,-Flag%20of%20the",
@@ -53397,6 +53589,7 @@
       "Crosse",
       "Animal",
       "Center",
+      "Quartr",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Flintshire",
@@ -53830,6 +54023,7 @@
       "NoBand",
       "NoStar",
       "Rotate",
+      "Checkd",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Racing_flags#Chequered_Flag",
@@ -54072,6 +54266,7 @@
       "Center",
       "Humans",
       "Crowns",
+      "nolrgcrs",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Arkhangelsk_Oblast",
@@ -54279,6 +54474,7 @@
       "Weapon",
       "Center",
       "Crowns",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Ivanovo_Oblast",
@@ -54638,6 +54834,7 @@
       "Weapon",
       "Canton",
       "Builds",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Magadan_Oblast",
@@ -55651,6 +55848,7 @@
       "NoBand",
       "NoStar",
       "Rotate",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Andorra_la_Vella",
@@ -56161,6 +56359,8 @@
       "Animal",
       "HasSun",
       "Geogrh",
+      "Border",
+      "Radial",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Tibet",
@@ -56286,6 +56486,7 @@
       "NoStar",
       "Horizo",
       "Geogrh",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Scania",
@@ -56315,6 +56516,7 @@
       "Center",
       "Builds",
       "Crowns",
+      "Radial",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Ceuta",
@@ -56668,6 +56870,7 @@
       "Center",
       "Builds",
       "Crowns",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Budapest",
@@ -59215,6 +59418,7 @@
       "staWHI",
       "1Stars",
       "Geogrh",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/List_of_flags_of_Venezuela#Administrative_divisions_flags",
@@ -59653,6 +59857,7 @@
       "NoStar",
       "Horizo",
       "OnlyBa",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Nenets_Autonomous_Okrug",
@@ -59683,6 +59888,7 @@
       "003BLU",
       "NoStar",
       "Horizo",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Yamalo-Nenets_Autonomous_Okrug",
@@ -60401,6 +60607,7 @@
       "Circle",
       "Animal",
       "Center",
+      "Border",
       "3Color"
     ],
     "links": "https://www.fotw.info/flags/am-gyumr.html",
@@ -60623,6 +60830,8 @@
       "staWHI",
       "3+Star",
       "Animal",
+      "Border",
+      "Quartr",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Brisbane",
@@ -60686,6 +60895,8 @@
       "Animal",
       "Plants",
       "Ships!",
+      "Border",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Adelaide",
@@ -60724,6 +60935,7 @@
       "Vertic",
       "Canton",
       "southc",
+      "nolrgcrs",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/South_Sea_Islanders",
@@ -60826,6 +61038,7 @@
       "Plants",
       "Ships!",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Melbourne",
@@ -60986,6 +61199,7 @@
       "NoStar",
       "dgband",
       "Center",
+      "Radial",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/West_Flanders",
@@ -61014,6 +61228,8 @@
       "NoStar",
       "Animal",
       "Crosse",
+      "Horizo",
+      "Vertic",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Hainaut_Province",
@@ -61233,6 +61449,7 @@
       "NoStar",
       "dgband",
       "OnlyBa",
+      "Checkd",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Wiphala",
@@ -61591,6 +61808,7 @@
       "NoStar",
       "Horizo",
       "Circle",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Medicine_Hat",
@@ -61651,6 +61869,7 @@
       "NoStar",
       "Animal",
       "Center",
+      "Border",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Richmond%2C_British_Columbia",
@@ -61685,6 +61904,7 @@
       "Weapon",
       "Trside",
       "Crowns",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Vancouver",
@@ -61874,6 +62094,7 @@
       "Horizo",
       "Circle",
       "Crowns",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/ca-on-be.html",
@@ -61943,6 +62164,7 @@
       "1Stars",
       "Horizo",
       "Plants",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Greater_Sudbury",
@@ -62129,7 +62351,6 @@
       "002WHI",
       "003BLU",
       "NoStar",
-      "Crosse",
       "dgband",
       "Circle",
       "Plants",
@@ -62166,6 +62387,7 @@
       "Crosse",
       "Center",
       "Crowns",
+      "Border",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Charlottetown",
@@ -62295,6 +62517,7 @@
       "Circle",
       "Plants",
       "Center",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Montreal",
@@ -62328,6 +62551,7 @@
       "Circle",
       "Center",
       "Ships!",
+      "Border",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Quebec_City",
@@ -62570,6 +62794,7 @@
       "HasSun",
       "IsMoon",
       "Center",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_the_Mapuches",
@@ -62786,6 +63011,7 @@
       "1Stars",
       "Center",
       "Rotate",
+      "Border",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Barranquilla",
@@ -63009,6 +63235,7 @@
       "IsMoon",
       "Center",
       "Crowns",
+      "Border",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/hr~nav1.html",
@@ -63043,6 +63270,7 @@
       "Humans",
       "Builds",
       "Crowns",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Dubrovnik",
@@ -63506,6 +63734,7 @@
       "Horizo",
       "Animal",
       "Canton",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Exmoor",
@@ -63775,6 +64004,7 @@
       "Humans",
       "Builds",
       "Crowns",
+      "Border",
       "5+Color"
     ],
     "links": "https://sites.google.com/site/simbolosdecadiz/provincia-de-cadiz",
@@ -63884,6 +64114,7 @@
       "Circle",
       "Geogrh",
       "Builds",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Ibiza",
@@ -63923,6 +64154,7 @@
       "Weapon",
       "Humans",
       "Builds",
+      "nolrgcrs",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Mallorca",
@@ -64054,6 +64286,7 @@
       "NoStar",
       "Crosse",
       "Rotate",
+      "Quartr",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Barcelona",
@@ -64593,6 +64826,7 @@
       "Vertic",
       "Canton",
       "Ships!",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_French_flags",
@@ -64791,6 +65025,7 @@
       "Animal",
       "Plants",
       "Center",
+      "Quartr",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Borjomi_Municipality",
@@ -64894,6 +65129,7 @@
       "Animal",
       "Texted",
       "Center",
+      "nolrgcrs",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Aegina",
@@ -64926,6 +65162,7 @@
       "Plants",
       "Center",
       "Humans",
+      "Border",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/gr-at-at.html",
@@ -64957,6 +65194,7 @@
       "Texted",
       "Center",
       "Ships!",
+      "Border",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/List_of_Greek_flags#Regional_and_municipal_flags",
@@ -65053,6 +65291,7 @@
       "Texted",
       "Center",
       "Humans",
+      "Border",
       "2Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/gr-pw-pa.html",
@@ -65542,6 +65781,7 @@
       "Crosse",
       "Horizo",
       "Center",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://www.fotw.info/flags/ie-don.html",
@@ -66055,6 +66295,8 @@
       "myrWHI",
       "NoBand",
       "NoStar",
+      "Border",
+      "Quartr",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Taurag%C4%97",
@@ -66088,6 +66330,7 @@
       "Geogrh",
       "Humans",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Tel%C5%A1iai",
@@ -66263,6 +66506,7 @@
       "Horizo",
       "Center",
       "Builds",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/P%C4%BCavi%C5%86as",
@@ -66797,6 +67041,7 @@
       "NoStar",
       "Horizo",
       "Plants",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Aloja,_Latvia",
@@ -67051,6 +67296,7 @@
       "NoStar",
       "Horizo",
       "Animal",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Vi%C4%BC%C4%81ni",
@@ -67082,6 +67328,7 @@
       "dgband",
       "Plants",
       "Geogrh",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Broc%C4%93ni",
@@ -67861,6 +68108,7 @@
       "Center",
       "Geogrh",
       "Humans",
+      "Border",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_flags_of_Malta",
@@ -67891,6 +68139,7 @@
       "Crosse",
       "Center",
       "Rotate",
+      "Border",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/List_of_flags_of_Montenegro",
@@ -67986,6 +68235,7 @@
       "NoStar",
       "dgband",
       "OnlyBa",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Tiraspol#",
@@ -68088,6 +68338,7 @@
       "Texted",
       "Center",
       "Geogrh",
+      "Border",
       "5+Color"
     ],
     "links": "https://www.fotw.info/flags/mu-ro.html",
@@ -68156,6 +68407,7 @@
       "NoStar",
       "Canton",
       "Ships!",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Almere",
@@ -68192,6 +68444,7 @@
       "Plants",
       "Center",
       "Geogrh",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_flags_of_the_Netherlands",
@@ -68413,6 +68666,7 @@
       "NoBand",
       "NoStar",
       "Rotate",
+      "Checkd",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/List_of_flags_of_the_Netherlands#Regions",
@@ -68541,6 +68795,7 @@
       "OnlyBa",
       "Geogrh",
       "Rotate",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_flags_of_the_Netherlands",
@@ -68602,6 +68857,7 @@
       "Vertic",
       "OnlyBa",
       "Builds",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Buren?origin=serp_auto",
@@ -68664,6 +68920,7 @@
       "NoStar",
       "Horizo",
       "Trside",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/List_of_flags_of_the_Netherlands#Regions",
@@ -68815,6 +69072,7 @@
       "Horizo",
       "Vertic",
       "OnlyBa",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/List_of_flags_of_the_Netherlands#Regions",
@@ -69240,6 +69498,7 @@
       "NoStar",
       "Horizo",
       "OnlyBa",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/List_of_flags_of_the_Netherlands#Regions",
@@ -69299,6 +69558,7 @@
       "NoStar",
       "Horizo",
       "Animal",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/List_of_flags_of_the_Netherlands#Regions",
@@ -69709,6 +69969,7 @@
       "Plants",
       "Ships!",
       "Crowns",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Christchurch",
@@ -69775,6 +70036,7 @@
       "Circle",
       "Animal",
       "Plants",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Napier,_New_Zealand",
@@ -69970,6 +70232,7 @@
       "Weapon",
       "Center",
       "Crowns",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_Omani_flags",
@@ -70003,6 +70266,7 @@
       "Trside",
       "Center",
       "Geogrh",
+      "Radial",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Peru",
@@ -70557,6 +70821,7 @@
       "Horizo",
       "Geogrh",
       "Builds",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Zakopane",
@@ -71424,6 +71689,7 @@
       "Weapon",
       "Center",
       "Builds",
+      "Radial",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/pt-cml.html",
@@ -71461,6 +71727,7 @@
       "Texted",
       "Weapon",
       "Center",
+      "Radial",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/pt-scr.html",
@@ -71496,6 +71763,7 @@
       "Horizo",
       "Animal",
       "Center",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Anadyr_(town)",
@@ -71786,6 +72054,7 @@
       "Trside",
       "Humans",
       "Ships!",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Great_Bernera",
@@ -71820,6 +72089,7 @@
       "Horizo",
       "Circle",
       "Ships!",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Outer_Hebrides",
@@ -71850,6 +72120,7 @@
       "Circle",
       "Animal",
       "Center",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Royal_Banner_of_Scotland",
@@ -72194,6 +72465,7 @@
       "Vertic",
       "Plants",
       "Center",
+      "Quartr",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Thônex",
@@ -72284,6 +72556,7 @@
       "NoStar",
       "Crosse",
       "Texted",
+      "Quartr",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Bubikon",
@@ -72535,6 +72808,7 @@
       "Weapon",
       "Center",
       "Humans",
+      "Border",
       "4Color"
     ],
     "links": "https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%A7%D0%B5%D1%80%D0%BA%D0%B0%D1%81",
@@ -72707,6 +72981,7 @@
       "Center",
       "Builds",
       "Crowns",
+      "Border",
       "5+Color"
     ],
     "links": "https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%A7%D0%B5%D1%80%D0%BD%D1%96%D0%B2%D1%86%D1%96%D0%B2?wprov=sfti1# (In Ukrainian)",
@@ -73017,6 +73292,7 @@
       "Weapon",
       "Center",
       "Crowns",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%94%D0%BD%D1%96%D0%BF%D1%80%D0%B0?wprov=sfti1# (in Ukrainian)",
@@ -73188,6 +73464,7 @@
       "dgband",
       "Animal",
       "Weapon",
+      "nolrgcrs",
       "5+Color"
     ],
     "links": "https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%9F%D0%B0%D0%B2%D0%BB%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%B0?wprov=sfti1#",
@@ -73280,10 +73557,11 @@
       "002BLU",
       "003YEL",
       "NoStar",
-      "Crosse",
       "Horizo",
       "dgband",
       "Weapon",
+      "Crosse",
+      "nolrgcrs",
       "4Color"
     ],
     "links": "https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%96%D0%BE%D0%B2%D1%82%D0%B8%D1%85_%D0%92%D0%BE%D0%B4",
@@ -74044,6 +74322,7 @@
       "Texted",
       "Weapon",
       "Builds",
+      "Radial",
       "5+Color"
     ],
     "links": "https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%9D%D0%BE%D0%B2%D0%BE%D1%97_%D0%9A%D0%B0%D1%85%D0%BE%D0%B2%D0%BA%D0%B8",
@@ -74107,6 +74386,7 @@
       "Weapon",
       "HasSun",
       "Center",
+      "Border",
       "2Color"
     ],
     "links": "https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%A5%D0%BC%D0%B5%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D1%8C%D0%BA%D0%BE%D0%B3%D0%BE",
@@ -74427,6 +74707,7 @@
       "Texted",
       "Center",
       "Geogrh",
+      "Border",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Irpin",
@@ -74458,6 +74739,7 @@
       "Weapon",
       "Center",
       "Humans",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Kyiv",
@@ -74707,6 +74989,7 @@
       "Center",
       "Geogrh",
       "Builds",
+      "Radial",
       "5+Color"
     ],
     "links": "https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%A5%D1%80%D1%83%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE?wprov=sfti1#",
@@ -74805,6 +75088,7 @@
       "NoStar",
       "Animal",
       "Canton",
+      "Border",
       "4Color"
     ],
     "links": "https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%A1%D1%96%D0%B2%D0%B5%D1%80%D1%81%D1%8C%D0%BA%D0%BE%D0%B4%D0%BE%D0%BD%D0%B5%D1%86%D1%8C%D0%BA%D0%B0",
@@ -74865,6 +75149,7 @@
       "NoBand",
       "NoStar",
       "Center",
+      "Border",
       "4Color"
     ],
     "links": "https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%94%D1%80%D0%BE%D0%B3%D0%BE%D0%B1%D0%B8%D1%87%D0%B0",
@@ -74895,6 +75180,7 @@
       "Animal",
       "Center",
       "Builds",
+      "Border",
       "3Color"
     ],
     "links": "https://uk.wikipedia.org/wiki/%D0%A5%D0%BE%D1%80%D1%83%D0%B3%D0%B2%D0%B0_%D0%9B%D1%8C%D0%B2%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D0%BC%D1%96%D1%81%D1%8C%D0%BA%D0%BE%D1%97_%D1%80%D0%B0%D0%B4%D0%B8",
@@ -75311,6 +75597,7 @@
       "NoStar",
       "Horizo",
       "OnlyBa",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%9B%D1%83%D0%B1%D0%B5%D0%BD",
@@ -75636,6 +75923,7 @@
       "Crosse",
       "Weapon",
       "Center",
+      "Border",
       "2Color"
     ],
     "links": "https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%92%D1%96%D0%BD%D0%BD%D0%B8%D1%86%D1%96",
@@ -75663,6 +75951,7 @@
       "NoStar",
       "Crosse",
       "Builds",
+      "Border",
       "5+Color"
     ],
     "links": "https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%9A%D0%BE%D0%B2%D0%B5%D0%BB%D1%8F",
@@ -75693,6 +75982,7 @@
       "NoStar",
       "Crosse",
       "Canton",
+      "Quartr",
       "3Color"
     ],
     "links": "https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%9B%D1%83%D1%86%D1%8C%D0%BA%D0%B0",
@@ -75752,6 +76042,7 @@
       "myrYEL",
       "NoBand",
       "NoStar",
+      "Border",
       "5+Color"
     ],
     "links": "https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%9C%D1%83%D0%BA%D0%B0%D1%87%D0%B5%D0%B2%D0%B0",
@@ -75854,6 +76145,7 @@
       "Circle",
       "Texted",
       "HasSun",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%95%D0%BD%D0%B5%D1%80%D0%B3%D0%BE%D0%B4%D0%B0%D1%80%D0%B0",
@@ -76399,6 +76691,7 @@
       "HasSun",
       "Center",
       "Geogrh,",
+      "Radial",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Wasilla,_Alaska",
@@ -76793,6 +77086,7 @@
       "Plants",
       "HasSun",
       "Geogrh,",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-capms.html",
@@ -76892,6 +77186,7 @@
       "Crosse",
       "Vertic",
       "Builds,",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-ca-rs.html",
@@ -76922,6 +77217,7 @@
       "NoStar",
       "Horizo",
       "Texted,",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-cascm.html",
@@ -77052,6 +77348,7 @@
       "1Stars",
       "dgband",
       "Canton,",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://www.yorbalindaca.gov/826/City-Flag",
@@ -77106,7 +77403,8 @@
       "NoBand",
       "NoStar",
       "HasSun",
-      "Geogrh,",
+      "Geogrh",
+      "Border",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Colorado_Springs,_Colorado",
@@ -77738,7 +78036,8 @@
       "Builds",
       "Ships!",
       "Crowns",
-      "southc,",
+      "southc",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Little_Havana",
@@ -77851,7 +78150,8 @@
       "Texted",
       "HasSun",
       "Center",
-      "Geogrh,",
+      "Geogrh",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Okaloosa_County,_Florida",
@@ -77973,7 +78273,7 @@
   {
     "New": ".",
     "Code": "[USA]",
-    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Tallahassee%2C_Florida_%282020%29.svg/320px-Flag_of_Tallahassee%2C_Florida_%282020%29.svg.png",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Tallahassee%2C_Florida_%282020%E2%80%93present%29.svg/640px-Flag_of_Tallahassee%2C_Florida_%282020%E2%80%93present%29.svg.png",
     "type": "City",
     "year": "1997, 2021",
     "Items": [
@@ -77983,7 +78283,7 @@
       "staWHI",
       "1Stars",
       "Circle",
-      "Texted,",
+      "Texted",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Tallahassee,_Florida#Flag",
@@ -77993,7 +78293,7 @@
       "cl_BLU",
       "cl_WHI"
     ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Tallahassee%2C_Florida_%282020%29.svg/640px-Flag_of_Tallahassee%2C_Florida_%282020%29.svg.png",
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Tallahassee%2C_Florida_%282020%E2%80%93present%29.svg/1024px-Flag_of_Tallahassee%2C_Florida_%282020%E2%80%93present%29.svg.png",
     "Items2": [],
     "region": "rgn_North America",
     "couname": "[USA] Tallahassee",
@@ -78055,6 +78355,7 @@
       "Texted",
       "Trside",
       "Center,",
+      "Radial",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Ybor_City",
@@ -78191,6 +78492,7 @@
       "Horizo",
       "HasSun",
       "Geogrh",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Pocatello,_Idaho",
@@ -78254,6 +78556,7 @@
       "Circle",
       "HasSun",
       "Center,",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://web.archive.org/web/20230330180101/https://www.bataviachamber.org/news/details/batavia-chamber-of-commerce-announces-community-flag-contest-winner",
@@ -78420,6 +78723,7 @@
       "staYEL",
       "1Stars",
       "Horizo,",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Lafayette,_Indiana",
@@ -78454,6 +78758,7 @@
       "1Stars",
       "Vertic",
       "Canton,",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_South_Bend,_Indiana",
@@ -78555,6 +78860,7 @@
       "staWHI",
       "1Stars",
       ",",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Cedar_Rapids,_Iowa#Flag",
@@ -78656,6 +78962,7 @@
       "dgband",
       "Texted",
       "Center,",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-iawat.html",
@@ -78781,6 +79088,7 @@
       "Circle",
       "HasSun",
       "Trside,",
+      "Radial",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Wichita,_Kansas",
@@ -79036,6 +79344,7 @@
       "NoStar",
       "Horizo",
       "Ships!,",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Bath,_Maine",
@@ -79302,6 +79611,7 @@
       "Humans",
       "Builds",
       "Crowns,",
+      "Checkd",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Baltimore",
@@ -79330,6 +79640,8 @@
       "NoStar",
       "Crosse",
       "Circle,",
+      "Quartr",
+      "Checkd",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-md-bc.html",
@@ -79360,6 +79672,7 @@
       "Crosse",
       "Plants",
       "Center,",
+      "Checkd",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-md-cv.html",
@@ -79423,7 +79736,8 @@
       "Plants",
       "Texted",
       "Center",
-      "Geogrh,",
+      "Geogrh",
+      "Border",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-md-cr.html",
@@ -79514,6 +79828,7 @@
       "NoBand",
       "NoStar",
       "Circle,",
+      "Quartr",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Montgomery_County,_Maryland",
@@ -79583,6 +79898,7 @@
       "Horizo",
       "Texted",
       "Humans,",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://preservationmaryland.org/washington-county-flag/",
@@ -79760,6 +80076,7 @@
       "Canton",
       "Humans",
       "Builds,",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Detroit",
@@ -79975,7 +80292,8 @@
       "Plants",
       "Center",
       "Canton",
-      "Geogrh,",
+      "Geogrh",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Mississippi?origin=serp_auto",
@@ -80141,6 +80459,7 @@
       "Horizo",
       "Circle",
       "Trside,",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_St._Louis#:~:text=The%20flag%20of%20St.,blue%20fleur%2Dde%2Dlis.",
@@ -80215,6 +80534,7 @@
       "HasSun",
       "Center",
       "Builds,",
+      "Radial",
       "4Color"
     ],
     "links": "https://www.lincoln.ne.gov/City/Mayor/City-Communications/City-Flag",
@@ -80374,7 +80694,8 @@
       "NoStar",
       "Plants",
       "Center",
-      "Geogrh,",
+      "Geogrh",
+      "Border",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-oheng.html",
@@ -80511,6 +80832,7 @@
       "HasSun",
       "Center",
       "Geogrh,",
+      "Radial",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Roswell,_New_Mexico",
@@ -80953,6 +81275,7 @@
       "Circle",
       "Plants",
       "Texted,",
+      "Border",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-ndbis.html",
@@ -80989,6 +81312,7 @@
       "Texted",
       "Weapon",
       "Center,",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Cincinnati",
@@ -81124,6 +81448,7 @@
       "Center",
       "Geogrh",
       "Builds,",
+      "Radial",
       "5+Color"
     ],
     "links": "https://www.mercercountyohio.org/about-us/mercer-county-flag/",
@@ -81197,7 +81522,8 @@
       "Circle",
       "Plants",
       "Texted",
-      "Center,",
+      "Center",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_the_Cherokee_Nation",
@@ -81262,7 +81588,9 @@
       "NoBand",
       "NoStar",
       "Circle",
-      "Texted,",
+      "Texted",
+      "Border",
+      "Radial",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Tulsa#1924%E2%80%931941_flag",
@@ -81392,7 +81720,8 @@
       "HasSun",
       "IsMoon",
       "Center",
-      "Builds,",
+      "Builds",
+      "Border",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Harrisburg,_Pennsylvania",
@@ -81594,6 +81923,7 @@
       "staWHI",
       "1Stars",
       "Canton,",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://www.flagofcolumbia.com/",
@@ -81625,6 +81955,7 @@
       "Horizo",
       "Plants",
       "IsMoon,",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://flags.fandom.com/wiki/Moncks_Corner",
@@ -81656,6 +81987,7 @@
       "NoStar",
       "Horizo",
       "HasSun,",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Sioux_Falls,_South_Dakota",
@@ -82587,6 +82919,7 @@
       "Horizo",
       "Plants",
       "Geogrh,",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-waenu.html",
@@ -82620,6 +82953,7 @@
       "Circle",
       "HasSun",
       "Canton,",
+      "Zigzaw",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Spokane,_Washington",
@@ -82781,7 +83115,6 @@
       "002WHI",
       "003BLU",
       "NoStar",
-      "Crosse",
       "dgband",
       "Circle",
       "Center",
@@ -82859,7 +83192,8 @@
       "Animal",
       "Texted",
       "Geogrh",
-      "Humans,",
+      "Humans",
+      "Border",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-ab.html",
@@ -82988,7 +83322,8 @@
       "Animal",
       "Texted",
       "Center",
-      "Geogrh,",
+      "Geogrh",
+      "Border",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Cheyenne,_Wyoming",
@@ -83024,7 +83359,8 @@
       "Weapon",
       "Center",
       "Geogrh",
-      "Builds,",
+      "Builds",
+      "Border",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-cv.html",
@@ -83157,7 +83493,8 @@
       "Animal",
       "Plants",
       "Texted",
-      "Humans,",
+      "Humans",
+      "Border",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-go.html",
@@ -83227,7 +83564,8 @@
       "Texted",
       "Center",
       "Geogrh",
-      "Builds,",
+      "Builds",
+      "dgband",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-jo.html",
@@ -83264,6 +83602,7 @@
       "Texted",
       "Center",
       "Humans,",
+      "Border",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-la.html",
@@ -83506,7 +83845,8 @@
       "Plants",
       "Texted",
       "Center",
-      "Geogrh,",
+      "Geogrh",
+      "Border",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/images/u/us-wy-su.gif",
@@ -83602,7 +83942,8 @@
       "Texted",
       "Center",
       "Geogrh",
-      "Humans,",
+      "Humans",
+      "Border",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-ui.html",
@@ -83732,6 +84073,7 @@
       "NoBand",
       "NoStar",
       "Rotate",
+      "Checkd",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Antwerp_Provinceq",
@@ -84374,6 +84716,7 @@
       "Circle",
       "Plants",
       "Center",
+      "Checkd",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/nl-dr-nv.html",
@@ -84711,6 +85054,7 @@
       "Circle",
       "Center",
       "Geogrh",
+      "Radial",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Antarctic_Treaty_System",
@@ -85053,6 +85397,7 @@
       "Crosse",
       "Trside",
       "southc",
+      "Border",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_Antarctic_flags",
@@ -85664,6 +86009,7 @@
       "Animal",
       "Center",
       "Crowns",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Benin",
@@ -87265,6 +87611,7 @@
       "Weapon",
       "Canton",
       "unjack",
+      "Border",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_the_United_States_of_the_Ionian_Islands",
@@ -87614,6 +87961,7 @@
       "Canton",
       "unjack",
       "Crowns",
+      "Zigzaw",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_the_British_Indian_Ocean_Territory",
@@ -87956,6 +88304,7 @@
       "NoStar",
       "Circle",
       "HasSun",
+      "Border",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Ryukyu_Kingdom",
@@ -88593,6 +88942,7 @@
       "dgband",
       "Circle",
       "Weapon",
+      "Radial",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Mozambique",
@@ -88690,6 +89040,7 @@
       "Vertic",
       "Animal",
       "Center",
+      "Quartr",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Martinique#",
@@ -89016,6 +89367,8 @@
       "003WHI",
       "NoStar",
       "Texted",
+      "Zigzaw",
+      "Vertic",
       "2Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/qa_his.html#936",
@@ -89666,6 +90019,7 @@
       "NoStar",
       "Horizo",
       "OnlyBa",
+      "Zigzaw",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/List_of_Seychellois_flags",
@@ -89692,6 +90046,7 @@
       "myrRED",
       "NoBand",
       "NoStar",
+      "Quartr",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Principality_of_Antioch",
@@ -90228,6 +90583,7 @@
       "Weapon",
       "Center",
       "Humans",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Cossack_with_musket",
@@ -90465,6 +90821,7 @@
       "HasSun",
       "Center",
       "Humans",
+      "Checkd",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Catholic_League_(German)",
@@ -90764,6 +91121,7 @@
       "NoStar",
       "Crosse",
       "Center",
+      "Border",
       "2Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Vietnamese_five-color_flags",
@@ -90790,6 +91148,7 @@
       "NoBand",
       "NoStar",
       "Center",
+      "Border",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Vietnamese_five-color_flags",
@@ -90885,6 +91244,7 @@
       "Circle",
       "Animal",
       "Canton",
+      "Quartr",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Kingdom_of_Gwynedd",
@@ -91588,6 +91948,7 @@
       "4+Band",
       "NoStar",
       "dgband",
+      "Checkd",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Munich",
@@ -91874,6 +92235,7 @@
       "Horizo",
       "Vertic",
       "OnlyBa",
+      "Checkd",
       "3Color"
     ],
     "links": "https://www.fotw.info/flags/de-ah-ny.html",
@@ -92548,6 +92910,7 @@
       "Circle",
       "Animal",
       "Center",
+      "Quartr",
       "4Color"
     ],
     "links": "https://www.fotw.info/flags/gb-w_bnu.html",
@@ -92766,6 +93129,7 @@
       "1Stars",
       "Circle",
       "Geogrh",
+      "Border",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Mars",
@@ -92892,6 +93256,7 @@
       "Texted",
       "Center",
       "Ships!",
+      "Border",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/United_States_Space_Force",
@@ -94025,6 +94390,7 @@
       "Circle",
       "Texted",
       "IsMoon",
+      "Border",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Beylik_of_Constantine",
@@ -94653,6 +95019,7 @@
       "Horizo",
       "Vertic",
       "OnlyBa",
+      "Border",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Kingdom_of_Asturias",
@@ -94739,6 +95106,7 @@
       "Crosse",
       "Circle",
       "Rotate",
+      "Border",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Navarre#Historical_models",
@@ -94875,7 +95243,6 @@
       "001RED",
       "003WHI",
       "NoStar",
-      "Crosse",
       "dgband",
       "Center",
       "Humans",
@@ -94907,6 +95274,7 @@
       "NoStar",
       "Animal",
       "Plants",
+      "Quartr",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Gascony",
@@ -95351,6 +95719,7 @@
       "Geogrh",
       "Humans",
       "Crowns",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Hungary",
@@ -95729,6 +96098,7 @@
       "Weapon",
       "Humans",
       "Crowns",
+      "Border",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Samogitia#Symbols",
@@ -95959,6 +96329,7 @@
       "NoStar",
       "Crosse",
       "Center",
+      "Border",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/List_of_flags_of_Malta#Malta:~:text=Bir%C5%BCebbu%C4%A1a%20(village)",
@@ -96093,6 +96464,7 @@
       "Texted",
       "Center",
       "Crowns",
+      "Border",
       "5+Color"
     ],
     "links": "en.wikipedia.org/wiki/List_of_Nicaraguan_flags#Departments",
@@ -96456,6 +96828,7 @@
       "NoStar",
       "dgband",
       "OnlyBa",
+      "Radial",
       "2Color"
     ],
     "links": "https://www.vexi.cat/qui-som/bandera-acv/",
@@ -97278,6 +97651,7 @@
       "Circle",
       "Texted",
       "Center",
+      "Border",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/ie-naval.html#nscolour",
@@ -97310,6 +97684,7 @@
       "Circle",
       "Texted",
       "Center",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Irish_Naval_Service",
@@ -97992,6 +98367,7 @@
       "Texted",
       "Weapon",
       "Center",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Pur%C3%A9pecha_flag",
@@ -99538,6 +99914,7 @@
       "Animal",
       "Center",
       "Canton",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Coat_of_arms_of_the_University_of_Cambridge",
@@ -99702,6 +100079,7 @@
       "myrYEL",
       "NoBand",
       "NoStar",
+      "Quartr",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/gb_u-roe.html",
@@ -99734,6 +100112,7 @@
       "Animal",
       "Plants",
       "Builds",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/University_of_Warwick#Coat_of_arms",
@@ -100124,6 +100503,7 @@
       "Circle",
       "Texted",
       "Center",
+      "Border",
       "2Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_the_Community_of_Portuguese_Language_Countries",
@@ -100282,6 +100662,7 @@
       "NoStar",
       "dgband",
       "OnlyBa",
+      "Radial",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Lingua_Franca_Nova#Flag",
@@ -100490,6 +100871,7 @@
       "1Stars",
       "Texted",
       "Center",
+      "Border",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/The_Salvation_Army",
@@ -100519,6 +100901,7 @@
       "Animal",
       "Humans",
       "Crowns",
+      "Quartr",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Duchy_of_Milan",
@@ -100734,6 +101117,7 @@
       "Weapon",
       "Center",
       "Crowns",
+      "nolrgcrs",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Piedmont#Principality_of_Masserano",
@@ -100769,6 +101153,7 @@
       "Geogrh",
       "Humans",
       "Builds",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_the_Republic_of_Venice",
@@ -101002,6 +101387,7 @@
       "NoStar",
       "Plants",
       "Center",
+      "Zigzaw",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_the_Iroquois_Confederacy",
@@ -102890,6 +103276,7 @@
       "Texted",
       "HasSun",
       "Center",
+      "Border",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Gendarmerie_Nationale_(Niger)",
@@ -102924,6 +103311,7 @@
       "Texted",
       "HasSun",
       "Center",
+      "Border",
       "5+Color"
     ],
     "links": "en.wikipedia.org/wiki/National_Police_of_Niger",
@@ -102956,6 +103344,7 @@
       "Horizo",
       "Vertic",
       "Builds",
+      "Quartr",
       "3Color"
     ],
     "links": "https://vexillology.fandom.com/wiki/Terra_de_Miranda",
@@ -103042,6 +103431,7 @@
       "NoStar",
       "Plants",
       "Center",
+      "Border",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_the_President_of_Ukraine",
@@ -104586,14 +104976,13 @@
     "year": "1706",
     "Items": [
       "myrBLU",
-      "2Bands",
+      "NoBand",
       "NoStar",
       "Crosse",
-      "Horizo",
-      "Vertic",
       "Animal",
       "Texted",
       "Center",
+      "Border",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Turin",
@@ -105013,6 +105402,7 @@
       "Geogrh",
       "Humans",
       "Builds",
+      "Border",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_the_Republic_of_Venice",
