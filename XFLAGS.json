@@ -25869,7 +25869,6 @@
       "Horizo",
       "Plants",
       "Center",
-      "OnlyBa",
       "2Color"
     ],
     "links": "https://kainuunliitto.fi/assets/uploads/2020/09/Kainuu_Facts.pdf",
@@ -55649,13 +55648,8 @@
     "year": "???",
     "Items": [
       "myrGRE",
-      "4+Band",
-      "001GRE",
-      "002YEL",
-      "003GRE",
+      "NoBand",
       "NoStar",
-      "Vertic",
-      "OnlyBa",
       "Rotate",
       "4Color"
     ],
@@ -68697,13 +68691,14 @@
       "NoStar",
       "Plants",
       "Center",
-      "2Color"
+      "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/nl-ge-rz.html",
     "lvlup": "3",
     "Colors": [
       "cl_BLU",
-      "cl_YEL"
+      "cl_YEL",
+      "cl_BLA"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rozendaal_vlag.svg/1024px-Rozendaal_vlag.svg.png",
     "Items2": [],
@@ -89156,7 +89151,6 @@
       "NoStar",
       "Horizo",
       "Canton",
-      "OnlyBa",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_the_Orange_Free_State",
@@ -96442,7 +96436,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Bandera_de_AAV.svg/640px-Bandera_de_AAV.svg.png",
     "Items2": [],
-    "region": "rgn_Continent",
+    "region": "rgn_South America",
     "couname": "[·] [ARG] Argentina Vexillology Association",
     "subtype": "[·] International Federation of Vexillological Associations",
     "describe": "The flag of the AAV was adopted in 2001. It is a sky blue flag that has a white design that recalls the horizontal letter 'A'. The 'A' symbol contains an inverted letter 'V', so it could be said that the three letters of the acronym of the association (AAV) appear in the flag."
@@ -96472,7 +96466,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Bandera_ACV.svg/800px-Bandera_ACV.svg.png",
     "Items2": [],
-    "region": "rgn_Continent",
+    "region": "rgn_Europe",
     "couname": "[·] [ESP] Catalonian Vexillological Association",
     "subtype": "[·] International Federation of Vexillological Associations",
     "describe": "The flag recalls that of the flag of Catalonia, especially the Catalonian Senyera, which historically represented the King of the Crown of Aragon, inspired by the colors and shape of the country's centuries-old symbols."
@@ -96502,7 +96496,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Flag_of_SFV.svg/600px-Flag_of_SFV.svg.png",
     "Items2": [],
-    "region": "rgn_Continent",
+    "region": "rgn_Europe",
     "couname": "[·] [FRA] French Society of Vexillology",
     "subtype": "[·] International Federation of Vexillological Associations",
     "describe": "The society’s flag uses French colors and is formed of a white cross fimbriated by an alternatively red and blue border. These borders are separated from quarterly blue and red squares by a white border. The cross of the flag possibly comes from the Cross of Saint Michael and the colors possibly come from the French tricolor."
@@ -96529,7 +96523,7 @@
     ],
     "HDFlag": "https://flagsireland.wordpress.com/wp-content/uploads/2013/09/vibe-flag.png",
     "Items2": [],
-    "region": "rgn_Continent",
+    "region": "rgn_Europe",
     "couname": "[·] [IRE] Vexillology Ireland / Brateolaíocht Éireann",
     "subtype": "[·] International Federation of Vexillological Associations",
     "describe": "The flag incorporates the heraldic banner of Ireland based on the Arms of Ireland – Azure, a Harp Or, Stringed Argent – which is also used as the Presidential Standard in Ireland and is flown over Áras an Uachtaráin (Presidential Palace) in Dublin."
@@ -96561,7 +96555,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Flag_of_SAVA.svg/800px-Flag_of_SAVA.svg.png",
     "Items2": [],
-    "region": "rgn_Continent",
+    "region": "rgn_Africa",
     "couname": "[·] [ZAF] Southern African Vexillological Association",
     "subtype": "[·] International Federation of Vexillological Associations",
     "describe": "The symbolism of the flag is as follows: At least one of the colours in this flag can be found in the national flag of each country in Southern Africa. The gold inverted chevron (the 'V') alludes to vexillology. The five white stars, which are derived from the Southern Cross, and the white chevron, in turn allude to Southern Africa."
@@ -99814,7 +99808,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_the_African_Union.svg/2560px-Flag_of_the_African_Union.svg.png",
     "Items2": [],
-    "region": "rgn_Continent",
+    "region": "rgn_Africa",
     "couname": "[·] African Union",
     "subtype": "[·] United Nations",
     "describe": "A dark green map of the African continent, plus the Sinai Peninsula and offshore islands, on a white sun, surrounded by a circle of 55 5-pointed gold (yellow) stars, on a dark green field."
@@ -99938,7 +99932,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/2560px-Flag_of_Europe.svg.png",
     "Items2": [],
-    "region": "rgn_Continent",
+    "region": "rgn_Europe",
     "couname": "[·] European Union",
     "subtype": "[·] United Nations",
     "describe": "Against the blue sky of the Western world, the stars symbolise the peoples of Europe in a form of a circle, a sign of union. Their number is invariably twelve, the figure twelve being the symbol of perfection and entirety."
