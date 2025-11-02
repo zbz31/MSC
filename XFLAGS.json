@@ -75316,13 +75316,14 @@
       "NoStar",
       "Horizo",
       "OnlyBa",
-      "2Color"
+      "3Color"
     ],
     "links": "https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B0%D0%BF%D0%BE%D1%80_%D0%9B%D1%83%D0%B1%D0%B5%D0%BD",
     "lvlup": "3",
     "Colors": [
       "cl_BLU",
-      "cl_WHI"
+      "cl_WHI",
+      "cl_PIN"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Lubny.png",
     "Items2": [],
@@ -79709,7 +79710,7 @@
   {
     "New": ".",
     "Code": "[USA]",
-    "Flag": "https://upload.wikimedia.org/wikipedia/en/0/0b/Flag_of_Westhampton%2C_Massachusetts.png",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Westhampton%2C_Massachusetts.png",
     "type": "Town",
     "year": "1997, 2021",
     "Items": [
@@ -79736,7 +79737,7 @@
       "cl_BRO",
       "cl_WHI"
     ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/en/0/0b/Flag_of_Westhampton%2C_Massachusetts.png",
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Westhampton%2C_Massachusetts.png",
     "Items2": [],
     "region": "rgn_North America",
     "couname": "[USA] Westhampton",
