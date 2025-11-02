@@ -29,6 +29,7 @@
       "calendar",
       "calendar",
       "calendar",
+      "calendar",
       "area_652230",
       "capi_Kabul",
       "pm_Hasan Akhund",
@@ -37,6 +38,7 @@
       "pol_failed",
       "pol_deat",
       "md_deno_n",
+      "calendar",
       "calendar",
       "calendar",
       "calendar",
@@ -54,6 +56,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/2560px-Flag_of_the_Taliban.svg.png",
     "Items2": [
+      "calendar",
       "calendar",
       "calendar",
       "calendar",
@@ -6172,6 +6175,7 @@
       "calendar",
       "calendar",
       "calendar",
+      "calendar",
       "area_1648195",
       "capi_Tehran",
       "pm_Masoud Pezeshkian",
@@ -6180,6 +6184,7 @@
       "pol_deat",
       "md_deno_n",
       "ntGRRE",
+      "calendar",
       "calendar",
       "calendar",
       "calendar",
@@ -6198,6 +6203,7 @@
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/2560px-Flag_of_Iran.svg.png",
     "Items2": [
+      "calendar",
       "calendar",
       "calendar",
       "calendar",
@@ -47894,7 +47900,7 @@
       "NoBand",
       "NoStar",
       "Animal",
-      "Texted,",
+      "Texted",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flags_and_arms_of_cantons_of_Switzerland",
@@ -47922,7 +47928,7 @@
       "NoBand",
       "NoStar",
       "Animal",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/ch-ap.html",
@@ -47949,7 +47955,7 @@
       "myrWHI",
       "NoBand",
       "NoStar",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/ch-ba.html",
@@ -47976,7 +47982,7 @@
       "myrWHI",
       "NoBand",
       "NoStar",
-      "Center,",
+      "Center",
       "2Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/ch-ba.html",
@@ -48007,7 +48013,7 @@
       "NoStar",
       "dgband",
       "Animal",
-      "Center,",
+      "Center",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Coat_of_arms_of_Bern",
@@ -48038,7 +48044,7 @@
       "003WHI",
       "NoStar",
       "Horizo",
-      "OnlyBa,",
+      "OnlyBa",
       "2Color"
     ],
     "links": "https://www.fotw.info/flags/ch-fr.html",
@@ -48068,7 +48074,7 @@
       "NoStar",
       "Vertic",
       "Animal",
-      "Crowns,",
+      "Crowns",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flags_and_arms_of_cantons_of_Switzerland",
@@ -48097,7 +48103,7 @@
       "NoStar",
       "Circle",
       "Center",
-      "Humans,",
+      "Humans",
       "4Color"
     ],
     "links": "https://www.fotw.info/flags/ch-gl.html",
@@ -48156,7 +48162,7 @@
       "myrEQ",
       "2Bands",
       "NoStar",
-      "Vertic,",
+      "Vertic",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/ch-ju.html",
@@ -48186,7 +48192,7 @@
       "003BLU",
       "NoStar",
       "Horizo",
-      "OnlyBa,",
+      "OnlyBa",
       "2Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/ch-lu.html",
@@ -48216,7 +48222,7 @@
       "003RED",
       "NoStar",
       "Crosse",
-      "Vertic,",
+      "Vertic",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw//FLAGS/ch-ne.html",
@@ -48243,7 +48249,7 @@
       "myrRED",
       "NoBand",
       "NoStar",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Nidwalden",
@@ -48273,7 +48279,7 @@
       "003WHI",
       "NoStar",
       "Horizo",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Obwalden",
@@ -48301,7 +48307,7 @@
       "NoBand",
       "NoStar",
       "Animal",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://www.fotw.info/flags/ch-sh.html",
@@ -48329,7 +48335,7 @@
       "NoBand",
       "NoStar",
       "Crosse",
-      "Canton,",
+      "Canton",
       "2Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/ch-sz.html",
@@ -48358,7 +48364,7 @@
       "003WHI",
       "NoStar",
       "Horizo",
-      "OnlyBa,",
+      "OnlyBa",
       "2Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/ch-so.html",
@@ -48386,7 +48392,7 @@
       "NoStar",
       "Plants",
       "Weapon",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/ch-sg.html",
@@ -48416,7 +48422,7 @@
       "003WHI",
       "NoStar",
       "dgband",
-      "Animal,",
+      "Animal",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/ch-tg.html",
@@ -50406,7 +50412,6 @@
       "NoBand",
       "staYEL",
       "3+Star",
-      ",",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Alaska",
@@ -50469,7 +50474,7 @@
       "staWHI",
       "3+Star",
       "Texted",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Arkansas",
@@ -50504,7 +50509,7 @@
       "Animal",
       "Plants",
       "Texted",
-      "Geogrh,",
+      "Geogrh",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_California",
@@ -50538,7 +50543,7 @@
       "Horizo",
       "Circle",
       "Texted",
-      "HasSun,",
+      "HasSun",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Colorado",
@@ -50568,7 +50573,7 @@
       "NoStar",
       "Plants",
       "Texted",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Connecticut",
@@ -50606,7 +50611,7 @@
       "Weapon",
       "Center",
       "Humans",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Delaware",
@@ -50650,7 +50655,7 @@
       "Center",
       "Geogrh",
       "Humans",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Florida",
@@ -50691,7 +50696,7 @@
       "Weapon",
       "Canton",
       "Humans",
-      "Builds,",
+      "Builds",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Georgia_(U.S._state)",
@@ -50724,7 +50729,7 @@
       "Crosse",
       "Horizo",
       "Canton",
-      "unjack,",
+      "unjack",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Hawaii",
@@ -50761,7 +50766,7 @@
       "Center",
       "Geogrh",
       "Humans",
-      "Builds,",
+      "Builds",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Idaho",
@@ -50803,7 +50808,7 @@
       "Texted",
       "HasSun",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Illinois",
@@ -50838,7 +50843,7 @@
       "3+Star",
       "Circle",
       "Texted",
-      "Center,",
+      "Center",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Indiana",
@@ -50870,7 +50875,7 @@
       "Vertic",
       "Animal",
       "Texted",
-      "Center,",
+      "Center",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Iowa",
@@ -50910,7 +50915,7 @@
       "Geogrh",
       "Humans",
       "Builds",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Kansas",
@@ -50946,7 +50951,7 @@
       "Plants",
       "Texted",
       "Center",
-      "Humans,",
+      "Humans",
       "5+Color"
     ],
     "links": "https://www.sos.ky.gov/sos-office/history/Documents/The%20Kentucky%20State%20Seal.pdf",
@@ -50979,7 +50984,7 @@
       "Animal",
       "Plants",
       "Texted",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Louisiana",
@@ -51016,7 +51021,7 @@
       "Weapon",
       "Center",
       "Geogrh",
-      "Humans,",
+      "Humans",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_the_State_of_Maine",
@@ -51083,7 +51088,7 @@
       "Texted",
       "Weapon",
       "Center",
-      "Humans,",
+      "Humans",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Massachusetts",
@@ -51118,7 +51123,7 @@
       "HasSun",
       "Center",
       "Geogrh",
-      "Humans,",
+      "Humans",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Michigan",
@@ -51154,7 +51159,7 @@
       "staWHI",
       "1Stars",
       "Vertic",
-      "Trside,",
+      "Trside",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Minnesota",
@@ -51190,7 +51195,7 @@
       "Circle",
       "Plants",
       "Texted",
-      "Center,",
+      "Center",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Mississippi",
@@ -51230,7 +51235,7 @@
       "Texted",
       "Weapon",
       "IsMoon",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Missouri",
@@ -51267,7 +51272,7 @@
       "Weapon",
       "HasSun",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Montana",
@@ -51304,7 +51309,7 @@
       "Geogrh",
       "Humans",
       "Builds",
-      "Ships!,",
+      "Ships!",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Nebraska",
@@ -51373,7 +51378,7 @@
       "HasSun",
       "Center",
       "Geogrh",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_New_Hampshire",
@@ -51408,7 +51413,7 @@
       "Texted",
       "Weapon",
       "Center",
-      "Humans,",
+      "Humans",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_New_Jersey",
@@ -51443,7 +51448,7 @@
       "Circle",
       "HasSun",
       "Center",
-      "Rotate,",
+      "Rotate",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_New_Mexico",
@@ -51480,7 +51485,7 @@
       "Geogrh",
       "Humans",
       "Ships!",
-      "Crowns,",
+      "Crowns",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_New_York",
@@ -51516,7 +51521,7 @@
       "1Stars",
       "Horizo",
       "Vertic",
-      "Texted,",
+      "Texted",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_North_Carolina",
@@ -51551,7 +51556,7 @@
       "Texted",
       "Weapon",
       "HasSun",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_North_Dakota",
@@ -51590,7 +51595,7 @@
       "Horizo",
       "Circle",
       "Texted",
-      "Trside,",
+      "Trside",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Ohio",
@@ -51621,7 +51626,7 @@
       "Circle",
       "Plants",
       "Texted",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Oklahoma",
@@ -51660,7 +51665,7 @@
       "HasSun",
       "Center",
       "Geogrh",
-      "Ships!,",
+      "Ships!",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Oregon",
@@ -51690,7 +51695,7 @@
       "Plants",
       "Texted",
       "Center",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Pennsylvania",
@@ -51725,7 +51730,7 @@
       "3+Star",
       "Circle",
       "Texted",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Rhode_Island",
@@ -51753,7 +51758,7 @@
       "NoBand",
       "NoStar",
       "Plants",
-      "IsMoon,",
+      "IsMoon",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_South_Carolina",
@@ -51790,7 +51795,7 @@
       "Geogrh",
       "Humans",
       "Builds",
-      "Ships!,",
+      "Ships!",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_South_Dakota",
@@ -51823,7 +51828,7 @@
       "staWHI",
       "3+Star",
       "Vertic",
-      "Circle,",
+      "Circle",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Tennessee",
@@ -51927,7 +51932,7 @@
       "Texted",
       "HasSun",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Vermont",
@@ -51963,7 +51968,7 @@
       "Weapon",
       "Center",
       "Humans",
-      "Crowns,",
+      "Crowns",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_and_seal_of_Virginia",
@@ -51999,7 +52004,7 @@
       "Circle",
       "Texted",
       "Center",
-      "Humans,",
+      "Humans",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Washington",
@@ -52072,7 +52077,7 @@
       "Texted",
       "Weapon",
       "Center",
-      "Humans,",
+      "Humans",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Wisconsin",
@@ -59388,7 +59393,7 @@
       "003WHI",
       "staRED",
       "3+Star",
-      "Horizo,",
+      "Horizo",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Washington,_D.C.",
@@ -76399,7 +76404,7 @@
       "Center",
       "Geogrh",
       "Humans",
-      "Builds,",
+      "Builds",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Birmingham,_Alabama",
@@ -76436,7 +76441,7 @@
       "Texted",
       "Center",
       "Builds",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/List_of_governors_of_Alabama",
@@ -76471,7 +76476,7 @@
       "dgband",
       "Trside",
       "OnlyBa",
-      "Rotate,",
+      "Rotate",
       "2Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Henry_County,_Alabama",
@@ -76511,7 +76516,7 @@
       "Center",
       "Humans",
       "Builds",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Mobile,_Alabama",
@@ -76549,7 +76554,7 @@
       "Circle",
       "Plants",
       "Texted",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://www.pdcnet.org/85257D7A006284F7/file/DC3137666C1805EAC1257DCD0053B000/$FILE/raven_2002_0009_0000_0225_0226.pdf",
@@ -76582,7 +76587,7 @@
       "Texted",
       "HasSun",
       "Center",
-      "Ships!,",
+      "Ships!",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Anchorage,_Alaska",
@@ -76614,7 +76619,7 @@
       "1Stars",
       "Texted",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "3Color"
     ],
     "links": "https://www.crwflags.com/FOTW/FLAGS/us-ak-ju.html",
@@ -76652,7 +76657,7 @@
       "Texted",
       "Center",
       "Geogrh",
-      "Humans,",
+      "Humans",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/North_Pole,_Alaska",
@@ -76736,7 +76741,7 @@
       "Plants",
       "Texted",
       "Geogrh",
-      "Humans,",
+      "Humans",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Maricopa_County,_Arizona",
@@ -76767,7 +76772,7 @@
       "NoStar",
       "Circle",
       "Animal",
-      "Center,",
+      "Center",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Phoenix",
@@ -76799,7 +76804,7 @@
       "HasSun",
       "Center",
       "Geogrh",
-      "Builds,",
+      "Builds",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Tucson",
@@ -76842,7 +76847,7 @@
       "Plants",
       "Texted",
       "Nordic",
-      "Geogrh,",
+      "Geogrh",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-ar-lr.html",
@@ -76875,7 +76880,7 @@
       "NoBand",
       "staRED",
       "1Stars",
-      "Center,",
+      "Center",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_California#Lone_Star_of_California",
@@ -76910,7 +76915,7 @@
       "Weapon",
       "Center",
       "Geogrh",
-      "Humans,",
+      "Humans",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Governor_of_California",
@@ -76945,7 +76950,7 @@
       "1Stars",
       "Circle",
       "HasSun",
-      "Geogrh,",
+      "Geogrh",
       "3Color"
     ],
     "links": "https://flags.fandom.com/wiki/Julian",
@@ -76986,7 +76991,7 @@
       "Texted",
       "Center",
       "Builds",
-      "Crowns,",
+      "Crowns",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Los_Angeles",
@@ -77021,7 +77026,7 @@
       "Plants",
       "Texted",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "2Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-ca-ok.html",
@@ -77054,7 +77059,7 @@
       "Horizo",
       "Animal",
       "Texted",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Pacific_Palisades,_Los_Angeles",
@@ -77120,7 +77125,7 @@
       "Circle",
       "Plants",
       "Texted",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://www.paramountcity.gov/",
@@ -77155,7 +77160,7 @@
       "Circle",
       "Texted",
       "Center",
-      "Crowns,",
+      "Crowns",
       "3Color"
     ],
     "links": "https://zebratigerfish.blogspot.com/2014/10/flag-of-pasadena-california.html?m=1",
@@ -77252,7 +77257,7 @@
       "NoStar",
       "Horizo",
       "Canton",
-      "Builds,",
+      "Builds",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Santa_Barbara,_California",
@@ -77283,7 +77288,7 @@
       "Vertic",
       "Plants",
       "Texted",
-      "Geogrh,",
+      "Geogrh",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-catra.html",
@@ -77313,7 +77318,7 @@
       "Circle",
       "Plants",
       "Texted",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://www.wheatland.ca.gov/",
@@ -77378,7 +77383,7 @@
       "NoBand",
       "NoStar",
       "Plants",
-      "Center,",
+      "Center",
       "2Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-coasp.html",
@@ -77440,7 +77445,7 @@
       "Horizo",
       "Circle",
       "HasSun",
-      "Geogrh,",
+      "Geogrh",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Denver",
@@ -77477,7 +77482,7 @@
       "Geogrh",
       "Humans",
       "Builds",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-ctbpt.html#sym",
@@ -77519,7 +77524,7 @@
       "Plants",
       "Texted",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-ct-hf.html",
@@ -77555,7 +77560,7 @@
       "Geogrh",
       "Humans",
       "Builds",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-ctsfd.html",
@@ -77598,7 +77603,7 @@
       "Geogrh",
       "Humans",
       "Builds",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-de-dv.html",
@@ -77642,7 +77647,7 @@
       "Nordic",
       "Geogrh",
       "Builds",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Wilmington,_Delaware",
@@ -77676,7 +77681,7 @@
       "Texted",
       "HasSun",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Alachua_County,_Florida",
@@ -77709,7 +77714,7 @@
       "Animal",
       "Texted",
       "HasSun",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Bay_County,_Florida",
@@ -77748,7 +77753,7 @@
       "Center",
       "Geogrh",
       "Humans",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Brevard_County,_Florida",
@@ -77783,7 +77788,7 @@
       "NoStar",
       "Circle",
       "Texted",
-      "HasSun,",
+      "HasSun",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Broward_County,_Florida",
@@ -77818,7 +77823,7 @@
       "3+Star",
       "Horizo",
       "Texted",
-      "Canton,",
+      "Canton",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Florida",
@@ -77856,7 +77861,7 @@
       "Texted",
       "HasSun",
       "Center",
-      "Ships!,",
+      "Ships!",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Fort_Lauderdale,_Florida",
@@ -77890,7 +77895,7 @@
       "Texted",
       "HasSun",
       "Geogrh",
-      "Humans,",
+      "Humans",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Jacksonville,_Florida",
@@ -77922,7 +77927,7 @@
       "Animal",
       "Plants",
       "Texted",
-      "Humans,",
+      "Humans",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Jacksonville,_Florida",
@@ -77958,7 +77963,7 @@
       "Texted",
       "HasSun",
       "Center",
-      "southc,",
+      "southc",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Key_West",
@@ -77993,7 +77998,7 @@
       "Texted",
       "HasSun",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Lake_Wales,_Florida",
@@ -78082,7 +78087,7 @@
       "Plants",
       "Texted",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Miami",
@@ -78117,7 +78122,7 @@
       "HasSun",
       "Center",
       "Geogrh",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Miami-Dade_County,_Florida",
@@ -78186,7 +78191,7 @@
       "NoStar",
       "Horizo",
       "Circle",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Orlando",
@@ -78219,7 +78224,7 @@
       "Plants",
       "Texted",
       "HasSun",
-      "Geogrh,",
+      "Geogrh",
       "5+Color"
     ],
     "links": "https://web.archive.org/web/20071109182144/http://www.palmbayflorida.org/citycouncil/about/emb.html",
@@ -78253,7 +78258,7 @@
       "003BLU",
       "NoStar",
       "Horizo",
-      "Animal,",
+      "Animal",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-fl-sp.html",
@@ -78321,7 +78326,7 @@
       "Vertic",
       "Circle",
       "Texted",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Tampa,_Florida",
@@ -78389,7 +78394,7 @@
       "Circle",
       "Animal",
       "Texted",
-      "Center,",
+      "Center",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Atlanta",
@@ -78423,7 +78428,7 @@
       "HasSun",
       "Center",
       "Geogrh",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-hi-ho.html#:~:text=The%20yellow%20field,dawning%20on%20Hawaii.",
@@ -78593,7 +78598,7 @@
       "3+Star",
       "Horizo",
       "Center",
-      "Rotate,",
+      "Rotate",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Chicago",
@@ -78629,7 +78634,7 @@
       "Texted",
       "HasSun",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Dolton,_Illinois",
@@ -78658,7 +78663,7 @@
       "staWHI",
       "staRED",
       "3+Star",
-      "Circle,",
+      "Circle",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-il-sp.html",
@@ -78692,7 +78697,7 @@
       "Horizo",
       "Vertic",
       "Circle",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Indianapolis#Design_and_symbolism",
@@ -78795,7 +78800,7 @@
       "Vertic",
       "Circle",
       "Plants",
-      "Nordic,",
+      "Nordic",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Terre_Haute,_Indiana",
@@ -78829,7 +78834,7 @@
       "1Stars",
       "Vertic",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Union_City,_Indiana#Flag",
@@ -78893,7 +78898,7 @@
       "003BLU",
       "NoStar",
       "Horizo",
-      "Builds,",
+      "Builds",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Des_Moines,_Iowa#Symbolism",
@@ -78928,7 +78933,7 @@
       "dgband",
       "Plants",
       "Texted",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://www.linncountyiowa.gov/942/8904/Our-Logo-and-Brand",
@@ -78998,7 +79003,7 @@
       "staBLA",
       "1Stars",
       "Horizo",
-      "Circle,",
+      "Circle",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-ksdod.html",
@@ -79028,7 +79033,7 @@
       "Crosse",
       "Plants",
       "Center",
-      "Rotate,",
+      "Rotate",
       "2Color"
     ],
     "links": "https://www.newtonkansas.com/residents/newton-flag",
@@ -79059,7 +79064,7 @@
       "staWHI",
       "1Stars",
       "Vertic",
-      "Plants,",
+      "Plants",
       "4Color"
     ],
     "links": "https://www.visittopeka.com/topeka-flag/meaning/",
@@ -79119,7 +79124,7 @@
       "NoStar",
       "Circle",
       "Texted",
-      "Center,",
+      "Center",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/Flags/us-kyash.html",
@@ -79149,7 +79154,7 @@
       "NoStar",
       "Crosse",
       "Texted",
-      "Builds,",
+      "Builds",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Baton_Rouge,_Louisiana",
@@ -79183,7 +79188,7 @@
       "1Stars",
       "Horizo",
       "Vertic",
-      "Canton,",
+      "Canton",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Louisiana",
@@ -79214,7 +79219,7 @@
       "staRED",
       "1Stars",
       "Animal",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Louisiana",
@@ -79247,7 +79252,7 @@
       "staWHI",
       "3+Star",
       "Vertic",
-      "Circle,",
+      "Circle",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Louisiana",
@@ -79277,7 +79282,7 @@
       "002WHI",
       "003BLU",
       "NoStar",
-      "Horizo,",
+      "Horizo",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_New_Orleans",
@@ -79314,7 +79319,7 @@
       "Geogrh",
       "Humans",
       "Builds",
-      "Ships!,",
+      "Ships!",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-me-au.html",
@@ -79379,7 +79384,7 @@
       "NoStar",
       "Horizo",
       "Circle",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Kennebunkport,_Maine",
@@ -79409,7 +79414,7 @@
       "staBLU",
       "1Stars",
       "Plants",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Maine_(1901%E2%80%931909)",
@@ -79440,7 +79445,7 @@
       "NoStar",
       "Plants",
       "Texted",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Maine",
@@ -79471,7 +79476,7 @@
       "Texted",
       "Weapon",
       "Center",
-      "Humans,",
+      "Humans",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-md-ha.html",
@@ -79505,7 +79510,7 @@
       "Texted",
       "Center",
       "Geogrh",
-      "Builds,",
+      "Builds",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/Flags/us-md-al.html",
@@ -79541,7 +79546,7 @@
       "Plants",
       "Texted",
       "Center",
-      "Crowns,",
+      "Crowns",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Annapolis,_Maryland",
@@ -79575,7 +79580,7 @@
       "Circle",
       "Plants",
       "Center",
-      "Crowns,",
+      "Crowns",
       "4Color"
     ],
     "links": "https://codelibrary.amlegal.com/codes/annearundel/latest/annearundelco_md/0-0-0-99391",
@@ -79704,7 +79709,7 @@
       "Circle",
       "Animal",
       "Texted",
-      "Crowns,",
+      "Crowns",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-md-cn.html",
@@ -79773,7 +79778,7 @@
       "Horizo",
       "Animal",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Elk_Ridge,_Utah",
@@ -79801,7 +79806,7 @@
       "myrEQ",
       "NoBand",
       "NoStar",
-      "Crosse,",
+      "Crosse",
       "4Color"
     ],
     "links": "https://www.frederickcountymd.gov/documentcenter/view/345993",
@@ -79863,7 +79868,7 @@
       "Animal",
       "Texted",
       "Canton",
-      "Crowns,",
+      "Crowns",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Prince_George%27s_County,_Maryland#/media/File%3AFlag_of_Prince_George's_County%2C_Maryland.svg",
@@ -79932,7 +79937,7 @@
       "Circle",
       "Texted",
       "Weapon",
-      "Humans,",
+      "Humans",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Bedford_Flag",
@@ -79966,7 +79971,7 @@
       "Center",
       "Geogrh",
       "Builds",
-      "Ships!,",
+      "Ships!",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Boston",
@@ -80001,7 +80006,7 @@
       "Canton",
       "Geogrh",
       "Humans",
-      "Builds,",
+      "Builds",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-macth.html",
@@ -80038,7 +80043,7 @@
       "Texted",
       "Center",
       "Geogrh",
-      "Builds,",
+      "Builds",
       "5+Color"
     ],
     "links": "https://www.gazettenet.com/westhampton-has-a-flag-10517071",
@@ -80116,7 +80121,7 @@
       "HasSun",
       "Center",
       "Geogrh",
-      "Builds,",
+      "Builds",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-milan.html",
@@ -80148,7 +80153,7 @@
       "Crosse",
       "Circle",
       "Trside",
-      "Builds,",
+      "Builds",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Minneapolis",
@@ -80185,7 +80190,7 @@
       "HasSun",
       "Center",
       "Geogrh",
-      "Humans,",
+      "Humans",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Minnesota",
@@ -80227,7 +80232,7 @@
       "Texted",
       "Center",
       "Geogrh",
-      "Builds,",
+      "Builds",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Saint_Paul,_Minnesota",
@@ -80260,7 +80265,7 @@
       "Horizo",
       "Vertic",
       "Circle",
-      "Center,",
+      "Center",
       "4Color"
     ],
     "links": "https://www.visitjackson.com/blog/jackson-flag/",
@@ -80332,7 +80337,7 @@
       "3+Star",
       "Crosse",
       "Horizo",
-      "Canton,",
+      "Canton",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Mississippi?origin=serp_auto",
@@ -80362,7 +80367,7 @@
       "staWHI",
       "1Stars",
       "Texted",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Mississippi?origin=serp_auto",
@@ -80398,7 +80403,7 @@
       "Texted",
       "Center",
       "Geogrh",
-      "Builds,",
+      "Builds",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-mojef.html",
@@ -80428,7 +80433,7 @@
       "003BLU",
       "NoStar",
       "Horizo",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Kansas_City,_Missouri",
@@ -80497,7 +80502,7 @@
       "3+Star",
       "Horizo",
       "Center",
-      "Crowns,",
+      "Crowns",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Springfield,_Missouri",
@@ -80573,7 +80578,7 @@
       "Texted",
       "HasSun",
       "Geogrh",
-      "Builds,",
+      "Builds",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Las_Vegas",
@@ -80607,7 +80612,7 @@
       "1Stars",
       "Circle",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Reno,_Nevada",
@@ -80637,7 +80642,7 @@
       "staBLU",
       "1Stars",
       "Texted",
-      "Geogrh,",
+      "Geogrh",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Reno,_Nevada#History",
@@ -80667,7 +80672,7 @@
       "003GRE",
       "NoStar",
       "Horizo",
-      "OnlyBa,",
+      "OnlyBa",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Republic_of_Molossia",
@@ -80733,7 +80738,7 @@
       "Center",
       "Geogrh",
       "Builds",
-      "Ships!,",
+      "Ships!",
       "4Color"
     ],
     "links": "https://vexillology.fandom.com/wiki/Jersey_City,_New_Jersey",
@@ -80769,7 +80774,7 @@
       "Animal",
       "Plants",
       "Texted",
-      "Center,",
+      "Center",
       "4Color"
     ],
     "links": "https://www.trentonnj.org/495/Flag",
@@ -80800,7 +80805,7 @@
       "Circle",
       "Animal",
       "Texted",
-      "HasSun,",
+      "HasSun",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Albuquerque,_New_Mexico",
@@ -80869,7 +80874,7 @@
       "Animal",
       "Texted",
       "Center",
-      "Builds,",
+      "Builds",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-nmsfe.html",
@@ -80907,7 +80912,7 @@
       "Weapon",
       "Center",
       "Humans",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Coat_of_arms_of_Albany,_New_York#Uses",
@@ -80944,7 +80949,7 @@
       "Weapon",
       "Center",
       "Geogrh",
-      "Humans,",
+      "Humans",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flags_of_New_York_City#Brooklyn",
@@ -80983,7 +80988,7 @@
       "Geogrh",
       "Humans",
       "Builds",
-      "Ships!,",
+      "Ships!",
       "2Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Buffalo,_New_York",
@@ -81021,7 +81026,7 @@
       "Weapon",
       "Center",
       "Humans",
-      "Builds,",
+      "Builds",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flags_of_New_York_City#Design",
@@ -81056,7 +81061,7 @@
       "Plants",
       "Texted",
       "Center",
-      "Crowns,",
+      "Crowns",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-ny-qu.html",
@@ -81096,7 +81101,7 @@
       "Center",
       "Geogrh",
       "Humans",
-      "Ships!,",
+      "Ships!",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flags_of_New_York_City#Staten_Island",
@@ -81134,7 +81139,7 @@
       "Texted",
       "HasSun",
       "Center",
-      "Humans,",
+      "Humans",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flags_of_New_York_City#The_Bronx",
@@ -81173,7 +81178,7 @@
       "Texted",
       "Center",
       "Geogrh",
-      "Builds,",
+      "Builds",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Valatie,_New_York",
@@ -81208,7 +81213,7 @@
       "Texted",
       "Weapon",
       "Trside",
-      "Humans,",
+      "Humans",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Westchester_County,_New_York",
@@ -81240,7 +81245,7 @@
       "003BLU",
       "staWHI",
       "3+Star",
-      "Vertic,",
+      "Vertic",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Durham,_North_Carolina",
@@ -81348,7 +81353,7 @@
       "Circle",
       "Plants",
       "Texted",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Cleveland",
@@ -81380,7 +81385,7 @@
       "002BLU",
       "003GRE",
       "NoStar",
-      "dgband,",
+      "dgband",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Dayton,_Ohio",
@@ -81413,7 +81418,7 @@
       "Plants",
       "Texted",
       "Center",
-      "Builds,",
+      "Builds",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-oh-li.html",
@@ -81490,7 +81495,7 @@
       "Horizo",
       "Texted",
       "HasSun",
-      "Builds,",
+      "Builds",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-oh-to.html",
@@ -81561,7 +81566,7 @@
       "staWHI",
       "1Stars",
       "Horizo",
-      "Circle,",
+      "Circle",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Tulsa",
@@ -81623,7 +81628,7 @@
       "NoStar",
       "Animal",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "2Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Oregon",
@@ -81656,7 +81661,7 @@
       "1Stars",
       "Horizo",
       "Vertic",
-      "Nordic,",
+      "Nordic",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Portland,_Oregon",
@@ -81689,7 +81694,7 @@
       "staYEL",
       "3+Star",
       "Crosse",
-      "Vertic,",
+      "Vertic",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Gettysburg,_Pennsylvania",
@@ -81756,7 +81761,7 @@
       "NoStar",
       "Vertic",
       "dgband",
-      "OnlyBa,",
+      "OnlyBa",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Pennsylvania",
@@ -81791,7 +81796,7 @@
       "Texted",
       "Center",
       "Humans",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Philadelphia",
@@ -81832,7 +81837,7 @@
       "Circle",
       "Animal",
       "Center",
-      "Builds,",
+      "Builds",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Pittsburgh",
@@ -81862,7 +81867,7 @@
       "NoBand",
       "staWHI",
       "3+Star",
-      "Animal,",
+      "Animal",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Whiskey_Rebellion",
@@ -81895,7 +81900,7 @@
       "Plants",
       "Texted",
       "Geogrh",
-      "Builds,",
+      "Builds",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Pawtucket,_Rhode_Island",
@@ -82026,7 +82031,7 @@
       "Weapon",
       "Center",
       "Geogrh",
-      "Builds,",
+      "Builds",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Chattanooga,_Tennessee",
@@ -82065,7 +82070,7 @@
       "1Stars",
       "Vertic",
       "Circle",
-      "Plants,",
+      "Plants",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Chattanooga,_Tennessee",
@@ -82102,7 +82107,7 @@
       "Weapon",
       "Center",
       "Canton",
-      "Builds,",
+      "Builds",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Knoxville,_Tennessee",
@@ -82137,7 +82142,7 @@
       "Circle",
       "Plants",
       "Texted",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Memphis,_Tennessee",
@@ -82177,7 +82182,7 @@
       "Weapon",
       "Center",
       "Geogrh",
-      "Humans,",
+      "Humans",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Nashville,_Tennessee",
@@ -82213,7 +82218,7 @@
       "Circle",
       "Plants",
       "Texted",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://sos.tn.gov/civics/pages/tennessee-state-symbols",
@@ -82246,7 +82251,7 @@
       "Circle",
       "Texted",
       "Center",
-      "Builds,",
+      "Builds",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Austin,_Texas",
@@ -82281,7 +82286,7 @@
       "Animal",
       "Texted",
       "Center",
-      "Humans,",
+      "Humans",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-txbnd.html",
@@ -82319,7 +82324,7 @@
       "Horizo",
       "Circle",
       "Texted",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-tx-da.html",
@@ -82353,7 +82358,7 @@
       "003RED",
       "staWHI",
       "1Stars",
-      "Vertic,",
+      "Vertic",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Dodson_tri-color_flag",
@@ -82386,7 +82391,7 @@
       "Plants",
       "Texted",
       "HasSun",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_El_Paso,_Texas",
@@ -82419,7 +82424,7 @@
       "NoStar",
       "Circle",
       "Texted",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-txfrs.html",
@@ -82451,7 +82456,7 @@
       "3+Star",
       "Circle",
       "Plants",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Governor_of_Texas",
@@ -82488,7 +82493,7 @@
       "2Stars",
       "Circle",
       "Texted",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Houston",
@@ -82519,7 +82524,7 @@
       "1Stars",
       "Texted",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-txiap.html",
@@ -82560,7 +82565,7 @@
       "Texted",
       "Weapon",
       "Builds",
-      "Crowns,",
+      "Crowns",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Texas_Centennial_Exposition",
@@ -82595,7 +82600,7 @@
       "1Stars",
       "Circle",
       "Texted",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Texas#Commemorative_flags_of_Texas",
@@ -82625,7 +82630,7 @@
       "Circle",
       "HasSun",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Provo,_Utah",
@@ -82654,7 +82659,7 @@
       "NoBand",
       "NoStar",
       "Circle",
-      "Texted,",
+      "Texted",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Provo,_Utah#Second_flag",
@@ -82690,7 +82695,7 @@
       "003WHI",
       "NoStar",
       "Horizo",
-      "Plants,",
+      "Plants",
       "3Color"
     ],
     "links": "https://www.slc.gov/flag/",
@@ -82726,7 +82731,7 @@
       "Texted",
       "Center",
       "Geogrh",
-      "Builds,",
+      "Builds",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Utah",
@@ -82762,7 +82767,7 @@
       "003BLU",
       "NoStar",
       "Horizo",
-      "OnlyBa,",
+      "OnlyBa",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/File:Flag_of_Burlington,_Vermont.svg",
@@ -82792,7 +82797,7 @@
       "staYEL",
       "3+Star",
       "Circle",
-      "Geogrh,",
+      "Geogrh",
       "3Color"
     ],
     "links": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_Montpelier%2C_Vermont.svg",
@@ -82822,7 +82827,7 @@
       "Circle",
       "Animal",
       "Texted",
-      "Center,",
+      "Center",
       "2Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Culpeper_County,_Virginia",
@@ -82852,7 +82857,7 @@
       "dgband",
       "Trside",
       "Center",
-      "Crowns,",
+      "Crowns",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Fredericksburg,_Virginia",
@@ -82887,7 +82892,7 @@
       "staWHI",
       "3+Star",
       "Horizo",
-      "Circle,",
+      "Circle",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-va-hr.html#des",
@@ -82989,7 +82994,7 @@
       "Horizo",
       "Texted",
       "HasSun",
-      "Trside,",
+      "Trside",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Spokane,_Washington#First_flag:_1912%E2%80%931958",
@@ -83022,7 +83027,7 @@
       "Circle",
       "Texted",
       "HasSun",
-      "Humans,",
+      "Humans",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Spokane,_Washington#First_flag:_1912%E2%80%931958",
@@ -83056,7 +83061,7 @@
       "Center",
       "Geogrh",
       "Humans",
-      "Builds,",
+      "Builds",
       "4Color"
     ],
     "links": "https://flags.fandom.com/wiki/Chapmanville",
@@ -83077,7 +83082,7 @@
   {
     "New": ".",
     "Code": "[USA]",
-    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Nitro%2C_West_Virginia.svg/320px-Flag_of_Nitro%2C_West_Virginia.svg.png",
+    "Flag": "https://i.ibb.co/SDVc9bxh/Flag-of-Nitro-West-Virginia-600px.png",
     "type": "City",
     "year": "1997, 2021",
     "Items": [
@@ -83086,7 +83091,7 @@
       "NoStar",
       "Texted",
       "Weapon",
-      "Humans,",
+      "Humans",
       "4Color"
     ],
     "links": "https://vexillology.fandom.com/wiki/Nitro,_West_Virginia",
@@ -83122,7 +83127,7 @@
       "Center",
       "Geogrh",
       "Builds",
-      "Rotate,",
+      "Rotate",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Madison,_Wisconsin",
@@ -83160,7 +83165,7 @@
       "Geogrh",
       "Humans",
       "Builds",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Milwaukee",
@@ -83229,7 +83234,7 @@
       "Animal",
       "Plants",
       "Texted",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-bh.html",
@@ -83261,7 +83266,7 @@
       "Crosse",
       "Texted",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "2Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-cb.html",
@@ -83291,7 +83296,7 @@
       "Texted",
       "Center",
       "Geogrh",
-      "Humans,",
+      "Humans",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-ca.html",
@@ -83396,7 +83401,7 @@
       "Circle",
       "Texted",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-cr.html",
@@ -83433,7 +83438,7 @@
       "Texted",
       "Center",
       "Geogrh",
-      "Humans,",
+      "Humans",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-fr.html",
@@ -83464,7 +83469,7 @@
       "Texted",
       "Center",
       "Geogrh",
-      "Humans,",
+      "Humans",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-fr.html",
@@ -83529,7 +83534,7 @@
       "Texted",
       "Center",
       "Geogrh",
-      "Humans,",
+      "Humans",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-hs.html",
@@ -83640,7 +83645,7 @@
       "Animal",
       "Texted",
       "Weapon",
-      "Center,",
+      "Center",
       "2Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-li.html",
@@ -83676,7 +83681,7 @@
       "Center",
       "Geogrh",
       "Humans",
-      "Builds,",
+      "Builds",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-na.html",
@@ -83707,7 +83712,7 @@
       "Animal",
       "Texted",
       "Geogrh",
-      "Humans,",
+      "Humans",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-nb.html",
@@ -83745,7 +83750,7 @@
       "Animal",
       "Plants",
       "Texted",
-      "Geogrh,",
+      "Geogrh",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-pk.html#des",
@@ -83780,7 +83785,7 @@
       "3+Star",
       "Texted",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-pl.html",
@@ -83812,7 +83817,7 @@
       "Weapon",
       "HasSun",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-sh.html",
@@ -83880,7 +83885,7 @@
       "Texted",
       "Center",
       "Geogrh",
-      "Humans,",
+      "Humans",
       "3Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-sw.html",
@@ -83910,7 +83915,7 @@
       "Crosse",
       "Texted",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "4Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-tt.html",
@@ -83978,7 +83983,7 @@
       "NoStar",
       "Texted",
       "Geogrh",
-      "Humans,",
+      "Humans",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-wa.html",
@@ -84012,7 +84017,7 @@
       "Texted",
       "Center",
       "Geogrh",
-      "Builds,",
+      "Builds",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/us-wy-we.html",
@@ -84859,7 +84864,7 @@
       "Animal",
       "Texted",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_the_United_States_Marine_Corps",
@@ -84889,7 +84894,6 @@
       "NoBand",
       "staWHI",
       "3+Star",
-      ",",
       "2Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Jack_of_the_United_States",
@@ -84921,7 +84925,7 @@
       "Animal",
       "Texted",
       "Weapon",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_the_United_States_Army",
@@ -84955,7 +84959,7 @@
       "Plants",
       "Texted",
       "Weapon",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_the_United_States_Coast_Guard",
@@ -84988,7 +84992,7 @@
       "Animal",
       "Texted",
       "Center",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_the_United_States_Navy",
@@ -90687,7 +90691,7 @@
       "1Stars",
       "Horizo",
       "Trside",
-      "Builds,",
+      "Builds",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_Acadiana",
@@ -90721,7 +90725,7 @@
       "Horizo",
       "Animal",
       "Texted",
-      "Center,",
+      "Center",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/First_Navy_Jack",
@@ -90753,7 +90757,7 @@
       "Plants",
       "Texted",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Gadsden_flag",
@@ -92645,7 +92649,7 @@
       "Plants",
       "Texted",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_the_Hopi_Tribe",
@@ -92681,7 +92685,7 @@
       "Plants",
       "HasSun",
       "Geogrh",
-      "Builds,",
+      "Builds",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_the_Navajo_Nation",
@@ -92719,7 +92723,7 @@
       "Circle",
       "Texted",
       "Center",
-      "Builds,",
+      "Builds",
       "4Color"
     ],
     "links": "https://dos.fl.gov/florida-facts/florida-state-symbols/state-flag/floridas-historic-flags/other-flags/seminole-tribe/",
@@ -92844,7 +92848,7 @@
       "Horizo",
       "Vertic",
       "Canton",
-      "Nordic,",
+      "Nordic",
       "3Color"
     ],
     "links": "https://www.episcopalchurch.org/glossary/episcopal-church-flag-and-seal/",
@@ -92878,7 +92882,7 @@
       "Plants",
       "Texted",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/National_Park_Service",
@@ -96671,7 +96675,7 @@
       "Texted",
       "Weapon",
       "Geogrh",
-      "Ships!,",
+      "Ships!",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/w/index.php?title=Flag_of_Florida&wprov=rarw1",
@@ -96703,7 +96707,7 @@
       "1Stars",
       "Horizo",
       "Vertic",
-      "Texted,",
+      "Texted",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_North_Carolina",
@@ -98439,7 +98443,7 @@
       "Circle",
       "Texted",
       "Weapon",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://www.crwflags.com/fotw/flags/xa-chotw.html#flag",
@@ -103522,7 +103526,7 @@
       "3+Star",
       "Circle",
       "Center",
-      "Builds,",
+      "Builds",
       "2Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Senior_Executive_Service_(United_States)",
@@ -103554,7 +103558,7 @@
       "2Stars",
       "Horizo",
       "Circle",
-      "Texted,",
+      "Texted",
       "3Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Juneteenth_flag",
@@ -103588,7 +103592,7 @@
       "Plants",
       "Texted",
       "IsMoon",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Missouri",
@@ -103617,7 +103621,7 @@
       "NoStar",
       "Circle",
       "Animal",
-      "Center,",
+      "Center",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration#Flag",
@@ -103651,7 +103655,7 @@
       "Plants",
       "Texted",
       "Weapon",
-      "Canton,",
+      "Canton",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_New_Mexico#First_flag",
@@ -103690,7 +103694,7 @@
       "Geogrh",
       "Humans",
       "Ships!",
-      "Crowns,",
+      "Crowns",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Coat_of_arms_of_New_York",
@@ -103730,7 +103734,7 @@
       "Plants",
       "Texted",
       "Weapon",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_North_Dakota",
@@ -103764,7 +103768,7 @@
       "NoStar",
       "Plants",
       "HasSun",
-      "Geogrh,",
+      "Geogrh",
       "2Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_North_Dakota",
@@ -103797,7 +103801,7 @@
       "Weapon",
       "HasSun",
       "Center",
-      "Geogrh,",
+      "Geogrh",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/List_of_governors_of_Ohio",
@@ -103836,7 +103840,7 @@
       "Center",
       "Geogrh",
       "Humans",
-      "Ships!,",
+      "Ships!",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_the_governor_of_Oklahoma",
@@ -103874,7 +103878,7 @@
       "Plants",
       "Texted",
       "Weapon",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_the_president_of_the_United_States",
@@ -103913,7 +103917,7 @@
       "Horizo",
       "Circle",
       "Texted",
-      "Trside,",
+      "Trside",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/United_States_Secret_Service#",
@@ -103944,7 +103948,7 @@
       "staWHI",
       "3+Star",
       "Plants",
-      "Center,",
+      "Center",
       "4Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Governor_of_Tennessee",
@@ -103977,7 +103981,7 @@
       "Animal",
       "Texted",
       "Weapon",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_the_United_States_Air_Force",
@@ -104013,7 +104017,7 @@
       "Plants",
       "Texted",
       "Weapon",
-      "Center,",
+      "Center",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Flag_of_the_vice_president_of_the_United_States",
@@ -104050,7 +104054,7 @@
       "003WHI",
       "staBLU",
       "3+Star",
-      "Horizo,",
+      "Horizo",
       "3Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Washington,_D.C",
@@ -104082,7 +104086,7 @@
       "003RED",
       "staWHI",
       "3+Star",
-      "Vertic,",
+      "Vertic",
       "2Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Flag_of_Washington,_D.C",
