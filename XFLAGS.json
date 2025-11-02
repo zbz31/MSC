@@ -98873,21 +98873,22 @@
     "type": "Social",
     "year": "2015",
     "Items": [
-      "myrPUR",
+      "myrPIN",
       "4+Band",
       "001PIN",
-      "002BLU",
+      "002PUR",
       "003BLU",
       "NoStar",
       "Horizo",
       "OnlyBa",
-      "2Color"
+      "3Color"
     ],
     "links": "https://equity.ok.ubc.ca/pride-flags/#:~:text=absence%20of%20gender.-,Omnisexual%20Flag,-Omnisexuality%3A%20The%20sexual",
     "lvlup": "3p",
     "Colors": [
       "cl_BLU",
-      "cl_PIN"
+      "cl_PIN",
+      "cl_PUR"
     ],
     "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Omnisexuality_flag.svg/2560px-Omnisexuality_flag.svg.png",
     "Items2": [],
