@@ -23114,7 +23114,7 @@
   {
     "New": "w3",
     "Code": "[EGY]",
-    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/South_Sinai_Governorate_Flag.svg/1280px-South_Sinai_Governorate_Flag.svg.png",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bandera_del_Municipio_de_Chihuahua_2006-Presente.png/960px-Bandera_del_Municipio_de_Chihuahua_2006-Presente.png",
     "type": "Governorate ",
     "year": "???",
     "Items": [
@@ -23127,6 +23127,8 @@
       "HasSun",
       "Center",
       "Geogrh",
+      "Border",
+      "Checkd",
       "5+Color"
     ],
     "links": "https://en.wikipedia.org/wiki/South_Sinai_Governorate",
@@ -23139,7 +23141,7 @@
       "cl_WHI",
       "cl_ORA"
     ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/9/99/South_Sinai_Governorate_Flag.svg",
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Bandera_del_Municipio_de_Chihuahua_2006-Presente.png/960px-Bandera_del_Municipio_de_Chihuahua_2006-Presente.png",
     "Items2": [],
     "region": "rgn_Africa",
     "couname": "[EGY] South Sinai Governorate",
@@ -90572,7 +90574,7 @@
   {
     "New": ".",
     "Code": "[UKR]",
-    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Flag_of_the_Cossack_Hetmanat.svg/320px-Flag_of_the_Cossack_Hetmanat.svg.png",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Flag_of_the_Cossack_Hetmanate.svg/640px-Flag_of_the_Cossack_Hetmanate.svg.png",
     "type": "Historical",
     "year": "???",
     "Items": [
