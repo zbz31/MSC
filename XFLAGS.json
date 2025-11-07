@@ -101841,6 +101841,8 @@
       "NoStar",
       "Vertic",
       "Circle",
+      "HasSun",
+      "IsMoon",
       "4Color"
     ],
     "links": "https://en.wikipedia.org/wiki/Sámi_flag",
