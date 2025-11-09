@@ -6505,7 +6505,6 @@
       "md_tekken7",
       "md_deno_n",
       "ntGRRE",
-      "german",
       "rg3_romanempire",
       "eunion",
       "femalepm",
@@ -15849,6 +15848,9 @@
     "Items": [
       "myrBLU",
       "4+Band",
+      "001BLU",
+      "002WHI",
+      "003BLU",
       "NoStar",
       "Horizo",
       "dgband",
@@ -40377,6 +40379,7 @@
       "Horizo",
       "Vertic",
       "Nordic",
+      "OnlyBa",
       "2Color"
     ],
     "links": "https://en.m.wikipedia.org/wiki/Tr%C3%B8ndelag#Coat_of_arms",
@@ -80825,36 +80828,6 @@
     "describe": "N/A"
   },
   {
-    "New": "w3",
-    "Code": "[USA]",
-    "Flag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_Englewood%2C_Ohio.png",
-    "type": "City",
-    "year": "1997, 2021",
-    "Items": [
-      "myrWHI",
-      "NoBand",
-      "NoStar",
-      "Plants",
-      "Center",
-      "Geogrh",
-      "Border",
-      "3Color"
-    ],
-    "links": "https://www.crwflags.com/fotw/flags/us-oheng.html",
-    "lvlup": "3",
-    "Colors": [
-      "cl_GRE",
-      "cl_YEL",
-      "cl_WHI"
-    ],
-    "HDFlag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_Englewood%2C_Ohio.png",
-    "Items2": [],
-    "region": "rgn_North America",
-    "couname": "[USA] Englewood",
-    "subtype": "[USA] New Jersey",
-    "describe": "N/A"
-  },
-  {
     "New": ".",
     "Code": "[USA]",
     "Flag": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Jersey_City.png",
@@ -81534,6 +81507,36 @@
     "Items2": [],
     "region": "rgn_North America",
     "couname": "[USA] Dayton",
+    "subtype": "[USA] Ohio",
+    "describe": "N/A"
+  },
+  {
+    "New": "w3",
+    "Code": "[USA]",
+    "Flag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_Englewood%2C_Ohio.png",
+    "type": "City",
+    "year": "1997, 2021",
+    "Items": [
+      "myrWHI",
+      "NoBand",
+      "NoStar",
+      "Plants",
+      "Center",
+      "Geogrh",
+      "Border",
+      "3Color"
+    ],
+    "links": "https://www.crwflags.com/fotw/flags/us-oheng.html",
+    "lvlup": "3",
+    "Colors": [
+      "cl_GRE",
+      "cl_YEL",
+      "cl_WHI"
+    ],
+    "HDFlag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_Englewood%2C_Ohio.png",
+    "Items2": [],
+    "region": "rgn_North America",
+    "couname": "[USA] Englewood",
     "subtype": "[USA] Ohio",
     "describe": "N/A"
   },
