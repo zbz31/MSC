@@ -93210,7 +93210,7 @@
       "myrWHI",
       "3Bands",
       "001WHI",
-      "002ORA",
+      "002RED",
       "003WHI",
       "NoStar",
       "dgband",
@@ -93221,7 +93221,7 @@
     "links": "https://www.flagofmars.com/",
     "lvlup": "3e",
     "Colors": [
-      "cl_ORA",
+      "cl_RED",
       "cl_WHI"
     ],
     "HDFlag": "https://www.flagofmars.com/uploads/2/8/3/2/28326077/mars_flag.png",
