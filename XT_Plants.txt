@@ -1,12 +1,29 @@
 [
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736ed1042195c7228f6bd3548e",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "XT_Love",
+      "XT_Plants",
+      "GN_Memes",
+      "XT_AllSonges"
+    ],
+    "artist": "O-Zone",
+    "genres": 0,
+    "spotId": "52Zr0sinhWTCRrQhRRY4EP",
+    "couname": "Dragostea din tei",
+    "duration": "215386"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2730aea80682458fbea9b3bfe6c",
     "pty": 0,
     "Items": [
       "DUDE",
       "girl",
       "XT_AboutNames",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Brother Ali",
     "genres": 0,
@@ -19,7 +36,8 @@
     "pty": 0,
     "Items": [
       "TV_Halloween",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "l'eupe",
     "genres": 0,
@@ -34,7 +52,8 @@
       "DUDE",
       "girl",
       "XT_Fire",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Dead Kennedys",
     "genres": 0,
@@ -49,7 +68,8 @@
       "DUDE",
       "girl",
       "XT_Weather",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Stardust Vibes,Rain and Chill,Rain Soundzzz Club",
     "genres": 0,
@@ -64,7 +84,8 @@
       "DUDE",
       "girl",
       "XT_OffAnimals",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Mothers Of Invention",
     "genres": 0,
@@ -79,7 +100,8 @@
       "DUDE",
       "girl",
       "XT_AboutNames",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "beabadoobee",
     "genres": 0,
@@ -92,7 +114,8 @@
     "pty": 0,
     "Items": [
       "GN_Memes",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Zelda Tune",
     "genres": 0,
@@ -105,7 +128,8 @@
     "pty": 0,
     "Items": [
       "BT_HansZimmer",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Blue Planet II (Original Television Soundtrack) - Hans Zimmer,Jacob Shea,David Fleming",
     "genres": 0,
@@ -120,7 +144,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The White Stripes",
     "genres": 0,
@@ -133,7 +158,8 @@
     "pty": 0,
     "Items": [
       "GN_Metal",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Thy Majestie",
     "genres": 0,
@@ -146,7 +172,8 @@
     "pty": 0,
     "Items": [
       "GN_PsychedelicRock",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Impala Syndrome",
     "genres": 0,
@@ -160,7 +187,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "suwoh",
     "genres": 0,
@@ -173,7 +201,8 @@
     "pty": 0,
     "Items": [
       "GN_Metal",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Opeth",
     "genres": 0,
@@ -182,13 +211,30 @@
     "duration": "699466"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736061741cb0d58e56540f163e",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "XT_Intros",
+      "XT_Plants",
+      "XT_AllSonges"
+    ],
+    "artist": "The Monkees",
+    "genres": 0,
+    "spotId": "3mumafLiMRofRhyczBxuwE",
+    "couname": "Me & Magdalena",
+    "duration": ""
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2737c797ae4eaf5062537ca84fc",
     "pty": 0,
     "Items": [
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Pearly Drops",
     "genres": 0,
@@ -201,7 +247,8 @@
     "pty": 0,
     "Items": [
       "GN_Metal",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Luca Turilli (Band)",
     "genres": 0,
@@ -214,7 +261,8 @@
     "pty": 0,
     "Items": [
       "BT_JohnWilliams",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Star Wars: Return of the Jedi (Original Motion Picture Soundtrack) - John Williams,London Symphony Orchestra",
     "genres": 0,
@@ -229,7 +277,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Peter Paul and Mary",
     "genres": 0,
@@ -243,7 +292,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Lee Geon Yeong",
     "genres": 0,
@@ -257,7 +307,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "GwaiLow",
     "genres": 0,
@@ -272,7 +323,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "U2",
     "genres": 0,
@@ -287,7 +339,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "OVER ARM THROW",
     "genres": 0,
@@ -301,7 +354,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Mort Garson",
     "genres": 0,
@@ -315,7 +369,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Soupless",
     "genres": 0,
@@ -330,7 +385,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Fox Academy",
     "genres": 0,
@@ -345,7 +401,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Boards of Canada",
     "genres": 0,
@@ -360,7 +417,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Five Iron Frenzy",
     "genres": 0,
@@ -374,7 +432,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Carly Rae Jepsen",
     "genres": 0,
@@ -383,13 +442,29 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b27347708795c6856712742c4815",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "XT_Plants",
+      "XT_Water",
+      "XT_AllSonges"
+    ],
+    "artist": "Lizzo",
+    "genres": 0,
+    "spotId": "4d9GVZP50tSxTfBvHEHUPx",
+    "couname": "Water Me",
+    "duration": ""
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273657f50d01c1ac823e935fd80",
     "pty": 0,
     "Items": [
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Pulp",
     "genres": 0,
@@ -398,12 +473,29 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732fda760d9d2bfa8165740584",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Plants",
+      "XT_AllSonges"
+    ],
+    "artist": "Caamp",
+    "genres": 0,
+    "spotId": "0ESvfrHfNuAtkZp8SMJBOY",
+    "couname": "Strawberries",
+    "duration": null
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273cdcd1e0c30e10686af48baad",
     "pty": 0,
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Kanye West",
     "genres": 0,
@@ -417,7 +509,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Larry June",
     "genres": 0,
@@ -431,7 +524,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Herbie Hancock",
     "genres": 0,
@@ -446,7 +540,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Avett Brothers",
     "genres": 0,
@@ -461,7 +556,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Red Hot Chili Peppers",
     "genres": 0,
@@ -476,7 +572,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Carpool Tunnel",
     "genres": 0,
@@ -491,7 +588,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Big Thief",
     "genres": 0,
@@ -506,7 +604,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Golden Daze",
     "genres": 0,
@@ -521,7 +620,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Ra Ra Riot",
     "genres": 0,
@@ -536,7 +636,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "T.S.O.L.",
     "genres": 0,
@@ -551,7 +652,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Dear and the Headlights",
     "genres": 0,
@@ -566,7 +668,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Dead Man's Bones",
     "genres": 0,
@@ -581,7 +684,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Mazzy Star",
     "genres": 0,
@@ -596,7 +700,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Doris Med Dandys",
     "genres": 0,
@@ -611,7 +716,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Travis",
     "genres": 0,
@@ -626,7 +732,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "ENHYPEN",
     "genres": 0,
@@ -641,7 +748,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Marianas Trench",
     "genres": 0,
@@ -656,7 +764,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Wilco",
     "genres": 0,
@@ -671,7 +780,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Crying Day Care Choir",
     "genres": 0,
@@ -686,7 +796,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "R.E.M.",
     "genres": 0,
@@ -701,7 +812,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Pink Martini",
     "genres": 0,
@@ -716,7 +828,8 @@
       "BAND",
       "girl",
       "XT_Plants",
-      "XT_Weather"
+      "XT_Weather",
+      "XT_AllSonges"
     ],
     "artist": "MICHELLE",
     "genres": 0,
@@ -731,7 +844,8 @@
       "DUDE",
       "XT_AboutNames",
       "XT_Baby",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "James Taylor",
     "genres": 0,
@@ -746,7 +860,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Census",
     "genres": 0,
@@ -765,7 +880,8 @@
       "XT_AboutNames",
       "XT_Places",
       "XT_Plants",
-      "XT_Water"
+      "XT_Water",
+      "XT_AllSonges"
     ],
     "artist": "The Beatles",
     "genres": 0,
@@ -780,12 +896,28 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Animal Collective",
     "genres": 0,
     "spotId": "2Rc5i1prwcSG7XV844zrWx",
     "couname": "In The Flowers",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c5e65bae5c277b5d2e392d23",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Plants",
+      "XT_AllSonges"
+    ],
+    "artist": "Lucinda Williams",
+    "genres": 0,
+    "spotId": "210nWjESHy5BTxFkjmCK5P",
+    "couname": "Buttercup",
     "duration": null
   },
   {
@@ -795,7 +927,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Terror/Cactus",
     "genres": 0,
@@ -810,7 +943,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Radiohead",
     "genres": 0,
@@ -825,7 +959,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "La Femme",
     "genres": 0,
@@ -838,7 +973,8 @@
     "pty": 0,
     "Items": [
       "GN_Metal",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Arcane Tales",
     "genres": 0,
@@ -853,7 +989,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Pink Martini",
     "genres": 0,
@@ -862,13 +999,34 @@
     "duration": null
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b27333d4866ed921300e8ef50808",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_OneHit",
+      "XT_Colors",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Kiss",
+      "XT_Plants",
+      "YR_9099",
+      "XT_AllSonges"
+    ],
+    "artist": "Seal",
+    "genres": 0,
+    "spotId": "3YKptz29AsOlm7WAVnztBh",
+    "couname": "Kiss from a Rose",
+    "duration": ""
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273db29c16ef81acfc4641964b8",
     "pty": 0,
     "Items": [
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Radiohead",
     "genres": 0,
@@ -883,7 +1041,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Guitarra Azul",
     "genres": 0,
@@ -898,7 +1057,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Relient K",
     "genres": 0,
@@ -913,12 +1073,28 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Early Eyes",
     "genres": 0,
     "spotId": "6jDjdfe7npTAxfwVq2HRfr",
     "couname": "Marigolds",
+    "duration": null
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c9e23d649b2128762f98ac46",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Plants",
+      "XT_AllSonges"
+    ],
+    "artist": "Zozi",
+    "genres": 0,
+    "spotId": "0eLevmMdFLKMf2rprarJ8M",
+    "couname": "Sunflower",
     "duration": null
   },
   {
@@ -931,7 +1107,8 @@
       "XT_Food",
       "XT_Karaoke",
       "XT_Plants",
-      "YR_1019"
+      "YR_1019",
+      "XT_AllSonges"
     ],
     "artist": "Drake",
     "genres": 0,
@@ -940,13 +1117,30 @@
     "duration": ""
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b27380ee76879341bbb661380b93",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Plants",
+      "XT_AllSonges"
+    ],
+    "artist": "The Black Sound",
+    "genres": 0,
+    "spotId": "2g3VHBCSREid3uQ4oPPhGy",
+    "couname": "Corpse Flower",
+    "duration": null
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b27319aad70a0dd4e5f17c40df02",
     "pty": 0,
     "Items": [
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Blonde Redhead",
     "genres": 0,
@@ -961,7 +1155,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Hidrogenesse",
     "genres": 0,
@@ -976,7 +1171,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Windrunner",
     "genres": 0,
@@ -991,7 +1187,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Mother Mother",
     "genres": 0,
@@ -1006,7 +1203,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "ERRA",
     "genres": 0,
@@ -1021,7 +1219,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Black Sabbath",
     "genres": 0,
@@ -1036,7 +1235,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Windrunner",
     "genres": 0,
@@ -1045,27 +1245,13 @@
     "duration": null
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2736061741cb0d58e56540f163e",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "XT_Intros",
-      "XT_Plants"
-    ],
-    "artist": "The Monkees",
-    "genres": 0,
-    "spotId": "3mumafLiMRofRhyczBxuwE",
-    "couname": "Me & Magdalena",
-    "duration": ""
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273488af44687de51239df4a655",
     "pty": 0,
     "Items": [
       "GN_PsychedelicRock",
       "TV_Tarantino",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Statler Brothers",
     "genres": 0,
@@ -1081,7 +1267,8 @@
       "GN_PsychedelicRock",
       "XT_Intros",
       "XT_OffAnimals",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Beatles",
     "genres": 0,
@@ -1095,7 +1282,8 @@
     "Items": [
       "GN_PsychedelicRock",
       "XT_Colors",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Tommy James & The Shondells",
     "genres": 0,
@@ -1112,7 +1300,8 @@
       "TV_OneHit",
       "XT_Karaoke",
       "XT_Plants",
-      "YR_0009"
+      "YR_0009",
+      "XT_AllSonges"
     ],
     "artist": "Plain White T's",
     "genres": 0,
@@ -1126,7 +1315,8 @@
     "Items": [
       "DUDE",
       "XT_Plants",
-      "XT_Water"
+      "XT_Water",
+      "XT_AllSonges"
     ],
     "artist": "Tom Petty",
     "genres": 0,
@@ -1141,7 +1331,8 @@
       "BAND",
       "DUDE",
       "XT_Colors",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Zombies",
     "genres": 0,
@@ -1155,7 +1346,8 @@
     "Items": [
       "XT_Dreaming",
       "XT_Intros",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Cure",
     "genres": 0,
@@ -1172,7 +1364,8 @@
       "XT_Intros",
       "XT_Karaoke",
       "XT_Plants",
-      "YR6069"
+      "YR6069",
+      "XT_AllSonges"
     ],
     "artist": "The Foundations",
     "genres": 0,
@@ -1186,7 +1379,8 @@
     "Items": [
       "girl",
       "XT_OffAnimals",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Kacey Musgraves",
     "genres": 0,
@@ -1203,7 +1397,8 @@
       "GN_Synth",
       "TV_OneHit",
       "XT_Intros",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Patrice Rushen",
     "genres": 0,
@@ -1220,7 +1415,8 @@
       "BT_TheBeatles",
       "XT_OffAnimals",
       "XT_Plants",
-      "XT_Water"
+      "XT_Water",
+      "XT_AllSonges"
     ],
     "artist": "The Beatles",
     "genres": 0,
@@ -1235,7 +1431,8 @@
       "DUDE",
       "XT_Food",
       "XT_Plants",
-      "XT_Youth"
+      "XT_Youth",
+      "XT_AllSonges"
     ],
     "artist": "Troye Sivan",
     "genres": 0,
@@ -1249,7 +1446,8 @@
     "Items": [
       "girl",
       "XT_Plants",
-      "YR_7079"
+      "YR_7079",
+      "XT_AllSonges"
     ],
     "artist": "Marie Osmond",
     "genres": 0,
@@ -1264,7 +1462,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Dresses",
     "genres": 0,
@@ -1280,45 +1479,13 @@
       "DUDE",
       "XT_Colors",
       "XT_Intros",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The White Stripes",
     "genres": 0,
     "spotId": "4jU7NPkz4HVnM4hweqNhI1",
     "couname": "Blue Orchid",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27347708795c6856712742c4815",
-    "pty": 0,
-    "Items": [
-      "girl",
-      "XT_Plants",
-      "XT_Water"
-    ],
-    "artist": "Lizzo",
-    "genres": 0,
-    "spotId": "4d9GVZP50tSxTfBvHEHUPx",
-    "couname": "Water Me",
-    "duration": ""
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27333d4866ed921300e8ef50808",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "TV_OneHit",
-      "XT_Colors",
-      "XT_Intros",
-      "XT_Karaoke",
-      "XT_Kiss",
-      "XT_Plants",
-      "YR_9099"
-    ],
-    "artist": "Seal",
-    "genres": 0,
-    "spotId": "3YKptz29AsOlm7WAVnztBh",
-    "couname": "Kiss from a Rose",
     "duration": ""
   },
   {
@@ -1329,7 +1496,8 @@
       "girl",
       "XT_Animals",
       "XT_OffAnimals",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Cornelius",
     "genres": 0,
@@ -1344,7 +1512,8 @@
       "DUDE",
       "XT_Colors",
       "XT_Food",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Jeff Buckley",
     "genres": 0,
@@ -1359,7 +1528,8 @@
       "BAND",
       "girl",
       "XT_Plants",
-      "YR_8089"
+      "YR_8089",
+      "XT_AllSonges"
     ],
     "artist": "Mecano",
     "genres": 0,
@@ -1375,7 +1545,8 @@
       "GN_PsychedelicRock",
       "XT_AboutTime",
       "XT_Plants",
-      "YR6069"
+      "YR6069",
+      "XT_AllSonges"
     ],
     "artist": "The Mamas & The Papas",
     "genres": 0,
@@ -1392,7 +1563,8 @@
       "XT_Karaoke",
       "XT_OffAnimals",
       "XT_Plants",
-      "YR_0009"
+      "YR_0009",
+      "XT_AllSonges"
     ],
     "artist": "KT Tunstall",
     "genres": 0,
@@ -1409,7 +1581,8 @@
       "girl",
       "XT_Monarchy",
       "XT_Numbers",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Neutral Milk Hotel",
     "genres": 0,
@@ -1425,7 +1598,8 @@
       "DUDE",
       "girl",
       "XT_Love",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Butterhills",
     "genres": 0,
@@ -1440,7 +1614,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Babe Rainbow",
     "genres": 0,
@@ -1455,7 +1630,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Growing Tree",
     "genres": 0,
@@ -1470,7 +1646,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Portico Quartet",
     "genres": 0,
@@ -1485,7 +1662,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Béla Fleck and the Flecktones",
     "genres": 0,
@@ -1500,7 +1678,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Pixies",
     "genres": 0,
@@ -1515,7 +1694,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Dream State",
     "genres": 0,
@@ -1530,7 +1710,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Loote",
     "genres": 0,
@@ -1545,7 +1726,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Arcs",
     "genres": 0,
@@ -1560,7 +1742,8 @@
       "GN_PsychedelicRock",
       "XT_History",
       "XT_Places",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Simon & Garfunkel",
     "genres": 0,
@@ -1575,7 +1758,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Wire",
     "genres": 0,
@@ -1589,7 +1773,8 @@
     "Items": [
       "girl",
       "XT_Food",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Erykah Badu",
     "genres": 0,
@@ -1604,7 +1789,8 @@
       "DUDE",
       "girl",
       "XT_Baby",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Connie Francis",
     "genres": 0,
@@ -1619,7 +1805,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Belanova",
     "genres": 0,
@@ -1634,7 +1821,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Deftones",
     "genres": 0,
@@ -1649,7 +1837,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Lunatic Wolf",
     "genres": 0,
@@ -1664,7 +1853,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Band CAMINO",
     "genres": 0,
@@ -1679,7 +1869,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Pagefire",
     "genres": 0,
@@ -1694,7 +1885,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Aqua",
     "genres": 0,
@@ -1709,7 +1901,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Skegss",
     "genres": 0,
@@ -1724,7 +1917,8 @@
       "GN_Choirs",
       "XT_Colors",
       "XT_Intros",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Paramore",
     "genres": 0,
@@ -1733,28 +1927,14 @@
     "duration": "212853"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732fda760d9d2bfa8165740584",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "girl",
-      "XT_Plants"
-    ],
-    "artist": "Caamp",
-    "genres": 0,
-    "spotId": "0ESvfrHfNuAtkZp8SMJBOY",
-    "couname": "Strawberries",
-    "duration": null
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273fd3f66a9ce4371f7ffa0346f",
     "pty": 0,
     "Items": [
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Grateful Dead",
     "genres": 0,
@@ -1769,7 +1949,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Rising Appalachia",
     "genres": 0,
@@ -1783,7 +1964,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Mort Garson",
     "genres": 0,
@@ -1799,7 +1981,8 @@
       "DUDE",
       "TV_Simpsons120",
       "XT_Plants",
-      "YR6069"
+      "YR6069",
+      "XT_AllSonges"
     ],
     "artist": "The Kingston Trio",
     "genres": 0,
@@ -1816,7 +1999,8 @@
       "TV_OneHit",
       "XT_Food",
       "XT_Plants",
-      "YR_9099"
+      "YR_9099",
+      "XT_AllSonges"
     ],
     "artist": "Fools Garden",
     "genres": 0,
@@ -1831,7 +2015,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Pierce The Veil",
     "genres": 0,
@@ -1846,7 +2031,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Stereolab",
     "genres": 0,
@@ -1868,7 +2054,8 @@
       "XT_Plants",
       "XT_Water",
       "XT_Weather",
-      "YR_7079"
+      "YR_7079",
+      "XT_AllSonges"
     ],
     "artist": "Mungo Jerry",
     "genres": 0,
@@ -1883,7 +2070,8 @@
       "DUDE",
       "GN_ViolinSolo",
       "XT_Food",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Gregory Alan Isakov",
     "genres": 0,
@@ -1902,7 +2090,8 @@
       "TV_Simpsons120",
       "XT_Karaoke",
       "XT_Plants",
-      "YR_8089"
+      "YR_8089",
+      "XT_AllSonges"
     ],
     "artist": "Poison",
     "genres": 0,
@@ -1915,7 +2104,8 @@
     "pty": 0,
     "Items": [
       "BT_RollingStones",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Rolling Stones",
     "genres": 0,
@@ -1929,7 +2119,8 @@
     "Items": [
       "DUDE",
       "XT_Colors",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Simon & Garfunkel",
     "genres": 0,
@@ -1938,13 +2129,30 @@
     "duration": ""
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733af8c61026e278d673f982ff",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "XT_Plants",
+      "XT_AllSonges"
+    ],
+    "artist": "Jethro Tull",
+    "genres": 0,
+    "spotId": "5AhyxWDDMvc3l7vttW68Al",
+    "couname": "Songs from the Wood",
+    "duration": null
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273a941bb5225f09137f035e4f3",
     "pty": 0,
     "Items": [
       "DUDE",
       "girl",
       "XT_Plants",
-      "XT_Running"
+      "XT_Running",
+      "XT_AllSonges"
     ],
     "artist": "Mort Garson",
     "genres": 0,
@@ -1958,7 +2166,8 @@
     "Items": [
       "girl",
       "XT_Plants",
-      "XT_Youth"
+      "XT_Youth",
+      "XT_AllSonges"
     ],
     "artist": "Phoebe Bridgers",
     "genres": 0,
@@ -1979,7 +2188,8 @@
       "XT_Karaoke",
       "XT_MoonStars",
       "XT_Plants",
-      "XT_Weather"
+      "XT_Weather",
+      "XT_AllSonges"
     ],
     "artist": "Coldplay",
     "genres": 0,
@@ -1994,7 +2204,8 @@
       "DUDE",
       "girl",
       "XT_Love",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Joël Fajerman",
     "genres": 0,
@@ -2009,7 +2220,8 @@
       "DUDE",
       "girl",
       "XT_Numbers",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Nat King Cole",
     "genres": 0,
@@ -2023,7 +2235,8 @@
     "Items": [
       "DUDE",
       "XT_Food",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Van Morrison",
     "genres": 0,
@@ -2037,7 +2250,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Zedd",
     "genres": 0,
@@ -2053,7 +2267,8 @@
       "DUDE",
       "girl",
       "XT_Compass",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "ODESZA",
     "genres": 0,
@@ -2069,7 +2284,8 @@
       "DUDE",
       "girl",
       "XT_Fire",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Summer Salt",
     "genres": 0,
@@ -2084,7 +2300,8 @@
       "girl",
       "TV_Top102024",
       "XT_Colors",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Taylor Swift",
     "genres": 0,
@@ -2099,7 +2316,8 @@
       "DUDE",
       "girl",
       "XT_Love",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Linda Ronstadt",
     "genres": 0,
@@ -2114,7 +2332,8 @@
       "DUDE",
       "girl",
       "XT_Love",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Emmylou Harris",
     "genres": 0,
@@ -2128,7 +2347,8 @@
     "Items": [
       "girl",
       "XT_Numbers",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Kathy Mattea",
     "genres": 0,
@@ -2142,7 +2362,8 @@
     "Items": [
       "girl",
       "XT_Karaoke",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Selena",
     "genres": 0,
@@ -2157,7 +2378,8 @@
       "BAND",
       "DUDE",
       "BT_RollingStones",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Rolling Stones",
     "genres": 0,
@@ -2170,7 +2392,8 @@
     "pty": 0,
     "Items": [
       "XT_Colors",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Louis Armstrong",
     "genres": 0,
@@ -2184,7 +2407,8 @@
     "Items": [
       "DUDE",
       "XT_Plants",
-      "YR6069"
+      "YR6069",
+      "XT_AllSonges"
     ],
     "artist": "Donovan",
     "genres": 0,
@@ -2199,7 +2423,8 @@
       "BAND",
       "girl",
       "GN_Piano",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "She & Him",
     "genres": 0,
@@ -2213,7 +2438,8 @@
     "Items": [
       "girl",
       "XT_Plants",
-      "XT_Weather"
+      "XT_Weather",
+      "XT_AllSonges"
     ],
     "artist": "Miley Cyrus",
     "genres": 0,
@@ -2226,7 +2452,8 @@
     "pty": 0,
     "Items": [
       "GN_Choirs",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Paper Kites",
     "genres": 0,
@@ -2241,7 +2468,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Tiny Tim w/ The New Duncan Imperials",
     "genres": 0,
@@ -2256,7 +2484,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "We Came As Romans",
     "genres": 0,
@@ -2272,7 +2501,8 @@
       "DUDE",
       "GN_Choirs",
       "XT_Colors",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Thee Sacred Souls",
     "genres": 0,
@@ -2288,7 +2518,8 @@
       "XT_Colors",
       "XT_Running",
       "YR6069",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Horst Jankowski",
     "genres": 0,
@@ -2303,7 +2534,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "McCafferty",
     "genres": 0,
@@ -2318,7 +2550,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Twenty One Pilots",
     "genres": 0,
@@ -2333,7 +2566,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Oh Hellos",
     "genres": 0,
@@ -2348,7 +2582,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Strawberry Switchblade",
     "genres": 0,
@@ -2363,7 +2598,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "La Femme",
     "genres": 0,
@@ -2379,7 +2615,8 @@
       "TV_Mafia",
       "XT_Colors",
       "XT_Plants",
-      "YR6069"
+      "YR6069",
+      "XT_AllSonges"
     ],
     "artist": "Nat King Cole",
     "genres": 0,
@@ -2394,7 +2631,8 @@
       "girl",
       "TV_BreakingBad",
       "XT_Plants",
-      "XT_Weather"
+      "XT_Weather",
+      "XT_AllSonges"
     ],
     "artist": "Norah Jones",
     "genres": 0,
@@ -2410,7 +2648,8 @@
       "TV_Top102024",
       "XT_Numbers",
       "XT_Plants",
-      "XT_Water"
+      "XT_Water",
+      "XT_AllSonges"
     ],
     "artist": "Taylor Swift",
     "genres": 0,
@@ -2426,7 +2665,8 @@
       "GN_PsychedelicRock",
       "TV_OneHit",
       "XT_Plants",
-      "YR6069"
+      "YR6069",
+      "XT_AllSonges"
     ],
     "artist": "Scott McKenzie",
     "genres": 0,
@@ -2441,7 +2681,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Feng Suave",
     "genres": 0,
@@ -2456,7 +2697,8 @@
       "DUDE",
       "girl",
       "XT_Colors",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Kevin Morby",
     "genres": 0,
@@ -2471,7 +2713,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Savage Garden",
     "genres": 0,
@@ -2486,7 +2729,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Wild Party",
     "genres": 0,
@@ -2500,7 +2744,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "cherryblossomsolstice",
     "genres": 0,
@@ -2514,7 +2759,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Thomas Day",
     "genres": 0,
@@ -2528,7 +2774,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Miley Cyrus",
     "genres": 0,
@@ -2542,7 +2789,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Carter Family",
     "genres": 0,
@@ -2558,7 +2806,8 @@
       "DUDE",
       "girl",
       "XT_Colors",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Town Mountain",
     "genres": 0,
@@ -2578,7 +2827,8 @@
       "XT_Intros",
       "XT_Plants",
       "XT_Water",
-      "XT_Weather"
+      "XT_Weather",
+      "XT_AllSonges"
     ],
     "artist": "The Beatles",
     "genres": 0,
@@ -2594,7 +2844,8 @@
       "DUDE",
       "girl",
       "XT_Kiss",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Licks",
     "genres": 0,
@@ -2608,7 +2859,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Ray LaMontagne",
     "genres": 0,
@@ -2623,7 +2875,8 @@
       "BT_HarryStyles_One",
       "XT_Numbers",
       "XT_Plants",
-      "XT_Weather"
+      "XT_Weather",
+      "XT_AllSonges"
     ],
     "artist": "Harry Styles",
     "genres": 0,
@@ -2637,7 +2890,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "HoopsandHipHop",
     "genres": 0,
@@ -2653,7 +2907,8 @@
       "DUDE",
       "GN_Choirs",
       "XT_MoonStars",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Head And The Heart",
     "genres": 0,
@@ -2667,7 +2922,8 @@
     "Items": [
       "TV_Top102024",
       "XT_Plants",
-      "XT_Water"
+      "XT_Water",
+      "XT_AllSonges"
     ],
     "artist": "Taylor Swift",
     "genres": 0,
@@ -2680,7 +2936,8 @@
     "pty": 0,
     "Items": [
       "TV_SpotifyS500",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Ruth B.",
     "genres": 0,
@@ -2694,7 +2951,8 @@
     "Items": [
       "DUDE",
       "XT_Colors",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Van Morrison",
     "genres": 0,
@@ -2715,7 +2973,8 @@
       "TV_SpotifyS500",
       "XT_BodyParts",
       "XT_Intros",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Goo Goo Dolls",
     "genres": 0,
@@ -2729,7 +2988,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Nujabes",
     "genres": 0,
@@ -2744,7 +3004,8 @@
       "DUDE",
       "girl",
       "XT_LongSongs",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "alva noto",
     "genres": 0,
@@ -2758,7 +3019,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Aretha Franklin",
     "genres": 0,
@@ -2772,7 +3034,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Kurtis Wells",
     "genres": 0,
@@ -2786,7 +3049,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Angel Olsen",
     "genres": 0,
@@ -2800,7 +3064,8 @@
     "Items": [
       "XT_OffAnimals",
       "XT_Plants",
-      "XT_Running"
+      "XT_Running",
+      "XT_AllSonges"
     ],
     "artist": "Dan Fogelberg",
     "genres": 0,
@@ -2814,7 +3079,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Astrud Gilberto",
     "genres": 0,
@@ -2834,7 +3100,8 @@
       "XT_Karaoke",
       "XT_LongSongs",
       "XT_Plants",
-      "YR_8089"
+      "YR_8089",
+      "XT_AllSonges"
     ],
     "artist": "Prince",
     "genres": 0,
@@ -2848,7 +3115,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Junglepussy",
     "genres": 0,
@@ -2862,7 +3130,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Kathleen",
     "genres": 0,
@@ -2876,7 +3145,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Danny Norbury",
     "genres": 0,
@@ -2890,7 +3160,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Courtney Barnett",
     "genres": 0,
@@ -2904,7 +3175,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Matthew K",
     "genres": 0,
@@ -2920,7 +3192,8 @@
       "DUDE",
       "GN_Disco",
       "YR_7079",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Biddu Orchestra",
     "genres": 0,
@@ -2941,7 +3214,8 @@
       "XT_Intros",
       "XT_Plants",
       "YR_7079",
-      "YR6069"
+      "YR6069",
+      "XT_AllSonges"
     ],
     "artist": "The Beatles",
     "genres": 0,
@@ -2956,7 +3230,8 @@
       "DUDE",
       "girl",
       "XT_Colors",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Burl Ives",
     "genres": 0,
@@ -2971,7 +3246,8 @@
       "DUDE",
       "girl",
       "XT_Colors",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Dolly Parton",
     "genres": 0,
@@ -2994,7 +3270,8 @@
       "XT_AboutTime",
       "XT_Intros",
       "XT_Plants",
-      "YR_7079"
+      "YR_7079",
+      "XT_AllSonges"
     ],
     "artist": "ABBA",
     "genres": 0,
@@ -3009,7 +3286,8 @@
       "GN_Choirs",
       "TV_SpotifyS500",
       "XT_Plants",
-      "YR_1019"
+      "YR_1019",
+      "XT_AllSonges"
     ],
     "artist": "The Lumineers",
     "genres": 0,
@@ -3024,7 +3302,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Cult",
     "genres": 0,
@@ -3039,7 +3318,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "5 Seconds of Summer",
     "genres": 0,
@@ -3054,7 +3334,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Beach House",
     "genres": 0,
@@ -3068,7 +3349,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Pogo",
     "genres": 0,
@@ -3082,7 +3364,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "bLAck pARty",
     "genres": 0,
@@ -3098,7 +3381,8 @@
       "DUDE",
       "XT_Food",
       "XT_Plants",
-      "YR_1019"
+      "YR_1019",
+      "XT_AllSonges"
     ],
     "artist": "Migos",
     "genres": 0,
@@ -3113,7 +3397,8 @@
       "DUDE",
       "GN_Piano",
       "XT_Plants",
-      "YR_1019"
+      "YR_1019",
+      "XT_AllSonges"
     ],
     "artist": "Ed Sheeran",
     "genres": 0,
@@ -3128,7 +3413,8 @@
       "DUDE",
       "girl",
       "XT_LongSongs",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Pantha Du Prince",
     "genres": 0,
@@ -3142,7 +3428,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Pogo",
     "genres": 0,
@@ -3156,7 +3443,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Judy Collins",
     "genres": 0,
@@ -3170,7 +3458,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Tanya Tucker",
     "genres": 0,
@@ -3184,7 +3473,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Townes Van Zandt",
     "genres": 0,
@@ -3201,7 +3491,8 @@
       "XT_Food",
       "XT_Intros",
       "XT_Plants",
-      "YR_1019"
+      "YR_1019",
+      "XT_AllSonges"
     ],
     "artist": "Harry Styles",
     "genres": 0,
@@ -3219,7 +3510,8 @@
       "TV_SpotifyS500",
       "XT_Food",
       "XT_Plants",
-      "YR_1019"
+      "YR_1019",
+      "XT_AllSonges"
     ],
     "artist": "Harry Styles",
     "genres": 0,
@@ -3228,26 +3520,13 @@
     "duration": ""
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c5e65bae5c277b5d2e392d23",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "girl",
-      "XT_Plants"
-    ],
-    "artist": "Lucinda Williams",
-    "genres": 0,
-    "spotId": "210nWjESHy5BTxFkjmCK5P",
-    "couname": "Buttercup",
-    "duration": null
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2737761f69ca8ba69665deed90b",
     "pty": 0,
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Mercury",
     "genres": 0,
@@ -3261,7 +3540,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Joni Mitchell",
     "genres": 0,
@@ -3276,7 +3556,8 @@
       "DUDE",
       "TV_Top102024",
       "XT_Colors",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Drake",
     "genres": 0,
@@ -3290,7 +3571,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Bob Dylan",
     "genres": 0,
@@ -3305,7 +3587,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Five Iron Frenzy",
     "genres": 0,
@@ -3319,7 +3602,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Halsey",
     "genres": 0,
@@ -3333,7 +3617,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Mort Garson",
     "genres": 0,
@@ -3347,7 +3632,8 @@
     "Items": [
       "girl",
       "XT_Plants",
-      "XT_Water"
+      "XT_Water",
+      "XT_AllSonges"
     ],
     "artist": "Nancy Sinatra",
     "genres": 0,
@@ -3362,7 +3648,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Nightwish",
     "genres": 0,
@@ -3376,7 +3663,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Michael Giacchino",
     "genres": 0,
@@ -3390,7 +3678,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Justin Bieber",
     "genres": 0,
@@ -3404,7 +3693,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Katy Perry",
     "genres": 0,
@@ -3418,7 +3708,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Ashnikko",
     "genres": 0,
@@ -3432,7 +3723,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Margaret Bloom",
     "genres": 0,
@@ -3446,7 +3738,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Jealous of the Birds",
     "genres": 0,
@@ -3460,7 +3753,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Townes Van Zandt",
     "genres": 0,
@@ -3476,7 +3770,8 @@
       "DUDE",
       "girl",
       "XT_Food",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Mamas & The Papas",
     "genres": 0,
@@ -3490,7 +3785,8 @@
     "Items": [
       "GN_Choirs",
       "XT_BodyParts",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Sufjan Stevens",
     "genres": 0,
@@ -3505,7 +3801,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Chairs",
     "genres": 0,
@@ -3520,7 +3817,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Gorillaz",
     "genres": 0,
@@ -3535,7 +3833,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Our Lady Peace",
     "genres": 0,
@@ -3550,7 +3849,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Brave Saint Saturn",
     "genres": 0,
@@ -3564,7 +3864,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Moby",
     "genres": 0,
@@ -3578,7 +3879,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Johnny Stimson",
     "genres": 0,
@@ -3592,7 +3894,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "JISOO",
     "genres": 0,
@@ -3606,7 +3909,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "HyunA",
     "genres": 0,
@@ -3620,7 +3924,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Goth Babe",
     "genres": 0,
@@ -3634,7 +3939,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "MARINA",
     "genres": 0,
@@ -3648,7 +3954,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Paul Simon",
     "genres": 0,
@@ -3662,7 +3969,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Simon & Garfunkel",
     "genres": 0,
@@ -3676,7 +3984,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Sam Phillips",
     "genres": 0,
@@ -3690,7 +3999,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Kenichiro Nishihara",
     "genres": 0,
@@ -3704,7 +4014,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Joni Mitchell",
     "genres": 0,
@@ -3718,7 +4029,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "ReoNa",
     "genres": 0,
@@ -3732,7 +4044,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Dua Lipa",
     "genres": 0,
@@ -3746,7 +4059,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Billie Marten",
     "genres": 0,
@@ -3760,7 +4074,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "John Denver",
     "genres": 0,
@@ -3774,7 +4089,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Pete Seeger",
     "genres": 0,
@@ -3789,7 +4105,8 @@
       "DUDE",
       "girl",
       "TV_Top102024",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "SZA",
     "genres": 0,
@@ -3803,7 +4120,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Janel Munoa",
     "genres": 0,
@@ -3817,7 +4135,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Weyes Blood",
     "genres": 0,
@@ -3831,7 +4150,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Mandy Moore",
     "genres": 0,
@@ -3845,7 +4165,8 @@
     "Items": [
       "girl",
       "XT_Food",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "lavender",
     "genres": 0,
@@ -3862,7 +4183,8 @@
       "XT_Oscars",
       "XT_Plants",
       "XT_Water",
-      "XT_Weather"
+      "XT_Weather",
+      "XT_AllSonges"
     ],
     "artist": "Kermit",
     "genres": 0,
@@ -3876,7 +4198,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Owl City",
     "genres": 0,
@@ -3890,7 +4213,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Connie Converse",
     "genres": 0,
@@ -3904,7 +4228,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Cory McAtee",
     "genres": 0,
@@ -3918,7 +4243,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Jonathan Byrd",
     "genres": 0,
@@ -3932,7 +4258,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Kali Uchis",
     "genres": 0,
@@ -3946,7 +4273,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Hozier",
     "genres": 0,
@@ -3960,7 +4288,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Kina Grannis",
     "genres": 0,
@@ -3974,7 +4303,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Pastel Ghost",
     "genres": 0,
@@ -3988,7 +4318,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Adam Melchor",
     "genres": 0,
@@ -4002,7 +4333,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Ali Zafar",
     "genres": 0,
@@ -4016,7 +4348,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "chloe moriondo",
     "genres": 0,
@@ -4030,7 +4363,8 @@
     "Items": [
       "XT_Water",
       "XT_Weather",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "HD Nature Sound Library",
     "genres": 0,
@@ -4044,7 +4378,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Daniela Andrade",
     "genres": 0,
@@ -4058,7 +4393,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Emily Watts",
     "genres": 0,
@@ -4073,7 +4409,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Nahko And Medicine For The People",
     "genres": 0,
@@ -4087,7 +4424,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Druidess",
     "genres": 0,
@@ -4101,7 +4439,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Tory Lanez",
     "genres": 0,
@@ -4115,7 +4454,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Waxahatchee",
     "genres": 0,
@@ -4129,7 +4469,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Jacques Dutronc",
     "genres": 0,
@@ -4144,7 +4485,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Hippo Campus",
     "genres": 0,
@@ -4159,7 +4501,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Pixies",
     "genres": 0,
@@ -4173,7 +4516,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Nina Simone",
     "genres": 0,
@@ -4187,7 +4531,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Toro y Moi",
     "genres": 0,
@@ -4201,7 +4546,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Jelani Aryeh",
     "genres": 0,
@@ -4215,7 +4561,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Anusha Savi",
     "genres": 0,
@@ -4229,7 +4576,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Kishi Bashi",
     "genres": 0,
@@ -4243,7 +4591,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Zhuang Ai Hui",
     "genres": 0,
@@ -4257,7 +4606,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Daya",
     "genres": 0,
@@ -4271,7 +4621,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Patti Smith",
     "genres": 0,
@@ -4285,7 +4636,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Ella Fitzgerald",
     "genres": 0,
@@ -4299,7 +4651,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Nils Frahm",
     "genres": 0,
@@ -4313,7 +4666,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Hank Locklin",
     "genres": 0,
@@ -4327,7 +4681,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "AURORA",
     "genres": 0,
@@ -4341,7 +4696,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Austin Jones",
     "genres": 0,
@@ -4355,7 +4711,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Olu Dara",
     "genres": 0,
@@ -4369,7 +4726,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Sarah Harmer",
     "genres": 0,
@@ -4383,7 +4741,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Alanis Morissette",
     "genres": 0,
@@ -4397,7 +4756,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Beetlebug",
     "genres": 0,
@@ -4411,7 +4771,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "TAEMIN",
     "genres": 0,
@@ -4425,7 +4786,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Shakey Graves",
     "genres": 0,
@@ -4440,7 +4802,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The National",
     "genres": 0,
@@ -4454,7 +4817,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Foxy Elton",
     "genres": 0,
@@ -4468,7 +4832,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Green-House",
     "genres": 0,
@@ -4482,7 +4847,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Illa J",
     "genres": 0,
@@ -4496,7 +4862,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Owl City",
     "genres": 0,
@@ -4510,7 +4877,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "PJ Harvey",
     "genres": 0,
@@ -4524,7 +4892,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Vanessa Zamora",
     "genres": 0,
@@ -4538,7 +4907,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Gene Wilder",
     "genres": 0,
@@ -4552,7 +4922,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "AJ Rafael",
     "genres": 0,
@@ -4566,7 +4937,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Cristobal Tapia De Veer",
     "genres": 0,
@@ -4580,7 +4952,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "SAINt JHN",
     "genres": 0,
@@ -4594,7 +4967,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Jereena Montemayor",
     "genres": 0,
@@ -4608,7 +4982,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Phil Vassar",
     "genres": 0,
@@ -4622,7 +4997,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Teyana Taylor",
     "genres": 0,
@@ -4636,7 +5012,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "IVANKA",
     "genres": 0,
@@ -4650,7 +5027,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Timmy Albert",
     "genres": 0,
@@ -4664,7 +5042,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Hayley Williams",
     "genres": 0,
@@ -4678,7 +5057,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Pilar Victoria",
     "genres": 0,
@@ -4692,7 +5072,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "John Mayer",
     "genres": 0,
@@ -4706,7 +5087,8 @@
     "Items": [
       "DUDE",
       "XT_Plants",
-      "YR_7079"
+      "YR_7079",
+      "XT_AllSonges"
     ],
     "artist": "Clint Eastwood",
     "genres": 0,
@@ -4720,7 +5102,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Regina Spektor",
     "genres": 0,
@@ -4734,7 +5117,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Cailin Russo",
     "genres": 0,
@@ -4749,7 +5133,8 @@
       "DUDE",
       "XT_Colors",
       "XT_Plants",
-      "XT_Youth"
+      "XT_Youth",
+      "XT_AllSonges"
     ],
     "artist": "Frank Ocean",
     "genres": 0,
@@ -4763,7 +5148,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Lizzy Mercier Descloux",
     "genres": 0,
@@ -4777,7 +5163,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Shannon Purser",
     "genres": 0,
@@ -4791,7 +5178,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Rex Orange County",
     "genres": 0,
@@ -4805,7 +5193,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Neil Diamond",
     "genres": 0,
@@ -4819,7 +5208,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Isabella Lovestory",
     "genres": 0,
@@ -4833,7 +5223,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "El HueyCoyote",
     "genres": 0,
@@ -4847,7 +5238,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Kuzu Mellow",
     "genres": 0,
@@ -4861,7 +5253,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Corinne Bailey Rae",
     "genres": 0,
@@ -4875,7 +5268,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Haley Heynderickx",
     "genres": 0,
@@ -4889,7 +5283,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Stevie Wonder",
     "genres": 0,
@@ -4903,7 +5298,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Tallest Man On Earth",
     "genres": 0,
@@ -4918,7 +5314,8 @@
       "DUDE",
       "girl",
       "TV_Top102024",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Taylor Swift",
     "genres": 0,
@@ -4932,7 +5329,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "AURORA",
     "genres": 0,
@@ -4946,7 +5344,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Emily Scott Robinson",
     "genres": 0,
@@ -4960,7 +5359,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Sophie Janna",
     "genres": 0,
@@ -4974,7 +5374,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Tiny Tim",
     "genres": 0,
@@ -4988,7 +5389,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Max Bygraves",
     "genres": 0,
@@ -5004,7 +5406,8 @@
       "DUDE",
       "XT_Plants",
       "XT_Weather",
-      "XT_Youth"
+      "XT_Youth",
+      "XT_AllSonges"
     ],
     "artist": "The Paper Kites",
     "genres": 0,
@@ -5018,7 +5421,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Juanes",
     "genres": 0,
@@ -5032,7 +5436,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Xenia Rubinos",
     "genres": 0,
@@ -5046,7 +5451,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Agnes Obel",
     "genres": 0,
@@ -5059,7 +5465,8 @@
     "pty": 0,
     "Items": [
       "BT_LadyGaga",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Lady Gaga",
     "genres": 0,
@@ -5072,7 +5479,8 @@
     "pty": 0,
     "Items": [
       "GN_PsychedelicRock",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Minnie Riperton",
     "genres": 0,
@@ -5086,7 +5494,8 @@
     "Items": [
       "girl",
       "GN_FrenchFemale",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Jill Barber",
     "genres": 0,
@@ -5099,7 +5508,8 @@
     "pty": 0,
     "Items": [
       "XT_Colors",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Greyson Chance",
     "genres": 0,
@@ -5116,7 +5526,8 @@
       "XT_Plants",
       "XT_Water",
       "XT_Weather",
-      "YR_0009"
+      "YR_0009",
+      "XT_AllSonges"
     ],
     "artist": "Sheryl Crow",
     "genres": 0,
@@ -5131,7 +5542,8 @@
       "DUDE",
       "girl",
       "TV_Top102024",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Taylor Swift",
     "genres": 0,
@@ -5146,7 +5558,8 @@
       "DUDE",
       "girl",
       "TV_Top102024",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Taylor Swift",
     "genres": 0,
@@ -5162,7 +5575,8 @@
       "DUDE",
       "girl",
       "XT_Colors",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Nursery Rhymes 123",
     "genres": 0,
@@ -5177,7 +5591,8 @@
       "girl",
       "TV_Top102024",
       "XT_Plants",
-      "XT_Youth"
+      "XT_Youth",
+      "XT_AllSonges"
     ],
     "artist": "Taylor Swift",
     "genres": 0,
@@ -5186,47 +5601,19 @@
     "duration": ""
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273c9e23d649b2128762f98ac46",
-    "pty": 0,
-    "Items": [
-      "DUDE",
-      "girl",
-      "XT_Plants"
-    ],
-    "artist": "Zozi",
-    "genres": 0,
-    "spotId": "0eLevmMdFLKMf2rprarJ8M",
-    "couname": "Sunflower",
-    "duration": null
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b273fbaf16c47107599b724f8e68",
     "pty": 0,
     "Items": [
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Elenyi",
     "genres": 0,
     "spotId": "5D64AM4BTE7zlCHLOoECFJ",
     "couname": "Consider the Lilies",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27380ee76879341bbb661380b93",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "girl",
-      "XT_Plants"
-    ],
-    "artist": "The Black Sound",
-    "genres": 0,
-    "spotId": "2g3VHBCSREid3uQ4oPPhGy",
-    "couname": "Corpse Flower",
     "duration": null
   },
   {
@@ -5236,7 +5623,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Spiritbox",
     "genres": 0,
@@ -5252,7 +5640,8 @@
       "DUDE",
       "XT_Plants",
       "XT_Weather",
-      "YR6069"
+      "YR6069",
+      "XT_AllSonges"
     ],
     "artist": "Herman's Hermits",
     "genres": 0,
@@ -5267,7 +5656,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Switchfoot",
     "genres": 0,
@@ -5282,7 +5672,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Movements",
     "genres": 0,
@@ -5296,7 +5687,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Sting",
     "genres": 0,
@@ -5310,7 +5702,8 @@
     "Items": [
       "DUDE",
       "GN_Memes",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Jack Stauber",
     "genres": 0,
@@ -5325,7 +5718,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Syn",
     "genres": 0,
@@ -5340,7 +5734,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Talking Heads",
     "genres": 0,
@@ -5355,7 +5750,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "GROUPLOVE",
     "genres": 0,
@@ -5370,7 +5766,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Cibo Matto",
     "genres": 0,
@@ -5385,7 +5782,8 @@
       "BAND",
       "DUDE",
       "GN_PsychedelicRock",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Grateful Dead",
     "genres": 0,
@@ -5400,7 +5798,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Soaked Oats",
     "genres": 0,
@@ -5415,7 +5814,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "U2",
     "genres": 0,
@@ -5433,7 +5833,8 @@
       "XT_Intros",
       "XT_Karaoke",
       "XT_Plants",
-      "YR_0009"
+      "YR_0009",
+      "XT_AllSonges"
     ],
     "artist": "Outkast",
     "genres": 0,
@@ -5447,7 +5848,8 @@
     "Items": [
       "girl",
       "XT_Plants",
-      "YR_7079"
+      "YR_7079",
+      "XT_AllSonges"
     ],
     "artist": "Lynn Anderson",
     "genres": 0,
@@ -5462,7 +5864,8 @@
       "BAND",
       "DUDE",
       "XT_Plants",
-      "YR6069"
+      "YR6069",
+      "XT_AllSonges"
     ],
     "artist": "The Move",
     "genres": 0,
@@ -5475,7 +5878,8 @@
     "pty": 0,
     "Items": [
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Clairo",
     "genres": 0,
@@ -5491,7 +5895,8 @@
       "DUDE",
       "girl",
       "XT_Monarchy",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Neutral Milk Hotel",
     "genres": 0,
@@ -5507,7 +5912,8 @@
       "DUDE",
       "girl",
       "XT_Colors",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Gray Havens",
     "genres": 0,
@@ -5522,7 +5928,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Östergötlands Sinfonietta",
     "genres": 0,
@@ -5537,7 +5944,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Longest Johns",
     "genres": 0,
@@ -5551,7 +5959,8 @@
     "Items": [
       "DUDE",
       "GN_DrumSolo",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Dreamer Boy",
     "genres": 0,
@@ -5564,7 +5973,8 @@
     "pty": 0,
     "Items": [
       "XT_Food",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Beach Boys",
     "genres": 0,
@@ -5579,7 +5989,8 @@
       "girl",
       "TV_SpotifyS500",
       "XT_Gold",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Miley Cyrus",
     "genres": 0,
@@ -5594,7 +6005,8 @@
       "GN_ViolinSolo",
       "XT_BodyParts",
       "XT_Karaoke",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "The Lumineers",
     "genres": 0,
@@ -5609,7 +6021,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Tomaga",
     "genres": 0,
@@ -5624,7 +6037,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Nick Jonas & The Administration",
     "genres": 0,
@@ -5639,27 +6053,13 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Killswitch Engage",
     "genres": 0,
     "spotId": "6dLXK2ppW3GiNEHN2vcMWl",
     "couname": "Rose of Sharyn",
-    "duration": null
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2733af8c61026e278d673f982ff",
-    "pty": 0,
-    "Items": [
-      "BAND",
-      "DUDE",
-      "girl",
-      "XT_Plants"
-    ],
-    "artist": "Jethro Tull",
-    "genres": 0,
-    "spotId": "5AhyxWDDMvc3l7vttW68Al",
-    "couname": "Songs from the Wood",
     "duration": null
   },
   {
@@ -5671,7 +6071,8 @@
       "XT_Food",
       "XT_Plants",
       "XT_Water",
-      "YR_7079"
+      "YR_7079",
+      "XT_AllSonges"
     ],
     "artist": "Harry Nilsson",
     "genres": 0,
@@ -5685,7 +6086,8 @@
     "Items": [
       "DUDE",
       "XT_Places",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "James Taylor",
     "genres": 0,
@@ -5699,7 +6101,8 @@
     "Items": [
       "DUDE",
       "XT_OffAnimals",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Tom Petty",
     "genres": 0,
@@ -5714,7 +6117,8 @@
       "BAND",
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Tophouse",
     "genres": 0,
@@ -5729,7 +6133,8 @@
       "girl",
       "BT_BillieEilish",
       "TV_Top102024",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Billie Eilish",
     "genres": 0,
@@ -5743,7 +6148,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Joan Baez",
     "genres": 0,
@@ -5757,7 +6163,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Leon Bridges",
     "genres": 0,
@@ -5771,7 +6178,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Soft Glas",
     "genres": 0,
@@ -5785,7 +6193,8 @@
     "Items": [
       "girl",
       "XT_Colors",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Alina Baraz",
     "genres": 0,
@@ -5799,7 +6208,8 @@
     "Items": [
       "DUDE",
       "girl",
-      "XT_Plants"
+      "XT_Plants",
+      "XT_AllSonges"
     ],
     "artist": "Troi Irons",
     "genres": 0,
