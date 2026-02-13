@@ -34,6 +34,23 @@
     "duration": "237400"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b27344fd5034c439220ca67e9e42",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "girl",
+      "XT_Places",
+      "YR_0009",
+      "GN_Piano",
+      "XT_AllSonges"
+    ],
+    "artist": "Muse",
+    "genres": 0,
+    "spotId": "3eZdpWQqZWLfwohzgHPTs2",
+    "couname": "Prague",
+    "duration": "217000"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b273aad32187513cd6916ddd3c87",
     "pty": 0,
     "Items": [
