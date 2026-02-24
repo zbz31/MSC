@@ -1,1 +1,2572 @@
-[{"couname":"Die With A Smile","img":"https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45","pty":"97","artist":"Lady Gaga, Bruno Mars","genres":"art pop,pop","duration":"251667","spotId":"2plbrEY59IikOBgBGLjaoe","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Abracadabra","img":"https://i.scdn.co/image/ab67616d0000b27325304f6dc9dea023ce4b985c","pty":"90","artist":"Lady Gaga","genres":"art pop,pop","duration":"223398","spotId":"5ZLUm9eab8y3tqQ1OhQSHI","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Poker Face","img":"https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2","pty":"80","artist":"Lady Gaga","genres":"art pop,pop","duration":"237200","spotId":"1QV6tiMFM6fSOKOGLMHYYg","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Shallow","img":"https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342","pty":"80","artist":"Lady Gaga, Bradley Cooper","genres":"art pop,pop","duration":"215733","spotId":"2VxeLyX666F8uXCJ0dZF8B","Items":["-HAPPY-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Just Dance","img":"https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2","pty":"78","artist":"Lady Gaga, Colby O'Donis","genres":"art pop,pop","duration":"241933","spotId":"1dzQoRqT5ucxXVaAhTcT0J","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Judas","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"77","artist":"Lady Gaga","genres":"art pop,pop","duration":"249066","spotId":"7F25roCtYi55JouckaayPC","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Applause","img":"https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522","pty":"74","artist":"Lady Gaga","genres":"art pop,pop","duration":"212333","spotId":"5ka2ajep9OAvU5Sgduhiex","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Bloody Mary","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"72","artist":"Lady Gaga","genres":"art pop,pop","duration":"244760","spotId":"53jnnqFSRGMDB9ADrNriCA","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Million Reasons","img":"https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1","pty":"72","artist":"Lady Gaga","genres":"art pop,pop","duration":"205280","spotId":"7dZ1Odmx9jWIweQSatnRqo","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"LoveGame","img":"https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2","pty":"70","artist":"Lady Gaga","genres":"art pop,pop","duration":"216333","spotId":"0eH2eHURaXUP15D8gQlfjx","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Rain On Me","img":"https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a","pty":"69","artist":"Lady Gaga, Ariana Grande","genres":"art pop,pop","duration":"182200","spotId":"7ju97lgwC2rKQ6wwsf9no9","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Hold My Hand","img":"https://i.scdn.co/image/ab67616d0000b273b7e7edfee5626b7b1f15192a","pty":"67","artist":"Lady Gaga","genres":"art pop,pop","duration":"225300","spotId":"0oWraSo5ASJ0h1BEagTyEw","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"The Edge Of Glory","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"66","artist":"Lady Gaga","genres":"art pop,pop","duration":"320546","spotId":"57F80059mWaWFvWG3tBTbO","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Always Remember Us This Way","img":"https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342","pty":"66","artist":"Lady Gaga","genres":"art pop,pop","duration":"210200","spotId":"74iZuPGwyL33VlTr6jTnab","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Government Hooker","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"65","artist":"Lady Gaga","genres":"art pop,pop","duration":"254266","spotId":"6LGwEHsFbxt7BgDwGXqFgj","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"G.U.Y.","img":"https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522","pty":"65","artist":"Lady Gaga","genres":"art pop,pop","duration":"232666","spotId":"4rYLpaNFzt6pkQnrCvVHUw","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"I'll Never Love Again","img":"https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342","pty":"65","artist":"Lady Gaga, Bradley Cooper","genres":"art pop,pop","duration":"281066","spotId":"4A7EkKijzA4ryEoCRWJzdG","Items":["-SADNE-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Heavy Metal Lover","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"63","artist":"Lady Gaga","genres":"art pop,pop","duration":"252546","spotId":"1UmrspTydTpzWfYqWUKXLg","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Stupid Love","img":"https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a","pty":"63","artist":"Lady Gaga","genres":"art pop,pop","duration":"193533","spotId":"7yBbV2k2S2uhaQc24NF2xt","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"911","img":"https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a","pty":"62","artist":"Lady Gaga","genres":"art pop,pop","duration":"172133","spotId":"6qI0MU175Dk2DeoUjlrOpy","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Venus","img":"https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522","pty":"61","artist":"Lady Gaga","genres":"art pop,pop","duration":"233720","spotId":"3n3S5cH3IyaOswY2XSUGTS","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Americano","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"60","artist":"Lady Gaga","genres":"art pop,pop","duration":"246533","spotId":"1sRByD63uI8ZJAOSPDczXF","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"I'll Never Love Again","img":"https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342","pty":"60","artist":"Lady Gaga","genres":"art pop,pop","duration":"328893","spotId":"2fbJ5Msx8KoDKpyufH5YsU","Items":["-SADNE-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Sour Candy","img":"https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a","pty":"60","artist":"Lady Gaga, BLACKPINK","genres":"art pop,pop,k-pop","duration":"157706","spotId":"1IWNylpZ477gIVUDpJL66u","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Marry The Night","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"59","artist":"Lady Gaga","genres":"art pop,pop","duration":"264520","spotId":"02d1E4NRuh7OEQO4vCb9PD","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"ScheiBe","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"59","artist":"Lady Gaga","genres":"art pop,pop","duration":"225466","spotId":"7DXGKFjM7GNkJd32oXstGY","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"The Cure","img":"https://i.scdn.co/image/ab67616d0000b27331cc5716a5c922b0482787b7","pty":"59","artist":"Lady Gaga","genres":"art pop,pop","duration":"211363","spotId":"34oB5r0lcN3fYWCs2uA1k5","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Happy Mistake","img":"https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668","pty":"59","artist":"Lady Gaga","genres":"art pop,pop","duration":"245435","spotId":"5DQIZ8XC0EP7cfRFrtzY5h","Items":["-SADNE-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"You And I","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"58","artist":"Lady Gaga","genres":"art pop,pop","duration":"307360","spotId":"1ADciGUxOaUbBFd0rpYx7d","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Perfect Illusion","img":"https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1","pty":"58","artist":"Lady Gaga","genres":"art pop,pop","duration":"182000","spotId":"56ZrTFkANjeAMiS14njg4E","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Replay","img":"https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a","pty":"58","artist":"Lady Gaga","genres":"art pop,pop","duration":"186653","spotId":"7sKbyYeJnITO1Eh9xd0lKd","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Do What U Want","img":"https://i.scdn.co/image/ab67616d0000b273baa4fdc6aab2fd6801fc1434","pty":"58","artist":"Lady Gaga, Christina Aguilera","genres":"art pop,pop","duration":"216573","spotId":"5XKXMWPACPq51OiqzxenZo","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Is That Alright?","img":"https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342","pty":"57","artist":"Lady Gaga","genres":"art pop,pop","duration":"191280","spotId":"172e82oK9vGoBPvc6SqMm5","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Alice","img":"https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a","pty":"57","artist":"Lady Gaga","genres":"art pop,pop","duration":"177600","spotId":"41A89rj3GoMG6ktN37L7PG","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Close To You","img":"https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668","pty":"57","artist":"Lady Gaga","genres":"art pop,pop","duration":"164166","spotId":"6DqmPvzGa002Qa2NQ14hCV","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"aRTPOP","img":"https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522","pty":"56","artist":"Lady Gaga","genres":"art pop,pop","duration":"247533","spotId":"73zDQykFwu3yT5VQ6MwYbh","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Look What I Found","img":"https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342","pty":"56","artist":"Lady Gaga","genres":"art pop,pop","duration":"175240","spotId":"1l9G7M8gNyQsgOGWZGoQsT","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Babylon","img":"https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a","pty":"56","artist":"Lady Gaga","genres":"art pop,pop","duration":"161733","spotId":"5DttNeiizFqWUON9hZBqTY","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Free Woman","img":"https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a","pty":"55","artist":"Lady Gaga","genres":"art pop,pop","duration":"191466","spotId":"4L6ihclQPu1hqP9r3WNJjQ","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Aura","img":"https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522","pty":"54","artist":"Lady Gaga","genres":"art pop,pop","duration":"235733","spotId":"3fibIzbkYbvTmdoD5u2nPm","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"John Wayne","img":"https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1","pty":"54","artist":"Lady Gaga","genres":"art pop,pop","duration":"174306","spotId":"3d0VZU6Mf2hdZRHA4zry8S","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Sexxx Dreams","img":"https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522","pty":"53","artist":"Lady Gaga","genres":"art pop,pop","duration":"214640","spotId":"0kS6GezxkbM5YXffQFnID6","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Donatella","img":"https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522","pty":"53","artist":"Lady Gaga","genres":"art pop,pop","duration":"264960","spotId":"2OoLIJNxpsNs9wIHqWQrED","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Swine","img":"https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522","pty":"51","artist":"Lady Gaga","genres":"art pop,pop","duration":"268600","spotId":"6AczxDV0grtXZZ7h8xI5cS","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Hey Girl","img":"https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1","pty":"51","artist":"Lady Gaga, Florence Welch","genres":"art pop,pop","duration":"255413","spotId":"554PnB96IltLzVlbinBstw","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"I Don't Know What Love Is","img":"https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342","pty":"51","artist":"Lady Gaga, Bradley Cooper","genres":"art pop,pop","duration":"177293","spotId":"1EWKuMkjiVrHRoqAquXVfL","Items":["-SADNE-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Hair","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"50","artist":"Lady Gaga","genres":"art pop,pop","duration":"307893","spotId":"4u8q2Gddnu8jqCFzxm5IZs","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"MANiCURE","img":"https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522","pty":"50","artist":"Lady Gaga","genres":"art pop,pop","duration":"199786","spotId":"70VukjWPu4TR2xQSRaEwlL","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Fashion!","img":"https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522","pty":"50","artist":"Lady Gaga","genres":"art pop,pop","duration":"239853","spotId":"2I5tTeFL69KZCiO0YYoql7","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"A-YO","img":"https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1","pty":"50","artist":"Lady Gaga","genres":"art pop,pop","duration":"207720","spotId":"6Az2Ll2CPnWYQ2BgiHf4Di","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Dancin' In Circles","img":"https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1","pty":"50","artist":"Lady Gaga","genres":"art pop,pop","duration":"207173","spotId":"0lqcnnclUdVbPPboOldEPp","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"eNIGMA","img":"https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a","pty":"50","artist":"Lady Gaga","genres":"art pop,pop","duration":"179760","spotId":"7JDbfYUHjDzQPFSDh5lzGs","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Beautiful, Dirty, Rich","img":"https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2","pty":"49","artist":"Lady Gaga","genres":"art pop,pop","duration":"172413","spotId":"0Bjr5EAEa5YxfSHHWzZmds","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Mary Jane Holland","img":"https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522","pty":"49","artist":"Lady Gaga","genres":"art pop,pop","duration":"277800","spotId":"0gMpKudmJ2ljDVAdIe9DmR","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"The Joker","img":"https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668","pty":"49","artist":"Lady Gaga","genres":"art pop,pop","duration":"174734","spotId":"5zZoEDawAlJNgUzxknlV9V","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Eh, Eh","img":"https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2","pty":"48","artist":"Lady Gaga","genres":"art pop,pop","duration":"175360","spotId":"3WUbVS0J4Ulf0XZR6LNRnh","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Gypsy","img":"https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522","pty":"48","artist":"Lady Gaga","genres":"art pop,pop","duration":"248706","spotId":"2BnfMbmWbfqi7ac5y7GHXn","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Music To My Eyes","img":"https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342","pty":"48","artist":"Lady Gaga, Bradley Cooper","genres":"art pop,pop","duration":"199200","spotId":"4Z2s8VRI8WEZyU0xeqnlJD","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Fun Tonight","img":"https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a","pty":"48","artist":"Lady Gaga","genres":"art pop,pop","duration":"173426","spotId":"6hyQVqfHFvsJDjcmj4qrHf","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Sine From Above","img":"https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a","pty":"48","artist":"Lady Gaga, Elton John","genres":"art pop,pop","duration":"244880","spotId":"0zzsyWc45eUcSjw4FNHxeN","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"The Fame","img":"https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2","pty":"47","artist":"Lady Gaga","genres":"art pop,pop","duration":"222106","spotId":"3HhAZV8ngUOOt4eUHovhud","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Money Honey","img":"https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2","pty":"47","artist":"Lady Gaga","genres":"art pop,pop","duration":"170293","spotId":"6gknJVkbQb8jkAXbXx0SYA","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Starstruck","img":"https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2","pty":"47","artist":"Lady Gaga, Space Cowboy, Flo Rida","genres":"art pop,pop","duration":"217120","spotId":"7qPvYVyM7ZU7PHz5LTvRY6","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Jewels N' Drugs","img":"https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522","pty":"47","artist":"Lady Gaga, T.I., Too $hort, Twista","genres":"art pop,pop,hip hop sureño americano,hyphy,west coast rap,g-funk,rap gangster","duration":"228040","spotId":"2MqhCzdw8Py25ZHY2Di3Sr","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Chromatica II","img":"https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a","pty":"47","artist":"Lady Gaga","genres":"art pop,pop","duration":"41866","spotId":"0oQc0F6KUE7QY7k5TU6bic","Items":["-SADNE-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Plastic Doll","img":"https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a","pty":"47","artist":"Lady Gaga","genres":"art pop,pop","duration":"221666","spotId":"3CidPLqWXqgesJlwYVJZdy","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"1000 Doves","img":"https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a","pty":"47","artist":"Lady Gaga","genres":"art pop,pop","duration":"215480","spotId":"62hTXlVQacy3pjBW4ntRPl","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Your Song","img":"https://i.scdn.co/image/ab67616d0000b2732cdf51f55c1cbc31a20c46dc","pty":"47","artist":"Lady Gaga","genres":"art pop,pop","duration":"256746","spotId":"0fJtP2HkuZtzfh30XIMtPw","Items":["-SADNE-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"That's Life","img":"https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668","pty":"47","artist":"Lady Gaga","genres":"art pop,pop","duration":"184497","spotId":"7jTLS32BMC2UyTTjEUW6BT","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Cheek To Cheek","img":"https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93","pty":"46","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"170546","spotId":"0UuRIovHyU6KeTzY4gS0L2","Items":["-HAPPY-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Diamond Heart","img":"https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1","pty":"46","artist":"Lady Gaga","genres":"art pop,pop","duration":"210426","spotId":"45CPhDilfgK14IE7LbNvPh","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Diggin' My Grave","img":"https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342","pty":"46","artist":"Lady Gaga, Bradley Cooper","genres":"art pop,pop","duration":"237306","spotId":"0eUwuRuPBzxhU9ApFIcDl2","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"eLECTRIC CHAPEL","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"45","artist":"Lady Gaga","genres":"art pop,pop","duration":"252240","spotId":"7B0zSMcY1H98W9uRCPrc33","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"sINNER'S PRAYER","img":"https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1","pty":"45","artist":"Lady Gaga","genres":"art pop,pop","duration":"223386","spotId":"6oT5s4bAHOMM5cvt1v9Kzv","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Heal Me","img":"https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342","pty":"45","artist":"Lady Gaga","genres":"art pop,pop","duration":"196800","spotId":"5Ctq1DOZUWZqsQZXro2jf7","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Chromatica I","img":"https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a","pty":"45","artist":"Lady Gaga","genres":"art pop,pop","duration":"60400","spotId":"3CGZ7wfk4skmuyQgua1C1K","Items":["-SADNE-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"I Want Your Love","img":"https://i.scdn.co/image/ab67616d0000b273cbca9807368a94c99e38d756","pty":"45","artist":"Nile Rodgers, CHIC, Lady Gaga","genres":"disco,art pop,pop","duration":"296240","spotId":"5hlN9YiUVFC7NGRiwyYFKi","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"I've Got You Under My Skin","img":"https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2","pty":"45","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"185933","spotId":"6jz5HzDmPuQ24U7u7KfKGw","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Good Morning","img":"https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668","pty":"45","artist":"Lady Gaga","genres":"art pop,pop","duration":"166300","spotId":"6RyJt2SvLFghIDe1eCviD9","Items":["-SADNE-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Black Jesus + Amen Fashion","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"44","artist":"Lady Gaga","genres":"art pop,pop","duration":"216293","spotId":"1yYwew5LDQhhiUEHVq4Dnp","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Dope","img":"https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522","pty":"44","artist":"Lady Gaga","genres":"art pop,pop","duration":"221546","spotId":"1gPCk3KUE83rPdz9QqGsX9","Items":["-SADNE-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Til It Happens To You","img":"https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766","pty":"44","artist":"Lady Gaga","genres":"art pop,pop","duration":"258093","spotId":"0bCCGLHflR08UVA6oJJc8I","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"World On A String","img":"https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668","pty":"44","artist":"Lady Gaga","genres":"art pop,pop","duration":"157863","spotId":"1CmyFUdrzcI2TldyJzOHSb","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Folie à Deux","img":"https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668","pty":"44","artist":"Lady Gaga","genres":"art pop,pop","duration":"178714","spotId":"1ud0FiEQLVIDlWEqDIEvwW","Items":["-SADNE-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Boys Boys Boys","img":"https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2","pty":"43","artist":"Lady Gaga","genres":"art pop,pop","duration":"200813","spotId":"33CB8obztQNidFDbO6Z1Wl","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Bad Kids","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"43","artist":"Lady Gaga","genres":"art pop,pop","duration":"230973","spotId":"3V0kjls4TwzpkhTfILFiCj","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Grigio Girls","img":"https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1","pty":"43","artist":"Lady Gaga","genres":"art pop,pop","duration":"180466","spotId":"6Xxvdy1m9TX9HTxOzQcfuV","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Winter Wonderland","img":"https://i.scdn.co/image/ab67616d0000b27369cc44bedd7912c89a64a0cb","pty":"43","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"149306","spotId":"6kkJlaBYdyFcwCg67hW40t","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Get Happy","img":"https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668","pty":"43","artist":"Lady Gaga","genres":"art pop,pop","duration":"191700","spotId":"2YQ0DrIFS90FEK8T4JOa8W","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Oh, When The Saints","img":"https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668","pty":"43","artist":"Lady Gaga","genres":"art pop,pop","duration":"222603","spotId":"2Qt1GqEOR6gfBCNTZv9Q8P","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"That's Entertainment","img":"https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668","pty":"43","artist":"Lady Gaga","genres":"art pop,pop","duration":"249466","spotId":"2zOSxEAk90JTKYNHqE8LXc","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"sMILE","img":"https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668","pty":"43","artist":"Lady Gaga","genres":"art pop,pop","duration":"218721","spotId":"38ILZqA8DlkbKfjosEDSb1","Items":["-SADNE-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"i LIKE IT ROUGH","img":"https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2","pty":"42","artist":"Lady Gaga","genres":"art pop,pop","duration":"202493","spotId":"2UsdgG4NzhmwObtfyEMBjL","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Summerboy","img":"https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2","pty":"42","artist":"Lady Gaga","genres":"art pop,pop","duration":"253946","spotId":"17xFcSuciJ9O10WqDERQep","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Highway Unicorn","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"42","artist":"Lady Gaga","genres":"art pop,pop","duration":"255746","spotId":"7dCd3GD3UvQSsbR7V5dlkM","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Come To Mama","img":"https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1","pty":"42","artist":"Lady Gaga","genres":"art pop,pop","duration":"254773","spotId":"5YWHg9507fUXvtdSW3x6cF","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"The Lady is a Tramp","img":"https://i.scdn.co/image/ab67616d0000b273796c0744b04db30174704d24","pty":"42","artist":"Lady Gaga, Tony Bennett","genres":"art pop,pop,vocal jazz,big band,adult standards,jazz","duration":"198240","spotId":"6ZsKRsnPsdZvXfqqE6bTPy","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"3-Way","img":"https://i.scdn.co/image/ab67616d0000b273edf4dcdd6ce73d43e4a562e6","pty":"42","artist":"The Lonely Island, Justin Timberlake, Lady Gaga","genres":"humor,art pop,pop","duration":"171026","spotId":"5orUhwRVuVCtRYxg3FzidD","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"If My Friends Could See Me Now","img":"https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668","pty":"42","artist":"Lady Gaga","genres":"art pop,pop","duration":"161733","spotId":"0I27tCo8rexgdYnhkSaL7k","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Fashion Of His Love","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"41","artist":"Lady Gaga","genres":"art pop,pop","duration":"219106","spotId":"5DvkRKRmPF2cn7Rf3Kc2TZ","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Just Another Day","img":"https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1","pty":"41","artist":"Lady Gaga","genres":"art pop,pop","duration":"178000","spotId":"52vpwwKa8qFP1WDIsky1xT","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Why Did You Do That?","img":"https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342","pty":"41","artist":"Lady Gaga","genres":"art pop,pop","duration":"184960","spotId":"2FoSFSX2W1p8ri1Wj1Wavn","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Before I Cry","img":"https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342","pty":"41","artist":"Lady Gaga","genres":"art pop,pop","duration":"258545","spotId":"3ZZyYqxcaogkXq1j7V1N2H","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Gonna Build A Mountain","img":"https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668","pty":"41","artist":"Lady Gaga","genres":"art pop,pop","duration":"171654","spotId":"2KniNOsSdTc2XUewjfoRyF","Items":["-HAPPY-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Bad Romance","img":"https://i.scdn.co/image/ab67616d0000b2739e3ac9ca9655e0dd14d7704e","pty":"40","artist":"Lady Gaga","genres":"art pop,pop","duration":"294573","spotId":"6TAdq4dNZx3JN2vm6Pr4hi","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"The Queen","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"40","artist":"Lady Gaga","genres":"art pop,pop","duration":"316520","spotId":"0sUT8GAOF12VKvqJIMtUGP","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Paper Gangsta","img":"https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2","pty":"39","artist":"Lady Gaga","genres":"art pop,pop","duration":"263360","spotId":"2iY7jqy8zBlbk5RliSfTH1","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"It Don't Mean A Thing","img":"https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93","pty":"39","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"143706","spotId":"1GERVZcph8qx09OR7Wo1UV","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Angel Down","img":"https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1","pty":"39","artist":"Lady Gaga","genres":"art pop,pop","duration":"139826","spotId":"6vIi1fDLoB0cXdUqcZ6QRi","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Hair Body Face","img":"https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342","pty":"39","artist":"Lady Gaga","genres":"art pop,pop","duration":"202640","spotId":"16VQqrD8XTaIiJDCMStjxK","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"I Get A Kick Out Of You","img":"https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2","pty":"39","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"213960","spotId":"6tANJIaIQAFhMxgnafAZd2","Items":["-HAPPY-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Sweet Sounds Of Heaven","img":"https://i.scdn.co/image/ab67616d0000b273bd2490e628f8e2fe6b8626f6","pty":"39","artist":"The Rolling Stones, Lady Gaga","genres":"rock clásico,rock,art pop,pop","duration":"442667","spotId":"5YW7oSt4jHBO7yE9XER2Be","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"La Vie En Rose","img":"https://i.scdn.co/image/ab67616d0000b273b5d4b4ed17ec86c4b3944af2","pty":"39","artist":"Lady Gaga","genres":"art pop,pop","duration":"179760","spotId":"3tv3f29zjhzL3kcvQE8tGl","Items":["-HAPPY-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Disco Heaven","img":"https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2","pty":"38","artist":"Lady Gaga","genres":"art pop,pop","duration":"221480","spotId":"1uvJevFvRwq3AO1qzmXxhJ","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Alejandro","img":"https://i.scdn.co/image/ab67616d0000b2739e3ac9ca9655e0dd14d7704e","pty":"38","artist":"Lady Gaga","genres":"art pop,pop","duration":"274213","spotId":"0RsTUK89eNgV2YXg37BeJQ","Items":["-SADNE-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Telephone","img":"https://i.scdn.co/image/ab67616d0000b2739e3ac9ca9655e0dd14d7704e","pty":"38","artist":"Lady Gaga, Beyoncé","genres":"art pop,pop","duration":"220640","spotId":"4BkhzD8dCxUFZFzwmK2NnD","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Joanne","img":"https://i.scdn.co/image/ab67616d0000b273aaa3ff38f4539db6c04f456c","pty":"38","artist":"Lady Gaga","genres":"art pop,pop","duration":"279436","spotId":"1j8jHKgAQ7QD52Wd5uuLNZ","Items":["-SADNE-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Nature Boy","img":"https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93","pty":"37","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"248426","spotId":"7sYJdgkkdcjN1Zr5Rgbpl8","Items":["-SADNE-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Love For Sale","img":"https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2","pty":"37","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"220786","spotId":"4biVNJdcVpAljZjpiO9B4Z","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Brown Eyes","img":"https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2","pty":"36","artist":"Lady Gaga","genres":"art pop,pop","duration":"243000","spotId":"6a3tkCh4IRkloHPVYxwtZ0","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"I Can't Give You Anything But Love","img":"https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93","pty":"36","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"193306","spotId":"6rPeI30oZ1yoATa1cDmEFS","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Monster","img":"https://i.scdn.co/image/ab67616d0000b2739e3ac9ca9655e0dd14d7704e","pty":"35","artist":"Lady Gaga","genres":"art pop,pop","duration":"249280","spotId":"3lM8PqytBRX4ImTznLfk2n","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"I Won't Dance","img":"https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93","pty":"35","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"236720","spotId":"4Sps76IJpIyyZqRTj7HCEi","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Goody Goody","img":"https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93","pty":"34","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"131826","spotId":"27I0k8fvpCDwY9A0uxqqd0","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Judas","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"33","artist":"Lady Gaga, DJ White Shadow","genres":"art pop,pop","duration":"247480","spotId":"0bWfxPhxOepDV01eMECRYl","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Ev'ry Time We Say Goodbye","img":"https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93","pty":"33","artist":"Lady Gaga","genres":"art pop,pop","duration":"190293","spotId":"25tzJjzIw1u2kntCVTJEzC","Items":["-SADNE-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Let's Face The Music And Dance","img":"https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93","pty":"33","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"126760","spotId":"0MH2uJT6XXhtm419pZn2H9","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"But Beautiful","img":"https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93","pty":"33","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"244080","spotId":"5CxkNGZFfG7eiWNWhvUC9A","Items":["-SADNE-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"It's De-Lovely","img":"https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2","pty":"33","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"173440","spotId":"5i6SVeYn0jb3yMp9fsQGto","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Night And Day","img":"https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2","pty":"33","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"222373","spotId":"0ZzE3KupbceBjr17DMhWAo","Items":["-HAPPY-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Do I Love You","img":"https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2","pty":"33","artist":"Lady Gaga","genres":"art pop,pop","duration":"288280","spotId":"7fGcPsneoxIweHKdc14vlw","Items":["-SADNE-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Telephone","img":"https://i.scdn.co/image/ab67616d0000b27334aa062a88ad6f281b4c2418","pty":"33","artist":"Lady Gaga, Beyoncé, Electrolightz","genres":"art pop,pop","duration":"266266","spotId":"1lRTpo7wGAFQNTFajqPxeo","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"dANCE IN THE DARK","img":"https://i.scdn.co/image/ab67616d0000b2739e3ac9ca9655e0dd14d7704e","pty":"32","artist":"Lady Gaga","genres":"art pop,pop","duration":"288960","spotId":"6YAC2BXXCwCBp1PnF4MXD4","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Firefly","img":"https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93","pty":"32","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"117640","spotId":"4NCZEnM4tq2MazaFURJxWY","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"They All Laughed","img":"https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93","pty":"32","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"108560","spotId":"5s44vQBcE1dK8VxRk3VMqr","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Lush Life","img":"https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93","pty":"32","artist":"Lady Gaga","genres":"art pop,pop","duration":"254693","spotId":"0i6JF8OHlrX1Rxe13GbDnC","Items":["-SADNE-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Let's Do It","img":"https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2","pty":"32","artist":"Lady Gaga","genres":"art pop,pop","duration":"216493","spotId":"0dImZ1ZhnS1xfhYVkPPeqE","Items":["-HAPPY-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"So Happy I Could Die","img":"https://i.scdn.co/image/ab67616d0000b2739e3ac9ca9655e0dd14d7704e","pty":"31","artist":"Lady Gaga","genres":"art pop,pop","duration":"234866","spotId":"5wvZdHIkFmu21PKqDLxg0d","Items":["-HAPPY-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Marry The Night","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"31","artist":"Lady Gaga, Zedd","genres":"art pop,pop,edm","duration":"260573","spotId":"451LbKieOS7W3VMA1OaJKw","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Scheiße","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"31","artist":"Lady Gaga, DJ White Shadow","genres":"art pop,pop","duration":"575240","spotId":"7BrZaypG7PzZMSEZ8cQBGx","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"You're The Top","img":"https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2","pty":"31","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"169400","spotId":"5ueoGQzXQDQazPcPq5UvOQ","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Born This Way","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"30","artist":"Lady Gaga","genres":"art pop,pop","duration":"359053","spotId":"0SbJ3giZe1jAZgnO4dPaC9","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"I Concentrate On You","img":"https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2","pty":"30","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"236800","spotId":"1Z2el1XLsdJwt6Kefb2F5p","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Dream Dancing","img":"https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2","pty":"30","artist":"Tony Bennett, Lady Gaga","genres":"vocal jazz,big band,adult standards,jazz,art pop,pop","duration":"256280","spotId":"7kjzAKTVd9umvnChTkzTNd","Items":["-HAPPY-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Disease","img":"https://i.scdn.co/image/ab67616d0000b273e8eb46a38608f22ffbd64dce","pty":"30","artist":"Lady Gaga","genres":"art pop,pop","duration":"274041","spotId":"0pQeWRfw06RBjjyqRqNAYT","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Speechless","img":"https://i.scdn.co/image/ab67616d0000b2739e3ac9ca9655e0dd14d7704e","pty":"29","artist":"Lady Gaga","genres":"art pop,pop","duration":"270813","spotId":"5QB0aILqhJpYiFXoOrB2kR","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Fashion Of His Love","img":"https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0","pty":"29","artist":"Lady Gaga, Fernando Garibay","genres":"art pop,pop","duration":"225306","spotId":"0U9eU3pnA9ryE8AimH3xMW","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Video Phone","img":"https://i.scdn.co/image/ab67616d0000b2739f27b631e06512a58b691e73","pty":"29","artist":"Beyoncé, Lady Gaga, William Burke","genres":"art pop,pop","duration":"304746","spotId":"7mzQFrKyyde7StPaXLss4K","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Teeth","img":"https://i.scdn.co/image/ab67616d0000b2739e3ac9ca9655e0dd14d7704e","pty":"27","artist":"Lady Gaga","genres":"art pop,pop","duration":"220706","spotId":"2OycPJAn1YudMCWtEjUlXO","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Partynauseous","img":"https://i.scdn.co/image/ab67616d0000b2739feaf9c5e06dbf3cdf0d50cf","pty":"24","artist":"Mother Monster","genres":"art pop","duration":"168045","spotId":"1yjeuuldPJjVrcFcyDm2ML","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Again Again","img":"https://i.scdn.co/image/ab67616d0000b273a8b02cfd80bb576eaade17b8","pty":"20","artist":"Lady Gaga","genres":"art pop,pop","duration":"184493","spotId":"72aZAm6IUKo7UsrpAZsK5O","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Big Girl Now","img":"https://i.scdn.co/image/ab67616d0000b27307e7fb192a6e03e7e71e5599","pty":"20","artist":"New Kids On The Block, Lady Gaga","genres":"art pop,pop","duration":"208866","spotId":"4X68diDXvWo5QfuztuSKIz","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Christmas Tree","img":"https://i.scdn.co/image/ab67616d0000b273c9f9eae3c2cc62848ed38d1e","pty":"19","artist":"Lady Gaga, Space Cowboy","genres":"art pop,pop","duration":"142466","spotId":"4cV91ewNT9Fpz2yxIMFyFP","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Paparazzi","img":"https://i.scdn.co/image/ab67616d0000b27338ff719b5f7590c21ec4cf5a","pty":"14","artist":"Lady Gaga","genres":"art pop,pop","duration":"208000","spotId":"1qqJmOAe4iQ8RQcXDDm9kF","Items":["-SADNE-","-ENERGY-","","","BT_LadyGaga"]}, {"couname":"Chromatica III","img":"https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a","pty":"8","artist":"Lady Gaga","genres":"art pop,pop","duration":"27666","spotId":"6kXRZSe28BawCiEdME8YLk","Items":["-HAPPY-","-SLOWSS-","","","BT_LadyGaga"]}, {"couname":"Chillin","img":"https://i.scdn.co/image/ab67616d0000b2738438a4a6e1afb39eb029231f","pty":"7","artist":"Wale, Lady Gaga","genres":"art pop,pop","duration":"204533","spotId":"4HYc74wPEfUAhlQFm4fZHa","Items":["-HAPPY-","-ENERGY-","","","BT_LadyGaga"]}]
+[
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "7dCd3GD3UvQSsbR7V5dlkM",
+    "couname": "Highway Unicorn",
+    "duration": "255746"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "4L6ihclQPu1hqP9r3WNJjQ",
+    "couname": "Free Woman",
+    "duration": "191466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "2iY7jqy8zBlbk5RliSfTH1",
+    "couname": "Paper Gangsta",
+    "duration": "263360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Colors",
+      "XT_Food",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "6Xxvdy1m9TX9HTxOzQcfuV",
+    "couname": "Grigio Girls",
+    "duration": "180466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "5Ctq1DOZUWZqsQZXro2jf7",
+    "couname": "Heal Me",
+    "duration": "196800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "0dImZ1ZhnS1xfhYVkPPeqE",
+    "couname": "Let's Do It",
+    "duration": "216493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "7jTLS32BMC2UyTTjEUW6BT",
+    "couname": "That's Life",
+    "duration": "184497"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "3CGZ7wfk4skmuyQgua1C1K",
+    "couname": "Chromatica I",
+    "duration": "60400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "7sKbyYeJnITO1Eh9xd0lKd",
+    "couname": "Replay",
+    "duration": "186653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "1uvJevFvRwq3AO1qzmXxhJ",
+    "couname": "Disco Heaven",
+    "duration": "221480"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "1UmrspTydTpzWfYqWUKXLg",
+    "couname": "Heavy Metal Lover",
+    "duration": "252546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Monarchy",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "0sUT8GAOF12VKvqJIMtUGP",
+    "couname": "The Queen",
+    "duration": "316520"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "1l9G7M8gNyQsgOGWZGoQsT",
+    "couname": "Look What I Found",
+    "duration": "175240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739e3ac9ca9655e0dd14d7704e",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "5wvZdHIkFmu21PKqDLxg0d",
+    "couname": "So Happy I Could Die",
+    "duration": "234866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Lady Gaga,Bradley Cooper",
+    "genres": 0,
+    "spotId": "0eUwuRuPBzxhU9ApFIcDl2",
+    "couname": "Diggin' My Grave",
+    "duration": "237306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_LadyGaga",
+      "XT_AboutNames",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "2OoLIJNxpsNs9wIHqWQrED",
+    "couname": "Donatella",
+    "duration": "264960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "52vpwwKa8qFP1WDIsky1xT",
+    "couname": "Just Another Day",
+    "duration": "178000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "73zDQykFwu3yT5VQ6MwYbh",
+    "couname": "aRTPOP",
+    "duration": "247533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "16VQqrD8XTaIiJDCMStjxK",
+    "couname": "Hair Body Face",
+    "duration": "202640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "5DttNeiizFqWUON9hZBqTY",
+    "couname": "Babylon",
+    "duration": "161733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "2zOSxEAk90JTKYNHqE8LXc",
+    "couname": "That's Entertainment",
+    "duration": "249466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "2UsdgG4NzhmwObtfyEMBjL",
+    "couname": "i LIKE IT ROUGH",
+    "duration": "202493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "7JDbfYUHjDzQPFSDh5lzGs",
+    "couname": "eNIGMA",
+    "duration": "179760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_LadyGaga",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "56ZrTFkANjeAMiS14njg4E",
+    "couname": "Perfect Illusion",
+    "duration": "182000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "172e82oK9vGoBPvc6SqMm5",
+    "couname": "Is That Alright?",
+    "duration": "191280"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739e3ac9ca9655e0dd14d7704e",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "6YAC2BXXCwCBp1PnF4MXD4",
+    "couname": "dANCE IN THE DARK",
+    "duration": "288960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "6hyQVqfHFvsJDjcmj4qrHf",
+    "couname": "Fun Tonight",
+    "duration": "173426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "2BnfMbmWbfqi7ac5y7GHXn",
+    "couname": "Gypsy",
+    "duration": "248706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "0Bjr5EAEa5YxfSHHWzZmds",
+    "couname": "Beautiful, Dirty, Rich",
+    "duration": "172413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c9f9eae3c2cc62848ed38d1e",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Lady Gaga,Space Cowboy",
+    "genres": 0,
+    "spotId": "4cV91ewNT9Fpz2yxIMFyFP",
+    "couname": "Christmas Tree",
+    "duration": "142466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "0i6JF8OHlrX1Rxe13GbDnC",
+    "couname": "Lush Life",
+    "duration": "254693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "33CB8obztQNidFDbO6Z1Wl",
+    "couname": "Boys Boys Boys",
+    "duration": "200813"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "0oQc0F6KUE7QY7k5TU6bic",
+    "couname": "Chromatica II",
+    "duration": "41866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "6kXRZSe28BawCiEdME8YLk",
+    "couname": "Chromatica III",
+    "duration": "27666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "6RyJt2SvLFghIDe1eCviD9",
+    "couname": "Good Morning",
+    "duration": "166300"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "27I0k8fvpCDwY9A0uxqqd0",
+    "couname": "Goody Goody",
+    "duration": "131826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739feaf9c5e06dbf3cdf0d50cf",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Mother Monster",
+    "genres": 0,
+    "spotId": "1yjeuuldPJjVrcFcyDm2ML",
+    "couname": "Partynauseous",
+    "duration": "168045"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "3V0kjls4TwzpkhTfILFiCj",
+    "couname": "Bad Kids",
+    "duration": "230973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "2YQ0DrIFS90FEK8T4JOa8W",
+    "couname": "Get Happy",
+    "duration": "191700"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273969438a8091085c2472a0766",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Cars",
+      "XT_Oscars",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "0bCCGLHflR08UVA6oJJc8I",
+    "couname": "Til It Happens To You",
+    "duration": "258093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "6LGwEHsFbxt7BgDwGXqFgj",
+    "couname": "Government Hooker",
+    "duration": "254266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a8b02cfd80bb576eaade17b8",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "72aZAm6IUKo7UsrpAZsK5O",
+    "couname": "Again Again",
+    "duration": "184493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "3ZZyYqxcaogkXq1j7V1N2H",
+    "couname": "Before I Cry",
+    "duration": "258545"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Lady Gaga,DJ White Shadow",
+    "genres": 0,
+    "spotId": "7BrZaypG7PzZMSEZ8cQBGx",
+    "couname": "Scheiße",
+    "duration": "575240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "1Z2el1XLsdJwt6Kefb2F5p",
+    "couname": "I Concentrate On You",
+    "duration": "236800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "6DqmPvzGa002Qa2NQ14hCV",
+    "couname": "Close To You",
+    "duration": "164166"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "7DXGKFjM7GNkJd32oXstGY",
+    "couname": "ScheiBe",
+    "duration": "225466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "6vIi1fDLoB0cXdUqcZ6QRi",
+    "couname": "Angel Down",
+    "duration": "139826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "0kS6GezxkbM5YXffQFnID6",
+    "couname": "Sexxx Dreams",
+    "duration": "214640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738438a4a6e1afb39eb029231f",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Wale,Lady Gaga",
+    "genres": 0,
+    "spotId": "4HYc74wPEfUAhlQFm4fZHa",
+    "couname": "Chillin",
+    "duration": "204533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "3fibIzbkYbvTmdoD5u2nPm",
+    "couname": "Aura",
+    "duration": "235733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "5YWHg9507fUXvtdSW3x6cF",
+    "couname": "Come To Mama",
+    "duration": "254773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "CT_Norway",
+      "GN_Choirs",
+      "YR_0009",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga,Beyoncé",
+    "genres": 0,
+    "spotId": "4TCL0qqKyqsMZml0G3M9IM",
+    "couname": "Telephone",
+    "duration": "220640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_LadyGaga",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "1ADciGUxOaUbBFd0rpYx7d",
+    "couname": "You And I",
+    "duration": "307360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "0lqcnnclUdVbPPboOldEPp",
+    "couname": "Dancin' In Circles",
+    "duration": "207173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "GN_Choirs",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "7yBbV2k2S2uhaQc24NF2xt",
+    "couname": "Stupid Love",
+    "duration": "193533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "41A89rj3GoMG6ktN37L7PG",
+    "couname": "Alice",
+    "duration": "177600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "6tANJIaIQAFhMxgnafAZd2",
+    "couname": "I Get A Kick Out Of You",
+    "duration": "213960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e8eb46a38608f22ffbd64dce",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "0pQeWRfw06RBjjyqRqNAYT",
+    "couname": "Disease",
+    "duration": "274041"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27338ff719b5f7590c21ec4cf5a",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "YR_0009",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "1qqJmOAe4iQ8RQcXDDm9kF",
+    "couname": "Paparazzi",
+    "duration": "208000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "3HhAZV8ngUOOt4eUHovhud",
+    "couname": "The Fame",
+    "duration": "222106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_AboutTime",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "25tzJjzIw1u2kntCVTJEzC",
+    "couname": "Ev'ry Time We Say Goodbye",
+    "duration": "190293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732cdf51f55c1cbc31a20c46dc",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "0fJtP2HkuZtzfh30XIMtPw",
+    "couname": "Your Song",
+    "duration": "256746"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "6oT5s4bAHOMM5cvt1v9Kzv",
+    "couname": "sINNER'S PRAYER",
+    "duration": "223386"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "0I27tCo8rexgdYnhkSaL7k",
+    "couname": "If My Friends Could See Me Now",
+    "duration": "161733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "GN_Choirs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "3d0VZU6Mf2hdZRHA4zry8S",
+    "couname": "John Wayne",
+    "duration": "174306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "2Qt1GqEOR6gfBCNTZv9Q8P",
+    "couname": "Oh, When The Saints",
+    "duration": "222603"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "5i6SVeYn0jb3yMp9fsQGto",
+    "couname": "It's De-Lovely",
+    "duration": "173440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Love",
+      "YR_0009",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "0eH2eHURaXUP15D8gQlfjx",
+    "couname": "LoveGame",
+    "duration": "216333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739e3ac9ca9655e0dd14d7704e",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "5QB0aILqhJpYiFXoOrB2kR",
+    "couname": "Speechless",
+    "duration": "270813"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Numbers",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "62hTXlVQacy3pjBW4ntRPl",
+    "couname": "1000 Doves",
+    "duration": "215480"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "0gMpKudmJ2ljDVAdIe9DmR",
+    "couname": "Mary Jane Holland",
+    "duration": "277800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27300e1d8265195799790277e5a",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "GN_Choirs",
+      "XT_Baby",
+      "XT_Intros",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "209NkbzmsUa9pAobU7xGyf",
+    "couname": "Born This Way",
+    "duration": "260252"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b5d4b4ed17ec86c4b3944af2",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_LadyGaga",
+      "GN_Piano",
+      "TV_SpotifyS500",
+      "XT_Karaoke",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "2rbDhOo9Fh61Bbu23T2qCk",
+    "couname": "Always Remember Us This Way",
+    "duration": "210200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "GN_Choirs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "5zZoEDawAlJNgUzxknlV9V",
+    "couname": "The Joker",
+    "duration": "174734"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "6gknJVkbQb8jkAXbXx0SYA",
+    "couname": "Money Honey",
+    "duration": "170293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "1gPCk3KUE83rPdz9QqGsX9",
+    "couname": "Dope",
+    "duration": "221546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "1sRByD63uI8ZJAOSPDczXF",
+    "couname": "Americano",
+    "duration": "246533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "3WUbVS0J4Ulf0XZR6LNRnh",
+    "couname": "Eh, Eh",
+    "duration": "175360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739e3ac9ca9655e0dd14d7704e",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "2OycPJAn1YudMCWtEjUlXO",
+    "couname": "Teeth",
+    "duration": "220706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "2I5tTeFL69KZCiO0YYoql7",
+    "couname": "Fashion!",
+    "duration": "239853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_BodyParts",
+      "XT_Colors",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "6YSrwzBdLvN5RtzYmWsUPx",
+    "couname": "Brown Eyes",
+    "duration": "243000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b7e7edfee5626b7b1f15192a",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_BodyParts",
+      "XT_Cars",
+      "XT_Oscars",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "0oWraSo5ASJ0h1BEagTyEw",
+    "couname": "Hold My Hand",
+    "duration": "225300"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "70VukjWPu4TR2xQSRaEwlL",
+    "couname": "MANiCURE",
+    "duration": "199786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_OffAnimals",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "6AczxDV0grtXZZ7h8xI5cS",
+    "couname": "Swine",
+    "duration": "268600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739f27b631e06512a58b691e73",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Femme"
+    ],
+    "artist": "Beyoncé,Lady Gaga,William Burke",
+    "genres": 0,
+    "spotId": "7mzQFrKyyde7StPaXLss4K",
+    "couname": "Video Phone",
+    "duration": "304746"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a47c0e156ea3cebe37fdcab8",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Colors",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "3u8L4te13sTuqyHNR7j2rB",
+    "couname": "Black Jesus + Amen Fashion",
+    "duration": "216293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "GN_Choirs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "1ud0FiEQLVIDlWEqDIEvwW",
+    "couname": "Folie à Deux",
+    "duration": "178714"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "GN_Choirs",
+      "XT_Water",
+      "XT_Weather",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga,Ariana Grande",
+    "genres": 0,
+    "spotId": "7ju97lgwC2rKQ6wwsf9no9",
+    "couname": "Rain On Me",
+    "duration": "182200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273aaa3ff38f4539db6c04f456c",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "1j8jHKgAQ7QD52Wd5uuLNZ",
+    "couname": "Joanne",
+    "duration": "279436"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "7fGcPsneoxIweHKdc14vlw",
+    "couname": "Do I Love You",
+    "duration": "288280"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27369cc44bedd7912c89a64a0cb",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "6kkJlaBYdyFcwCg67hW40t",
+    "couname": "Winter Wonderland",
+    "duration": "149306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "4NCZEnM4tq2MazaFURJxWY",
+    "couname": "Firefly",
+    "duration": "117640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "GN_Choirs",
+      "XT_BodyParts",
+      "XT_Gold",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "45CPhDilfgK14IE7LbNvPh",
+    "couname": "Diamond Heart",
+    "duration": "210426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "1CmyFUdrzcI2TldyJzOHSb",
+    "couname": "World On A String",
+    "duration": "157863"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730a49322a2b093601bce2f38e",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "CT_Norway",
+      "GN_Choirs",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "YR_0009",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "0kv8hQMkkfBlJxHTBIUvhP",
+    "couname": "Bad Romance",
+    "duration": "294640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "5ueoGQzXQDQazPcPq5UvOQ",
+    "couname": "You're The Top",
+    "duration": "169400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "7sYJdgkkdcjN1Zr5Rgbpl8",
+    "couname": "Nature Boy",
+    "duration": "248426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "CT_Norway",
+      "GN_Choirs",
+      "TV_Halloween",
+      "TV_SpotifyS500",
+      "XT_BodyParts",
+      "XT_Gambling",
+      "XT_Intros",
+      "YR_0009",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "5R8dQOPq8haW94K7mgERlO",
+    "couname": "Poker Face",
+    "duration": "237200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_LadyGaga",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "6Az2Ll2CPnWYQ2BgiHf4Di",
+    "couname": "A-YO",
+    "duration": "207720"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_LadyGaga",
+      "GN_Choirs",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "0JNdS1n0ifOP25XvhwAMgM",
+    "couname": "The Edge Of Glory",
+    "duration": "320586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_LadyGaga",
+      "XT_Karaoke",
+      "XT_Numbers",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "7dZ1Odmx9jWIweQSatnRqo",
+    "couname": "Million Reasons",
+    "duration": "205280"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a47c0e156ea3cebe37fdcab8",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_LadyGaga",
+      "TV_Halloween",
+      "XT_AboutNames",
+      "XT_Food",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "11BKm0j4eYoCPPpCONAVwA",
+    "couname": "Bloody Mary",
+    "duration": "244760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_LadyGaga",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "7F25roCtYi55JouckaayPC",
+    "couname": "Judas",
+    "duration": "249066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a47c0e156ea3cebe37fdcab8",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_BodyParts",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "2uk0YH2ahN0UE5jaCMa5jn",
+    "couname": "Hair",
+    "duration": "307893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "3CidPLqWXqgesJlwYVJZdy",
+    "couname": "Plastic Doll",
+    "duration": "221666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_LadyGaga",
+      "YR_0009",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "1HHeOs6zRdF8Ck58easiAY",
+    "couname": "Alejandro",
+    "duration": "274213"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "2FoSFSX2W1p8ri1Wj1Wavn",
+    "couname": "Why Did You Do That?",
+    "duration": "184960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_LadyGaga",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "5ka2ajep9OAvU5Sgduhiex",
+    "couname": "Applause",
+    "duration": "212333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_LadyGaga",
+      "XT_MoonStars",
+      "XT_Weather",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "3n3S5cH3IyaOswY2XSUGTS",
+    "couname": "Venus",
+    "duration": "233720"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "TV_Halloween",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "2WgyOP8Z1D6GQYumCwH4Dk",
+    "couname": "Monster",
+    "duration": "249280"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27331cc5716a5c922b0482787b7",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_LadyGaga",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "34oB5r0lcN3fYWCs2uA1k5",
+    "couname": "The Cure",
+    "duration": "211363"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "4rYLpaNFzt6pkQnrCvVHUw",
+    "couname": "G.U.Y.",
+    "duration": "232666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "2KniNOsSdTc2XUewjfoRyF",
+    "couname": "Gonna Build A Mountain",
+    "duration": "171654"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "5DQIZ8XC0EP7cfRFrtzY5h",
+    "couname": "Happy Mistake",
+    "duration": "245435"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "7B0zSMcY1H98W9uRCPrc33",
+    "couname": "eLECTRIC CHAPEL",
+    "duration": "252240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325304f6dc9dea023ce4b985c",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "5ZLUm9eab8y3tqQ1OhQSHI",
+    "couname": "Abracadabra",
+    "duration": "223398"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "0UuRIovHyU6KeTzY4gS0L2",
+    "couname": "Cheek To Cheek",
+    "duration": "170546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_LadyGaga",
+      "GN_Choirs",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_Dreaming",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "1k18nxjYj8R5iz82Ap7GEY",
+    "couname": "Marry The Night",
+    "duration": "264520"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "17xFcSuciJ9O10WqDERQep",
+    "couname": "Summerboy",
+    "duration": "253946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "BT_LadyGaga",
+      "GN_Piano",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "2fbJ5Msx8KoDKpyufH5YsU",
+    "couname": "I'll Never Love Again",
+    "duration": "328893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c6bfaa9549f8438bcafb668",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "38ILZqA8DlkbKfjosEDSb1",
+    "couname": "sMILE",
+    "duration": "218721"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b5d4b4ed17ec86c4b3944af2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Plants",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "3tv3f29zjhzL3kcvQE8tGl",
+    "couname": "La Vie En Rose",
+    "duration": "179760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga",
+    "genres": 0,
+    "spotId": "5DvkRKRmPF2cn7Rf3Kc2TZ",
+    "couname": "Fashion Of His Love",
+    "duration": "219106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "0MH2uJT6XXhtm419pZn2H9",
+    "couname": "Let's Face The Music And Dance",
+    "duration": "126760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27334aa062a88ad6f281b4c2418",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga,Beyoncé,Electrolightz",
+    "genres": 0,
+    "spotId": "1lRTpo7wGAFQNTFajqPxeo",
+    "couname": "Telephone",
+    "duration": "266266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Lady Gaga,DJ White Shadow",
+    "genres": 0,
+    "spotId": "0bWfxPhxOepDV01eMECRYl",
+    "couname": "Judas",
+    "duration": "247480"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "5CxkNGZFfG7eiWNWhvUC9A",
+    "couname": "But Beautiful",
+    "duration": "244080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Dreaming",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "7kjzAKTVd9umvnChTkzTNd",
+    "couname": "Dream Dancing",
+    "duration": "256280"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738093238ec0c71ef7c95c8fb1",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga,Florence Welch",
+    "genres": 0,
+    "spotId": "554PnB96IltLzVlbinBstw",
+    "couname": "Hey Girl",
+    "duration": "255413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e691217483df8798445c82e2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Lady Gaga,Space Cowboy,Flo Rida",
+    "genres": 0,
+    "spotId": "7qPvYVyM7ZU7PHz5LTvRY6",
+    "couname": "Starstruck",
+    "duration": "217120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "4Sps76IJpIyyZqRTj7HCEi",
+    "couname": "I Won't Dance",
+    "duration": "236720"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Lady Gaga,Elton John",
+    "genres": 0,
+    "spotId": "0zzsyWc45eUcSjw4FNHxeN",
+    "couname": "Sine From Above",
+    "duration": "244880"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27336881c811ce9fd57f71706f8",
+    "pty": 0,
+    "Items": [
+      "BT_BrunoMars",
+      "BT_LadyGaga",
+      "TV_SpotifyS500",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Lady Gaga,Bruno Mars",
+    "genres": 0,
+    "spotId": "3Tjupe9BJ6gfGbQIgtmrMX",
+    "couname": "Die With A Smile",
+    "duration": "280455"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273796c0744b04db30174704d24",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Monarchy",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Lady Gaga,Tony Bennett",
+    "genres": 0,
+    "spotId": "6ZsKRsnPsdZvXfqqE6bTPy",
+    "couname": "The Lady is a Tramp",
+    "duration": "198240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Lady Gaga,Bradley Cooper",
+    "genres": 0,
+    "spotId": "4Z2s8VRI8WEZyU0xeqnlJD",
+    "couname": "Music To My Eyes",
+    "duration": "199200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "1GERVZcph8qx09OR7Wo1UV",
+    "couname": "It Don't Mean A Thing",
+    "duration": "143706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "6jz5HzDmPuQ24U7u7KfKGw",
+    "couname": "I've Got You Under My Skin",
+    "duration": "185933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27307e7fb192a6e03e7e71e5599",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "New Kids On The Block,Lady Gaga",
+    "genres": 0,
+    "spotId": "4X68diDXvWo5QfuztuSKIz",
+    "couname": "Big Girl Now",
+    "duration": "208866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "5s44vQBcE1dK8VxRk3VMqr",
+    "couname": "They All Laughed",
+    "duration": "108560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273683680975bf153c97ea8ad8d",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "BT_RollingStones",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "The Rolling Stones,Lady Gaga",
+    "genres": 0,
+    "spotId": "0PyGmZCJ65xZBhXqCGYWlC",
+    "couname": "Sweet Sounds Of Heaven",
+    "duration": "442669"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_Dreaming",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Lady Gaga,Zedd",
+    "genres": 0,
+    "spotId": "451LbKieOS7W3VMA1OaJKw",
+    "couname": "Marry The Night",
+    "duration": "260573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Lady Gaga,Bradley Cooper",
+    "genres": 0,
+    "spotId": "1EWKuMkjiVrHRoqAquXVfL",
+    "couname": "I Don't Know What Love Is",
+    "duration": "177293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Love",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Lady Gaga,Bradley Cooper",
+    "genres": 0,
+    "spotId": "4A7EkKijzA4ryEoCRWJzdG",
+    "couname": "I'll Never Love Again",
+    "duration": "281066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "CT_Norway",
+      "TV_SpotifyS500",
+      "XT_Cars",
+      "XT_Oscars",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Lady Gaga,Bradley Cooper",
+    "genres": 0,
+    "spotId": "2VxeLyX666F8uXCJ0dZF8B",
+    "couname": "Shallow",
+    "duration": "215733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273baa4fdc6aab2fd6801fc1434",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga,Christina Aguilera",
+    "genres": 0,
+    "spotId": "5XKXMWPACPq51OiqzxenZo",
+    "couname": "Do What U Want",
+    "duration": "216573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Gold",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Lady Gaga,T.I.,Too $hort,Twista",
+    "genres": 0,
+    "spotId": "2MqhCzdw8Py25ZHY2Di3Sr",
+    "couname": "Jewels N' Drugs",
+    "duration": "228040"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_AllSonges",
+      "XT_Dreaming",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "0ZzE3KupbceBjr17DMhWAo",
+    "couname": "Night And Day",
+    "duration": "222373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273574feb25f2b0f16dee365ab2",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "4biVNJdcVpAljZjpiO9B4Z",
+    "couname": "Love For Sale",
+    "duration": "220786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734883efb117dd51c4f3f88e93",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Tony Bennett,Lady Gaga",
+    "genres": 0,
+    "spotId": "6rPeI30oZ1yoATa1cDmEFS",
+    "couname": "I Can't Give You Anything But Love",
+    "duration": "193306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Lady Gaga,Fernando Garibay",
+    "genres": 0,
+    "spotId": "0U9eU3pnA9ryE8AimH3xMW",
+    "couname": "Fashion Of His Love",
+    "duration": "225306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273edf4dcdd6ce73d43e4a562e6",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Numbers",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "The Lonely Island,Justin Timberlake,Lady Gaga",
+    "genres": 0,
+    "spotId": "5orUhwRVuVCtRYxg3FzidD",
+    "couname": "3-Way",
+    "duration": "171026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cbca9807368a94c99e38d756",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Nile Rodgers,CHIC,Lady Gaga",
+    "genres": 0,
+    "spotId": "5hlN9YiUVFC7NGRiwyYFKi",
+    "couname": "I Want Your Love",
+    "duration": "296240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273348a8b432f3e8e02f342056e",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "XT_Food",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Femme"
+    ],
+    "artist": "Lady Gaga,BLACKPINK",
+    "genres": 0,
+    "spotId": "6R6ZoHTypt5lt68MWbzZXv",
+    "couname": "Sour Candy",
+    "duration": "157706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a8b02cfd80bb576eaade17b8",
+    "pty": 0,
+    "Items": [
+      "BT_LadyGaga",
+      "GN_Choirs",
+      "TV_Halloween",
+      "YR_0009",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Lady Gaga,Colby O'Donis",
+    "genres": 0,
+    "spotId": "5IC6hMJ8twaEYLF0gMknMb",
+    "couname": "Just Dance",
+    "duration": "241933"
+  }
+]
