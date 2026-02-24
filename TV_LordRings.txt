@@ -1,45 +1,12 @@
 [
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "3cV6yvwBlRPD24t6Hbk4L0",
-    "couname": "Strider",
-    "duration": "154560"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "4aB29POCPX88HgVvwl4xqb",
-    "couname": "Bilbo's Song",
-    "duration": "177773"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "7FE9SFbyngHgMFNozuIkGa",
-    "couname": "Aragorn's Return",
-    "duration": "131906"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band"
     ],
     "artist": "Howard Shore,Sheila Chandra",
     "genres": 0,
@@ -48,190 +15,14 @@
     "duration": "238640"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "4qaxeVzW69AqS6HHeMZaYC",
-    "couname": "Bag End",
-    "duration": "275560"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "1olRCCqs3T72iRbCFCmRov",
-    "couname": "Balin's Tomb",
-    "duration": "510240"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "58W4bm4C19IltlW3Vbf8Ce",
-    "couname": "Allegiance to Denethor",
-    "duration": "199986"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "6GO5qVDkPvw2vr07pQChmZ",
-    "couname": "Anduril",
-    "duration": "155466"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "3oJFlRfVPq7IZcj2hsO3H4",
-    "couname": "Andúril",
-    "duration": "207520"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore,Elizabeth Fraser",
-    "genres": 0,
-    "spotId": "2DjjHvVoVIDlETBC7FJHT1",
-    "couname": "Caras Galadhon / Lament for Gandalf",
-    "duration": "560933"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "644es5aYPJghtZLjM1rmSP",
-    "couname": "Concerning Hobbits",
-    "duration": "175040"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "78LWZ7WT4s7QDa9zzTLH5Y",
-    "couname": "Days of the Ring",
-    "duration": "669560"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "06rwgbUFu3xgl88xxv1Hpx",
-    "couname": "Dernhelm in Battle",
-    "duration": "126013"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "6KJqVA0KLjTpzryUSoVyB9",
-    "couname": "Dwimorberg",
-    "duration": "146293"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "1ICBjx8MKVqZdXCnpUVfAB",
-    "couname": "Edoras",
-    "duration": "274280"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "2wYX2nSsBcPPnkKCJ69Amo",
-    "couname": "Elanor",
-    "duration": "87866"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "1OojcYAa6qk3Jg1n3sXSiF",
-    "couname": "Elven Rope",
-    "duration": "139040"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "5AOLHIFsnXz9pOn2PQjjai",
-    "couname": "Ent-draught",
-    "duration": "173613"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "6BEkaQDf8HOBD8woRzSmIH",
-    "couname": "Éowyn's Dream",
-    "duration": "84306"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
@@ -240,178 +31,14 @@
     "duration": "342680"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "6qbUU40ECmhtaIpvhopr9e",
-    "couname": "Farewell Dear Bilbo",
-    "duration": "105880"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "7tXk8bJaU5hr1sqj229DTl",
-    "couname": "Fangorn",
-    "duration": "313466"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "2KBTwLcCOlDO1gkQJz3ytG",
-    "couname": "Faramir's Good Council",
-    "duration": "140760"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "3tEW3BubSpSzJ6GoCT3cV8",
-    "couname": "Farewell to Lorien",
-    "duration": "276800"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "5STHdwONXZ4Bn28HcUVbey",
-    "couname": "Flight from Edoras",
-    "duration": "138506"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "4g7Ithd2Fpoupsjs5sJxeR",
-    "couname": "For Frodo",
-    "duration": "196866"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "7IyuoW61wH6omhg3YN84P7",
-    "couname": "Gilraen's Memorial",
-    "duration": "301800"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "5rNmyrEfmwPMjBn2qYZlAN",
-    "couname": "Give up the Halfling",
-    "duration": "289066"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "6zrRw31r0RlZTYd7dgKqb1",
-    "couname": "Glamdring",
-    "duration": "230213"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "1Qwz6Ad5Vc4hFRLqNa90xc",
-    "couname": "Gollum",
-    "duration": "146640"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "0jzqTb61D0L4D90Fk1j0XL",
-    "couname": "Gollum's Villainy",
-    "duration": "130133"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "3TFg1PZDcPnEe2FjK0fZ4s",
-    "couname": "Grond",
-    "duration": "92853"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "0AraGDvgK8k69WNngdjxmo",
-    "couname": "A Conspiracy Unmasked",
-    "duration": "369866"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "4XBjG0TN3iK2WKmz71GsmH",
-    "couname": "A Coronal of Silver and Gold",
-    "duration": "507293"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
@@ -423,475 +50,10 @@
     "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "28IgIs8y4cGDIYuFVH3G8I",
-    "couname": "Keep It Secret, Keep It Safe",
-    "duration": "533973"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "2SKCoeEzz4Kx1VdiCWzC4X",
-    "couname": "Journey to the Cross-roads",
-    "duration": "137386"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "3nfmgykmdHpX0M5dSVnMnX",
-    "couname": "Khazad-dûm",
-    "duration": "480026"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore,Emilíana Torrini",
-    "genres": 0,
-    "spotId": "7EUF4wSVqPUZfhpbUWWM65",
-    "couname": "Long Ways to Go Yet / Gollum's Song",
-    "duration": "485533"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "7DbCJTrxSN3EKgLuWJt4Cb",
-    "couname": "Lost in Emyn Muil",
-    "duration": "254520"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "6NgKxRmIkuWgn93qlTd4Ff",
-    "couname": "War Is Upon Us",
-    "duration": "215680"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "0VfcYOujgf9JDAgwlgu1qm",
-    "couname": "Many Meetings",
-    "duration": "185426"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "7xfkBYjnfhGdzPEeHdAHQb",
-    "couname": "Marshalling at Dunharrow",
-    "duration": "296520"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "06i8jXHTFCssO0Luc5p0XL",
-    "couname": "Master Meriadoc, Swordthain",
-    "duration": "99786"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "4c09k1BMilMlU9CihSivt1",
-    "couname": "Master Peregrin's Plan",
-    "duration": "151826"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "7BAo5sR1yLe4Y3JZx8sqyO",
-    "couname": "Merry's Simple Courage",
-    "duration": "128600"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore,Ben Del Maestro",
-    "genres": 0,
-    "spotId": "75UQxtu6gUPT5DdipRTM2s",
-    "couname": "Minas Tirith",
-    "duration": "217266"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "0XLyV7JR2nqN8vz1kDQ9h5",
-    "couname": "Moria",
-    "duration": "147560"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore,Renée Fleming",
-    "genres": 0,
-    "spotId": "3iURgkltoANXq7VMhRIGkc",
-    "couname": "Mount Doom",
-    "duration": "249000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "5rTjlOO9TlPaCalNEoMOvh",
-    "couname": "My Precious",
-    "duration": "176653"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "26cjrRuiUSK57lzLtrJils",
-    "couname": "Night Camp",
-    "duration": "170200"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore,Isabel Bayrakdarian",
-    "genres": 0,
-    "spotId": "4cG0yxYbVuaqEeDKN9xWFh",
-    "couname": "One of the Dúnedain / Evenstar",
-    "duration": "433120"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "6J3f47yAq4383scqfW8h4T",
-    "couname": "Orthanc",
-    "duration": "66413"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore,Ben Del Maestro",
-    "genres": 0,
-    "spotId": "4yLkZxgXOF3GQoKBJZqpdF",
-    "couname": "Osgiliath Invaded",
-    "duration": "527480"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "2nxNGEPuoayvcvKOXBBgUK",
-    "couname": "Parth Galen",
-    "duration": "553746"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "6QOeqsx5lpJvJ0a6jhqNvS",
-    "couname": "A Shortcut to Mushrooms",
-    "duration": "247426"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "51THoWfQJgdyj248y8tJPa",
-    "couname": "Prologue: One Ring to Rule Them All",
-    "duration": "436346"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "0bFkkIO8Jg0pbjgIC4Af9i",
-    "couname": "Refuge at Helm's Deep",
-    "duration": "239693"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore,Elizabeth Fraser",
-    "genres": 0,
-    "spotId": "3NqKax05VIBjaDIcp3CfJE",
-    "couname": "Retreat / Haldir's Lament",
-    "duration": "280680"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "0ArFvYL7Kj9FwJdjjCs0Fl",
-    "couname": "Return to Edoras",
-    "duration": "111400"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "3wlNmUeoHnM1jcOcXxC6qI",
-    "couname": "Rivendell",
-    "duration": "206026"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "6XOGDy905pbkZd7yVqbUuz",
-    "couname": "Rock and Pool",
-    "duration": "174706"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "4vJkgZIeyiIdaNgyc7StaC",
-    "couname": "Roots and Beginnings",
-    "duration": "391453"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "0TpzAepHab0NofzyqV6As8",
-    "couname": "Samwise the Brave",
-    "duration": "226000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "42sJ8y5Z3lUkmWFRdUUaUI",
-    "couname": "Shelob the Great",
-    "duration": "312973"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "51Om1IzCnoRv1gLJSwQdkm",
-    "couname": "Shelob's Lair",
-    "duration": "533440"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "5pCbQRv0DBbFzOUk4ZBpFu",
-    "couname": "Shieldmaiden of Rohan",
-    "duration": "307106"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "2e0NOJ4E3VeSqiVsXXiKxe",
-    "couname": "Sons of the Steward",
-    "duration": "362546"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "54ctg2t1N89MJetwAhMHhw",
-    "couname": "The Banishment of Éomer",
-    "duration": "234973"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "5DDdjXYnpckAQXE1m8B0i3",
-    "couname": "The Battle of the Hornburg",
-    "duration": "172586"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "2pSMjadGmWcUbIF5eqLUxE",
-    "couname": "The Battle of the Pelennor Fields",
-    "duration": "250040"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "51ipmE6QJnAnqLluHjUS0d",
-    "couname": "The Breach of the Deeping Wall",
-    "duration": "183066"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore,Edward Ross",
-    "genres": 0,
-    "spotId": "21D6cTpVlaM7VU6Rb0put7",
-    "couname": "The Caverns of Isengard",
-    "duration": "294253"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "4hPFuA3y7EA4hdmnSNuK5A",
-    "couname": "The Chalice Passed",
-    "duration": "110733"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band"
     ],
     "artist": "Howard Shore,Enya",
     "genres": 0,
@@ -900,22 +62,62 @@
     "duration": "241346"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "5FmG5h6H3LNq2Ys38cYDpQ",
-    "couname": "The Court of Meduseld",
-    "duration": "190666"
+    "spotId": "7xfkBYjnfhGdzPEeHdAHQb",
+    "couname": "Marshalling at Dunharrow",
+    "duration": "296520"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "3cV6yvwBlRPD24t6Hbk4L0",
+    "couname": "Strider",
+    "duration": "154560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "644es5aYPJghtZLjM1rmSP",
+    "couname": "Concerning Hobbits",
+    "duration": "175040"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
@@ -924,94 +126,14 @@
     "duration": "241720"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "3JOF2S1V3RXsU8SuxcfSho",
-    "couname": "The Dead Marshes",
-    "duration": "307986"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "1TQt4HebQk9BOLBiYh6XMz",
-    "couname": "The Departure of Boromir",
-    "duration": "329533"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "2cHmYju6hSMsLZjNOlxU91",
-    "couname": "The Doors of Durin",
-    "duration": "363213"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "5eFWACxjEptmS2YW4QYqaE",
-    "couname": "The Dreams of Trees",
-    "duration": "114906"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore,Renée Fleming",
-    "genres": 0,
-    "spotId": "5r04nCsGXiTBsyd0yBys7j",
-    "couname": "The Eagles",
-    "duration": "143733"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "16JGUCBjVRcVYMbgNy9eXE",
-    "couname": "The Entmoot Decides",
-    "duration": "126453"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "1lIcdDpGlc2mO2LYA0f5KM",
-    "couname": "The Fellowship Reunited",
-    "duration": "738080"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
@@ -1020,94 +142,14 @@
     "duration": "692280"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "5H1MVcElNau4Odi2inVcsL",
-    "couname": "The Foot of Orthanc",
-    "duration": "284986"
-  },
-  {
     "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "2DC5q7W5aikCEtvGNrklZf",
-    "couname": "The Forests of Ithilien",
-    "duration": "397653"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore,Renée Fleming",
-    "genres": 0,
-    "spotId": "6a1HCgaisv3CMMEHZoXZ9z",
-    "couname": "The Grace of Undómiel",
-    "duration": "381440"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "7i0nvZRGgVqymOsRbJvQmi",
-    "couname": "The Great River",
-    "duration": "162733"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore,James Galway",
-    "genres": 0,
-    "spotId": "0gt7ei2Fube4V9jnJ5VCKM",
-    "couname": "The Grey Havens",
-    "duration": "359426"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "6rXLSgdHqyI4BCiVd9k2wq",
-    "couname": "The Heir of Númenor",
-    "duration": "410626"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "4XsY5Iq3dNDIGFRQZ0A4At",
-    "couname": "The Hornburg",
-    "duration": "276760"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
@@ -1119,331 +161,11 @@
     "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore,Liv Tyler",
-    "genres": 0,
-    "spotId": "3STYntspHbnCB1KQHEgNAl",
-    "couname": "The Houses of Healing",
-    "duration": "178426"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "2O8AQadTJzQ3wdhSNRHdYg",
-    "couname": "The King of the Golden Hall",
-    "duration": "229440"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "6caCfb9Hg5NlUfXg9nRSnm",
-    "couname": "The Journey to the Grey Havens",
-    "duration": "454520"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "2qNQKGhb2bxDxq3GyiTE2V",
-    "couname": "The King's Decision",
-    "duration": "127706"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "48ylCyEew76aaRcfSFyS9o",
-    "couname": "The Land of Shadow",
-    "duration": "389266"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "1pPruJPGe5KHjKXRT7CPhw",
-    "couname": "The Last Debate",
-    "duration": "261440"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore,Ben Del Maestro",
-    "genres": 0,
-    "spotId": "3YRRbIL7SEdgdRE3qNxekj",
-    "couname": "The Last March of the Ents",
-    "duration": "151293"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "2ftHoU551MJUEaSeNpQDXY",
-    "couname": "The Leave Taking",
-    "duration": "221493"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "1yh7xITx9zHUsFvgZ3Unkv",
-    "couname": "The Mirror of Galadriel",
-    "duration": "381093"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "1bHjXna9QGqwsDwsxpj0f7",
-    "couname": "The Mouth of Sauron",
-    "duration": "495866"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "1GDe3zCFr5wvrXpqmGIfVb",
-    "couname": "The Mûmakil",
-    "duration": "57440"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "1iYCMjIx93xfKSL4gzZBfX",
-    "couname": "The Nazgûl",
-    "duration": "364893"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "6GSmt2V5vnPutKv6KQZiJc",
-    "couname": "The Nazgûl Attack",
-    "duration": "165280"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "5j88egIxPmPOwOIiPKisWl",
-    "couname": "The Palantír",
-    "duration": "190120"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "6BqK2H7CNTghFsMt1DWcBw",
-    "couname": "The Parting of Sam and Frodo",
-    "duration": "244346"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "0pcBzqJOUJWxpEHO7aVB0d",
-    "couname": "The Pass of Caradhras",
-    "duration": "304013"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "05q7lfYerRkqqNDua3vJOL",
-    "couname": "The Passing of the Elves",
-    "duration": "159920"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "7e3ROxgIM9zUpyHrh5C3ze",
-    "couname": "The Passing of the Grey Company",
-    "duration": "252346"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "0dlAN15Cr7eIOqhqtFjfHV",
-    "couname": "The Passing of Théoden",
-    "duration": "136320"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "3pweoIyahl0KMMYx3z6MkS",
-    "couname": "The Paths of the Dead",
-    "duration": "382213"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "7upTrzOAU77zOt7rDlOC63",
-    "couname": "The Plains of Rohan",
-    "duration": "254613"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "2hsKAP8pln6O956m6Ma10p",
-    "couname": "The Pyre of Denethor",
-    "duration": "179453"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "2l0xjJ6Fj72Bw4ReAJBrAo",
-    "couname": "The Ride of the Rohirrim",
-    "duration": "128693"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "1mJxXKuqwo0TBwf13vBUKH",
-    "couname": "The Riders of Rohan",
-    "duration": "245533"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "6IQY3GEMC2B3mchMvi4NZj",
-    "couname": "The Ring Goes South",
-    "duration": "123000"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "4xaPCPyMiFDiw7SoksTBKo",
-    "couname": "The Road Goes Ever On..., Pt. 1",
-    "duration": "358533"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore,Edward Ross",
-    "genres": 0,
-    "spotId": "2WFlUh3vI3duc27xe7miox",
-    "couname": "The Road Goes Ever On..., Pt. 2 / In Dreams",
-    "duration": "221226"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
@@ -1455,55 +177,320 @@
     "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore,Billy Boyd",
-    "genres": 0,
-    "spotId": "5z89FzQzTQOwSJFlMp6UFd",
-    "couname": "The Sacrifice of Faramir",
-    "duration": "248493"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "6zW80jVqLtgSF1yCtGHiiD",
-    "couname": "The Shire",
-    "duration": "149480"
+    "spotId": "4aB29POCPX88HgVvwl4xqb",
+    "couname": "Bilbo's Song",
+    "duration": "177773"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "1ap3LLqOYv35dSA0KqJ0z4",
-    "couname": "The Stairs of Cirith Ungol",
-    "duration": "160906"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore,Billy Boyd",
-    "genres": 0,
-    "spotId": "227hmntzKpN4CsYt3RVKcC",
-    "couname": "The Steward of Gondor",
-    "duration": "233306"
+    "spotId": "6caCfb9Hg5NlUfXg9nRSnm",
+    "couname": "The Journey to the Grey Havens",
+    "duration": "454520"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "1OojcYAa6qk3Jg1n3sXSiF",
+    "couname": "Elven Rope",
+    "duration": "139040"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "0dlAN15Cr7eIOqhqtFjfHV",
+    "couname": "The Passing of Théoden",
+    "duration": "136320"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27300eb2ae54531e85e525d611c",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "TV_LordRings",
+      "XT_AboutTime",
+      "XT_Cars",
+      "XT_IrishFemale",
+      "XT_Oscars",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Enya",
+    "genres": 0,
+    "spotId": "0zvv76DEro0MMox8eLbK7D",
+    "couname": "May It Be",
+    "duration": "209693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "5AOLHIFsnXz9pOn2PQjjai",
+    "couname": "Ent-draught",
+    "duration": "173613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "1olRCCqs3T72iRbCFCmRov",
+    "couname": "Balin's Tomb",
+    "duration": "510240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "2SKCoeEzz4Kx1VdiCWzC4X",
+    "couname": "Journey to the Cross-roads",
+    "duration": "137386"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band"
+    ],
+    "artist": "Howard Shore,Elizabeth Fraser",
+    "genres": 0,
+    "spotId": "3NqKax05VIBjaDIcp3CfJE",
+    "couname": "Retreat / Haldir's Lament",
+    "duration": "280680"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "7tXk8bJaU5hr1sqj229DTl",
+    "couname": "Fangorn",
+    "duration": "313466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "3nfmgykmdHpX0M5dSVnMnX",
+    "couname": "Khazad-dûm",
+    "duration": "480026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "7DbCJTrxSN3EKgLuWJt4Cb",
+    "couname": "Lost in Emyn Muil",
+    "duration": "254520"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "54ctg2t1N89MJetwAhMHhw",
+    "couname": "The Banishment of Éomer",
+    "duration": "234973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "7IyuoW61wH6omhg3YN84P7",
+    "couname": "Gilraen's Memorial",
+    "duration": "301800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "5j88egIxPmPOwOIiPKisWl",
+    "couname": "The Palantír",
+    "duration": "190120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_Gold",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "4XBjG0TN3iK2WKmz71GsmH",
+    "couname": "A Coronal of Silver and Gold",
+    "duration": "507293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "7upTrzOAU77zOt7rDlOC63",
+    "couname": "The Plains of Rohan",
+    "duration": "254613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "06i8jXHTFCssO0Luc5p0XL",
+    "couname": "Master Meriadoc, Swordthain",
+    "duration": "99786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "4c09k1BMilMlU9CihSivt1",
+    "couname": "Master Peregrin's Plan",
+    "duration": "151826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
@@ -1515,91 +502,191 @@
     "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "389GOZHOwbW8IkPTWTppxK",
-    "couname": "The Sword That Was Broken",
-    "duration": "214013"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore,Edward Ross,Elizabeth Fraser,Mabel Faletolu",
-    "genres": 0,
-    "spotId": "49nr0aGeEOhlhEVUxmrgjy",
-    "couname": "The Tales That Really Matter",
-    "duration": "721013"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "40JHx9UKFZTPKrA9a3ScaG",
-    "couname": "The Three Hunters",
-    "duration": "372186"
+    "spotId": "2nxNGEPuoayvcvKOXBBgUK",
+    "couname": "Parth Galen",
+    "duration": "553746"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "2uPbwhEKHfLJR3NSjnGrsc",
-    "couname": "The Tomb of the Stewards",
-    "duration": "238306"
+    "spotId": "0jzqTb61D0L4D90Fk1j0XL",
+    "couname": "Gollum's Villainy",
+    "duration": "130133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "3JOF2S1V3RXsU8SuxcfSho",
+    "couname": "The Dead Marshes",
+    "duration": "307986"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "BAND",
+      "DUDE",
+      "girl",
+      "TV_LordRings",
+      "XT_Colors",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "6dZ3PpoPcC7wtsoshGNXDo",
-    "couname": "The Tower of Cirith Ungol",
-    "duration": "281413"
+    "spotId": "1U5wqqEATmbCpSqADvSqy9",
+    "couname": "A Far Green Country",
+    "duration": "87920"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "3n3BAYunuBUzHrUHySkyC8",
-    "couname": "The Voice of Saruman",
-    "duration": "71600"
+    "spotId": "2e0NOJ4E3VeSqiVsXXiKxe",
+    "couname": "Sons of the Steward",
+    "duration": "362546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "06rwgbUFu3xgl88xxv1Hpx",
+    "couname": "Dernhelm in Battle",
+    "duration": "126013"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "67BBJbfwBbltntFQpdiQFe",
-    "couname": "The Wolves of Isengard",
-    "duration": "262346"
+    "spotId": "6rXLSgdHqyI4BCiVd9k2wq",
+    "couname": "The Heir of Númenor",
+    "duration": "410626"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "3wlNmUeoHnM1jcOcXxC6qI",
+    "couname": "Rivendell",
+    "duration": "206026"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "6XOGDy905pbkZd7yVqbUuz",
+    "couname": "Rock and Pool",
+    "duration": "174706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "4XsY5Iq3dNDIGFRQZ0A4At",
+    "couname": "The Hornburg",
+    "duration": "276760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "6J3f47yAq4383scqfW8h4T",
+    "couname": "Orthanc",
+    "duration": "66413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_Monarchy",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band"
     ],
     "artist": "Howard Shore,Miranda Otto",
     "genres": 0,
@@ -1608,46 +695,784 @@
     "duration": "372280"
   },
   {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "51Om1IzCnoRv1gLJSwQdkm",
+    "couname": "Shelob's Lair",
+    "duration": "533440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "78LWZ7WT4s7QDa9zzTLH5Y",
+    "couname": "Days of the Ring",
+    "duration": "669560"
+  },
+  {
     "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "6zrRw31r0RlZTYd7dgKqb1",
+    "couname": "Glamdring",
+    "duration": "230213"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "0ArFvYL7Kj9FwJdjjCs0Fl",
+    "couname": "Return to Edoras",
+    "duration": "111400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "5rNmyrEfmwPMjBn2qYZlAN",
+    "couname": "Give up the Halfling",
+    "duration": "289066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "28IgIs8y4cGDIYuFVH3G8I",
+    "couname": "Keep It Secret, Keep It Safe",
+    "duration": "533973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "7FE9SFbyngHgMFNozuIkGa",
+    "couname": "Aragorn's Return",
+    "duration": "131906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "4qaxeVzW69AqS6HHeMZaYC",
+    "couname": "Bag End",
+    "duration": "275560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "0AraGDvgK8k69WNngdjxmo",
+    "couname": "A Conspiracy Unmasked",
+    "duration": "369866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "51ipmE6QJnAnqLluHjUS0d",
+    "couname": "The Breach of the Deeping Wall",
+    "duration": "183066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "6QOeqsx5lpJvJ0a6jhqNvS",
+    "couname": "A Shortcut to Mushrooms",
+    "duration": "247426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "0bFkkIO8Jg0pbjgIC4Af9i",
+    "couname": "Refuge at Helm's Deep",
+    "duration": "239693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "2DC5q7W5aikCEtvGNrklZf",
+    "couname": "The Forests of Ithilien",
+    "duration": "397653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "5DDdjXYnpckAQXE1m8B0i3",
+    "couname": "The Battle of the Hornburg",
+    "duration": "172586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "1lIcdDpGlc2mO2LYA0f5KM",
+    "couname": "The Fellowship Reunited",
+    "duration": "738080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "4vJkgZIeyiIdaNgyc7StaC",
+    "couname": "Roots and Beginnings",
+    "duration": "391453"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "0TpzAepHab0NofzyqV6As8",
+    "couname": "Samwise the Brave",
+    "duration": "226000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "4hPFuA3y7EA4hdmnSNuK5A",
+    "couname": "The Chalice Passed",
+    "duration": "110733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
     ],
     "artist": "Howard Shore,Ben Del Maestro",
     "genres": 0,
-    "spotId": "2w4II9MvCr0sixJqIXkstm",
-    "couname": "Théoden Rides Forth",
-    "duration": "347906"
+    "spotId": "3YRRbIL7SEdgdRE3qNxekj",
+    "couname": "The Last March of the Ents",
+    "duration": "151293"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "img": "https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "6Ry6T1eQtwwoGRN7sKnh2l",
-    "couname": "Three Is Company",
-    "duration": "118080"
+    "spotId": "2ftHoU551MJUEaSeNpQDXY",
+    "couname": "The Leave Taking",
+    "duration": "221493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "3pweoIyahl0KMMYx3z6MkS",
+    "couname": "The Paths of the Dead",
+    "duration": "382213"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "1XfUOpDuLNDhSRROsYSJ3t",
-    "couname": "Uglúk's Warriors",
-    "duration": "101386"
+    "spotId": "1ICBjx8MKVqZdXCnpUVfAB",
+    "couname": "Edoras",
+    "duration": "274280"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "1yh7xITx9zHUsFvgZ3Unkv",
+    "couname": "The Mirror of Galadriel",
+    "duration": "381093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "1GDe3zCFr5wvrXpqmGIfVb",
+    "couname": "The Mûmakil",
+    "duration": "57440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "1iYCMjIx93xfKSL4gzZBfX",
+    "couname": "The Nazgûl",
+    "duration": "364893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "6BqK2H7CNTghFsMt1DWcBw",
+    "couname": "The Parting of Sam and Frodo",
+    "duration": "244346"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_Monarchy",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "5FmG5h6H3LNq2Ys38cYDpQ",
+    "couname": "The Court of Meduseld",
+    "duration": "190666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "2hsKAP8pln6O956m6Ma10p",
+    "couname": "The Pyre of Denethor",
+    "duration": "179453"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "5IHpHBugLoWXDyoOEkfdWU",
+    "couname": "Weathertop",
+    "duration": "134386"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "2l0xjJ6Fj72Bw4ReAJBrAo",
+    "couname": "The Ride of the Rohirrim",
+    "duration": "128693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "1mJxXKuqwo0TBwf13vBUKH",
+    "couname": "The Riders of Rohan",
+    "duration": "245533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "4xaPCPyMiFDiw7SoksTBKo",
+    "couname": "The Road Goes Ever On..., Pt. 1",
+    "duration": "358533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "58W4bm4C19IltlW3Vbf8Ce",
+    "couname": "Allegiance to Denethor",
+    "duration": "199986"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "6KJqVA0KLjTpzryUSoVyB9",
+    "couname": "Dwimorberg",
+    "duration": "146293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_LongSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "4Dax86RGUhE5xUEJokVTCd",
+    "couname": "The Lighting of the Beacons",
+    "duration": "543026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_Monarchy",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "2qNQKGhb2bxDxq3GyiTE2V",
+    "couname": "The King's Decision",
+    "duration": "127706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band"
+    ],
+    "artist": "Howard Shore,Elizabeth Fraser",
+    "genres": 0,
+    "spotId": "63CXPpiEiW7JnXvZ1cUXcp",
+    "couname": "Lothlorien",
+    "duration": "273933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "5STHdwONXZ4Bn28HcUVbey",
+    "couname": "Flight from Edoras",
+    "duration": "138506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "6GO5qVDkPvw2vr07pQChmZ",
+    "couname": "Anduril",
+    "duration": "155466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "3oJFlRfVPq7IZcj2hsO3H4",
+    "couname": "Andúril",
+    "duration": "207520"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "0VfcYOujgf9JDAgwlgu1qm",
+    "couname": "Many Meetings",
+    "duration": "185426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band"
+    ],
+    "artist": "Howard Shore,Emilíana Torrini",
+    "genres": 0,
+    "spotId": "7EUF4wSVqPUZfhpbUWWM65",
+    "couname": "Long Ways to Go Yet / Gollum's Song",
+    "duration": "485533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band"
+    ],
+    "artist": "Howard Shore,Edward Ross,Elizabeth Fraser,Mabel Faletolu",
+    "genres": 0,
+    "spotId": "49nr0aGeEOhlhEVUxmrgjy",
+    "couname": "The Tales That Really Matter",
+    "duration": "721013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_Numbers",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore,Edward Ross",
+    "genres": 0,
+    "spotId": "2WFlUh3vI3duc27xe7miox",
+    "couname": "The Road Goes Ever On..., Pt. 2 / In Dreams",
+    "duration": "221226"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "2wYX2nSsBcPPnkKCJ69Amo",
+    "couname": "Elanor",
+    "duration": "87866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "2KBTwLcCOlDO1gkQJz3ytG",
+    "couname": "Faramir's Good Council",
+    "duration": "140760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "7BAo5sR1yLe4Y3JZx8sqyO",
+    "couname": "Merry's Simple Courage",
+    "duration": "128600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "6NgKxRmIkuWgn93qlTd4Ff",
+    "couname": "War Is Upon Us",
+    "duration": "215680"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
@@ -1659,31 +1484,221 @@
     "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "5IHpHBugLoWXDyoOEkfdWU",
-    "couname": "Weathertop",
-    "duration": "134386"
+    "spotId": "389GOZHOwbW8IkPTWTppxK",
+    "couname": "The Sword That Was Broken",
+    "duration": "214013"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "48b7rw6ibqzJ0Waw7yJ5Sr",
-    "couname": "Where Is the Horse and the Rider?",
-    "duration": "375680"
+    "spotId": "3n3BAYunuBUzHrUHySkyC8",
+    "couname": "The Voice of Saruman",
+    "duration": "71600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "0XLyV7JR2nqN8vz1kDQ9h5",
+    "couname": "Moria",
+    "duration": "147560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_Colors",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "275fBSj1JOLT5HfGYBLzGN",
+    "couname": "Flaming Red Hair",
+    "duration": "159000"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "67BBJbfwBbltntFQpdiQFe",
+    "couname": "The Wolves of Isengard",
+    "duration": "262346"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore,Ben Del Maestro",
+    "genres": 0,
+    "spotId": "75UQxtu6gUPT5DdipRTM2s",
+    "couname": "Minas Tirith",
+    "duration": "217266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_Numbers",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "40JHx9UKFZTPKrA9a3ScaG",
+    "couname": "The Three Hunters",
+    "duration": "372186"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore,Billy Boyd",
+    "genres": 0,
+    "spotId": "227hmntzKpN4CsYt3RVKcC",
+    "couname": "The Steward of Gondor",
+    "duration": "233306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "3tEW3BubSpSzJ6GoCT3cV8",
+    "couname": "Farewell to Lorien",
+    "duration": "276800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore,Ben Del Maestro",
+    "genres": 0,
+    "spotId": "2w4II9MvCr0sixJqIXkstm",
+    "couname": "Théoden Rides Forth",
+    "duration": "347906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "2uPbwhEKHfLJR3NSjnGrsc",
+    "couname": "The Tomb of the Stewards",
+    "duration": "238306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore,Edward Ross",
+    "genres": 0,
+    "spotId": "1ykbtFnlIjmIFnZ8j6wg6i",
+    "couname": "The Breaking of the Fellowship",
+    "duration": "440800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band"
+    ],
+    "artist": "Howard Shore,Isabel Bayrakdarian",
+    "genres": 0,
+    "spotId": "4cG0yxYbVuaqEeDKN9xWFh",
+    "couname": "One of the Dúnedain / Evenstar",
+    "duration": "433120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
@@ -1695,33 +1710,439 @@
     "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
     "pty": 0,
     "Items": [
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "09e3onHcCEizlM8IW0t5ff",
-    "couname": "The Great Eye",
-    "duration": "330586"
+    "spotId": "1TQt4HebQk9BOLBiYh6XMz",
+    "couname": "The Departure of Boromir",
+    "duration": "329533"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce",
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
     "pty": 0,
     "Items": [
-      "GN_Choirs",
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_Colors",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
-    "artist": "Howard Shore,Edward Ross",
+    "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "5gtiF6aMCLMHMJsRXlSv5V",
-    "couname": "Amon Hen",
-    "duration": "302200"
+    "spotId": "3vAyDHJGmagyvxqzIBQftr",
+    "couname": "Gandalf the White",
+    "duration": "407960"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
     "pty": 0,
     "Items": [
       "TV_LordRings",
-      "XT_Colors"
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "6qbUU40ECmhtaIpvhopr9e",
+    "couname": "Farewell Dear Bilbo",
+    "duration": "105880"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "6GSmt2V5vnPutKv6KQZiJc",
+    "couname": "The Nazgûl Attack",
+    "duration": "165280"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "0pcBzqJOUJWxpEHO7aVB0d",
+    "couname": "The Pass of Caradhras",
+    "duration": "304013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "TV_Simpsons120",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "3TEXHAUX18eNBP1LlfyNc9",
+    "couname": "The Siege of Gondor",
+    "duration": "541146"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "05q7lfYerRkqqNDua3vJOL",
+    "couname": "The Passing of the Elves",
+    "duration": "159920"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band"
+    ],
+    "artist": "Howard Shore,Elizabeth Fraser",
+    "genres": 0,
+    "spotId": "2DjjHvVoVIDlETBC7FJHT1",
+    "couname": "Caras Galadhon / Lament for Gandalf",
+    "duration": "560933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "6zW80jVqLtgSF1yCtGHiiD",
+    "couname": "The Shire",
+    "duration": "149480"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "1ap3LLqOYv35dSA0KqJ0z4",
+    "couname": "The Stairs of Cirith Ungol",
+    "duration": "160906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_Compass",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "6IQY3GEMC2B3mchMvi4NZj",
+    "couname": "The Ring Goes South",
+    "duration": "123000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "6dZ3PpoPcC7wtsoshGNXDo",
+    "couname": "The Tower of Cirith Ungol",
+    "duration": "281413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_Colors",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore,James Galway",
+    "genres": 0,
+    "spotId": "2OcUSuvHINLaIaXXA3tN8M",
+    "couname": "The Black Gate Opens",
+    "duration": "241640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_Colors",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "4cnKkXvh0WiFvk0tibAgRW",
+    "couname": "The White Rider",
+    "duration": "148360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "1bHjXna9QGqwsDwsxpj0f7",
+    "couname": "The Mouth of Sauron",
+    "duration": "495866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_BodyParts",
+      "XT_Colors",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "3mpy58tyFuOPKZULzjcyLV",
+    "couname": "The Eyes of the White Tower",
+    "duration": "273240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore,James Galway",
+    "genres": 0,
+    "spotId": "0gt7ei2Fube4V9jnJ5VCKM",
+    "couname": "The Grey Havens",
+    "duration": "359426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "16JGUCBjVRcVYMbgNy9eXE",
+    "couname": "The Entmoot Decides",
+    "duration": "126453"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "3TFg1PZDcPnEe2FjK0fZ4s",
+    "couname": "Grond",
+    "duration": "92853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "2pSMjadGmWcUbIF5eqLUxE",
+    "couname": "The Battle of the Pelennor Fields",
+    "duration": "250040"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_Dreaming",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "6BEkaQDf8HOBD8woRzSmIH",
+    "couname": "Éowyn's Dream",
+    "duration": "84306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "1TQKEwq4y9SkNciJuisE1m",
+    "couname": "Evenstar",
+    "duration": "195600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_Animals",
+      "XT_AllSonges",
+      "XT_OffAnimals",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "48b7rw6ibqzJ0Waw7yJ5Sr",
+    "couname": "Where Is the Horse and the Rider?",
+    "duration": "375680"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "7e3ROxgIM9zUpyHrh5C3ze",
+    "couname": "The Passing of the Grey Company",
+    "duration": "252346"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "5rTjlOO9TlPaCalNEoMOvh",
+    "couname": "My Precious",
+    "duration": "176653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "4g7Ithd2Fpoupsjs5sJxeR",
+    "couname": "For Frodo",
+    "duration": "196866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_Colors",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
@@ -1733,21 +2154,67 @@
     "img": "https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7",
     "pty": 0,
     "Items": [
-      "GN_Choirs",
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_Monarchy",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "1TQKEwq4y9SkNciJuisE1m",
-    "couname": "Evenstar",
-    "duration": "195600"
+    "spotId": "2O8AQadTJzQ3wdhSNRHdYg",
+    "couname": "The King of the Golden Hall",
+    "duration": "229440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Dreaming",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "26cjrRuiUSK57lzLtrJils",
+    "couname": "Night Camp",
+    "duration": "170200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "TV_LordRings",
+      "XT_Colors",
+      "XT_OffAnimals",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore,Billy Boyd,Dominic Monaghan",
+    "genres": 0,
+    "spotId": "1bPE89lgHHGqyrZEjTm3Xo",
+    "couname": "The Green Dragon",
+    "duration": "34773"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7",
     "pty": 0,
     "Items": [
       "GN_Choirs",
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
@@ -1756,50 +2223,205 @@
     "duration": "195666"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce",
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
     "pty": 0,
     "Items": [
-      "GN_Choirs",
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
     ],
-    "artist": "Howard Shore,Elizabeth Fraser",
+    "artist": "Howard Shore,Ben Del Maestro",
     "genres": 0,
-    "spotId": "63CXPpiEiW7JnXvZ1cUXcp",
-    "couname": "Lothlorien",
-    "duration": "273933"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce",
-    "pty": 0,
-    "Items": [
-      "GN_Choirs",
-      "TV_LordRings"
-    ],
-    "artist": "Howard Shore,Edward Ross",
-    "genres": 0,
-    "spotId": "1ykbtFnlIjmIFnZ8j6wg6i",
-    "couname": "The Breaking of the Fellowship",
-    "duration": "440800"
+    "spotId": "4yLkZxgXOF3GQoKBJZqpdF",
+    "couname": "Osgiliath Invaded",
+    "duration": "527480"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
     "pty": 0,
     "Items": [
       "TV_LordRings",
-      "XT_LongSongs"
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "4Dax86RGUhE5xUEJokVTCd",
-    "couname": "The Lighting of the Beacons",
-    "duration": "543026"
+    "spotId": "5H1MVcElNau4Odi2inVcsL",
+    "couname": "The Foot of Orthanc",
+    "duration": "284986"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore,Edward Ross",
+    "genres": 0,
+    "spotId": "21D6cTpVlaM7VU6Rb0put7",
+    "couname": "The Caverns of Isengard",
+    "duration": "294253"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "1Qwz6Ad5Vc4hFRLqNa90xc",
+    "couname": "Gollum",
+    "duration": "146640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "2cHmYju6hSMsLZjNOlxU91",
+    "couname": "The Doors of Durin",
+    "duration": "363213"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "5eFWACxjEptmS2YW4QYqaE",
+    "couname": "The Dreams of Trees",
+    "duration": "114906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "51THoWfQJgdyj248y8tJPa",
+    "couname": "Prologue: One Ring to Rule Them All",
+    "duration": "436346"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore,Billy Boyd",
+    "genres": 0,
+    "spotId": "5z89FzQzTQOwSJFlMp6UFd",
+    "couname": "The Sacrifice of Faramir",
+    "duration": "248493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_Water",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "7i0nvZRGgVqymOsRbJvQmi",
+    "couname": "The Great River",
+    "duration": "162733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Howard Shore,Renée Fleming",
+    "genres": 0,
+    "spotId": "6a1HCgaisv3CMMEHZoXZ9z",
+    "couname": "The Grace of Undómiel",
+    "duration": "381440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Howard Shore,Liv Tyler",
+    "genres": 0,
+    "spotId": "3STYntspHbnCB1KQHEgNAl",
+    "couname": "The Houses of Healing",
+    "duration": "178426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Howard Shore,Renée Fleming",
+    "genres": 0,
+    "spotId": "3iURgkltoANXq7VMhRIGkc",
+    "couname": "Mount Doom",
+    "duration": "249000"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428",
     "pty": 0,
     "Items": [
       "GN_Choirs",
-      "TV_LordRings"
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
     ],
     "artist": "Howard Shore,Renée Fleming",
     "genres": 0,
@@ -1812,127 +2434,145 @@
     "pty": 0,
     "Items": [
       "TV_LordRings",
-      "TV_Simpsons120"
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Howard Shore,Renée Fleming",
+    "genres": 0,
+    "spotId": "5r04nCsGXiTBsyd0yBys7j",
+    "couname": "The Eagles",
+    "duration": "143733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "3TEXHAUX18eNBP1LlfyNc9",
-    "couname": "The Siege of Gondor",
-    "duration": "541146"
+    "spotId": "42sJ8y5Z3lUkmWFRdUUaUI",
+    "couname": "Shelob the Great",
+    "duration": "312973"
   },
   {
-    "img": "https://i.scdn.co/image/ab67616d0000b27300eb2ae54531e85e525d611c",
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
     "pty": 0,
     "Items": [
-      "Female",
       "TV_LordRings",
-      "XT_AboutTime",
-      "XT_Cars",
-      "XT_IrishFemale",
-      "XT_Oscars"
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
-    "artist": "Enya",
+    "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "0zvv76DEro0MMox8eLbK7D",
-    "couname": "May It Be",
-    "duration": "209693"
+    "spotId": "5pCbQRv0DBbFzOUk4ZBpFu",
+    "couname": "Shieldmaiden of Rohan",
+    "duration": "307106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273128ca6b63d83d47c909a43ce",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_LordRings",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore,Edward Ross",
+    "genres": 0,
+    "spotId": "5gtiF6aMCLMHMJsRXlSv5V",
+    "couname": "Amon Hen",
+    "duration": "302200"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
     "pty": 0,
     "Items": [
       "TV_LordRings",
-      "XT_Colors"
+      "XT_Numbers",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "275fBSj1JOLT5HfGYBLzGN",
-    "couname": "Flaming Red Hair",
-    "duration": "159000"
+    "spotId": "6Ry6T1eQtwwoGRN7sKnh2l",
+    "couname": "Three Is Company",
+    "duration": "118080"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
     "pty": 0,
     "Items": [
       "TV_LordRings",
-      "XT_Colors"
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "3mpy58tyFuOPKZULzjcyLV",
-    "couname": "The Eyes of the White Tower",
-    "duration": "273240"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b273dae458513b856d6255f857a7",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings",
-      "XT_Colors"
-    ],
-    "artist": "Howard Shore",
-    "genres": 0,
-    "spotId": "4cnKkXvh0WiFvk0tibAgRW",
-    "couname": "The White Rider",
-    "duration": "148360"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b27301003bf641243fcc56944428",
-    "pty": 0,
-    "Items": [
-      "TV_LordRings",
-      "XT_Colors"
-    ],
-    "artist": "Howard Shore,James Galway",
-    "genres": 0,
-    "spotId": "2OcUSuvHINLaIaXXA3tN8M",
-    "couname": "The Black Gate Opens",
-    "duration": "241640"
+    "spotId": "48ylCyEew76aaRcfSFyS9o",
+    "couname": "The Land of Shadow",
+    "duration": "389266"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
     "pty": 0,
     "Items": [
-      "Band",
-      "Male",
-      "Female",
       "TV_LordRings",
-      "XT_Colors"
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "1U5wqqEATmbCpSqADvSqy9",
-    "couname": "A Far Green Country",
-    "duration": "87920"
-  },
-  {
-    "img": "https://i.scdn.co/image/ab67616d0000b2732b4d071f7824b2c60c3b85cd",
-    "pty": 0,
-    "Items": [
-      "Band",
-      "Male",
-      "Female",
-      "TV_LordRings",
-      "XT_Colors",
-      "XT_OffAnimals"
-    ],
-    "artist": "Howard Shore,Billy Boyd,Dominic Monaghan",
-    "genres": 0,
-    "spotId": "1bPE89lgHHGqyrZEjTm3Xo",
-    "couname": "The Green Dragon",
-    "duration": "34773"
+    "spotId": "1pPruJPGe5KHjKXRT7CPhw",
+    "couname": "The Last Debate",
+    "duration": "261440"
   },
   {
     "img": "https://i.scdn.co/image/ab67616d0000b2730f4bf5c96c9ee54fa00944c4",
     "pty": 0,
     "Items": [
       "TV_LordRings",
-      "XT_Colors"
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
     ],
     "artist": "Howard Shore",
     "genres": 0,
-    "spotId": "3vAyDHJGmagyvxqzIBQftr",
-    "couname": "Gandalf the White",
-    "duration": "407960"
+    "spotId": "1XfUOpDuLNDhSRROsYSJ3t",
+    "couname": "Uglúk's Warriors",
+    "duration": "101386"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738236dee9524214e0e6be4a1f",
+    "pty": 0,
+    "Items": [
+      "TV_LordRings",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Howard Shore",
+    "genres": 0,
+    "spotId": "09e3onHcCEizlM8IW0t5ff",
+    "couname": "The Great Eye",
+    "duration": "330586"
   }
 ]
