@@ -8,7 +8,10 @@
       "XT_Places",
       "XT_Dreaming",
       "XT_AlbumBlackWhite",
-      "XT_AllSonges"
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
     ],
     "artist": "Blur",
     "genres": 0,
