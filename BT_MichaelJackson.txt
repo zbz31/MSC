@@ -1,1 +1,3478 @@
-[{"couname":"Love Never Felt So Good","img":"https://i.scdn.co/image/ab67616d0000b27384dc5d0b8018238584522562","pty":"67","artist":"Michael Jackson, Justin Timberlake","genres":"","duration":"246026","spotId":"48td6xvpokdYwvbl3JIiXP","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Heaven Can Wait","img":"https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd","pty":"66","artist":"Michael Jackson","genres":"","duration":"288533","spotId":"1AZXNAVDD9ZFIEKySgflFz","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"We Are The World","img":"https://i.scdn.co/image/ab67616d0000b273920f421260033ee54865d673","pty":"64","artist":"U.S.A. For Africa","genres":"","duration":"427333","spotId":"3Z2tPWiNiIpg8UMMoowHIk","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Liberian Girl","img":"https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d","pty":"58","artist":"Michael Jackson","genres":"","duration":"232800","spotId":"5OoRmdDfAiDztSwrhe7wuE","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Give In to Me","img":"https://i.scdn.co/image/ab67616d0000b2733b9f8b18cc685e1502128aa8","pty":"58","artist":"Michael Jackson","genres":"","duration":"328626","spotId":"1euDTbMNRPNfKd8zZz4zTT","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Butterflies","img":"https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd","pty":"57","artist":"Michael Jackson","genres":"","duration":"279160","spotId":"0rT9f5BSZrZ6DvzfBEckG0","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"I Can't Help It","img":"https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac","pty":"55","artist":"Michael Jackson","genres":"","duration":"269333","spotId":"1HibhNhwk2tljwC4BGGLXV","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"They Don't Care About Us","img":"https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9","pty":"55","artist":"Michael Jackson","genres":"","duration":"284560","spotId":"7MdenVOyOCRoxbgPpjEiAL","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Rock With You","img":"https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7","pty":"54","artist":"Michael Jackson","genres":"","duration":"220040","spotId":"5yxIenY5kSLlgTr3XGYw9p","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Will You Be There","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"54","artist":"Michael Jackson","genres":"","duration":"220386","spotId":"36O7qmyKLHpUY6WdWh8M5g","Items":["-HAPPY-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Come Together","img":"https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7","pty":"52","artist":"Michael Jackson","genres":"","duration":"242333","spotId":"3tE5OfatEheU3L5nSpW9FD","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"You Rock My World","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"52","artist":"Michael Jackson","genres":"","duration":"308440","spotId":"3T59S3Vh3DOatsmTD8clqP","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Get on the Floor","img":"https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac","pty":"50","artist":"Michael Jackson","genres":"","duration":"277640","spotId":"78XG7U0UueeC86XpzF9O7f","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Speed Demon","img":"https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d","pty":"49","artist":"Michael Jackson","genres":"","duration":"242026","spotId":"2w7VEWHtt8WW88Yt5H9ibZ","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Why You Wanna Trip on Me","img":"https://i.scdn.co/image/ab67616d0000b2733b9f8b18cc685e1502128aa8","pty":"49","artist":"Michael Jackson","genres":"","duration":"323293","spotId":"3kFMRdbxcBkPopY8mMFmSU","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Will You Be There","img":"https://i.scdn.co/image/ab67616d0000b2733b9f8b18cc685e1502128aa8","pty":"49","artist":"Michael Jackson, The Cleveland Orchestra","genres":"clásica,orquesta","duration":"460000","spotId":"1igW25R8lnb5ze9GWbuVsl","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Girlfriend","img":"https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac","pty":"47","artist":"Michael Jackson","genres":"","duration":"184933","spotId":"1nCV2d1RAch7t2kRmwet5N","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"2 Bad","img":"https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7","pty":"47","artist":"Michael Jackson","genres":"","duration":"289333","spotId":"5Bw9bAHGaykCFLP0VyqNbJ","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Whatever Happens","img":"https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd","pty":"47","artist":"Michael Jackson","genres":"","duration":"295666","spotId":"4fK6bgzyKt4EIv3R1wrUtl","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Scream","img":"https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8","pty":"47","artist":"Michael Jackson, Janet Jackson","genres":"new jack swing","duration":"277960","spotId":"46576CnmgT6xr0RaZNF2Kt","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Ghosts","img":"https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8","pty":"47","artist":"Michael Jackson","genres":"","duration":"313200","spotId":"2JzcEEYul9ngmGGPzvFVNL","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"It's the Falling in Love","img":"https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac","pty":"46","artist":"Michael Jackson","genres":"","duration":"227866","spotId":"0CeE7kE8zAnfKIVpdmOaJl","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"This Time Around","img":"https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7","pty":"46","artist":"Michael Jackson","genres":"","duration":"261000","spotId":"6U6Cr0sQTmuvPqEs8iLgPn","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Speechless","img":"https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd","pty":"46","artist":"Michael Jackson","genres":"","duration":"198373","spotId":"1O1LkHTi3Lep9OHE8BvOVe","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Burn This Disco Out","img":"https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac","pty":"45","artist":"Michael Jackson","genres":"","duration":"221026","spotId":"6aCs8gCrp4yrwvw7ylhau2","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Blame It on the Boogie","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"45","artist":"The Jacksons","genres":"disco,motown,sonido filadelfia","duration":"210533","spotId":"0ryUadrXsahO3mASlKUJlT","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Can You Feel It","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"45","artist":"The Jacksons","genres":"disco,motown,sonido filadelfia","duration":"230773","spotId":"4qv7YSyt5UV8LvrXyE8sGn","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Just Good Friends","img":"https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d","pty":"44","artist":"Michael Jackson","genres":"","duration":"246133","spotId":"75Rv9SkGILm24kmhAYvjZg","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Streetwalker","img":"https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d","pty":"44","artist":"Michael Jackson","genres":"","duration":"353720","spotId":"0zZRYdXy3STXl8o847K5By","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"She Drives Me Wild","img":"https://i.scdn.co/image/ab67616d0000b2733b9f8b18cc685e1502128aa8","pty":"44","artist":"Michael Jackson","genres":"","duration":"219866","spotId":"6yLdWiAkS1ZUrTdgm0yKXL","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"I Just Can't Stop Loving You","img":"https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7","pty":"44","artist":"Michael Jackson","genres":"","duration":"251906","spotId":"4yD5hKvrw3L6sRJbzgaFwe","Items":["-SADNE-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Tabloid Junkie","img":"https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7","pty":"44","artist":"Michael Jackson","genres":"","duration":"272706","spotId":"7n6DnNdKKhjyDa1GlGgLeQ","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Leave Me Alone","img":"https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8","pty":"44","artist":"Michael Jackson","genres":"","duration":"279426","spotId":"7zILPDxYcUt7AFslua0mc5","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Can't Let Her Get Away","img":"https://i.scdn.co/image/ab67616d0000b2733b9f8b18cc685e1502128aa8","pty":"43","artist":"Michael Jackson","genres":"","duration":"298400","spotId":"75yYXB96tX1BlSMgL0SMsA","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Smile","img":"https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7","pty":"43","artist":"Michael Jackson","genres":"","duration":"295666","spotId":"1iin2Ll8PHPzoh6xF6LQRh","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Morphine","img":"https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6","pty":"43","artist":"Michael Jackson","genres":"","duration":"388293","spotId":"5cyUiyJ9ZtQfnvFU2y31RC","Items":["-SADNE-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Heartbreaker","img":"https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd","pty":"43","artist":"Michael Jackson","genres":"","duration":"309600","spotId":"0L0wNdB2KJjQrymVBkMnAq","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"2000 Watts","img":"https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd","pty":"43","artist":"Michael Jackson","genres":"","duration":"264000","spotId":"4aTYZL8uyGXAdmWOQy4Wgx","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Love Never Felt So Good","img":"https://i.scdn.co/image/ab67616d0000b27384dc5d0b8018238584522562","pty":"43","artist":"Michael Jackson","genres":"","duration":"199946","spotId":"7DciyLZWipMv860LBeupmK","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Gone Too Soon","img":"https://i.scdn.co/image/ab67616d0000b2733b9f8b18cc685e1502128aa8","pty":"42","artist":"Michael Jackson","genres":"","duration":"201733","spotId":"66mXHPRfAwbnNKnTCNpytj","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Money","img":"https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7","pty":"42","artist":"Michael Jackson","genres":"","duration":"281800","spotId":"2VCSO1mqWPALcPbEQwgSd3","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"One More Chance","img":"https://i.scdn.co/image/ab67616d0000b27386a14b2986ff774e8e6e3341","pty":"42","artist":"Michael Jackson","genres":"","duration":"229000","spotId":"7uyivkbdc8iH8wyBGBhlXV","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Why","img":"https://i.scdn.co/image/ab67616d0000b27363ec8bb2492f23f458f2a9d4","pty":"42","artist":"3T, Michael Jackson","genres":"","duration":"320333","spotId":"0gfqiSFDDJSZnmJv1EUbRO","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"One Day In Your Life","img":"https://i.scdn.co/image/ab67616d0000b2737a3f01d6f449f95c1622863f","pty":"41","artist":"Michael Jackson","genres":"","duration":"258160","spotId":"7vtaQNW7QHtQsLeshQlm3D","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Keep the Faith","img":"https://i.scdn.co/image/ab67616d0000b2733b9f8b18cc685e1502128aa8","pty":"41","artist":"Michael Jackson","genres":"","duration":"356733","spotId":"4J4B9TrVrvQVS6GRPtaxrA","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"D.S.","img":"https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7","pty":"41","artist":"Michael Jackson","genres":"","duration":"289440","spotId":"7roNDDmU52OYgYwCN9SI8E","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Invincible","img":"https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd","pty":"41","artist":"Michael Jackson","genres":"","duration":"285600","spotId":"4HK6hmgMwGXHo3lUUNkiem","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"You Are My Life","img":"https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd","pty":"41","artist":"Michael Jackson","genres":"","duration":"273000","spotId":"4ybCcJqXdPRLtz9Dfy92t4","Items":["-SADNE-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Chicago","img":"https://i.scdn.co/image/ab67616d0000b27384dc5d0b8018238584522562","pty":"41","artist":"Michael Jackson","genres":"","duration":"283440","spotId":"3yNhWgz57tAUFGQm2btQ56","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Al Capone","img":"https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d","pty":"40","artist":"Michael Jackson","genres":"","duration":"214786","spotId":"3d9E8xXtuKmqNNxA1YW5ax","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Cry","img":"https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd","pty":"40","artist":"Michael Jackson","genres":"","duration":"300693","spotId":"0wJelplx8NfzfyagNVaOVI","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"A Place With No Name","img":"https://i.scdn.co/image/ab67616d0000b27384dc5d0b8018238584522562","pty":"40","artist":"Michael Jackson","genres":"","duration":"296026","spotId":"4ou1FyPwLpzeOU3YjeQ4Mw","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Heal the World","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"40","artist":"Michael Jackson","genres":"","duration":"385333","spotId":"37HyO9EKIh9jgQcPNq1RfL","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"For All Time","img":"https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be","pty":"39","artist":"Michael Jackson","genres":"","duration":"243853","spotId":"4NYi8J4w2AuI9qyv5bY2Nt","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Todo Mi Amor Eres Tu","img":"https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d","pty":"39","artist":"Michael Jackson","genres":"","duration":"250773","spotId":"2O9llQaI7q6FPY2afs9k8R","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"She's Out Of My Life","img":"https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7","pty":"39","artist":"Michael Jackson","genres":"","duration":"217666","spotId":"1UpdFu6w98DuTMW8twhT6D","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Is It Scary","img":"https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6","pty":"39","artist":"Michael Jackson","genres":"","duration":"335400","spotId":"1H43TqXTWkEhXjdw3LEfUS","Items":["-SADNE-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Privacy","img":"https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd","pty":"39","artist":"Michael Jackson","genres":"","duration":"304160","spotId":"53NdDxLiNn7VSgDVi9KsYl","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Loving You","img":"https://i.scdn.co/image/ab67616d0000b27384dc5d0b8018238584522562","pty":"39","artist":"Michael Jackson","genres":"","duration":"182453","spotId":"5Yo0Jz7YDAEPKsklNfQTA6","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Baby Be Mine","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"39","artist":"Michael Jackson","genres":"","duration":"260467","spotId":"0z0HC6sLfJsTP5bqVPiIw6","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"I'm So Blue","img":"https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d","pty":"38","artist":"Michael Jackson","genres":"","duration":"247693","spotId":"4E4uk2y03wLssBIOjQSUoG","Items":["-HAPPY-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Don't Walk Away","img":"https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd","pty":"38","artist":"Michael Jackson","genres":"","duration":"264200","spotId":"1KWt1O0TZcdCkg3WIvkQaK","Items":["-SADNE-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"They Don't Care About Us","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"38","artist":"Michael Jackson, Kevin Antunes","genres":"","duration":"217253","spotId":"1YRU9kVtesNJetX6rTvz6E","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Human Nature","img":"https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9","pty":"38","artist":"Michael Jackson","genres":"","duration":"245413","spotId":"7jcDPNcPbX5dy2yw8yUsBO","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Smooth Criminal","img":"https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9","pty":"38","artist":"Michael Jackson","genres":"","duration":"257519","spotId":"2O3FCy9JdGflUnZ8LLrd4u","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Black or White","img":"https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9","pty":"38","artist":"Michael Jackson","genres":"","duration":"256278","spotId":"2PdFSWL1Zpg0lRnujLnNJJ","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Little Susie / Pie Jesu","img":"https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7","pty":"37","artist":"Michael Jackson","genres":"","duration":"373733","spotId":"0nxdtEWLQeLcJ2IQwDftAU","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"The Lost Children","img":"https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd","pty":"37","artist":"Michael Jackson","genres":"","duration":"238960","spotId":"00MAeOlplKSab33lINpZds","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Slave to the Rhythm","img":"https://i.scdn.co/image/ab67616d0000b27384dc5d0b8018238584522562","pty":"37","artist":"Michael Jackson","genres":"","duration":"275600","spotId":"5L4dOpoWSz9CyvHvPjO5ao","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"This Place Hotel","img":"https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8","pty":"37","artist":"The Jacksons","genres":"disco,motown,sonido filadelfia","duration":"343413","spotId":"2BU4dK1fu1CFLjTBz7ju7Q","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Don't Stop 'Til You Get Enough","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"37","artist":"Michael Jackson","genres":"","duration":"351346","spotId":"6AZZzlQD1FThgAcWIgu3g1","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Bad","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"37","artist":"Michael Jackson","genres":"","duration":"247693","spotId":"5dQ51PaLQPl1vkL4wFBYON","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Remember the Time","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"37","artist":"Michael Jackson","genres":"","duration":"239893","spotId":"6v5O3M2svc11Z9TMr6yVxI","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"In the Closet","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"37","artist":"Michael Jackson","genres":"","duration":"288813","spotId":"00r8TWNSkGnMDLqpxd4wia","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Sunset Driver","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"37","artist":"Michael Jackson","genres":"","duration":"242533","spotId":"4vA0xg2ObT0RlUwZMDy5kZ","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Price of Fame","img":"https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d","pty":"36","artist":"Michael Jackson","genres":"","duration":"273506","spotId":"4xrw5lHtYDYHIFj96Tse7O","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Fly Away","img":"https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d","pty":"36","artist":"Michael Jackson","genres":"","duration":"207080","spotId":"0oleopAuBlxuq7fcFl9Ap8","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Superfly Sister","img":"https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6","pty":"36","artist":"Michael Jackson","genres":"","duration":"387266","spotId":"64se9mFGa972tiKHKnJnyG","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Blue Gangsta","img":"https://i.scdn.co/image/ab67616d0000b27384dc5d0b8018238584522562","pty":"36","artist":"Michael Jackson","genres":"","duration":"256973","spotId":"5r36hkZKxmL4gleijg8scM","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Dirty Diana","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"36","artist":"Michael Jackson","genres":"","duration":"280760","spotId":"5sqPn6Z32jbyYI59O8D9lg","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Man in the Mirror","img":"https://i.scdn.co/image/ab67616d0000b27386a14b2986ff774e8e6e3341","pty":"36","artist":"Michael Jackson","genres":"","duration":"303960","spotId":"3mK75eGdaeLXxX7P1OzWLK","Items":["-SADNE-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Starlight","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"36","artist":"Michael Jackson","genres":"","duration":"303773","spotId":"4WGwTL5HIiaw5OIFnwgCR9","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Carousel","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"36","artist":"Michael Jackson","genres":"","duration":"219426","spotId":"39SzRa9nN9SFWPnbcMgrYX","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Thriller 7","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"36","artist":"Michael Jackson","genres":"","duration":"278099","spotId":"3VKj7hHHi8pJJ4mHDzZC4Q","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Free","img":"https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d","pty":"35","artist":"Michael Jackson","genres":"","duration":"265066","spotId":"1NeR1aXj5JBFYcDVvMqQpO","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Who Is It","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"35","artist":"Michael Jackson","genres":"","duration":"239560","spotId":"3Z2Dp8ZIN5gbLNecvB85Vn","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Rock with You","img":"https://i.scdn.co/image/ab67616d0000b27386a14b2986ff774e8e6e3341","pty":"35","artist":"Michael Jackson","genres":"","duration":"220360","spotId":"0mckKOsMlBypUfD6gzdNhY","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"The Lady in My Life","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"35","artist":"Michael Jackson","genres":"","duration":"298264","spotId":"0R7rnPjNqlYwK2b5LNX0aO","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Got the Hots","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"35","artist":"Michael Jackson","genres":"","duration":"265066","spotId":"21fVbhoPzmlLjxWfePb6CT","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Someone in the Dark","img":"https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be","pty":"34","artist":"Michael Jackson","genres":"","duration":"288426","spotId":"2CxNfpTOTaThbGNGTmQ9Xg","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Don't Be Messin' 'Round","img":"https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d","pty":"34","artist":"Michael Jackson","genres":"","duration":"259480","spotId":"4DdtaYlJk11wRpRC6eMhHa","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Bad","img":"https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d","pty":"34","artist":"Michael Jackson, Pitbull, AFROJACK","genres":"edm,big room","duration":"264733","spotId":"7lVHsLX1Tgy0UqQFk8NsCO","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Speed Demon","img":"https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d","pty":"34","artist":"Michael Jackson, NERO","genres":"dubstep,dub","duration":"248186","spotId":"38EeKmUjNEF1KA4KfcEB0v","Items":["-SADNE-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Do You Know Where Your Children Are","img":"https://i.scdn.co/image/ab67616d0000b27384dc5d0b8018238584522562","pty":"34","artist":"Michael Jackson","genres":"","duration":"279253","spotId":"4atoBzVjNpqtfv1jyT1BS1","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Blood on the Dance Floor","img":"https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8","pty":"34","artist":"Michael Jackson","genres":"","duration":"253373","spotId":"0QgsvILuE9VQiAVsLStD3W","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Torture","img":"https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8","pty":"34","artist":"The Jacksons","genres":"disco,motown,sonido filadelfia","duration":"293120","spotId":"0XOuVAHsANAWw0LF0Yxkw5","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Blood On The Dance Floor X Dangerous","img":"https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8","pty":"34","artist":"Michael Jackson, White Panda","genres":"","duration":"218573","spotId":"2H89IUBV4rAmzOmTShrxRL","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"The Way You Make Me Feel","img":"https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9","pty":"34","artist":"Michael Jackson","genres":"","duration":"298240","spotId":"2MktNn429Sn1p4FjZjOM39","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Who Do You Know","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"34","artist":"Michael Jackson","genres":"","duration":"322533","spotId":"5kMng2A15zTwpxiPHypbHm","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Song Groove","img":"https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d","pty":"33","artist":"Michael Jackson","genres":"","duration":"266773","spotId":"3YkgiRmt9aNzfxXgcij7eY","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Immortal Megamix: Can You Feel It / Don't Stop 'Til You Get Enough / Billie Jean/Black or White","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"33","artist":"Michael Jackson, The Jacksons, Kevin Antunes","genres":"disco,motown,sonido filadelfia","duration":"548786","spotId":"3u1jLdQHF66J3ATqeWVt1Y","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Shake Your Body","img":"https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9","pty":"33","artist":"Michael Jackson, The Jacksons","genres":"disco,motown,sonido filadelfia","duration":"233413","spotId":"1yWc4aC8zphMCDmwZ9Ch7K","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Off the Wall","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"33","artist":"Michael Jackson","genres":"","duration":"225560","spotId":"4YgLH0GqoGeWas8hN7ehXn","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Wanna Be Startin' Somethin'","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"33","artist":"Michael Jackson, Akon, Mark Exit Goodchild, Aliaune Akon Thiam","genres":"","duration":"254120","spotId":"2ievGqNfnUSaEBPrMQDTxB","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Bad","img":"https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d","pty":"32","artist":"Michael Jackson, AFROJACK","genres":"edm,big room","duration":"451880","spotId":"5yWui9wtvNkbbKNcYc5fJG","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Dangerous","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"32","artist":"Michael Jackson","genres":"","duration":"419560","spotId":"1F4kTAVGEwoPVdySANDUai","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Behind The Mask","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"32","artist":"Michael Jackson","genres":"","duration":"300960","spotId":"32gg7lWCipR6jYiz9qXwSo","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Can't Get Outta The Rain","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"32","artist":"Michael Jackson","genres":"","duration":"246293","spotId":"5yuLvy5xOhnhMZL0SjIZcX","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"This Place Hotel","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"31","artist":"Michael Jackson","genres":"","duration":"128653","spotId":"3NVKkxzypbMfH8Mov9ZsSY","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Thriller","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"31","artist":"Michael Jackson, Kevin Antunes","genres":"","duration":"217866","spotId":"4V79uSLjxBSe1heEA2vWHO","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Human Nature 7","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"31","artist":"Michael Jackson","genres":"","duration":"225053","spotId":"6vA0oK0LIQtWCjPjpww4Tr","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Break of Dawn","img":"https://i.scdn.co/image/ab67616d0000b27386a14b2986ff774e8e6e3341","pty":"31","artist":"Michael Jackson","genres":"","duration":"329533","spotId":"0AekEma473V3q1YCyhpJs8","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"The Toy","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"31","artist":"Michael Jackson","genres":"","duration":"184133","spotId":"2KmJ8VLU4MoX0BoCoo2LSw","Items":["-HAPPY-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"What A Lovely Way To Go","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"31","artist":"Michael Jackson","genres":"","duration":"235106","spotId":"4INbMHPtay1Q8fU9090FCc","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"She's Trouble","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"31","artist":"Michael Jackson","genres":"","duration":"252613","spotId":"1FXtdKmCuA38ClAUHI3YjZ","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"P.Y.T.","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"31","artist":"Michael Jackson","genres":"","duration":"226640","spotId":"7FFTcmagmrEDNOe530kvhl","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Scream Louder","img":"https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6","pty":"30","artist":"Michael Jackson, Janet Jackson, Tony Moran","genres":"new jack swing,freestyle,tribal house","duration":"326773","spotId":"45I4o7CBHKEUie84viUIuM","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Planet Earth / Earth Song","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"30","artist":"Michael Jackson","genres":"","duration":"241293","spotId":"5L8YhySgKndvHwAXRWBr4g","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Remember the Time / Bad","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"30","artist":"Michael Jackson, Kevin Antunes","genres":"","duration":"279893","spotId":"1n5xkQ969L6poYdxVForpM","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"I Just Can't Stop Loving You","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"30","artist":"Michael Jackson, Siedah Garrett","genres":"piano house","duration":"251746","spotId":"1yCnNxfwUANlCkrGRWwWVA","Items":["-SADNE-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Another Part of Me","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"30","artist":"Michael Jackson","genres":"","duration":"226613","spotId":"6IrM4Fx5o0ijmUGGTKObS6","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Je Ne Veux Pas La Fin De Nous","img":"https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d","pty":"29","artist":"Michael Jackson","genres":"","duration":"247933","spotId":"6KYO3lxxVzKdb4zcyEgkaS","Items":["-SADNE-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"History","img":"https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6","pty":"29","artist":"Michael Jackson","genres":"","duration":"480626","spotId":"2tjDDVaEtfp6JPtnTEAvoE","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"This Is It","img":"https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9","pty":"29","artist":"Michael Jackson","genres":"","duration":"295200","spotId":"30Bu2F6Tgv6D0iZ1HI1fmp","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"The Girl Is Mine","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"29","artist":"Michael Jackson, Paul McCartney","genres":"","duration":"221906","spotId":"15fvDRnqFdogjUM8PUC0ml","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Billie Jean","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"29","artist":"Michael Jackson, Kanye West","genres":"rap","duration":"275933","spotId":"4jeLWjIvoZ2uWJrkrFo3xA","Items":["-SADNE-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"We're Almost There","img":"https://i.scdn.co/image/ab67616d0000b2737a3f01d6f449f95c1622863f","pty":"28","artist":"Michael Jackson","genres":"","duration":"227146","spotId":"5kazs4V71SpcTVUTcorIyJ","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"2 Bad","img":"https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6","pty":"28","artist":"Michael Jackson, Wyclef Jean, Tony Moran","genres":"freestyle,tribal house","duration":"212440","spotId":"7hYyDytE51gtqG3JzvQdz3","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Shake Your Body","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"28","artist":"The Jacksons","genres":"disco,motown,sonido filadelfia","duration":"147653","spotId":"1PzuBmnRPiTOpVx9eITKVQ","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"The Jackson 5 Medley: I Want You Back / ABC / The Love You Save","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"28","artist":"The Jackson 5","genres":"motown","duration":"225746","spotId":"6iHDF2P52qJTQXBSLZWKAL","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Man in the Mirror","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"28","artist":"Michael Jackson, Kevin Antunes","genres":"","duration":"254560","spotId":"1HgDt5Czey7lja48m8vmIO","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Billie Jean","img":"https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be","pty":"27","artist":"Michael Jackson","genres":"","duration":"400226","spotId":"6m9V5QOltZ8At8vIAayTnq","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Stranger in Moscow","img":"https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6","pty":"27","artist":"Michael Jackson","genres":"","duration":"413693","spotId":"5dWL7WXyzTdho4tplQqJzK","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Earth Song","img":"https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6","pty":"27","artist":"Michael Jackson","genres":"","duration":"475133","spotId":"4Uw7RAKTS31MDUJ9KSxmCz","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"You Are Not Alone","img":"https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6","pty":"27","artist":"Michael Jackson","genres":"","duration":"456800","spotId":"0QMzztcTWRykks8aXErji5","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Unbreakable","img":"https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8","pty":"27","artist":"Michael Jackson","genres":"","duration":"385866","spotId":"4nLKSthLekoSBbI2S6B1LT","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Beat It / State of Shock","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"27","artist":"Michael Jackson, The Jacksons, Mick Jagger, Kevin Antunes","genres":"disco,motown,sonido filadelfia","duration":"189160","spotId":"3ejjvP4oU6RoyiK9xZ5lwU","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Will You Be There","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"27","artist":"Michael Jackson, Kevin Antunes","genres":"","duration":"296493","spotId":"5VwhnUGgcWpn43Vmn3UrfR","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Enjoy Yourself","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"27","artist":"The Jacksons","genres":"disco,motown,sonido filadelfia","duration":"201466","spotId":"3D97kRhZprR6RumFhDFIr4","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Beat It","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"27","artist":"Michael Jackson, Fergie, will.i.am","genres":"","duration":"251186","spotId":"6XgiJfqS5LdiptYHksfmSI","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Money","img":"https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6","pty":"26","artist":"Michael Jackson, Tony Moran","genres":"freestyle,tribal house","duration":"262066","spotId":"3ePJSoCy4owa8jLRiYlE1u","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Workin' Day and Night","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"26","artist":"Michael Jackson","genres":"","duration":"216706","spotId":"0Z7J0VAF4TiZslcPf1Rt5X","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"You Are Not Alone / I Just Can't Stop Loving You","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"26","artist":"Michael Jackson, Siedah Garrett, Kevin Antunes","genres":"piano house","duration":"368560","spotId":"0uRzDuvbTqRnPRzJwLguw8","Items":["-SADNE-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"My Girl","img":"https://i.scdn.co/image/ab67616d0000b273c0a89f704e5e3358f9440c25","pty":"25","artist":"Michael Jackson","genres":"","duration":"193120","spotId":"4nWZKEZc09aCT68d7cIoGT","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Dear Michael","img":"https://i.scdn.co/image/ab67616d0000b2737a3f01d6f449f95c1622863f","pty":"25","artist":"Michael Jackson","genres":"","duration":"161626","spotId":"2cpYpgS7V9z1uoTBA8FOhQ","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Xscape","img":"https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8","pty":"25","artist":"Michael Jackson","genres":"","duration":"245586","spotId":"3Fi99RQtn8HeefySuU9Dq3","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Dancing Machine / Blame It on the Boogie","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"25","artist":"Michael Jackson, The Jackson 5, The Jacksons, Kevin Antunes","genres":"motown,disco,sonido filadelfia","duration":"244760","spotId":"6fOKAoenM1qFpDjTubUW8Z","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Jam","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"25","artist":"Michael Jackson","genres":"","duration":"157946","spotId":"3OiNCTTZhMxShkEFdB50lv","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"P.Y.T.","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"25","artist":"Michael Jackson, will.i.am","genres":"","duration":"261133","spotId":"3FCOOd1ShN8qpHNcMoSPIb","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"The Girl Is Mine","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"25","artist":"Michael Jackson, will.i.am","genres":"","duration":"190253","spotId":"2jsOxLbTofSAPeLhNR9ll5","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Thriller","img":"https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b","pty":"25","artist":"Michael Jackson","genres":"","duration":"442266","spotId":"5dELg4e472LaS76hzPOvi6","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"This Time Around","img":"https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6","pty":"24","artist":"Michael Jackson, Tony Moran","genres":"freestyle,tribal house","duration":"244800","spotId":"35dPTlVylfHvcgIVj1M9LW","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Speechless / Human Nature","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"24","artist":"Michael Jackson","genres":"","duration":"200360","spotId":"7i1ThQAoUUQpwdjrfrinci","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"She's Out of My Life","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"24","artist":"Michael Jackson","genres":"","duration":"217280","spotId":"5CoYwKhisukni6UEDXc2Pr","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Girl Don't Take Your Love From Me","img":"https://i.scdn.co/image/ab67616d0000b273681794b3786180ac45627c3d","pty":"23","artist":"Michael Jackson","genres":"","duration":"231013","spotId":"2laojQD1QCqjvmMn8lFlPk","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"We've Got A Good Thing Going","img":"https://i.scdn.co/image/ab67616d0000b273c0a89f704e5e3358f9440c25","pty":"23","artist":"Michael Jackson","genres":"","duration":"185626","spotId":"3djgZShPRIMqtyOA2FjGlN","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Take Me Back","img":"https://i.scdn.co/image/ab67616d0000b2737a3f01d6f449f95c1622863f","pty":"23","artist":"Michael Jackson","genres":"","duration":"210146","spotId":"7MkLxkbdYmH31jvfF4EKcM","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Threatened","img":"https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8","pty":"23","artist":"Michael Jackson","genres":"","duration":"259120","spotId":"0YzDJ3Jm9EMjAD28vefkyH","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"The Immortal Intro","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"23","artist":"Michael Jackson, The Jackson 5, Janet Jackson","genres":"motown,new jack swing","duration":"187746","spotId":"70hPop67BKDroN8gLpH1kN","Items":["-SADNE-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Childhood","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"23","artist":"Michael Jackson","genres":"","duration":"275613","spotId":"5JDoloqtRe9wEVH9pYeuVb","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Is It Scary / Threatened","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"23","artist":"Michael Jackson, Rockwell, 50 Cent","genres":"hip hop de la costa este","duration":"303946","spotId":"49AyOQCWmw2us23SGOdUP7","Items":["-SADNE-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Scream / Little Susie","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"23","artist":"Michael Jackson, Janet Jackson, Kevin Antunes","genres":"new jack swing","duration":"285120","spotId":"6hlNMAXSd23mWBENQMRz7W","Items":["-SADNE-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Wanna Be Startin' Somethin'","img":"https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9","pty":"23","artist":"Michael Jackson","genres":"","duration":"343266","spotId":"0s6TWuZSH1HnGDYdYsy18O","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Beat It","img":"https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9","pty":"23","artist":"Michael Jackson","genres":"","duration":"123413","spotId":"6lMd5SfMmjEvdab7HHPO7y","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"You've Got A Friend","img":"https://i.scdn.co/image/ab67616d0000b273681794b3786180ac45627c3d","pty":"22","artist":"Michael Jackson","genres":"","duration":"298960","spotId":"1jrJQ1Gib2ubaxAXe1z2Jc","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Planet Earth","img":"https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9","pty":"22","artist":"Michael Jackson","genres":"","duration":"194946","spotId":"5I4ReNkt2pLhvwKPAkmUiM","Items":["-SADNE-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Maria","img":"https://i.scdn.co/image/ab67616d0000b273681794b3786180ac45627c3d","pty":"21","artist":"Michael Jackson","genres":"","duration":"222880","spotId":"0w5Jpsn5Hr3CZkN2TvE681","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"People Make The World Go 'Round","img":"https://i.scdn.co/image/ab67616d0000b273c0a89f704e5e3358f9440c25","pty":"21","artist":"Michael Jackson","genres":"","duration":"200533","spotId":"17V6RQvamKW60OKA837Qu5","Items":["-HAPPY-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"The Mime Segment:","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"21","artist":"Michael Jackson","genres":"","duration":"172000","spotId":"79bnldLAr65JRomESUR18s","Items":["-SADNE-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"I'll Be There","img":"https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816","pty":"21","artist":"The Jackson 5","genres":"motown","duration":"237906","spotId":"4cm5C92IAGvutniYpkqJr9","Items":["-HAPPY-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Everybody's Somebody's Fool","img":"https://i.scdn.co/image/ab67616d0000b273c0a89f704e5e3358f9440c25","pty":"20","artist":"Michael Jackson","genres":"","duration":"181520","spotId":"1xHEwl4Z3pUHLHby6zlUxP","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"What Goes Around Comes Around","img":"https://i.scdn.co/image/ab67616d0000b273c0a89f704e5e3358f9440c25","pty":"20","artist":"Michael Jackson","genres":"","duration":"211920","spotId":"0YdYfB1j3plixqB8yia7GT","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Voice-Over Intro / Voice-Over Session from Thriller","img":"https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be","pty":"20","artist":"Michael Jackson, Rod Temperton, Vincent Price","genres":"spoken word","duration":"172360","spotId":"51PXL2lCvWSN41KhOcVdBE","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Gone Too Soon","img":"https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715","pty":"20","artist":"Michael Jackson, Kevin Antunes","genres":"","duration":"203653","spotId":"5Hv8fpSYGMlobEZ94rzV2J","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Wings Of My Love","img":"https://i.scdn.co/image/ab67616d0000b273681794b3786180ac45627c3d","pty":"19","artist":"Michael Jackson","genres":"","duration":"205026","spotId":"5h6EHy1GvTcGrpedGZCPHL","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Greatest Show On Earth","img":"https://i.scdn.co/image/ab67616d0000b273c0a89f704e5e3358f9440c25","pty":"19","artist":"Michael Jackson","genres":"","duration":"169573","spotId":"2nnr3G4e3vK7A13JAMipsh","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"You Are There","img":"https://i.scdn.co/image/ab67616d0000b2737a3f01d6f449f95c1622863f","pty":"19","artist":"Michael Jackson","genres":"","duration":"205333","spotId":"36DLONTcnfObcVEytGjymm","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"I Wanna Be Where You Are","img":"https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816","pty":"19","artist":"Michael Jackson","genres":"","duration":"177466","spotId":"1YS2AAnrBnlHhi9dtSgyzf","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Love Is Here And Now You're Gone","img":"https://i.scdn.co/image/ab67616d0000b273681794b3786180ac45627c3d","pty":"18","artist":"Michael Jackson","genres":"","duration":"174080","spotId":"1UWM5Y6O7jU4ec2iaNn1os","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Dapper Dan","img":"https://i.scdn.co/image/ab67616d0000b2737a3f01d6f449f95c1622863f","pty":"18","artist":"Michael Jackson","genres":"","duration":"192546","spotId":"7xSCBsSlvGhMvJa5MtKLVU","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"I'll Come Home To You","img":"https://i.scdn.co/image/ab67616d0000b2737a3f01d6f449f95c1622863f","pty":"18","artist":"Michael Jackson","genres":"","duration":"184560","spotId":"3QAw8W7F2jSMjsJGAXvNCP","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Never Can Say Goodbye","img":"https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816","pty":"17","artist":"The Jackson 5","genres":"motown","duration":"180106","spotId":"00xTcz36WYcfbne25nPB1M","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Daddy's Home","img":"https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816","pty":"17","artist":"Jermaine Jackson","genres":"","duration":"183000","spotId":"2tux0ui8n2qdHdGpBnkhol","Items":["-HAPPY-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Dancing Machine","img":"https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816","pty":"17","artist":"The Jackson 5","genres":"motown","duration":"156733","spotId":"3QAUDlA5ZXh0bc3eJkXq0F","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Who's Lovin' You","img":"https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816","pty":"16","artist":"The Jackson 5","genres":"motown","duration":"241626","spotId":"2d0thsJyXh1TNAwI76SeG0","Items":["-HAPPY-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"In Our Small Way","img":"https://i.scdn.co/image/ab67616d0000b273c0a89f704e5e3358f9440c25","pty":"15","artist":"Michael Jackson","genres":"","duration":"225053","spotId":"5yWQFwQ1RXAS4CNQRE36vQ","Items":["-HAPPY-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"You Can Cry On My Shoulder","img":"https://i.scdn.co/image/ab67616d0000b273c0a89f704e5e3358f9440c25","pty":"15","artist":"Michael Jackson","genres":"","duration":"159866","spotId":"5j1hnJbfDm8WmqdZ0MPmbo","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Got To Be There","img":"https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816","pty":"14","artist":"Michael Jackson","genres":"","duration":"203693","spotId":"2Xe0ginTlApo3yyPLnliaa","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Sugar Daddy","img":"https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816","pty":"13","artist":"The Jackson 5","genres":"motown","duration":"152040","spotId":"5nuptZvFFdoo3AndUJ1Mif","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Maybe Tomorrow","img":"https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816","pty":"12","artist":"The Jackson 5","genres":"motown","duration":"286733","spotId":"12PVhwJtVBFxusjyoDucSi","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Mama's Pearl","img":"https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816","pty":"11","artist":"The Jackson 5","genres":"motown","duration":"192666","spotId":"5Z53l5ohYoRPTYePS82oJC","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Lookin' Through The Windows","img":"https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816","pty":"10","artist":"The Jackson 5","genres":"motown","duration":"218600","spotId":"0a4OxurR1A92yWwlgys0Uy","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"The Life Of The Party","img":"https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816","pty":"10","artist":"The Jackson 5","genres":"motown","duration":"154800","spotId":"1J3XnCutmgzPkY5kgRgEYr","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"I Am Love","img":"https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816","pty":"10","artist":"The Jackson 5","genres":"motown","duration":"448040","spotId":"6avUSHzZ1GG6StApojxKHK","Items":["-SADNE-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"It's Your Thing","img":"https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816","pty":"10","artist":"The Jackson 5","genres":"motown","duration":"357173","spotId":"4jEJSMAKMDwUYFvSIwnqCi","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Get It Together","img":"https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816","pty":"8","artist":"The Jackson 5","genres":"motown","duration":"168840","spotId":"3SaOakLN8R6h9Rub5uFPiJ","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Just A Little Bit Of You","img":"https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816","pty":"8","artist":"Michael Jackson","genres":"","duration":"192626","spotId":"4j7E5F2NWIAc2i1aSxI1g0","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Music And Me","img":"https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d","pty":"7","artist":"Michael Jackson","genres":"","duration":"155840","spotId":"4eGFVWKqorLMes0H6cU1jc","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Ain't No Sunshine","img":"https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d","pty":"4","artist":"Michael Jackson","genres":"","duration":"250533","spotId":"5gjQWMRF1SOZTLpukjyRNj","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"All The Things You Are","img":"https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d","pty":"4","artist":"Michael Jackson","genres":"","duration":"173360","spotId":"1w5OW4WbLd6bMGFXy6W8le","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Johnny Raven","img":"https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d","pty":"3","artist":"Michael Jackson","genres":"","duration":"210093","spotId":"1TtJpDJyH3zG8a4clvmE0y","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Shoo-Be-Doo-Be-Doo-Da-Day","img":"https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d","pty":"3","artist":"Michael Jackson","genres":"","duration":"198666","spotId":"3bQlYstOpOSpreMTjGF6LG","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Happy","img":"https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d","pty":"3","artist":"Michael Jackson","genres":"","duration":"200906","spotId":"2gMVqcXKepcQYVtLeXJnza","Items":["-HAPPY-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Too Young","img":"https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d","pty":"3","artist":"Michael Jackson","genres":"","duration":"215200","spotId":"3pR7SJxpOYyiDjk93mh0EU","Items":["-SADNE-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Up Again","img":"https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d","pty":"3","artist":"Michael Jackson","genres":"","duration":"165000","spotId":"2uBW5W21vSJUBZg56Ckm8v","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"With A Child's Heart","img":"https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d","pty":"3","artist":"Michael Jackson","genres":"","duration":"207933","spotId":"4WAKzRq8rsI1JpiRFtyrVq","Items":["-SADNE-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Euphoria","img":"https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d","pty":"3","artist":"Michael Jackson","genres":"","duration":"166733","spotId":"3DT51XFSIIcYk3XYSudFgr","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Cinderella Stay Awhile","img":"https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d","pty":"3","artist":"Michael Jackson","genres":"","duration":"186973","spotId":"3tkfk0S4t3t2fCi2zmwot4","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"We've Got Forever","img":"https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d","pty":"3","artist":"Michael Jackson","genres":"","duration":"189733","spotId":"03RIjKsE4DUbZgKJxHyn4n","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Morning Glow","img":"https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d","pty":"2","artist":"Michael Jackson","genres":"","duration":"213226","spotId":"7ppJWU4E0hgPEb4u0utjjq","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Best of Joy","img":"https://i.scdn.co/image/ab67616d0000b2733c23198a658bd9313295d243","pty":"2","artist":"Michael Jackson","genres":"","duration":"182306","spotId":"1xxV77cC2m366nO5JIx8he","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Hold My Hand","img":"https://i.scdn.co/image/ab67616d0000b2733c23198a658bd9313295d243","pty":"0","artist":"Michael Jackson, Akon","genres":"","duration":"212226","spotId":"0pCyoA5o2uxUwIovECCziF","Items":["-HAPPY-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"Hollywood Tonight","img":"https://i.scdn.co/image/ab67616d0000b2733c23198a658bd9313295d243","pty":"0","artist":"Michael Jackson","genres":"","duration":"270373","spotId":"5ensPSgQkRM60i8ZH3S9wG","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Keep Your Head Up","img":"https://i.scdn.co/image/ab67616d0000b2733c23198a658bd9313295d243","pty":"0","artist":"Michael Jackson","genres":"","duration":"289826","spotId":"1hoegQXoKdKnAwqpXSvd4y","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"(I Like) The Way You Love Me","img":"https://i.scdn.co/image/ab67616d0000b2733c23198a658bd9313295d243","pty":"0","artist":"Michael Jackson","genres":"","duration":"273800","spotId":"0DnKKKmHKzojMODmrQ7F9i","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Monster","img":"https://i.scdn.co/image/ab67616d0000b2733c23198a658bd9313295d243","pty":"0","artist":"Michael Jackson, 50 Cent","genres":"hip hop de la costa este","duration":"304346","spotId":"0Lktdb6Ln1oxbOFtFkFjjP","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Breaking News","img":"https://i.scdn.co/image/ab67616d0000b2733c23198a658bd9313295d243","pty":"0","artist":"Michael Jackson","genres":"","duration":"254746","spotId":"1EvZR0biWt8uVNCqZg0Fpi","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"(I Can't Make It) Another Day","img":"https://i.scdn.co/image/ab67616d0000b2733c23198a658bd9313295d243","pty":"0","artist":"Michael Jackson, Lenny Kravitz","genres":"","duration":"234413","spotId":"5zKLTGk1EYhGYdbeP4DgL8","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Behind the Mask","img":"https://i.scdn.co/image/ab67616d0000b2733c23198a658bd9313295d243","pty":"0","artist":"Michael Jackson","genres":"","duration":"301733","spotId":"7GOfp80vVSXOAdACM4euuZ","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Much Too Soon","img":"https://i.scdn.co/image/ab67616d0000b2733c23198a658bd9313295d243","pty":"0","artist":"Michael Jackson","genres":"","duration":"168653","spotId":"0U5pIKWg89q6188WGlcuKN","Items":["-HAPPY-","-SLOWSS-","","","BT_MichaelJackson"]}, {"couname":"I Want You Back","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"0","artist":"The Jackson 5","genres":"motown","duration":"178760","spotId":"1cCwhFAlkZdbQ7nVFgS9I5","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"ABC","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"0","artist":"The Jackson 5","genres":"motown","duration":"177133","spotId":"6z1t237CaXitMg1i7oGooE","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"The Love You Save","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"0","artist":"The Jackson 5","genres":"motown","duration":"185106","spotId":"3VlrkNbaDfjxhkqHe0gLXh","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Got to Be There","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"0","artist":"Michael Jackson","genres":"","duration":"205026","spotId":"4lF79ulfzVPTRIkkZObCOH","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Rockin' Robin","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"0","artist":"Michael Jackson","genres":"","duration":"152826","spotId":"5EcNgf6BlaBpHuEGEyqJgj","Items":["-HAPPY-","-ENERGY-","","","BT_MichaelJackson"]}, {"couname":"Ben","img":"https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce","pty":"0","artist":"Michael Jackson","genres":"","duration":"166240","spotId":"2x1sYWAXomiTwWWwd6yQPb","Items":["-HAPPY-","-SLOWSS-","","","BT_MichaelJackson"]}]
+[
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "BT_MichaelJackson",
+      "GN_Choirs",
+      "TV_Dreamworks",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5lWFrW5T3JtxVCLDb7etPu",
+    "couname": "Bad",
+    "duration": "247360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4YgLH0GqoGeWas8hN7ehXn",
+    "couname": "Just A Little Bit Of You",
+    "duration": "225560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5L8YhySgKndvHwAXRWBr4g",
+    "couname": "Maria",
+    "duration": "241293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5sqPn6Z32jbyYI59O8D9lg",
+    "couname": "Hollywood Tonight",
+    "duration": "280760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4aTYZL8uyGXAdmWOQy4Wgx",
+    "couname": "Chicago",
+    "duration": "264000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "0YzDJ3Jm9EMjAD28vefkyH",
+    "couname": "Song Groove",
+    "duration": "259120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "7ppJWU4E0hgPEb4u0utjjq",
+    "couname": "Who's Lovin' You",
+    "duration": "213226"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4yD5hKvrw3L6sRJbzgaFwe",
+    "couname": "Breaking News",
+    "duration": "251906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27384dc5d0b8018238584522562",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4ou1FyPwLpzeOU3YjeQ4Mw",
+    "couname": "Don't Be Messin' 'Round",
+    "duration": "296026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733c23198a658bd9313295d243",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "0U5pIKWg89q6188WGlcuKN",
+    "couname": "You Are My Life",
+    "duration": "168653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5yxIenY5kSLlgTr3XGYw9p",
+    "couname": "Al Capone",
+    "duration": "220040"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "3Fi99RQtn8HeefySuU9Dq3",
+    "couname": "Scream Louder",
+    "duration": "245586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "53NdDxLiNn7VSgDVi9KsYl",
+    "couname": "Everybody's Somebody's Fool",
+    "duration": "304160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c0a89f704e5e3358f9440c25",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "2nnr3G4e3vK7A13JAMipsh",
+    "couname": "The Life Of The Party",
+    "duration": "169573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_AboutTime",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "2Xe0ginTlApo3yyPLnliaa",
+    "couname": "This Time Around",
+    "duration": "203693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27384dc5d0b8018238584522562",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4atoBzVjNpqtfv1jyT1BS1",
+    "couname": "In the Closet",
+    "duration": "279253"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27384dc5d0b8018238584522562",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,Justin Timberlake",
+    "genres": 0,
+    "spotId": "48td6xvpokdYwvbl3JIiXP",
+    "couname": "(I Can't Make It) Another Day",
+    "duration": "246026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "3tE5OfatEheU3L5nSpW9FD",
+    "couname": "Another Part of Me",
+    "duration": "242333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "1FXtdKmCuA38ClAUHI3YjZ",
+    "couname": "Mama's Pearl",
+    "duration": "252613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273681794b3786180ac45627c3d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "1jrJQ1Gib2ubaxAXe1z2Jc",
+    "couname": "Streetwalker",
+    "duration": "298960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "0rT9f5BSZrZ6DvzfBEckG0",
+    "couname": "A Place With No Name",
+    "duration": "279160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "7n6DnNdKKhjyDa1GlGgLeQ",
+    "couname": "Burn This Disco Out",
+    "duration": "272706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Places",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "6lMd5SfMmjEvdab7HHPO7y",
+    "couname": "Stranger in Moscow",
+    "duration": "123413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "00MAeOlplKSab33lINpZds",
+    "couname": "Gone Too Soon",
+    "duration": "238960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4nLKSthLekoSBbI2S6B1LT",
+    "couname": "Planet Earth / Earth Song",
+    "duration": "385866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,AFROJACK",
+    "genres": 0,
+    "spotId": "5yWui9wtvNkbbKNcYc5fJG",
+    "couname": "Keep the Faith",
+    "duration": "451880"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "1UpdFu6w98DuTMW8twhT6D",
+    "couname": "Enjoy Yourself",
+    "duration": "217666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27386a14b2986ff774e8e6e3341",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "7uyivkbdc8iH8wyBGBhlXV",
+    "couname": "Cry",
+    "duration": "229000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "3DT51XFSIIcYk3XYSudFgr",
+    "couname": "Whatever Happens",
+    "duration": "166733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4E4uk2y03wLssBIOjQSUoG",
+    "couname": "Free",
+    "duration": "247693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737a3f01d6f449f95c1622863f",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "7vtaQNW7QHtQsLeshQlm3D",
+    "couname": "Daddy's Home",
+    "duration": "258160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "75Rv9SkGILm24kmhAYvjZg",
+    "couname": "Blood On The Dance Floor X Dangerous",
+    "duration": "246133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b9f8b18cc685e1502128aa8",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4J4B9TrVrvQVS6GRPtaxrA",
+    "couname": "Dancing Machine",
+    "duration": "356733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "7roNDDmU52OYgYwCN9SI8E",
+    "couname": "Dancing Machine / Blame It on the Boogie",
+    "duration": "289440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4HK6hmgMwGXHo3lUUNkiem",
+    "couname": "Dangerous",
+    "duration": "285600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "64se9mFGa972tiKHKnJnyG",
+    "couname": "History",
+    "duration": "387266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4ybCcJqXdPRLtz9Dfy92t4",
+    "couname": "Dapper Dan",
+    "duration": "273000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "1iin2Ll8PHPzoh6xF6LQRh",
+    "couname": "Can't Get Outta The Rain",
+    "duration": "295666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Michael Jackson,The Jackson 5,Janet Jackson",
+    "genres": 0,
+    "spotId": "70hPop67BKDroN8gLpH1kN",
+    "couname": "Speechless",
+    "duration": "187746"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Michael Jackson,Janet Jackson,Kevin Antunes",
+    "genres": 0,
+    "spotId": "6hlNMAXSd23mWBENQMRz7W",
+    "couname": "Speed Demon",
+    "duration": "285120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "2PdFSWL1Zpg0lRnujLnNJJ",
+    "couname": "Girlfriend",
+    "duration": "256278"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "0nxdtEWLQeLcJ2IQwDftAU",
+    "couname": "Give In to Me",
+    "duration": "373733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "7MdenVOyOCRoxbgPpjEiAL",
+    "couname": "Ain't No Sunshine",
+    "duration": "284560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "0QgsvILuE9VQiAVsLStD3W",
+    "couname": "Invincible",
+    "duration": "253373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4xrw5lHtYDYHIFj96Tse7O",
+    "couname": "Heartbreaker",
+    "duration": "273506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4Uw7RAKTS31MDUJ9KSxmCz",
+    "couname": "People Make The World Go 'Round",
+    "duration": "475133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "0QMzztcTWRykks8aXErji5",
+    "couname": "Planet Earth",
+    "duration": "456800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "1HibhNhwk2tljwC4BGGLXV",
+    "couname": "ABC",
+    "duration": "269333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "3VKj7hHHi8pJJ4mHDzZC4Q",
+    "couname": "I Can't Help It",
+    "duration": "278099"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Michael Jackson,Siedah Garrett,Kevin Antunes",
+    "genres": 0,
+    "spotId": "0uRzDuvbTqRnPRzJwLguw8",
+    "couname": "Rockin' Robin",
+    "duration": "368560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5Bw9bAHGaykCFLP0VyqNbJ",
+    "couname": "Beat It / State of Shock",
+    "duration": "289333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "32gg7lWCipR6jYiz9qXwSo",
+    "couname": "Leave Me Alone",
+    "duration": "300960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5CoYwKhisukni6UEDXc2Pr",
+    "couname": "Slave to the Rhythm",
+    "duration": "217280"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "21fVbhoPzmlLjxWfePb6CT",
+    "couname": "I'll Be There",
+    "duration": "265066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jacksons",
+    "genres": 0,
+    "spotId": "4qv7YSyt5UV8LvrXyE8sGn",
+    "couname": "Blood on the Dance Floor",
+    "duration": "230773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273681794b3786180ac45627c3d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "2laojQD1QCqjvmMn8lFlPk",
+    "couname": "Smile",
+    "duration": "231013"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "0CeE7kE8zAnfKIVpdmOaJl",
+    "couname": "Best of Joy",
+    "duration": "227866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4fK6bgzyKt4EIv3R1wrUtl",
+    "couname": "Behind The Mask",
+    "duration": "295666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737a3f01d6f449f95c1622863f",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "7MkLxkbdYmH31jvfF4EKcM",
+    "couname": "Someone in the Dark",
+    "duration": "210146"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jacksons",
+    "genres": 0,
+    "spotId": "0XOuVAHsANAWw0LF0Yxkw5",
+    "couname": "Is It Scary",
+    "duration": "293120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b9f8b18cc685e1502128aa8",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "1euDTbMNRPNfKd8zZz4zTT",
+    "couname": "2000 Watts",
+    "duration": "328626"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5cyUiyJ9ZtQfnvFU2y31RC",
+    "couname": "Can't Let Her Get Away",
+    "duration": "388293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "GN_Disco",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5gjQWMRF1SOZTLpukjyRNj",
+    "couname": "Wanna Be Startin' Somethin'",
+    "duration": "250533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Baby",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "6XYbMGvtl6tlPoGWaiH7EY",
+    "couname": "Baby Be Mine",
+    "duration": "260666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jacksons",
+    "genres": 0,
+    "spotId": "1PzuBmnRPiTOpVx9eITKVQ",
+    "couname": "Off the Wall",
+    "duration": "147653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jackson 5",
+    "genres": 0,
+    "spotId": "4cm5C92IAGvutniYpkqJr9",
+    "couname": "Take Me Back",
+    "duration": "237906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "1NeR1aXj5JBFYcDVvMqQpO",
+    "couname": "I Just Can't Stop Loving You",
+    "duration": "265066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "6AZZzlQD1FThgAcWIgu3g1",
+    "couname": "Got To Be There",
+    "duration": "351346"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d0593178c6c2594693ee34b7",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "2VCSO1mqWPALcPbEQwgSd3",
+    "couname": "Come Together",
+    "duration": "281800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c0a89f704e5e3358f9440c25",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4nWZKEZc09aCT68d7cIoGT",
+    "couname": "Scream",
+    "duration": "193120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737a3f01d6f449f95c1622863f",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "2cpYpgS7V9z1uoTBA8FOhQ",
+    "couname": "Scream / Little Susie",
+    "duration": "161626"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "0s6TWuZSH1HnGDYdYsy18O",
+    "couname": "Starlight",
+    "duration": "343266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273681794b3786180ac45627c3d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "0w5Jpsn5Hr3CZkN2TvE681",
+    "couname": "Sunset Driver",
+    "duration": "222880"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c0a89f704e5e3358f9440c25",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "17V6RQvamKW60OKA837Qu5",
+    "couname": "Superfly Sister",
+    "duration": "200533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "2CxNfpTOTaThbGNGTmQ9Xg",
+    "couname": "I'll Come Home To You",
+    "duration": "288426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Questions",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "03RIjKsE4DUbZgKJxHyn4n",
+    "couname": "Who Is It",
+    "duration": "189733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "7i1ThQAoUUQpwdjrfrinci",
+    "couname": "Shoo-Be-Doo-Be-Doo-Da-Day",
+    "duration": "200360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b9f8b18cc685e1502128aa8",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "BT_MichaelJackson",
+      "GN_Piano",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "7woW97CfcWaKtuC6W5BP2K",
+    "couname": "Heal the World",
+    "duration": "384306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "3d9E8xXtuKmqNNxA1YW5ax",
+    "couname": "Dirty Diana",
+    "duration": "214786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4WAKzRq8rsI1JpiRFtyrVq",
+    "couname": "What Goes Around Comes Around",
+    "duration": "207933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "0wJelplx8NfzfyagNVaOVI",
+    "couname": "Do You Know Where Your Children Are",
+    "duration": "300693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "3OiNCTTZhMxShkEFdB50lv",
+    "couname": "Shake Your Body",
+    "duration": "157946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27384dc5d0b8018238584522562",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "3yNhWgz57tAUFGQm2btQ56",
+    "couname": "Dear Michael",
+    "duration": "283440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737a3f01d6f449f95c1622863f",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "36DLONTcnfObcVEytGjymm",
+    "couname": "The Lost Children",
+    "duration": "205333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737027294551db4fda68b5ddac",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "BT_MichaelJackson",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "6NGsHLZYGVAkXTFr75WWnn",
+    "couname": "She's Out of My Life",
+    "duration": "218266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "36O7qmyKLHpUY6WdWh8M5g",
+    "couname": "All The Things You Are",
+    "duration": "220386"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "GN_Disco",
+      "TV_Rolling500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "0Z7J0VAF4TiZslcPf1Rt5X",
+    "couname": "Rock with You",
+    "duration": "216706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273230da28b7b53e7a2192e1743",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "GN_Choirs",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "6n5BpBMLfOy4uOLzmmZaEf",
+    "couname": "Beat It",
+    "duration": "257600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5I4ReNkt2pLhvwKPAkmUiM",
+    "couname": "Sugar Daddy",
+    "duration": "194946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b9f8b18cc685e1502128aa8",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "CT_Norway",
+      "XT_Colors",
+      "XT_Intros",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "7EsjkelQuoUlJXEw7SeVV4",
+    "couname": "Black or White",
+    "duration": "254933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "0L0wNdB2KJjQrymVBkMnAq",
+    "couname": "Carousel",
+    "duration": "309600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "7jcDPNcPbX5dy2yw8yUsBO",
+    "couname": "Ghosts",
+    "duration": "245413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Running",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4NYi8J4w2AuI9qyv5bY2Nt",
+    "couname": "Don't Walk Away",
+    "duration": "243853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737a3f01d6f449f95c1622863f",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "7xSCBsSlvGhMvJa5MtKLVU",
+    "couname": "The Toy",
+    "duration": "192546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "3NVKkxzypbMfH8Mov9ZsSY",
+    "couname": "Little Susie / Pie Jesu",
+    "duration": "128653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b9f8b18cc685e1502128aa8",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Monarchy",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "66mXHPRfAwbnNKnTCNpytj",
+    "couname": "Cinderella Stay Awhile",
+    "duration": "201733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5JDoloqtRe9wEVH9pYeuVb",
+    "couname": "Speechless / Human Nature",
+    "duration": "275613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "6KYO3lxxVzKdb4zcyEgkaS",
+    "couname": "Monster",
+    "duration": "247933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27384dc5d0b8018238584522562",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Youth",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "7DciyLZWipMv860LBeupmK",
+    "couname": "Childhood",
+    "duration": "199946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "2tjDDVaEtfp6JPtnTEAvoE",
+    "couname": "Morning Glow",
+    "duration": "480626"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jackson 5",
+    "genres": 0,
+    "spotId": "00xTcz36WYcfbne25nPB1M",
+    "couname": "They Don't Care About Us",
+    "duration": "180106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jackson 5",
+    "genres": 0,
+    "spotId": "6avUSHzZ1GG6StApojxKHK",
+    "couname": "Too Young",
+    "duration": "448040"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4j7E5F2NWIAc2i1aSxI1g0",
+    "couname": "Up Again",
+    "duration": "192626"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Places",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "2O9llQaI7q6FPY2afs9k8R",
+    "couname": "Earth Song",
+    "duration": "250773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273681794b3786180ac45627c3d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Karaoke",
+      "XT_Monarchy",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5h6EHy1GvTcGrpedGZCPHL",
+    "couname": "The Lady in My Life",
+    "duration": "205026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273681794b3786180ac45627c3d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "1UWM5Y6O7jU4ec2iaNn1os",
+    "couname": "The Mime Segment:",
+    "duration": "174080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "39SzRa9nN9SFWPnbcMgrYX",
+    "couname": "I Am Love",
+    "duration": "219426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jackson 5",
+    "genres": 0,
+    "spotId": "4jEJSMAKMDwUYFvSIwnqCi",
+    "couname": "Torture",
+    "duration": "357173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "0R7rnPjNqlYwK2b5LNX0aO",
+    "couname": "I Want You Back",
+    "duration": "298264"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733c23198a658bd9313295d243",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "1EvZR0biWt8uVNCqZg0Fpi",
+    "couname": "With A Child's Heart",
+    "duration": "254746"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Jermaine Jackson",
+    "genres": 0,
+    "spotId": "2tux0ui8n2qdHdGpBnkhol",
+    "couname": "They Don't Care About Us",
+    "duration": "183000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b9f8b18cc685e1502128aa8",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "6yLdWiAkS1ZUrTdgm0yKXL",
+    "couname": "Break of Dawn",
+    "duration": "219866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "30Bu2F6Tgv6D0iZ1HI1fmp",
+    "couname": "Morphine",
+    "duration": "295200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4eGFVWKqorLMes0H6cU1jc",
+    "couname": "Voice-Over Intro / Voice-Over Session from Thriller",
+    "duration": "155840"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "1YS2AAnrBnlHhi9dtSgyzf",
+    "couname": "The Love You Save",
+    "duration": "177466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27386a14b2986ff774e8e6e3341",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "0mckKOsMlBypUfD6gzdNhY",
+    "couname": "I Wanna Be Where You Are",
+    "duration": "220360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "1TtJpDJyH3zG8a4clvmE0y",
+    "couname": "We Are The World",
+    "duration": "210093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5kMng2A15zTwpxiPHypbHm",
+    "couname": "It's Your Thing",
+    "duration": "322533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733c23198a658bd9313295d243",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "7GOfp80vVSXOAdACM4euuZ",
+    "couname": "Xscape",
+    "duration": "301733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b9f8b18cc685e1502128aa8",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "75yYXB96tX1BlSMgL0SMsA",
+    "couname": "Can You Feel It",
+    "duration": "298400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "3bQlYstOpOSpreMTjGF6LG",
+    "couname": "We're Almost There",
+    "duration": "198666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c0a89f704e5e3358f9440c25",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5yWQFwQ1RXAS4CNQRE36vQ",
+    "couname": "This Place Hotel",
+    "duration": "225053"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "2gMVqcXKepcQYVtLeXJnza",
+    "couname": "We've Got A Good Thing Going",
+    "duration": "200906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "3pR7SJxpOYyiDjk93mh0EU",
+    "couname": "We've Got Forever",
+    "duration": "215200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "2uBW5W21vSJUBZg56Ckm8v",
+    "couname": "What A Lovely Way To Go",
+    "duration": "165000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Colors",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4DdtaYlJk11wRpRC6eMhHa",
+    "couname": "I'm So Blue",
+    "duration": "259480"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733c23198a658bd9313295d243",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,Akon",
+    "genres": 0,
+    "spotId": "0pCyoA5o2uxUwIovECCziF",
+    "couname": "Why You Wanna Trip on Me",
+    "duration": "212226"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4INbMHPtay1Q8fU9090FCc",
+    "couname": "Loving You",
+    "duration": "235106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b986e217ef80718d4d9b43d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "3tkfk0S4t3t2fCi2zmwot4",
+    "couname": "Who Do You Know",
+    "duration": "186973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Food",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "3YkgiRmt9aNzfxXgcij7eY",
+    "couname": "Jam",
+    "duration": "266773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "6vA0oK0LIQtWCjPjpww4Tr",
+    "couname": "Love Is Here And Now You're Gone",
+    "duration": "225053"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737a3f01d6f449f95c1622863f",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5kazs4V71SpcTVUTcorIyJ",
+    "couname": "My Girl",
+    "duration": "227146"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jackson 5",
+    "genres": 0,
+    "spotId": "1cCwhFAlkZdbQ7nVFgS9I5",
+    "couname": "You Are Not Alone",
+    "duration": "178760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jackson 5",
+    "genres": 0,
+    "spotId": "3VlrkNbaDfjxhkqHe0gLXh",
+    "couname": "You Are There",
+    "duration": "185106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,Paul McCartney",
+    "genres": 0,
+    "spotId": "15fvDRnqFdogjUM8PUC0ml",
+    "couname": "Much Too Soon",
+    "duration": "221906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5EcNgf6BlaBpHuEGEyqJgj",
+    "couname": "You Rock My World",
+    "duration": "152826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,Kevin Antunes",
+    "genres": 0,
+    "spotId": "5VwhnUGgcWpn43Vmn3UrfR",
+    "couname": "Privacy",
+    "duration": "296493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Love",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "2KmJ8VLU4MoX0BoCoo2LSw",
+    "couname": "Love Never Felt So Good",
+    "duration": "184133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "2x1sYWAXomiTwWWwd6yQPb",
+    "couname": "You've Got A Friend",
+    "duration": "166240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732e01bd3a6ebc8c9bcc0b4e4c",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "BT_MichaelJackson",
+      "GN_Disco",
+      "XT_Intros",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jacksons",
+    "genres": 0,
+    "spotId": "45lTNyyHpgwGhVnaphmSXw",
+    "couname": "Blame It on the Boogie",
+    "duration": "210533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733c23198a658bd9313295d243",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_Dreaming",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,Lenny Kravitz",
+    "genres": 0,
+    "spotId": "5zKLTGk1EYhGYdbeP4DgL8",
+    "couname": "Workin' Day and Night",
+    "duration": "234413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,Akon,Mark Exit Goodchild,Aliaune Akon Thiam",
+    "genres": 0,
+    "spotId": "2ievGqNfnUSaEBPrMQDTxB",
+    "couname": "Just Good Friends",
+    "duration": "254120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,Kevin Antunes",
+    "genres": 0,
+    "spotId": "4V79uSLjxBSe1heEA2vWHO",
+    "couname": "Lookin' Through The Windows",
+    "duration": "217866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27363ec8bb2492f23f458f2a9d4",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "3T,Michael Jackson",
+    "genres": 0,
+    "spotId": "0gfqiSFDDJSZnmJv1EUbRO",
+    "couname": "D.S.",
+    "duration": "320333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,Kevin Antunes",
+    "genres": 0,
+    "spotId": "1HgDt5Czey7lja48m8vmIO",
+    "couname": "One More Chance",
+    "duration": "254560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jacksons",
+    "genres": 0,
+    "spotId": "2BU4dK1fu1CFLjTBz7ju7Q",
+    "couname": "Got the Hots",
+    "duration": "343413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,will.i.am",
+    "genres": 0,
+    "spotId": "2jsOxLbTofSAPeLhNR9ll5",
+    "couname": "She's Out Of My Life",
+    "duration": "190253"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,The Jacksons,Kevin Antunes",
+    "genres": 0,
+    "spotId": "3u1jLdQHF66J3ATqeWVt1Y",
+    "couname": "Je Ne Veux Pas La Fin De Nous",
+    "duration": "548786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,White Panda",
+    "genres": 0,
+    "spotId": "2H89IUBV4rAmzOmTShrxRL",
+    "couname": "Is It Scary / Threatened",
+    "duration": "218573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "1F4kTAVGEwoPVdySANDUai",
+    "couname": "Keep Your Head Up",
+    "duration": "419560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "BT_MichaelJackson",
+      "GN_Choirs",
+      "GN_Piano",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "1kiNatIrwDusOZfR29W0LJ",
+    "couname": "Man in the Mirror",
+    "duration": "318680"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,Tony Moran",
+    "genres": 0,
+    "spotId": "3ePJSoCy4owa8jLRiYlE1u",
+    "couname": "Rock With You",
+    "duration": "262066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734238a5ff98dde266cb9a951d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "CT_Norway",
+      "GN_Disco",
+      "XT_Intros",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "2ThA2HEEfcn47HPh210woX",
+    "couname": "Don't Stop 'Til You Get Enough",
+    "duration": "364560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "6v5O3M2svc11Z9TMr6yVxI",
+    "couname": "Greatest Show On Earth",
+    "duration": "239893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27311d7647b016df97b316d8a6a",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "BT_MichaelJackson",
+      "TV_Simpsons120",
+      "XT_Cars",
+      "XT_OffAnimals",
+      "XT_Oscars",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "3DUNaBEHqpXsrY7sXWlWpX",
+    "couname": "Ben",
+    "duration": "165160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,will.i.am",
+    "genres": 0,
+    "spotId": "3FCOOd1ShN8qpHNcMoSPIb",
+    "couname": "She Drives Me Wild",
+    "duration": "261133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_AboutTime",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "0z0HC6sLfJsTP5bqVPiIw6",
+    "couname": "For All Time",
+    "duration": "260467"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AboutTime",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,Kevin Antunes",
+    "genres": 0,
+    "spotId": "1n5xkQ969L6poYdxVForpM",
+    "couname": "Maybe Tomorrow",
+    "duration": "279893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,Rockwell,50 Cent",
+    "genres": 0,
+    "spotId": "49AyOQCWmw2us23SGOdUP7",
+    "couname": "Speed Demon",
+    "duration": "303946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Colors",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,Pitbull,AFROJACK",
+    "genres": 0,
+    "spotId": "7lVHsLX1Tgy0UqQFk8NsCO",
+    "couname": "Immortal Megamix: Can You Feel It / Don't Stop 'Til You Get Enough / Billie Jean/Black or White",
+    "duration": "264733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "2O3FCy9JdGflUnZ8LLrd4u",
+    "couname": "Girl Don't Take Your Love From Me",
+    "duration": "257519"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27384dc5d0b8018238584522562",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Flying",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5Yo0Jz7YDAEPKsklNfQTA6",
+    "couname": "Fly Away",
+    "duration": "182453"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,The Jacksons",
+    "genres": 0,
+    "spotId": "1yWc4aC8zphMCDmwZ9Ch7K",
+    "couname": "Johnny Raven",
+    "duration": "233413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,Kevin Antunes",
+    "genres": 0,
+    "spotId": "1YRU9kVtesNJetX6rTvz6E",
+    "couname": "Get on the Floor",
+    "duration": "217253"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "1KWt1O0TZcdCkg3WIvkQaK",
+    "couname": "Get It Together",
+    "duration": "264200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_AboutTime",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jacksons",
+    "genres": 0,
+    "spotId": "3D97kRhZprR6RumFhDFIr4",
+    "couname": "Remember the Time",
+    "duration": "201466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "00r8TWNSkGnMDLqpxd4wia",
+    "couname": "Happy",
+    "duration": "288813"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "0oleopAuBlxuq7fcFl9Ap8",
+    "couname": "Heaven Can Wait",
+    "duration": "207080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c0a89f704e5e3358f9440c25",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "1xHEwl4Z3pUHLHby6zlUxP",
+    "couname": "The Girl Is Mine",
+    "duration": "181520"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733c23198a658bd9313295d243",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,50 Cent",
+    "genres": 0,
+    "spotId": "0Lktdb6Ln1oxbOFtFkFjjP",
+    "couname": "Wings Of My Love",
+    "duration": "304346"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "GN_Synth",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "0sKlV58cODrjxGFOyf9IXY",
+    "couname": "The Way You Make Me Feel",
+    "duration": "298120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jackson 5",
+    "genres": 0,
+    "spotId": "2d0thsJyXh1TNAwI76SeG0",
+    "couname": "This Place Hotel",
+    "duration": "241626"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jackson 5",
+    "genres": 0,
+    "spotId": "1J3XnCutmgzPkY5kgRgEYr",
+    "couname": "Todo Mi Amor Eres Tu",
+    "duration": "154800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733c23198a658bd9313295d243",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5ensPSgQkRM60i8ZH3S9wG",
+    "couname": "Will You Be There",
+    "duration": "270373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27384dc5d0b8018238584522562",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5r36hkZKxmL4gleijg8scM",
+    "couname": "Hold My Hand",
+    "duration": "256973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "79bnldLAr65JRomESUR18s",
+    "couname": "Tabloid Junkie",
+    "duration": "172000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jackson 5",
+    "genres": 0,
+    "spotId": "3SaOakLN8R6h9Rub5uFPiJ",
+    "couname": "Unbreakable",
+    "duration": "168840"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4lF79ulfzVPTRIkkZObCOH",
+    "couname": "You Can Cry On My Shoulder",
+    "duration": "205026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Numbers",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5OoRmdDfAiDztSwrhe7wuE",
+    "couname": "2 Bad",
+    "duration": "232800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Numbers",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jackson 5",
+    "genres": 0,
+    "spotId": "0a4OxurR1A92yWwlgys0Uy",
+    "couname": "Thriller 7",
+    "duration": "218600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_BodyParts",
+      "XT_Love",
+      "XT_Numbers",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,Kevin Antunes",
+    "genres": 0,
+    "spotId": "5Hv8fpSYGMlobEZ94rzV2J",
+    "couname": "The Jackson 5 Medley: I Want You Back / ABC / The Love You Save",
+    "duration": "203653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,NERO",
+    "genres": 0,
+    "spotId": "38EeKmUjNEF1KA4KfcEB0v",
+    "couname": "In Our Small Way",
+    "duration": "248186"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27386a14b2986ff774e8e6e3341",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "3mK75eGdaeLXxX7P1OzWLK",
+    "couname": "Human Nature",
+    "duration": "303960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Colors",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "0zZRYdXy3STXl8o847K5By",
+    "couname": "Blue Gangsta",
+    "duration": "353720"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27379b8d5f5821bddae3bc5e6a9",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "2MktNn429Sn1p4FjZjOM39",
+    "couname": "It's the Falling in Love",
+    "duration": "298240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jackson 5",
+    "genres": 0,
+    "spotId": "12PVhwJtVBFxusjyoDucSi",
+    "couname": "Thriller",
+    "duration": "286733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273463de2351439f6532ff0dfbd",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "1AZXNAVDD9ZFIEKySgflFz",
+    "couname": "(I Like) The Way You Love Me",
+    "duration": "288533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731afcc83e09252e1fd63bfe85",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "BT_MichaelJackson",
+      "XT_OffAnimals",
+      "YR_0009",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5ADSOampCIetIqVvg4sawk",
+    "couname": "Butterflies",
+    "duration": "279160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,Kanye West",
+    "genres": 0,
+    "spotId": "4jeLWjIvoZ2uWJrkrFo3xA",
+    "couname": "Music And Me",
+    "duration": "275933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "1H43TqXTWkEhXjdw3LEfUS",
+    "couname": "Euphoria",
+    "duration": "335400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273230da28b7b53e7a2192e1743",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "GN_Disco",
+      "GN_Synth",
+      "TV_Halloween",
+      "TV_Rolling500",
+      "TV_Simpsons120",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "6aLWY1Lax3ASlHzNAl2xRZ",
+    "couname": "Billie Jean",
+    "duration": "292706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bb21d27effb96a1d0fe8d6d",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "GN_Choirs",
+      "GN_Disco",
+      "TV_Halloween",
+      "XT_Intros",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "2bCQHF9gdG5BNDVuEIEnNk",
+    "couname": "Smooth Criminal",
+    "duration": "257760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Numbers",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "4WGwTL5HIiaw5OIFnwgCR9",
+    "couname": "Human Nature 7",
+    "duration": "303773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,Wyclef Jean,Tony Moran",
+    "genres": 0,
+    "spotId": "7hYyDytE51gtqG3JzvQdz3",
+    "couname": "Never Can Say Goodbye",
+    "duration": "212440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jackson 5",
+    "genres": 0,
+    "spotId": "6z1t237CaXitMg1i7oGooE",
+    "couname": "You Are Not Alone / I Just Can't Stop Loving You",
+    "duration": "177133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jackson 5",
+    "genres": 0,
+    "spotId": "6iHDF2P52qJTQXBSLZWKAL",
+    "couname": "One Day In Your Life",
+    "duration": "225746"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,Rod Temperton,Vincent Price",
+    "genres": 0,
+    "spotId": "51PXL2lCvWSN41KhOcVdBE",
+    "couname": "The Immortal Intro",
+    "duration": "172360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b9f8b18cc685e1502128aa8",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Questions",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,The Cleveland Orchestra",
+    "genres": 0,
+    "spotId": "1igW25R8lnb5ze9GWbuVsl",
+    "couname": "Beat It",
+    "duration": "460000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,The Jacksons,Mick Jagger,Kevin Antunes",
+    "genres": 0,
+    "spotId": "3ejjvP4oU6RoyiK9xZ5lwU",
+    "couname": "Price of Fame",
+    "duration": "189160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jackson 5",
+    "genres": 0,
+    "spotId": "5nuptZvFFdoo3AndUJ1Mif",
+    "couname": "Threatened",
+    "duration": "152040"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27342d5a048a254a1ca50e85715",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,The Jackson 5,The Jacksons,Kevin Antunes",
+    "genres": 0,
+    "spotId": "6fOKAoenM1qFpDjTubUW8Z",
+    "couname": "Shake Your Body",
+    "duration": "244760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson,Tony Moran",
+    "genres": 0,
+    "spotId": "35dPTlVylfHvcgIVj1M9LW",
+    "couname": "She's Trouble",
+    "duration": "244800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273235cab2d4cb88d8b225b8816",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jackson 5",
+    "genres": 0,
+    "spotId": "3QAUDlA5ZXh0bc3eJkXq0F",
+    "couname": "This Is It",
+    "duration": "156733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273822e06488f98e53e8743ff6b",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_AboutTime",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Michael Jackson,Fergie,will.i.am",
+    "genres": 0,
+    "spotId": "6XgiJfqS5LdiptYHksfmSI",
+    "couname": "Remember the Time / Bad",
+    "duration": "251186"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cde37cfdee48dc0eae1e2ab8",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Michael Jackson,Janet Jackson",
+    "genres": 0,
+    "spotId": "46576CnmgT6xr0RaZNF2Kt",
+    "couname": "Behind the Mask",
+    "duration": "277960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "BT_MichaelJackson",
+      "XT_AboutTime",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "5lA3pwMkBdd24StM90QrNR",
+    "couname": "P.Y.T.",
+    "duration": "238733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ed1c305cd1e673fe925407ce",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Michael Jackson,Siedah Garrett",
+    "genres": 0,
+    "spotId": "1yCnNxfwUANlCkrGRWwWVA",
+    "couname": "Money",
+    "duration": "251746"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273983d03d4dee6600fb095a9e6",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Michael Jackson,Janet Jackson,Tony Moran",
+    "genres": 0,
+    "spotId": "45I4o7CBHKEUie84viUIuM",
+    "couname": "Man in the Mirror",
+    "duration": "326773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273920f421260033ee54865d673",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_Numbers",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "U.S.A. For Africa",
+    "genres": 0,
+    "spotId": "3Z2tPWiNiIpg8UMMoowHIk",
+    "couname": "2 Bad",
+    "duration": "427333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733c23198a658bd9313295d243",
+    "pty": 0,
+    "Items": [
+      "BT_MichaelJackson",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Jackson",
+    "genres": 0,
+    "spotId": "1xxV77cC2m366nO5JIx8he",
+    "couname": "Why",
+    "duration": "182306"
+  }
+]
