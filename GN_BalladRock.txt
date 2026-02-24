@@ -1,1 +1,4320 @@
-[{"couname":"Creep","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"83","artist":"Radiohead","genres":"art rock,rock alternativo","duration":"238640","spotId":"70LcF31zb1H0PyJoS1Sx1r","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Wish You Were Here","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"75","artist":"Pink Floyd","genres":"rock progresivo,rock psicodélico,rock clásico,rock sinfónico,art rock,rock","duration":"334743","spotId":"6mFkJmJqdDVQ1REhVfGgd1","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Comfortably Numb","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"74","artist":"Pink Floyd","genres":"rock progresivo,rock psicodélico,rock clásico,rock sinfónico,art rock,rock","duration":"382296","spotId":"5HNCy40Ni5BZJFw1TKzRsC","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Imagine","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"72","artist":"John Lennon","genres":"","duration":"187866","spotId":"7pKfPomDEeI4TPT6EOYjn9","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"The Sound of Silence","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"70","artist":"Disturbed","genres":"metal,nu metal,metal alternativo,rap metal,hard rock,rock,heavy metal","duration":"248466","spotId":"1Cj2vqUwlJVG27gJrun92y","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"I Don't Want to Miss a Thing","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"69","artist":"Aerosmith","genres":"rock clásico,rock","duration":"298760","spotId":"225xvV8r1yKMHErSWivnow","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Never Tear Us Apart","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"69","artist":"INXS","genres":"","duration":"184586","spotId":"1GjbTNFImFrjFsNdleDe78","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"I'll Stand by You","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"68","artist":"Pretenders","genres":"","duration":"240760","spotId":"3Nf8oGn1okobzjDcFCvT6n","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Hysteria","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"67","artist":"Def Leppard","genres":"glam metal,glam rock,rock clásico","duration":"354636","spotId":"2PFIZFcGry0po3ZfRZkzKc","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"So Far Away","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"65","artist":"Staind","genres":"post-grunge,nu metal,metal alternativo","duration":"243573","spotId":"6FOpPA0a80RuBqqgDozvja","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Straight From The Heart","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"63","artist":"Bryan Adams","genres":"","duration":"211933","spotId":"5eaK7PLGwyDXmHfTdWZZuE","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"All I Wanna Do Is Make Love To You","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"63","artist":"Heart","genres":"rock clásico,aor,rock","duration":"310893","spotId":"5YjKdeES9QRJ8NmF4Xc8pV","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Amazing","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"62","artist":"Aerosmith","genres":"rock clásico,rock","duration":"355915","spotId":"60a5c4dDARPsksClcom0OD","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Mama, I'm Coming Home","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"62","artist":"Ozzy Osbourne","genres":"metal,glam metal,heavy metal,hard rock","duration":"251866","spotId":"0S3gpZzlT9Hb7CCSV2owX7","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Desperado","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"60","artist":"Eagles","genres":"rock clásico,rock suave","duration":"213712","spotId":"2TjnCxxQRYn56Ye8gkUKiW","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Thank You For Loving Me","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"60","artist":"Bon Jovi","genres":"glam metal,rock","duration":"308933","spotId":"577MNC3o3L0lNIzx9abqOk","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Dosed","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"60","artist":"Red Hot Chili Peppers","genres":"funk rock,rock alternativo,rock","duration":"311866","spotId":"1iFIZUVDBCCkWe705FLXto","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Have You Ever Seen The Rain","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"60","artist":"Creedence Clearwater Revival","genres":"rock clásico,rock sureño,country rock","duration":"160333","spotId":"5DnT9a5IM3eMjKgXTWVJvi","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Cats In The Cradle","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"59","artist":"Ugly Kid Joe","genres":"glam metal","duration":"241893","spotId":"5x9RZg7HfXGY3JayXL3seF","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Take My Breath Away","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"59","artist":"Berlin","genres":"","duration":"264213","spotId":"1hZJcuz9iMoz6tLkFlIaUy","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"This Ain't A Love Song","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"58","artist":"Bon Jovi","genres":"glam metal,rock","duration":"306240","spotId":"0ZLBD6hHGN9LYOtNlu2n8e","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"The River","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"58","artist":"Bruce Springsteen","genres":"","duration":"301546","spotId":"7HrzErXq3TsKOY1gmdIShB","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Don't Look Back in Anger","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"58","artist":"Oasis","genres":"britpop,madchester","duration":"293573","spotId":"6qZoQsBTQW2tix6KViDC7F","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Dreamer","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"57","artist":"Ozzy Osbourne","genres":"metal,glam metal,heavy metal,hard rock","duration":"284906","spotId":"78PKCefXwDLbl4FVO1Pjzh","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"When I Look Into Your Eyes","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"57","artist":"Firehouse","genres":"glam metal,glam rock","duration":"239866","spotId":"1yJWqYYDQge60nZKdLyiZU","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Lights","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"57","artist":"Journey","genres":"aor,rock clásico","duration":"190333","spotId":"7EHmKkyAr6MZv5Y2FdZbXw","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"When Love And Hate Collide","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"56","artist":"Def Leppard","genres":"glam metal,glam rock,rock clásico","duration":"256866","spotId":"4YwR2G26Pp5jNUX3gN3EIP","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"The Crystal Ship","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"56","artist":"The Doors","genres":"rock psicodélico,rock clásico,rock ácido","duration":"152000","spotId":"0gWvVB4bGvADocoPMEDy3K","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Fly Away From Here","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"55","artist":"Aerosmith","genres":"rock clásico,rock","duration":"302151","spotId":"5PxQhGYkbGXzjOLaUfAYMf","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Love of a Lifetime","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"55","artist":"Firehouse","genres":"glam metal,glam rock","duration":"285937","spotId":"2kDH08boXJyhKMl5hnZbrE","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Big Log","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"54","artist":"Robert Plant","genres":"","duration":"304800","spotId":"7257drAN3eTtaaUUPw95B3","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Unchained Melody","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"54","artist":"The Righteous Brothers","genres":"","duration":"215853","spotId":"2ACjOtICHXrAlP3ijVMSvb","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Wind of Change","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"53","artist":"Scorpions","genres":"hard rock,glam metal,rock","duration":"308866","spotId":"5WSsTyBvMEFG3ac6JKb9gY","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Love Walks In","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"53","artist":"Van Halen","genres":"glam metal,rock clásico,rock,hard rock","duration":"310933","spotId":"6FRQGRdhueJGTKiYnirDNy","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Parisienne Walkways","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"52","artist":"Gary Moore, Phil Lynott","genres":"blues,blues rock","duration":"200640","spotId":"6z4VNjyxLfRXRx23gzl51x","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"The House of the Rising Sun","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"52","artist":"The Animals","genres":"rock clásico","duration":"269906","spotId":"3TETmhGNWOcquUTtcr6RIR","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"It Must Have Been Love","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"52","artist":"Roxette","genres":"","duration":"259665","spotId":"1JZZkORheU1RpGqJdZ77WL","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Light It","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"51","artist":"The Tano Jones Revelry","genres":"","duration":"211612","spotId":"0oynmtmp5en13y77ratUuK","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Forever Young","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"51","artist":"Bob Dylan","genres":"folk rock,folk,cantautores,roots rock,country rock","duration":"296133","spotId":"4yWl0tnEanf3zmZzl9kbQn","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"When It's Love","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"51","artist":"Van Halen","genres":"glam metal,rock clásico,rock,hard rock","duration":"339840","spotId":"2rxePraWVAXyZRHVW1ICss","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"I Don't Want to Talk About It","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"51","artist":"Rod Stewart","genres":"rock suave","duration":"292186","spotId":"1FzXFRQWwh8os0fR2VwbIF","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Te'Kill'Ya","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"50","artist":"GXTP, Killer Mike, Santana","genres":"hip hop sureño americano,hip hop alternativo","duration":"219189","spotId":"2FY3V309Dc0X6VS8OWFxC9","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Days Like This","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"50","artist":"The Tano Jones Revelry","genres":"","duration":"238207","spotId":"6fH3I6Q2zutJ3rUiygm1lI","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Can't Cry Hard Enough","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"50","artist":"The Williams Brothers","genres":"","duration":"191960","spotId":"4c8jWog32ctnWEuonvOy7j","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Fields Of Gold","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"50","artist":"Sting","genres":"rock suave","duration":"217733","spotId":"22gLGCKbFKwmgZhrpVcnFb","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Going Home: Theme Of The Local Hero","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"48","artist":"Mark Knopfler","genres":"rock suave","duration":"298666","spotId":"0wnzuUwUlbnCKixvp9aJZT","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Europa","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"48","artist":"Santana","genres":"","duration":"305946","spotId":"5Yp3e8RcjYevBTZYJ7OD7s","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"WONDERWaLL","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"48","artist":"Oasis","genres":"britpop,madchester","duration":"259959","spotId":"41tTCXOzxSWAoVrfeIIh8x","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"The Search Is Over","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"48","artist":"Survivor","genres":"","duration":"252613","spotId":"1M3xrSPzPcKkCnXGHFPKaw","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"More Than Words Can Say","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"48","artist":"Alias","genres":"aor,arena rock,glam metal","duration":"234196","spotId":"1EB3Z38oKDKVp4K2yEO2dl","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"I Will Be Here For You","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"48","artist":"Michael W. Smith","genres":"música cristiana,música cristiana contemporánea,adoración,góspel","duration":"273773","spotId":"3CO19cTl5zzlWx9GWEpOhD","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Faithfully","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"48","artist":"Journey","genres":"aor,rock clásico","duration":"266266","spotId":"6HzZhqXNyfJxuvQ9zfCc1U","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Love Is on the Way","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"48","artist":"Saigon Kick","genres":"glam metal,glam rock","duration":"264173","spotId":"3F3n2V9XBrtb1omqLfcNPe","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Hotel California","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"48","artist":"Eagles","genres":"rock clásico,rock suave","duration":"391376","spotId":"1ZA8L9IOkRhmmz4nPXXx7h","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"In the Air Tonight","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"47","artist":"Phil Collins","genres":"rock suave","duration":"331053","spotId":"6mYXXXgFZZmk2mgejwSwdN","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Reason To Live","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"46","artist":"KISS","genres":"glam metal,glam rock,hard rock,rock,rock clásico","duration":"240266","spotId":"3onHM3etsRdtbTS7cgwkNb","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Life Goes On","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"45","artist":"Poison","genres":"glam metal,glam rock","duration":"287533","spotId":"2OWKsyrgUINadOG21dR0Fh","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Goodbye to Romance","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"45","artist":"Ozzy Osbourne","genres":"metal,glam metal,heavy metal,hard rock","duration":"335872","spotId":"44iFQNDCVfv2WHPdn7Wy1R","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Always with Me, Always with You","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"45","artist":"Joe Satriani","genres":"","duration":"202533","spotId":"0NNep3grWO95CVGp04gMM4","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Never Surrender","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"45","artist":"Corey Hart","genres":"synthpop","duration":"295000","spotId":"5U5p472hgeXUKvh0d8RL4K","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Dead Inside","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"44","artist":"Velvet Chains","genres":"","duration":"194730","spotId":"3m5dLMa3z9J87sQdDjTXxt","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Scar Tissue","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"44","artist":"Red Hot Chili Peppers","genres":"funk rock,rock alternativo,rock","duration":"215906","spotId":"6sbE8RyxI6oj54IijF6dLE","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"All I Can Do Is Write About It","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"44","artist":"Lynyrd Skynyrd","genres":"rock sureño,rock clásico,rock","duration":"256532","spotId":"1xGkvw8sTnDujVFcMN6zvc","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"When The Smoke Is Going Down","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"44","artist":"Scorpions","genres":"hard rock,glam metal,rock","duration":"156693","spotId":"0C9eI0xwHF5n1W5fDpve6i","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"I Still Haven't Found What I'm Looking For","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"44","artist":"U2","genres":"rock","duration":"277866","spotId":"6DYkUnYPg4Q1jRzCOzqwmP","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Forever","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"43","artist":"Kenny Loggins","genres":"","duration":"264600","spotId":"23KhPfX1omMxmfw4TjvfAq","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"To Be With You","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"42","artist":"Mr. Big","genres":"glam metal","duration":"206973","spotId":"1iewxUncPTUDgWZ90PGtrW","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Will You Still Love Me?","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"42","artist":"Chicago","genres":"rock suave","duration":"252600","spotId":"3dn6qXlHYAQpOqMTWxkGOR","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"At My Most Beautiful","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"41","artist":"R.E.M.","genres":"jangle pop,rock alternativo,rock","duration":"215200","spotId":"5Knohtj8UsTpFZsTCkMZWx","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Come Back To What You Know","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"41","artist":"Embrace","genres":"britpop","duration":"250573","spotId":"2BjvbCwtueWDGi0QKgT3yy","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Stranded","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"41","artist":"Heart","genres":"rock clásico,aor,rock","duration":"238826","spotId":"5KwYd278TmyAkLs686tsyw","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Soldier of Fortune","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"40","artist":"Deep Purple","genres":"hard rock,rock clásico,rock","duration":"195160","spotId":"7uRcUUmZpU4YVZFNVZnyXd","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Just Between You And Me","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"40","artist":"April Wine","genres":"aor,rock clásico,hard rock","duration":"235560","spotId":"2Xa2C6ftMdcg3j7YSot8dY","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Is This Love","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"39","artist":"Whitesnake","genres":"glam metal,hard rock,glam rock","duration":"281400","spotId":"4n3WOb4AvjLgGPz39gzsYI","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Cryin'","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"39","artist":"Vixen","genres":"glam metal,glam rock,aor,hard rock","duration":"211906","spotId":"1Fu3vJJwVKY7c7JnTX3Mvi","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Goin' Where the Wind Blows","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"38","artist":"Mr. Big","genres":"glam metal","duration":"259200","spotId":"7MvH3ZyA1l72z3XiTFUIEH","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Still In Love With You","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"38","artist":"Thin Lizzy","genres":"rock clásico,hard rock","duration":"340040","spotId":"0RW2GdRcn5qTrZPhXQLqML","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"No Stranger to Love","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"38","artist":"Black Sabbath","genres":"metal,heavy metal,rock,stoner rock,hard rock,doom metal,rock clásico","duration":"269453","spotId":"2ygXPctQz2DlDqKONcPGDE","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Something to Say","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"38","artist":"Harem Scarem","genres":"aor,arena rock,glam metal,glam rock,hard rock","duration":"285893","spotId":"71Eh6i00glqWtk1rSoo7Bw","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Struggle for Pleasure","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"38","artist":"Wim Mertens","genres":"minimalismo,new age,música neoclásica","duration":"242114","spotId":"7zFovryAx4THLvSRUtYkEN","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"When We Were Beautiful","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"37","artist":"Bon Jovi","genres":"glam metal,rock","duration":"318093","spotId":"3kE5ToakSPiv7BdeCuyLDc","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Father And Son","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"37","artist":"Yusuf / Cat Stevens","genres":"folk rock,folk,cantautores","duration":"220333","spotId":"2nU1cyrG92p8h99g3Gykwz","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Burning Heart","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"37","artist":"Vandenberg","genres":"glam metal,aor,arena rock,hard rock","duration":"250693","spotId":"6mVJRgyXJ3eAy6EViECJyW","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Amanda","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"37","artist":"Boston","genres":"rock clásico,aor","duration":"256959","spotId":"5dKUiinZmJFbuddlPxATvb","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"We Don't Need Another Hero","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"37","artist":"Tina Turner","genres":"","duration":"255186","spotId":"7Mz9qPB9hp1rXBgXvrVAST","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Mmm Mmm Mmm Mmm","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"37","artist":"Crash Test Dummies","genres":"","duration":"233266","spotId":"0yA1MBQ60SoiYt7xqdS3H1","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Carrie","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"37","artist":"Europe","genres":"glam metal","duration":"270533","spotId":"7sPY85Dj5t6AYeyQAJ9mp0","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Can't Fight This Feeling","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"36","artist":"REO Speedwagon","genres":"rock suave,aor,rock clásico","duration":"294093","spotId":"7i9k25ppPUjKX9xjvVRLLL","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Angel Born in Hell","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"35","artist":"GXTP","genres":"","duration":"164360","spotId":"2hGTAviNTW4JGAjCJ0QtBh","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Streets of Philadelphia","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"35","artist":"Bruce Springsteen","genres":"","duration":"195066","spotId":"2DPMECcSj0utOP1VLBU7sF","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Help","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"35","artist":"John Farnham","genres":"","duration":"264480","spotId":"5D70st7X9fpm7f90RQZXzU","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"I'll Leave It Up To You","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"34","artist":"Mr. Big","genres":"glam metal","duration":"198840","spotId":"0JgDzxPx6ue5NGysiDz2uj","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Can't Let Go","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"34","artist":"Dark Below, Matt James, Blacktop Mojo","genres":"","duration":"176285","spotId":"0OgDZoopBvmHRC72KP3bII","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Simple Man","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"34","artist":"Lynyrd Skynyrd","genres":"rock sureño,rock clásico,rock","duration":"356573","spotId":"0cNYkbxSTECMfrPyoqkjfp","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Wonder of it All","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"33","artist":"Steve Bardwil Band","genres":"","duration":"294106","spotId":"5Pl4mplIYh6NG27jbXfnX2","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"What Love Can Be","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"33","artist":"Kingdom Come","genres":"glam metal,aor,hard rock,arena rock","duration":"314160","spotId":"0BqIASAFnFG7GBfxmBebMG","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"When The Children Cry","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"32","artist":"White Lion","genres":"glam metal,glam rock","duration":"209306","spotId":"5XtAwyLsH2ARH2ztJLawG7","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Brothers In Arms","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"32","artist":"Dire Straits","genres":"rock clásico","duration":"417693","spotId":"3UOrKWXdwUVtDglahh3OQj","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"You Don't Have to Be Strong","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"31","artist":"Mr. Big","genres":"glam metal","duration":"306560","spotId":"2fEWmr3cr5A00CFd6NaKNP","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Wild World","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"31","artist":"Mr. Big","genres":"glam metal","duration":"209600","spotId":"0p4nkylTjV81uRtzKNsSvo","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Yesterday","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"31","artist":"The Beatles Greatest Hits Performed By The Frank Berman Band","genres":"","duration":"133375","spotId":"76E0QcBrJSXr9wzAA8Xzgi","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Ever Since the World Began","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"31","artist":"Survivor","genres":"","duration":"222053","spotId":"6hQPR6kNQ98TdHGXjhK5As","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Every Rose Has Its Thorn","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"30","artist":"Poison","genres":"glam metal,glam rock","duration":"259213","spotId":"3v9fqbZ6CYm96bqDzD1R3k","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Can't Stop Lovin' You","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"30","artist":"Van Halen","genres":"glam metal,rock clásico,rock,hard rock","duration":"248200","spotId":"0hrdSZEcjqnNZhoBhcpb0i","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Something To Believe In","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"30","artist":"Poison","genres":"glam metal,glam rock","duration":"330266","spotId":"1mdlNDjI26EaMUNA1Ti9Xy","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"I Don't Want to Live Without You","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"30","artist":"Foreigner","genres":"aor,rock clásico","duration":"237466","spotId":"0s4oyRzaYgi8L1djUKlpXl","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"I'll Be","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"29","artist":"Edwin McCain","genres":"","duration":"266533","spotId":"5NTcpy7nmcXbPrbxZ0cc60","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Song For Love","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"29","artist":"Extreme","genres":"glam metal","duration":"355600","spotId":"3yP553KE83Ubbw33nvwE4u","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Love Song","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"28","artist":"Tesla","genres":"glam metal,glam rock,hard rock","duration":"322200","spotId":"7zqsQHbyEmcCDjMiIthQzv","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"What It Takes","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"28","artist":"Aerosmith","genres":"rock clásico,rock","duration":"311773","spotId":"1a6VLZ3BplAosOWmCcFDAW","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Iris","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"28","artist":"The Goo Goo Dolls","genres":"","duration":"289906","spotId":"6HLNcLU4jIpafRf4mQ2Ivx","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Honestly","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"27","artist":"Stryper","genres":"rock cristiano,glam metal,glam rock","duration":"237506","spotId":"0ZVVaj7xLZAavrQLkenPYG","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Send Me An Angel","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"27","artist":"Scorpions","genres":"hard rock,glam metal,rock","duration":"274173","spotId":"4JuBGuAOso3H2d630obhMM","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"The Scientist","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"27","artist":"Coldplay","genres":"","duration":"309600","spotId":"4lbG4mT5JStFt6VImJV0vh","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Forever","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"26","artist":"KISS","genres":"glam metal,glam rock,hard rock,rock,rock clásico","duration":"229600","spotId":"1pKWaPUfRvYuiPvCjS3nTk","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"The Ballad of Jayne","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"25","artist":"L.A. Guns","genres":"glam metal,glam rock,hard rock","duration":"317866","spotId":"74lX87wHq9trTZRMUQUc27","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Wanted Dead Or Alive","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"24","artist":"Bon Jovi","genres":"glam metal,rock","duration":"307531","spotId":"0rt4JWmXgrZnpcEblBJeLn","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Almost Paradise","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"24","artist":"Mike Reno, Ann Wilson","genres":"","duration":"229000","spotId":"56cvxCKCZoP5B11xxeuSXZ","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"25 Minutes","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"24","artist":"Michael Learns To Rock","genres":"","duration":"260959","spotId":"4EG6GDujFbfS1fye0b1OnM","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Please Forgive Me","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"24","artist":"Bryan Adams","genres":"","duration":"355640","spotId":"03EnOL1O9EKi9CFNmPyrCm","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"When I See You Smile","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"24","artist":"Bad English","genres":"aor,glam metal","duration":"257640","spotId":"00CP7kE1QGqsE6y6msNguC","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Don't Know What You Got","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"23","artist":"Cinderella","genres":"glam metal,glam rock,hard rock","duration":"354933","spotId":"67f3uU7dsGmrJZLzAQ5PiJ","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Hallelujah","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"23","artist":"Jeff Buckley","genres":"","duration":"413893","spotId":"3mktc7bh0ZNru5kKN0igDR","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Free Bird","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"23","artist":"Lynyrd Skynyrd","genres":"rock sureño,rock clásico,rock","duration":"549640","spotId":"1GOncxecAOZyg8kCqAfJEc","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Hey Jude","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"23","artist":"The Beatles Greatest Hits Performed By The Frank Berman Band","genres":"","duration":"297540","spotId":"7uRQdPmDfVhp9lUUDFmqtB","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"I Want to Know What Love Is","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"23","artist":"Foreigner","genres":"aor,rock clásico","duration":"301106","spotId":"3Y1F4btGQxxMZhlBYaLR4N","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Don’t Close Your Eyes","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"23","artist":"Kix","genres":"glam metal,glam rock,hard rock","duration":"252633","spotId":"0yYKIbycZawfQqgdW3biSk","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Just Take My Heart","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"22","artist":"Mr. Big","genres":"glam metal","duration":"227426","spotId":"17hIadJpBRgM6A6mTTDkfO","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Leader of the Band / Washington Post March","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"22","artist":"Dan Fogelberg","genres":"rock suave","duration":"288786","spotId":"47dJl5fepRUY6d4kcrgfd8","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Dust In The Wind","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"21","artist":"Kansas","genres":"rock clásico,rock progresivo,aor","duration":"205400","spotId":"6Y6PyrYbQPXmtFMnyXEuPI","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Save Your Love","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"21","artist":"Great White","genres":"glam metal,glam rock,hard rock","duration":"278040","spotId":"0eKqTkIKqgU10d0lelVKvh","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Against the Wind","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"21","artist":"Sam Morrison and Turn The Page","genres":"","duration":"334146","spotId":"0KYdW05lpGKnXaaM9fMIYZ","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Knockin' On Heaven's Door","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"20","artist":"Bob Dylan","genres":"folk rock,folk,cantautores,roots rock,country rock","duration":"150026","spotId":"1bW8BSq6vmcHuy9eqgKgaS","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Can'tcha Say","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"20","artist":"Boston","genres":"rock clásico,aor","duration":"312840","spotId":"4ZQ0JkbClEmtJi3cDs5UUi","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"You're All I Need","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"20","artist":"White Lion","genres":"glam metal,glam rock","duration":"251266","spotId":"6hTuVtV3OIaNwJjxmrFnDq","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Where Are You Now","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"20","artist":"Nazareth","genres":"hard rock","duration":"235546","spotId":"08ZqUEXuHrG12wYbaBaQYQ","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"The Lady In Red","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"20","artist":"Chris de Burgh","genres":"rock suave","duration":"255986","spotId":"4UXaRdu2qwfpdCp7wXAKJ8","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Till Death Do Us Part","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"18","artist":"White Lion","genres":"glam metal,glam rock","duration":"225706","spotId":"4LRz4lh80Tn5GtZvztJYSJ","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Carry on Wayward Son","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"18","artist":"Kansas","genres":"rock clásico,rock progresivo,aor","duration":"322600","spotId":"2dM9QL8wU1tR2PWKjwKHW4","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"18 and Life","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"18","artist":"Skid Row","genres":"glam metal,glam rock,hard rock","duration":"231280","spotId":"6aEZx09xLP9xZsrPWEBDQ6","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"You Do Something To Me","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"17","artist":"Paul Weller","genres":"britpop","duration":"215026","spotId":"52CpKq09rBRJOxwmx1sEXo","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Feel Like Makin' Love","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"17","artist":"Bad Company","genres":"rock clásico,aor,rock sureño,hard rock","duration":"314093","spotId":"4PkChewe4pgNspJ2vxOxxl","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Keep on Loving You","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"17","artist":"REO Speedwagon","genres":"rock suave,aor,rock clásico","duration":"200573","spotId":"4iWnzxwnFfua8CdRGmeKaM","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Glory of Love","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"17","artist":"Peter Cetera","genres":"rock suave","duration":"258333","spotId":"1mQ4xqAs3p2Q1WMhdYzD3y","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Eternal Flame","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"17","artist":"The Bangles","genres":"jangle pop","duration":"234933","spotId":"7tlkC0KEpP3bEzIaBH1zhv","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Sister Christian","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"16","artist":"Night Ranger","genres":"glam metal,aor,arena rock,hard rock","duration":"319546","spotId":"2n4DrJbPr6Iq6m7kN7QapQ","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"The Actor","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"15","artist":"Michael Learns To Rock","genres":"","duration":"279640","spotId":"4UqBWgvOSMT8XzttEQEiVU","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Rough Boy","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"15","artist":"ZZ Top","genres":"rock sureño,rock clásico,blues rock,rock","duration":"289160","spotId":"3F4c3Beosqm0Obbik5KHAo","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"High Enough","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"15","artist":"Damn Yankees","genres":"glam metal,glam rock,aor","duration":"286026","spotId":"7xYj0nZdH80VYy75j97ILn","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Miles Away","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"15","artist":"Winger","genres":"glam metal,glam rock,aor,hard rock,arena rock","duration":"252866","spotId":"3zaPgyyHUTshJIVvVHeo5p","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Nothing Else Matters","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"11","artist":"Metallica","genres":"metal,thrash metal,rock,heavy metal,hard rock","duration":"388733","spotId":"3ZFwuJwUpIl0GeXsvF1ELf","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Ode To My Family","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"11","artist":"The Cranberries","genres":"","duration":"271533","spotId":"1eQuRtkMEPhf2DGzpBVTE6","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Listen To Your Heart","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"7","artist":"Roxette","genres":"","duration":"328093","spotId":"5JvsxPAHsGxwNq4xto2HtM","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"What You Know","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"6","artist":"Two Door Cinema Club","genres":"indie","duration":"191426","spotId":"0oEweHsuQagFuqXct9UvBm","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Fade To Black","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"2","artist":"Metallica","genres":"metal,thrash metal,rock,heavy metal,hard rock","duration":"417400","spotId":"12oSzrBIyirNs0aCwk6elL","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Don't Speak","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"2","artist":"No Doubt","genres":"","duration":"263000","spotId":"5PsUB0ISfQxRLhF5DmI5Ks","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"One","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"1","artist":"Metallica","genres":"metal,thrash metal,rock,heavy metal,hard rock","duration":"447440","spotId":"64Ret7Tf2M8pDE4aqbW2tX","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Alone Again","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Dokken","genres":"glam metal,glam rock,hard rock,heavy metal","duration":"262200","spotId":"1j06ieEC2BOCM0fTmYhn2l","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Alone","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Heart","genres":"rock clásico,aor,rock","duration":"218733","spotId":"4bOuKePyMuHZDxtDHdmiql","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"More Than a Feeling","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Boston","genres":"rock clásico,aor","duration":"282960","spotId":"4thoaEcye9jA1psYBtMB5a","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"(Everything I Do) I Do It For You","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Bryan Adams","genres":"","duration":"394133","spotId":"2jf9hlrkAObovjtProCHgT","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Wonderful Tonight","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Eric Clapton","genres":"blues,blues rock,rock clásico","duration":"222626","spotId":"1GXIpIIapshBiLSp4P805j","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Now And Forever","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Richard Marx","genres":"rock suave","duration":"213681","spotId":"7wakVX364kj3RxBEROHgDN","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"With A Little Help From My Friends","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Joe Cocker","genres":"","duration":"313173","spotId":"2M0REX1tSFMe3VgEzlBCnj","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Walking in Memphis","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Marc Cohn","genres":"","duration":"252613","spotId":"0ZF6DoexCNgCx1Jpo6YBni","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Hazard","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Richard Marx","genres":"rock suave","duration":"316733","spotId":"6wHrCCOytZ6TwOuK4Jz5yY","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Right Here Waiting","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Richard Marx","genres":"rock suave","duration":"263893","spotId":"0SoelxxmmXbQAQyLAl3LtX","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Love Hurts","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Nazareth","genres":"hard rock","duration":"232120","spotId":"4ndDbJMhpCC5DxFOzMmf4t","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Still Loving You","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Scorpions","genres":"hard rock,glam metal,rock","duration":"387000","spotId":"0HKOiphhmmShycugrccUoz","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"I Remember You","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Skid Row","genres":"glam metal,glam rock,hard rock","duration":"314026","spotId":"2kyDqWZoa2VVyrgtlx3yQT","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Beth","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"KISS","genres":"glam metal,glam rock,hard rock,rock,rock clásico","duration":"166533","spotId":"7q9BcITY1aeDhbjt7Yq0nx","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"November Rain","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Guns N' Roses","genres":"rock,glam metal,hard rock,rock clásico","duration":"536960","spotId":"614dpc6m0q6YGFmGchFGx1","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"More Than Words","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Extreme","genres":"glam metal","duration":"335946","spotId":"7z0JcZ8PQoAfUaLIXvbyTH","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Home Sweet Home","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Mötley Crüe","genres":"glam metal,hard rock,glam rock","duration":"239666","spotId":"0oqVuh6ldLQO2TKCcE3rzE","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Fly To The Angels","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Slaughter","genres":"glam metal,glam rock,hard rock","duration":"272240","spotId":"6e165g8fp2WDCBwF1zxLMh","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Don't Cry","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Guns N' Roses","genres":"rock,glam metal,hard rock,rock clásico","duration":"284800","spotId":"0ZEhlT9v8CdOKu55zhYGv9","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Wind Of Change","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Scorpions","genres":"hard rock,glam metal,rock","duration":"312093","spotId":"4zpWGC5MmGN6zX4J9XV8Gv","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Dream On","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Aerosmith","genres":"rock clásico,rock","duration":"265093","spotId":"4GQhneb43FYda0g6P4pmwa","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Who Wants To Live Forever","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Queen","genres":"rock clásico,rock,glam rock","duration":"315000","spotId":"22KvnSgCUY8ix8riybbYiI","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Heaven","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Warrant","genres":"glam metal,glam rock","duration":"237306","spotId":"71MFFmfNghNbW8n2cYVan3","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Lonely Nights","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Scorpions","genres":"hard rock,glam metal,rock","duration":"289200","spotId":"60zlqalFjTVOIODjXtmX3M","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Always","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Bon Jovi","genres":"glam metal,rock","duration":"353106","spotId":"7o10Pto0YFchZl1zL4dLPH","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Patience","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Guns N' Roses","genres":"rock,glam metal,hard rock,rock clásico","duration":"354400","spotId":"1p3SJw1Hf2gSpk20iTZB77","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Quicksand Jesus","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Skid Row","genres":"glam metal,glam rock,hard rock","duration":"324266","spotId":"4ZN9DGGrjvvaMzpBRSpKbB","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Save Me","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Queen","genres":"rock clásico,rock,glam rock","duration":"227933","spotId":"5xDFYRukUOamdjnFoM3RoW","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Love Bites","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Def Leppard","genres":"glam metal,glam rock,rock clásico","duration":"346560","spotId":"61rL198HLW80SPNeUnXHKS","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Too Much Love Will Kill You","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Queen","genres":"rock clásico,rock,glam rock","duration":"260133","spotId":"59xNhKR4abaCKdHzIxTApc","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Love Of A Lifetime","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Firehouse","genres":"glam metal,glam rock","duration":"287333","spotId":"3xphDPQWuhXKTSnQxu4Chs","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Open Arms","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Journey","genres":"aor,rock clásico","duration":"198466","spotId":"5UekWkKDon1DlVqPqz1lts","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"With Arms Wide Open","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Creed","genres":"post-grunge","duration":"278440","spotId":"2eY1BRbRcK6SRb0rD90suw","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Total Eclipse of the Heart","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Bonnie Tyler","genres":"","duration":"270546","spotId":"5p34sF7EskpzTuW3RGy9fs","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Keep On Loving You","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"REO Speedwagon","genres":"rock suave,aor,rock clásico","duration":"201400","spotId":"5636Xs8a7VHFVs2nx5IiFi","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Sometimes She Cries","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Warrant","genres":"glam metal,glam rock","duration":"285000","spotId":"3wXHoN9TNwGYBZFNEjfH0U","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Wasting Love","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Iron Maiden","genres":"heavy metal,metal,hard rock,rock","duration":"350933","spotId":"2DFTsbBalul96hXk8Af5qP","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"The Flame","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Cheap Trick","genres":"power pop,aor,rock clásico,glam rock","duration":"337466","spotId":"5MqdF1b8bMvZeSxHBGzYLZ","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"These Dreams","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Heart","genres":"rock clásico,aor,rock","duration":"254960","spotId":"5fRTUCS48zwiGai2Ku8gSg","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Dust in the Wind","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Kansas","genres":"rock clásico,rock progresivo,aor","duration":"208893","spotId":"06Bbv9djSTf9Km9LT0VS2a","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Tears","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Rush","genres":"rock progresivo,rock clásico,rock,hard rock,aor","duration":"210466","spotId":"4WBbhiWhfXREuZsCJp7pkP","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Heaven","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Bryan Adams","genres":"","duration":"243693","spotId":"3wvfuyGNtR7ySfRkhtXtO9","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Nothingman","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Pearl Jam","genres":"grunge,rock,post-grunge","duration":"273160","spotId":"63HwiUVVDlWJFiBxDoF5QI","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Black","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Pearl Jam","genres":"grunge,rock,post-grunge","duration":"344200","spotId":"2iPpOfObkNBlmWGNhRAvvU","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Last Kiss","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Pearl Jam","genres":"grunge,rock,post-grunge","duration":"195653","spotId":"3RErQfC1s2idTehzBKu4Dh","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"My Immortal","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Evanescence","genres":"metal alternativo","duration":"264213","spotId":"5yfm86D6OWqUubkPvlOueh","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"With Or Without You","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"U2","genres":"rock","duration":"296160","spotId":"3jgvZOgkbonsOKESHpxd8j","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"No Stranger To Love","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Black Sabbath","genres":"metal,heavy metal,rock,stoner rock,hard rock,doom metal,rock clásico","duration":"265906","spotId":"6gFux7Ge8SNf55Tl8NknvJ","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Don't Dream It's Over","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Crowded House","genres":"","duration":"236933","spotId":"4rr67zXmEYf9ykLigeEsbv","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Time After Time","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Cyndi Lauper","genres":"","duration":"237866","spotId":"05NEcj4geEg0JthGNSGUI7","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Life On Mars?","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"David Bowie","genres":"glam rock,art rock","duration":"230773","spotId":"4hcBJfogkdbHWnA55xSVRG","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Tears in Heaven","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Eric Clapton","genres":"blues,blues rock,rock clásico","duration":"271760","spotId":"7utRJ4BeYx85khzP3lKoBX","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Rocket Man","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"My Morning Jacket","genres":"country alternativo","duration":"299826","spotId":"03auri1kCcQxFDvU3yoD3E","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Fake Plastic Trees","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Radiohead","genres":"art rock,rock alternativo","duration":"290706","spotId":"2idPbrdDm0JOEtbGieWyoZ","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Angie","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"The Rolling Stones","genres":"rock clásico,rock","duration":"273133","spotId":"5BcsqacEuzOs1G4B9xpVE3","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"I'm Not In Love","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"10cc","genres":"art rock,glam rock","duration":"364826","spotId":"35m7m7g0ix5UJhbxseMGVA","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Colorblind","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Counting Crows","genres":"","duration":"203493","spotId":"1TLjb9skf1LU94swA1TQCU","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Bed Of Roses","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Bon Jovi","genres":"glam metal,rock","duration":"394400","spotId":"0M1v0fHTmocLHyjyP8CFUS","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Purple Rain","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Prince","genres":"funk rock","duration":"527826","spotId":"78tohUCFtANyQCWrbGgHMH","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Every Breath You Take","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"The Police","genres":"","duration":"251346","spotId":"16fzReMJmcLlBccnZCTZNS","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"The Show Must Go On","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Queen","genres":"rock clásico,rock,glam rock","duration":"275800","spotId":"3lA3Pm88kZiD7F4X0cXeI4","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Everybody Hurts","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"R.E.M.","genres":"jangle pop,rock alternativo,rock","duration":"318240","spotId":"28AZM08WStiEXfqN065BvN","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"As Tears Go By","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"The Rolling Stones","genres":"rock clásico,rock","duration":"165280","spotId":"5JHVY8cOtGvedCy9Jwi1k4","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"She's Gone","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"STEELHEART","genres":"glam metal,glam rock","duration":"391533","spotId":"6HJ6dElVBIqmqx0gqxYloY","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"One","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"U2","genres":"rock","duration":"276133","spotId":"0q52QGBWeEY1cMgHJCKhDD","Items":["-HAPPY-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Babe","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Styx","genres":"rock clásico,aor,rock progresivo","duration":"239546","spotId":"2JI4SuXDEnxBjV7mkowzWd","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Africa","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"TOTO","genres":"rock suave","duration":"298706","spotId":"10fJz5dd1agjkMJmUHdJfD","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"The Drugs Don't Work","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"The Verve","genres":"britpop,shoegaze","duration":"305066","spotId":"2KArbNRAnfGcnZ1gSYhVy5","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Love Of My Life","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Queen","genres":"rock clásico,rock,glam rock","duration":"217386","spotId":"1luVGXHe7oimtkPScdsKBe","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"The Reason","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Hoobastank","genres":"nu metal","duration":"233200","spotId":"1k0nfP0tlD4hQWRIkRAULd","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"If You Leave Me Now","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Chicago","genres":"rock suave","duration":"233706","spotId":"1OyovoA7cD9aWHtA4qdehe","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"Raining In Baltimore","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Counting Crows","genres":"","duration":"281600","spotId":"4kEhFYSyrI16HKnwsUuJbQ","Items":["-SADNE-","-SLOWSS-","","","GN_BalladRock"]}, {"couname":"I'd Do Anything For Love","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Meat Loaf","genres":"","duration":"322933","spotId":"0BhAgu3p85JlNbg6Mh4bvZ","Items":["-SADNE-","-ENERGY-","","","GN_BalladRock"]}, {"couname":"Baby, I Love Your Way","img":"https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411","pty":"0","artist":"Peter Frampton, Chris Kimsey","genres":"rock clásico","duration":"281813","spotId":"4NElaqEGOMshLvb6klAxbr","Items":["-HAPPY-","-ENERGY-","","","GN_BalladRock"]}]
+[
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27301caab67e3895e506b35e1e7",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "CT_Norway",
+      "GN_BalladRock",
+      "GN_Piano",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Bryan Adams",
+    "genres": 0,
+    "spotId": "1HDaENkQhUMm16pjdxZvHn",
+    "couname": "Please Forgive Me",
+    "duration": "355640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Rush",
+    "genres": 0,
+    "spotId": "4WBbhiWhfXREuZsCJp7pkP",
+    "couname": "Tears",
+    "duration": "210466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734042ca1eaf2d769794da7930",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_BalladRock",
+      "XT_AboutTime",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Bob Dylan",
+    "genres": 0,
+    "spotId": "1C4yOUEjCUyPkxRDwwFksG",
+    "couname": "Forever Young",
+    "duration": "168733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b25c31d78b73d003e1b2d6d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_BalladRock",
+      "XT_BodyParts",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Bryan Adams",
+    "genres": 0,
+    "spotId": "5eaK7PLGwyDXmHfTdWZZuE",
+    "couname": "Straight From The Heart",
+    "duration": "211933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738a2ce3f148f57584269c3782",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Disco",
+      "TV_Rolling500",
+      "XT_Colors",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_LongSongs",
+      "XT_Water",
+      "XT_Weather",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Prince",
+    "genres": 0,
+    "spotId": "1uvyZBs4IZYRebHIB1747m",
+    "couname": "Purple Rain",
+    "duration": "521866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "April Wine",
+    "genres": 0,
+    "spotId": "2Xa2C6ftMdcg3j7YSot8dY",
+    "couname": "Just Between You And Me",
+    "duration": "235560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273577bafd70c666aac2e72f69d",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "CT_Norway",
+      "GN_BalladRock",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Love",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Meat Loaf",
+    "genres": 0,
+    "spotId": "391CwgcBxvUHmEKda2b5In",
+    "couname": "I'd Do Anything For Love",
+    "duration": "316466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273493fcbdc88652d079de00875",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "GN_BalladRock",
+      "XT_Cars",
+      "XT_Intros",
+      "XT_Oscars",
+      "XT_Places",
+      "XT_Running",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Bruce Springsteen",
+    "genres": 0,
+    "spotId": "5Nj8kBJdpJJ4I9wxQyp8JH",
+    "couname": "Streets of Philadelphia",
+    "duration": "252493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Survivor",
+    "genres": 0,
+    "spotId": "6hQPR6kNQ98TdHGXjhK5As",
+    "couname": "Ever Since the World Began",
+    "duration": "222053"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733b7492bb678d5d51683444ae",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "TV_OneHit",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Mike Reno,Ann Wilson",
+    "genres": 0,
+    "spotId": "3HI7oXJcgIXOhhPBvONWFo",
+    "couname": "Almost Paradise",
+    "duration": "228666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Dan Fogelberg",
+    "genres": 0,
+    "spotId": "47dJl5fepRUY6d4kcrgfd8",
+    "couname": "Leader of the Band / Washington Post March",
+    "duration": "288786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Mark Knopfler",
+    "genres": 0,
+    "spotId": "0wnzuUwUlbnCKixvp9aJZT",
+    "couname": "Going Home: Theme Of The Local Hero",
+    "duration": "298666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "John Farnham",
+    "genres": 0,
+    "spotId": "5D70st7X9fpm7f90RQZXzU",
+    "couname": "Help",
+    "duration": "264480"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Scorpions",
+    "genres": 0,
+    "spotId": "60zlqalFjTVOIODjXtmX3M",
+    "couname": "Lonely Nights",
+    "duration": "289200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273653b110d9560eb1656f4c583",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Piano",
+      "TV_Mafia",
+      "XT_Colors",
+      "XT_Gold",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Sting",
+    "genres": 0,
+    "spotId": "0I1DJdLt9BKOb7GWmWxCjo",
+    "couname": "Fields Of Gold",
+    "duration": "222120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731113056ad6541d6a1c92f50c",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_Choirs",
+      "GN_Piano",
+      "GN_Synth",
+      "TV_BestVideos",
+      "TV_Rolling500",
+      "TV_Simpsons120",
+      "XT_AboutTime",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Cyndi Lauper",
+    "genres": 0,
+    "spotId": "05NEcj4geEg0JthGNSGUI7",
+    "couname": "Time After Time",
+    "duration": "237866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "The Beatles Greatest Hits Performed By The Frank Berman Band",
+    "genres": 0,
+    "spotId": "7uRQdPmDfVhp9lUUDFmqtB",
+    "couname": "Hey Jude",
+    "duration": "297540"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735ad54eb65fcb443e2458ca67",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_Piano",
+      "XT_AboutTime",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Eric Clapton",
+    "genres": 0,
+    "spotId": "4qmHeQBYieqj3VMAPascsE",
+    "couname": "Wonderful Tonight",
+    "duration": "225026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Heart",
+    "genres": 0,
+    "spotId": "5KwYd278TmyAkLs686tsyw",
+    "couname": "Stranded",
+    "duration": "238826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736a760642a56847027428cb61",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Intros",
+      "XT_LongSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Jeff Buckley",
+    "genres": 0,
+    "spotId": "3pRaLNL3b8x5uBOcsgvdqM",
+    "couname": "Hallelujah",
+    "duration": "413826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Femme"
+    ],
+    "artist": "Vixen",
+    "genres": 0,
+    "spotId": "1Fu3vJJwVKY7c7JnTX3Mvi",
+    "couname": "Cryin'",
+    "duration": "211906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "TV_OneHit",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Edwin McCain",
+    "genres": 0,
+    "spotId": "5NTcpy7nmcXbPrbxZ0cc60",
+    "couname": "I'll Be",
+    "duration": "266533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael W. Smith",
+    "genres": 0,
+    "spotId": "3CO19cTl5zzlWx9GWEpOhD",
+    "couname": "I Will Be Here For You",
+    "duration": "273773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736bb1e018d7d019547ff8799f",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "GN_BalladRock",
+      "GN_Piano",
+      "GN_Synth",
+      "XT_Karaoke",
+      "XT_Love",
+      "YR_8089",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band"
+    ],
+    "artist": "Roxette",
+    "genres": 0,
+    "spotId": "4Q5GlybYPJmthH9tRI5XPU",
+    "couname": "It Must Have Been Love",
+    "duration": "287826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a58fad5384604237cc50d532",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Scorpions",
+    "genres": 0,
+    "spotId": "0C9eI0xwHF5n1W5fDpve6i",
+    "couname": "When The Smoke Is Going Down",
+    "duration": "156693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Dark Below,Matt James,Blacktop Mojo",
+    "genres": 0,
+    "spotId": "0OgDZoopBvmHRC72KP3bII",
+    "couname": "Can't Let Go",
+    "duration": "176285"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "GXTP",
+    "genres": 0,
+    "spotId": "2hGTAviNTW4JGAjCJ0QtBh",
+    "couname": "Angel Born in Hell",
+    "duration": "164360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27300f2ff3143d5efecaa4c9013",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Choirs",
+      "GN_Piano",
+      "TV_OneHit",
+      "XT_Karaoke",
+      "XT_Places",
+      "XT_Running",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Marc Cohn",
+    "genres": 0,
+    "spotId": "1RK2P5wLHztXusT3mHoics",
+    "couname": "Walking in Memphis",
+    "duration": "252613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Damn Yankees",
+    "genres": 0,
+    "spotId": "7xYj0nZdH80VYy75j97ILn",
+    "couname": "High Enough",
+    "duration": "286026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Scorpions",
+    "genres": 0,
+    "spotId": "4JuBGuAOso3H2d630obhMM",
+    "couname": "Send Me An Angel",
+    "duration": "274173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273032ecf340e696eeb51b0e7a3",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_Disco",
+      "GN_Piano",
+      "TV_Mafia",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Police",
+    "genres": 0,
+    "spotId": "16fzReMJmcLlBccnZCTZNS",
+    "couname": "Every Breath You Take",
+    "duration": "251346"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27337cd18af5725b9cad0a5ab53",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "TV_Rolling500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "U2",
+    "genres": 0,
+    "spotId": "3G69vJMWsX6ZohTykad2AU",
+    "couname": "One",
+    "duration": "276186"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736a817ca96f7ea6f5ba63be05",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Karaoke",
+      "XT_Love",
+      "XT_Questions",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Chicago",
+    "genres": 0,
+    "spotId": "3gtl3znXC28K5apBChEOja",
+    "couname": "Will You Still Love Me?",
+    "duration": "343533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Harem Scarem",
+    "genres": 0,
+    "spotId": "71Eh6i00glqWtk1rSoo7Bw",
+    "couname": "Something to Say",
+    "duration": "285893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Sam Morrison and Turn The Page",
+    "genres": 0,
+    "spotId": "0KYdW05lpGKnXaaM9fMIYZ",
+    "couname": "Against the Wind",
+    "duration": "334146"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Ozzy Osbourne",
+    "genres": 0,
+    "spotId": "44iFQNDCVfv2WHPdn7Wy1R",
+    "couname": "Goodbye to Romance",
+    "duration": "335872"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Nazareth",
+    "genres": 0,
+    "spotId": "08ZqUEXuHrG12wYbaBaQYQ",
+    "couname": "Where Are You Now",
+    "duration": "235546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Thin Lizzy",
+    "genres": 0,
+    "spotId": "0RW2GdRcn5qTrZPhXQLqML",
+    "couname": "Still In Love With You",
+    "duration": "340040"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737600476c7e8c3142997ca6ce",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Verve",
+    "genres": 0,
+    "spotId": "0F1sjS4EhR1Rwiq4ir6mqZ",
+    "couname": "The Drugs Don't Work",
+    "duration": "304880"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Radiohead",
+    "genres": 0,
+    "spotId": "2idPbrdDm0JOEtbGieWyoZ",
+    "couname": "Fake Plastic Trees",
+    "duration": "290706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27338cc7608615675b52d894ce7",
+    "pty": 0,
+    "Items": [
+      "BT_Queen_DavidBowie",
+      "GN_BalladRock",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Queen",
+    "genres": 0,
+    "spotId": "3hU637WcAGM5ubSqeaTme5",
+    "couname": "The Show Must Go On",
+    "duration": "277826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "GN_BalladRock",
+      "TV_OneHit",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Crash Test Dummies",
+    "genres": 0,
+    "spotId": "0yA1MBQ60SoiYt7xqdS3H1",
+    "couname": "Mmm Mmm Mmm Mmm",
+    "duration": "233266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732f85b65d3ac4d3d7f806ca11",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "TV_Halloween",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Radiohead",
+    "genres": 0,
+    "spotId": "6b2oQwSGFkzsMtQruIWm2p",
+    "couname": "Creep",
+    "duration": "238640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739cd3665c5518c19b9ba36676",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_BalladRock",
+      "TV_OneHit",
+      "XT_Cars",
+      "XT_Karaoke",
+      "XT_Love",
+      "XT_Oscars",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Peter Cetera",
+    "genres": 0,
+    "spotId": "1eyq8cjUQ2daFthW2PC2GM",
+    "couname": "Glory of Love",
+    "duration": "258333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "TV_BestVideos",
+      "XT_Karaoke",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Bryan Adams",
+    "genres": 0,
+    "spotId": "3wvfuyGNtR7ySfRkhtXtO9",
+    "couname": "Heaven",
+    "duration": "243693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731054d7db984ee7a046cfcafc",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_BalladRock",
+      "TV_Simpsons120",
+      "XT_Intros",
+      "YR6069",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Joe Cocker",
+    "genres": 0,
+    "spotId": "7JoQCYsMaLmjcknAoZY43E",
+    "couname": "With A Little Help From My Friends",
+    "duration": "312200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Saigon Kick",
+    "genres": 0,
+    "spotId": "3F3n2V9XBrtb1omqLfcNPe",
+    "couname": "Love Is on the Way",
+    "duration": "264173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Great White",
+    "genres": 0,
+    "spotId": "0eKqTkIKqgU10d0lelVKvh",
+    "couname": "Save Your Love",
+    "duration": "278040"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737a231174875d7930de9dad58",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Piano",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Bon Jovi",
+    "genres": 0,
+    "spotId": "577MNC3o3L0lNIzx9abqOk",
+    "couname": "Thank You For Loving Me",
+    "duration": "308933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Joe Satriani",
+    "genres": 0,
+    "spotId": "0NNep3grWO95CVGp04gMM4",
+    "couname": "Always with Me, Always with You",
+    "duration": "202533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Learns To Rock",
+    "genres": 0,
+    "spotId": "4EG6GDujFbfS1fye0b1OnM",
+    "couname": "25 Minutes",
+    "duration": "260959"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "BT_Queen_DavidBowie",
+      "GN_BalladRock",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Queen",
+    "genres": 0,
+    "spotId": "59xNhKR4abaCKdHzIxTApc",
+    "couname": "Too Much Love Will Kill You",
+    "duration": "260133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273222cb38afc3b3b47d9df26aa",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Def Leppard",
+    "genres": 0,
+    "spotId": "6EzSduIPnAmO3o41HY5V9d",
+    "couname": "Hysteria",
+    "duration": "354636"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Karaoke",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Richard Marx",
+    "genres": 0,
+    "spotId": "7wakVX364kj3RxBEROHgDN",
+    "couname": "Now And Forever",
+    "duration": "213681"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730e987064364e2b62ae1925b4",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Intros",
+      "XT_Water",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Bruce Springsteen",
+    "genres": 0,
+    "spotId": "7HrzErXq3TsKOY1gmdIShB",
+    "couname": "The River",
+    "duration": "301546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "TV_OneHit",
+      "XT_Love",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Whitesnake",
+    "genres": 0,
+    "spotId": "4n3WOb4AvjLgGPz39gzsYI",
+    "couname": "Is This Love",
+    "duration": "281400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Karaoke",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Rod Stewart",
+    "genres": 0,
+    "spotId": "1FzXFRQWwh8os0fR2VwbIF",
+    "couname": "I Don't Want to Talk About It",
+    "duration": "292186"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27344cb13558d57f5a066fac381",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Piano",
+      "TV_Rolling500",
+      "XT_Intros",
+      "XT_Places",
+      "XT_Water",
+      "XT_Weather",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Eric Clapton",
+    "genres": 0,
+    "spotId": "1kgdslQYmeTR4thk9whoRw",
+    "couname": "Tears in Heaven",
+    "duration": "271760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273962c158ac47845e7051fae4e",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Dreaming",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Ozzy Osbourne",
+    "genres": 0,
+    "spotId": "78PKCefXwDLbl4FVO1Pjzh",
+    "couname": "Dreamer",
+    "duration": "284906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Europe",
+    "genres": 0,
+    "spotId": "7sPY85Dj5t6AYeyQAJ9mp0",
+    "couname": "Carrie",
+    "duration": "270533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273440c336284a1922d3af602a7",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "BT_RollingStones",
+      "GN_BalladRock",
+      "GN_PsychedelicRock",
+      "GN_ViolinSolo",
+      "XT_Intros",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Rolling Stones",
+    "genres": 0,
+    "spotId": "6oD0TvHIYmObKNl5Mz05ri",
+    "couname": "Angie",
+    "duration": "272000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735188ad8383453a2384fdebca",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "TV_Simpsons120",
+      "XT_Love",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Bad Company",
+    "genres": 0,
+    "spotId": "48g0JAGj3vmKL6JfEL7y63",
+    "couname": "Feel like Makin' Love",
+    "duration": "314093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a461aa96bd9a8fcd0a492aee",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "BT_Queen_DavidBowie",
+      "GN_BalladRock",
+      "GN_Piano",
+      "XT_Love",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Queen",
+    "genres": 0,
+    "spotId": "1luVGXHe7oimtkPScdsKBe",
+    "couname": "Love Of My Life",
+    "duration": "217386"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "BT_Queen_DavidBowie",
+      "GN_BalladRock",
+      "GN_ViolinSolo",
+      "TV_Rolling500",
+      "XT_MoonStars",
+      "XT_Questions",
+      "XT_Weather",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "David Bowie",
+    "genres": 0,
+    "spotId": "4hcBJfogkdbHWnA55xSVRG",
+    "couname": "Life On Mars?",
+    "duration": "230773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27305a41288f037a08fb45db5e2",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "GN_BalladRock",
+      "XT_Cars",
+      "XT_Intros",
+      "XT_Oscars",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Bryan Adams",
+    "genres": 0,
+    "spotId": "1Eb90nmqTrxylKFhcUzW8P",
+    "couname": "(Everything I Do) I Do It For You",
+    "duration": "393640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273114b2baa75317b81a8c9c7ca",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_DrumSolo",
+      "GN_Synth",
+      "GN_ViolinSolo",
+      "TV_Rolling500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_1019",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "INXS",
+    "genres": 0,
+    "spotId": "3pyTksNccLM1jRvzQ4zTke",
+    "couname": "Never Tear Us Apart",
+    "duration": "184586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Two Door Cinema Club",
+    "genres": 0,
+    "spotId": "0oEweHsuQagFuqXct9UvBm",
+    "couname": "What You Know",
+    "duration": "191426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27393b928da89898d411bdb2d14",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Homme"
+    ],
+    "artist": "Gary Moore,Phil Lynott",
+    "genres": 0,
+    "spotId": "7dRnKtKfOBYdBrrHkxgCFw",
+    "couname": "Parisienne Walkways",
+    "duration": "193853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27399581550ef9746ca582bb3cc",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Piano",
+      "TV_Rolling500",
+      "XT_History",
+      "XT_Intros",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "John Lennon",
+    "genres": 0,
+    "spotId": "7pKfPomDEeI4TPT6EOYjn9",
+    "couname": "Imagine",
+    "duration": "187866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "BT_PhilCollins_Genesis",
+      "GN_BalladRock",
+      "GN_Disco",
+      "GN_DrumSolo",
+      "TV_Rolling500",
+      "XT_AboutTime",
+      "XT_Dreaming",
+      "XT_Flying",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Phil Collins",
+    "genres": 0,
+    "spotId": "6mYXXXgFZZmk2mgejwSwdN",
+    "couname": "In the Air Tonight",
+    "duration": "331053"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27385e5dcc05cc216a10f141480",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "XT_BodyParts",
+      "XT_Karaoke",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Oasis",
+    "genres": 0,
+    "spotId": "0UvCh63URrLFcPkKt99hHd",
+    "couname": "Don't Look Back in Anger",
+    "duration": "289560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_DrumSolo",
+      "GN_Piano",
+      "GN_ViolinSolo",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "TV_SpotifyS500",
+      "XT_BodyParts",
+      "XT_Intros",
+      "XT_Plants",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Goo Goo Dolls",
+    "genres": 0,
+    "spotId": "6HLNcLU4jIpafRf4mQ2Ivx",
+    "couname": "Iris",
+    "duration": "289906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Animals",
+    "genres": 0,
+    "spotId": "3TETmhGNWOcquUTtcr6RIR",
+    "couname": "The House of the Rising Sun",
+    "duration": "269906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27322c3c99e7aa0ba6cd08a6be6",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "girl",
+      "GN_BalladRock",
+      "XT_BodyParts",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band"
+    ],
+    "artist": "Roxette",
+    "genres": 0,
+    "spotId": "2MaBAGBIttgv86bYytdx1f",
+    "couname": "Listen To Your Heart",
+    "duration": "328093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733c21d5de3af8001423b74997",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_Choirs",
+      "TV_Rolling500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "U2",
+    "genres": 0,
+    "spotId": "22tceep2vzeOKKX1jIjiLi",
+    "couname": "I Still Haven't Found What I'm Looking For",
+    "duration": "277476"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730378fba8fe57b59a6244bb62",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Piano",
+      "TV_Rolling500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "U2",
+    "genres": 0,
+    "spotId": "6QPhpvO1pWDS91EsEmzsbc",
+    "couname": "With Or Without You",
+    "duration": "296226"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730ae5a97717f7518505b3b45f",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Love",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Nazareth",
+    "genres": 0,
+    "spotId": "5g1rzUEyVFNr2i4ifEjlVN",
+    "couname": "Love Hurts",
+    "duration": "232120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736c86683d20c72e3874c11c6d",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Intros",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Bob Dylan",
+    "genres": 0,
+    "spotId": "6HSXNV0b4M4cLJ7ljgVVeh",
+    "couname": "Knockin' On Heaven's Door",
+    "duration": "149880"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Baby",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Peter Frampton,Chris Kimsey",
+    "genres": 0,
+    "spotId": "4NElaqEGOMshLvb6klAxbr",
+    "couname": "Baby, I Love Your Way",
+    "duration": "281813"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734288541358b52f94bf9826b1",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "GN_BalladRock",
+      "GN_Piano",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_Colors",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Monarchy",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Chris de Burgh",
+    "genres": 0,
+    "spotId": "1523Yp80GgISzfWgBisj1l",
+    "couname": "The Lady In Red",
+    "duration": "256173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273056e90910cbaf5c5b892aeba",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "BT_Queen_DavidBowie",
+      "GN_BalladRock",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Queen",
+    "genres": 0,
+    "spotId": "1pBFEy8cz0Fq4Pru0c4awd",
+    "couname": "Save Me",
+    "duration": "229920"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Van Halen",
+    "genres": 0,
+    "spotId": "0hrdSZEcjqnNZhoBhcpb0i",
+    "couname": "Can't Stop Lovin' You",
+    "duration": "248200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27349062a073388e1a0d188893c",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_BodyParts",
+      "XT_Intros",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Vandenberg",
+    "genres": 0,
+    "spotId": "6mVJRgyXJ3eAy6EViECJyW",
+    "couname": "Burning Heart",
+    "duration": "250693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733ce3e2272e25916844f10d86",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "TV_OneHit",
+      "XT_Dreaming",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band"
+    ],
+    "artist": "Crowded House",
+    "genres": 0,
+    "spotId": "7G7tgVYORlDuVprcYHuFJh",
+    "couname": "Don't Dream It's Over",
+    "duration": "236933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27331f8c6d9e21df18ddcb51e5e",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_PsychedelicRock",
+      "TV_Mafia",
+      "TV_Rolling500",
+      "TV_Simpsons120",
+      "XT_Intros",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Pink Floyd",
+    "genres": 0,
+    "spotId": "29zkoUsOE50f0I3n44LjjU",
+    "couname": "Comfortably Numb",
+    "duration": "382296"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Boston",
+    "genres": 0,
+    "spotId": "4ZQ0JkbClEmtJi3cDs5UUi",
+    "couname": "Can'tcha Say",
+    "duration": "312840"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731de27f12958ceb8b1f65461a",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "XT_Karaoke",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Chicago",
+    "genres": 0,
+    "spotId": "0KMGxYKeUzK9wc5DZCt3HT",
+    "couname": "If You Leave Me Now",
+    "duration": "235373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Def Leppard",
+    "genres": 0,
+    "spotId": "4YwR2G26Pp5jNUX3gN3EIP",
+    "couname": "When Love And Hate Collide",
+    "duration": "256866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27343511b8c20112757edddc7ba",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "XT_Love",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Def Leppard",
+    "genres": 0,
+    "spotId": "4qWizh4UB8BuSypZ3T1zAz",
+    "couname": "Love Bites",
+    "duration": "346960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273aa342118c75cf890db12b3c7",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Alias",
+    "genres": 0,
+    "spotId": "1EB3Z38oKDKVp4K2yEO2dl",
+    "couname": "More Than Words Can Say",
+    "duration": "234196"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Flying",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Aerosmith",
+    "genres": 0,
+    "spotId": "5PxQhGYkbGXzjOLaUfAYMf",
+    "couname": "Fly Away From Here",
+    "duration": "302151"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b815265c56ecfa5136a4015d",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Piano",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "REO Speedwagon",
+    "genres": 0,
+    "spotId": "5WwqdeavrQrbeAMDxGawse",
+    "couname": "Can't Fight This Feeling",
+    "duration": "294773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "KISS",
+    "genres": 0,
+    "spotId": "3onHM3etsRdtbTS7cgwkNb",
+    "couname": "Reason To Live",
+    "duration": "240266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "R.E.M.",
+    "genres": 0,
+    "spotId": "5Knohtj8UsTpFZsTCkMZWx",
+    "couname": "At My Most Beautiful",
+    "duration": "215200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Journey",
+    "genres": 0,
+    "spotId": "7EHmKkyAr6MZv5Y2FdZbXw",
+    "couname": "Lights",
+    "duration": "190333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273787674b6a114f98cad6f834b",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "CT_Norway",
+      "GN_BalladRock",
+      "GN_GuitarSolo",
+      "TV_BestVideos",
+      "XT_Flying",
+      "XT_History",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Weather",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Scorpions",
+    "genres": 0,
+    "spotId": "3ovjw5HZZv43SxTwApooCM",
+    "couname": "Wind Of Change",
+    "duration": "312360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Pearl Jam",
+    "genres": 0,
+    "spotId": "63HwiUVVDlWJFiBxDoF5QI",
+    "couname": "Nothingman",
+    "duration": "273160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Mr. Big",
+    "genres": 0,
+    "spotId": "7MvH3ZyA1l72z3XiTFUIEH",
+    "couname": "Goin' Where the Wind Blows",
+    "duration": "259200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Skid Row",
+    "genres": 0,
+    "spotId": "4ZN9DGGrjvvaMzpBRSpKbB",
+    "couname": "Quicksand Jesus",
+    "duration": "324266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a58c62e75b82e9c3b47d9ef3",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_ViolinSolo",
+      "XT_Karaoke",
+      "XT_Weather",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Disturbed",
+    "genres": 0,
+    "spotId": "0eZBeB2xFIS65jQHerispi",
+    "couname": "The Sound of Silence",
+    "duration": "248466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Tano Jones Revelry",
+    "genres": 0,
+    "spotId": "0oynmtmp5en13y77ratUuK",
+    "couname": "Light It",
+    "duration": "211612"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "ZZ Top",
+    "genres": 0,
+    "spotId": "3F4c3Beosqm0Obbik5KHAo",
+    "couname": "Rough Boy",
+    "duration": "289160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273130b0f73a9a710d29a457243",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_BalladRock",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Richard Marx",
+    "genres": 0,
+    "spotId": "1ntKYuqLlmV3sTZoNyeHhM",
+    "couname": "Hazard",
+    "duration": "317306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "STEELHEART",
+    "genres": 0,
+    "spotId": "6HJ6dElVBIqmqx0gqxYloY",
+    "couname": "She's Gone",
+    "duration": "391533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Velvet Chains",
+    "genres": 0,
+    "spotId": "3m5dLMa3z9J87sQdDjTXxt",
+    "couname": "Dead Inside",
+    "duration": "194730"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27351f311c2fb06ad2789e3ff91",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "TV_BestVideos",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "XT_Questions",
+      "XT_Water",
+      "XT_Weather",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Creedence Clearwater Revival",
+    "genres": 0,
+    "spotId": "2LawezPeJhN4AWuSB0GtAU",
+    "couname": "Have You Ever Seen The Rain",
+    "duration": "160133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Skid Row",
+    "genres": 0,
+    "spotId": "2kyDqWZoa2VVyrgtlx3yQT",
+    "couname": "I Remember You",
+    "duration": "314026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273af07dc851962508661bbcfce",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_GuitarSolo",
+      "GN_Metal",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Metallica",
+    "genres": 0,
+    "spotId": "10igKaIKsSB6ZnWxPxPvKO",
+    "couname": "Nothing Else Matters",
+    "duration": "388733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Warrant",
+    "genres": 0,
+    "spotId": "3wXHoN9TNwGYBZFNEjfH0U",
+    "couname": "Sometimes She Cries",
+    "duration": "285000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273512d0dd80663f528b6cb43ed",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "White Lion",
+    "genres": 0,
+    "spotId": "4ZCLM74MYhUy80TPiaAuee",
+    "couname": "When the Children Cry",
+    "duration": "258600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737caed93c71f969a3aa69f041",
+    "pty": 0,
+    "Items": [
+      "BT_RollingStones",
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Rolling Stones",
+    "genres": 0,
+    "spotId": "1LD75COdR1n8jTIjommyS2",
+    "couname": "As Tears Go By",
+    "duration": "165213"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27356503c8eab128d1778bee6cf",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_Choirs",
+      "GN_Memes",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_Dreaming",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Aerosmith",
+    "genres": 0,
+    "spotId": "3tAQNhm1o0kzldsI5QkrB1",
+    "couname": "Dream On",
+    "duration": "267306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735967fea5c8c12f00754442d1",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Piano",
+      "XT_Karaoke",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Mötley Crüe",
+    "genres": 0,
+    "spotId": "39WdbGVs8RWHP71p6vLyiD",
+    "couname": "Home Sweet Home",
+    "duration": "239666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27361a5fa7facbc6ea2a64c1efe",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "GN_BalladRock",
+      "GN_Piano",
+      "XT_Cars",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Oscars",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Aerosmith",
+    "genres": 0,
+    "spotId": "4afJNzc6QD51eWAxzAnS0i",
+    "couname": "I Don't Want to Miss a Thing",
+    "duration": "267986"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Stryper",
+    "genres": 0,
+    "spotId": "0ZVVaj7xLZAavrQLkenPYG",
+    "couname": "Honestly",
+    "duration": "237506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "My Morning Jacket",
+    "genres": 0,
+    "spotId": "03auri1kCcQxFDvU3yoD3E",
+    "couname": "Rocket Man",
+    "duration": "299826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Lynyrd Skynyrd",
+    "genres": 0,
+    "spotId": "1xGkvw8sTnDujVFcMN6zvc",
+    "couname": "All I Can Do Is Write About It",
+    "duration": "256532"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Guns N' Roses",
+    "genres": 0,
+    "spotId": "0ZEhlT9v8CdOKu55zhYGv9",
+    "couname": "Don't Cry",
+    "duration": "284800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_Piano",
+      "XT_BodyParts",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Journey",
+    "genres": 0,
+    "spotId": "5UekWkKDon1DlVqPqz1lts",
+    "couname": "Open Arms",
+    "duration": "198466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739b5df9355cf2a5465038b740",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Piano",
+      "TV_OneHit",
+      "XT_BodyParts",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Bad English",
+    "genres": 0,
+    "spotId": "0tKjVEJlX3IZ5L1rEJc5hh",
+    "couname": "When I See You Smile",
+    "duration": "257440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Staind",
+    "genres": 0,
+    "spotId": "6FOpPA0a80RuBqqgDozvja",
+    "couname": "So Far Away",
+    "duration": "243573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_Piano",
+      "TV_OneHit",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Richard Marx",
+    "genres": 0,
+    "spotId": "0SoelxxmmXbQAQyLAl3LtX",
+    "couname": "Right Here Waiting",
+    "duration": "263893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734500f9135365f61270829503",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Gambling",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Guns N' Roses",
+    "genres": 0,
+    "spotId": "2uKcU4FPX5eOjmd6RWb9OF",
+    "couname": "Patience",
+    "duration": "354400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Mr. Big",
+    "genres": 0,
+    "spotId": "0JgDzxPx6ue5NGysiDz2uj",
+    "couname": "I'll Leave It Up To You",
+    "duration": "198840"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273885426f7a6ef11b1cd483279",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_BalladRock",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Tina Turner",
+    "genres": 0,
+    "spotId": "1qyJ6XpMHdsJD8pkiA7Qww",
+    "couname": "We Don't Need Another Hero",
+    "duration": "255186"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Red Hot Chili Peppers",
+    "genres": 0,
+    "spotId": "1iFIZUVDBCCkWe705FLXto",
+    "couname": "Dosed",
+    "duration": "311866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Bon Jovi",
+    "genres": 0,
+    "spotId": "3kE5ToakSPiv7BdeCuyLDc",
+    "couname": "When We Were Beautiful",
+    "duration": "318093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Cars",
+      "XT_Kiss",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Pearl Jam",
+    "genres": 0,
+    "spotId": "3RErQfC1s2idTehzBKu4Dh",
+    "couname": "Last Kiss",
+    "duration": "195653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_DrumSolo",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Red Hot Chili Peppers",
+    "genres": 0,
+    "spotId": "1G391cbiT3v3Cywg8T7DM1",
+    "couname": "Scar Tissue",
+    "duration": "215906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733e030a7e606959674643d274",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "CT_Norway",
+      "GN_BalladRock",
+      "GN_Choirs",
+      "GN_Synth",
+      "TV_BestVideos",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Love",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Foreigner",
+    "genres": 0,
+    "spotId": "1JLn8RhQzHz3qDqsChcmBl",
+    "couname": "I Want to Know What Love Is",
+    "duration": "304786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ac8529be93467378a0272698",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_BalladRock",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Corey Hart",
+    "genres": 0,
+    "spotId": "5U5p472hgeXUKvh0d8RL4K",
+    "couname": "Never Surrender",
+    "duration": "295000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733900d14a61f1081781355c52",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_Intros",
+      "XT_Love",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "10cc",
+    "genres": 0,
+    "spotId": "5Ws2EQtBiwpAcBYYSB14ns",
+    "couname": "I'm Not In Love",
+    "duration": "367240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b2667022348feb5f86bdf59f",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_GuitarSolo",
+      "TV_Simpsons120",
+      "XT_Karaoke",
+      "XT_Plants",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Poison",
+    "genres": 0,
+    "spotId": "5qaSekPPKHIEA1Yn0qkCaC",
+    "couname": "Every Rose Has Its Thorn",
+    "duration": ""
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "GXTP,Killer Mike,Santana",
+    "genres": 0,
+    "spotId": "2FY3V309Dc0X6VS8OWFxC9",
+    "couname": "Te'Kill'Ya",
+    "duration": "219189"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736d31199ec0d0e0213e183ff4",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "XT_Love",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Van Halen",
+    "genres": 0,
+    "spotId": "7gG1RvwQRrofiL3tvq8pBI",
+    "couname": "When It's Love",
+    "duration": "337906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733d9de99dfd0d3bc6f974dea6",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "XT_Intros",
+      "XT_Numbers",
+      "XT_Youth",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Skid Row",
+    "genres": 0,
+    "spotId": "1HlGblweLq0eAwnb0NY1EQ",
+    "couname": "18 and Life",
+    "duration": "231280"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27359afd13f40fa2b0aab89bb0e",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_DrumSolo",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Ugly Kid Joe",
+    "genres": 0,
+    "spotId": "5x9RZg7HfXGY3JayXL3seF",
+    "couname": "Cats In The Cradle",
+    "duration": "241893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c1fadcc997a65384f34d694",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "TV_Dreamworks",
+      "TV_Mafia",
+      "TV_OneHit",
+      "TV_Rolling500",
+      "XT_Flying",
+      "XT_Karaoke",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Boston",
+    "genres": 0,
+    "spotId": "1QEEqeFIZktqIpPI4jSVSF",
+    "couname": "More Than a Feeling",
+    "duration": "285133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Bon Jovi",
+    "genres": 0,
+    "spotId": "0ZLBD6hHGN9LYOtNlu2n8e",
+    "couname": "This Ain't A Love Song",
+    "duration": "306240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Poison",
+    "genres": 0,
+    "spotId": "2OWKsyrgUINadOG21dR0Fh",
+    "couname": "Life Goes On",
+    "duration": "287533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Firehouse",
+    "genres": 0,
+    "spotId": "2kDH08boXJyhKMl5hnZbrE",
+    "couname": "Love of a Lifetime",
+    "duration": "285937"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Kingdom Come",
+    "genres": 0,
+    "spotId": "0BqIASAFnFG7GBfxmBebMG",
+    "couname": "What Love Can Be",
+    "duration": "314160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "White Lion",
+    "genres": 0,
+    "spotId": "4LRz4lh80Tn5GtZvztJYSJ",
+    "couname": "Till Death Do Us Part",
+    "duration": "225706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Tesla",
+    "genres": 0,
+    "spotId": "7zqsQHbyEmcCDjMiIthQzv",
+    "couname": "Love Song",
+    "duration": "322200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737e09670f90cd47b3fb9a23e0",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Water",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Counting Crows",
+    "genres": 0,
+    "spotId": "3RPvaTtA38cNsCNL7lXt4v",
+    "couname": "Raining In Baltimore",
+    "duration": "280626"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273128450651c9f0442780d8eb8",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_GuitarSolo",
+      "TV_Mafia",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Lynyrd Skynyrd",
+    "genres": 0,
+    "spotId": "1ju7EsSGvRybSNEsRvc7qY",
+    "couname": "Simple Man",
+    "duration": "356626"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f129b82aa02082e060b6865",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Metal",
+      "XT_Colors",
+      "XT_Intros",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Metallica",
+    "genres": 0,
+    "spotId": "4dO0NqNcwW7yWEHPyQmi7m",
+    "couname": "Fade To Black",
+    "duration": "417226"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Winger",
+    "genres": 0,
+    "spotId": "3zaPgyyHUTshJIVvVHeo5p",
+    "couname": "Miles Away",
+    "duration": "252866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Iron Maiden",
+    "genres": 0,
+    "spotId": "2DFTsbBalul96hXk8Af5qP",
+    "couname": "Wasting Love",
+    "duration": "350933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_GuitarSolo",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Ozzy Osbourne",
+    "genres": 0,
+    "spotId": "0S3gpZzlT9Hb7CCSV2owX7",
+    "couname": "Mama, I'm Coming Home",
+    "duration": "251866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Williams Brothers",
+    "genres": 0,
+    "spotId": "4c8jWog32ctnWEuonvOy7j",
+    "couname": "Can't Cry Hard Enough",
+    "duration": "191960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Paul Weller",
+    "genres": 0,
+    "spotId": "52CpKq09rBRJOxwmx1sEXo",
+    "couname": "You Do Something To Me",
+    "duration": "215026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Mr. Big",
+    "genres": 0,
+    "spotId": "0p4nkylTjV81uRtzKNsSvo",
+    "couname": "Wild World",
+    "duration": "209600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732b74b3c1a7f1fda1ac9aa10d",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Learns To Rock",
+    "genres": 0,
+    "spotId": "7prFpeH9fXA7cL6ZZWLePs",
+    "couname": "The Actor",
+    "duration": "273600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739b0d8dc07c6d21bb337b78b4",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_GuitarSolo",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Love",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Scorpions",
+    "genres": 0,
+    "spotId": "5ctrWrTwgy5xLZA4OWgY5O",
+    "couname": "Still Loving You",
+    "duration": "388613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273790dfcae45c608f6474de76e",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_BalladRock",
+      "XT_Karaoke",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Kenny Loggins",
+    "genres": 0,
+    "spotId": "23KhPfX1omMxmfw4TjvfAq",
+    "couname": "Forever",
+    "duration": "264600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731682e25596b8ecccb47644d1",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Piano",
+      "TV_Mafia",
+      "TV_Rolling500",
+      "TV_Simpsons120",
+      "XT_Karaoke",
+      "YR6069",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Homme"
+    ],
+    "artist": "The Righteous Brothers",
+    "genres": 0,
+    "spotId": "1jFhnVoJkcB4lf9tT0rSZS",
+    "couname": "Unchained Melody",
+    "duration": "216266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Mr. Big",
+    "genres": 0,
+    "spotId": "17hIadJpBRgM6A6mTTDkfO",
+    "couname": "Just Take My Heart",
+    "duration": "227426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27376cc6eedca8eb381afcd1e46",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "TV_OneHit",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Water",
+      "YR_0009",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Hoobastank",
+    "genres": 0,
+    "spotId": "77loZpT5Y5PRP1S451P9Yz",
+    "couname": "The Reason",
+    "duration": "232800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732d5c6371354c6c2bc24648b5",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Survivor",
+    "genres": 0,
+    "spotId": "1M3xrSPzPcKkCnXGHFPKaw",
+    "couname": "The Search Is Over",
+    "duration": "252613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739309dd399ed75be936b8c1b6",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "XT_AboutNames",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "KISS",
+    "genres": 0,
+    "spotId": "1cPXOzyeZauSAsT1yy7aBp",
+    "couname": "Beth",
+    "duration": "165666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27338b86b93677ec17e273e6267",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "GN_BalladRock",
+      "TV_OneHit",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Mr. Big",
+    "genres": 0,
+    "spotId": "0rDgbcExFw7JSJaj1h6qCZ",
+    "couname": "To Be With You",
+    "duration": "208400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Kix",
+    "genres": 0,
+    "spotId": "0yYKIbycZawfQqgdW3biSk",
+    "couname": "Don’t Close Your Eyes",
+    "duration": "252633"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27341eaec65ddc6e4c777cbc04e",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Metal",
+      "TV_MarvelSongs",
+      "XT_Intros",
+      "XT_Numbers",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Metallica",
+    "genres": 0,
+    "spotId": "10HlI5OL8VIdMh2CaymhbD",
+    "couname": "One",
+    "duration": "447440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273276077468780c310413f8450",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "TV_OneHit",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Trains",
+      "YR_7079",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Styx",
+    "genres": 0,
+    "spotId": "3m9viZzUHLDXp6XizY2NZq",
+    "couname": "Babe",
+    "duration": "266173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273167d8f960ad124d7f1da829f",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Piano",
+      "XT_Intros",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Bon Jovi",
+    "genres": 0,
+    "spotId": "4JAJV4D2902ZQL4A63Q2fe",
+    "couname": "Always",
+    "duration": "353026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27357f4a5c41c7d4c84299b8e01",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_Piano",
+      "TV_OneHit",
+      "XT_Karaoke",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Extreme",
+    "genres": 0,
+    "spotId": "4sagNFI6iRtqK0bYxZ1yQY",
+    "couname": "More Than Words",
+    "duration": "221160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27381e66f0aa00989cbe6030d57",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_Synth",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Van Halen",
+    "genres": 0,
+    "spotId": "6FRQGRdhueJGTKiYnirDNy",
+    "couname": "Love Walks In",
+    "duration": "310933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "KISS",
+    "genres": 0,
+    "spotId": "1pKWaPUfRvYuiPvCjS3nTk",
+    "couname": "Forever",
+    "duration": "229600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736cc53facdfee03b7eb1a23cb",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "XT_BodyParts",
+      "XT_Karaoke",
+      "YR_0009",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Creed",
+    "genres": 0,
+    "spotId": "2eY1BRbRcK6SRb0rD90suw",
+    "couname": "With Arms Wide Open",
+    "duration": "278440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733fa684e0f8fad563122ff6dc",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Piano",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Journey",
+    "genres": 0,
+    "spotId": "7aNk0hjd9VCAoBirwg6aYZ",
+    "couname": "Faithfully",
+    "duration": "266842"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Dokken",
+    "genres": 0,
+    "spotId": "1j06ieEC2BOCM0fTmYhn2l",
+    "couname": "Alone Again",
+    "duration": "262200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737b3295756d991b0329acf882",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "TV_OneHit",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Warrant",
+    "genres": 0,
+    "spotId": "2dEgwtRjYl6TJkIwjRwn6z",
+    "couname": "Heaven",
+    "duration": "236866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Flying",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Slaughter",
+    "genres": 0,
+    "spotId": "6e165g8fp2WDCBwF1zxLMh",
+    "couname": "Fly To The Angels",
+    "duration": "272240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736afc19da3f2a77ec9e9eda47",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Boston",
+    "genres": 0,
+    "spotId": "4gpext9x0CbdD9NWaa4nDj",
+    "couname": "Amanda",
+    "duration": "256200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27354aafca9cc0f52a7ea059fd2",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Piano",
+      "TV_OneHit",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Night Ranger",
+    "genres": 0,
+    "spotId": "57trQKFZdJxHia4sMJioWk",
+    "couname": "Sister Christian",
+    "duration": "302933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732d1eaba068fdfe2a09e7ff9e",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_GuitarSolo",
+      "TV_Mafia",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_LongSongs",
+      "XT_Places",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Eagles",
+    "genres": 0,
+    "spotId": "3dTGR2oQA1XaC850o5oPdK",
+    "couname": "Hotel California",
+    "duration": "432066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732d73b1bb77cee09f0278be04",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Piano",
+      "XT_Gambling",
+      "XT_Intros",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Eagles",
+    "genres": 0,
+    "spotId": "2TjnCxxQRYn56Ye8gkUKiW",
+    "couname": "Desperado",
+    "duration": "213712"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27359f0f56a7cd13526b5b4204c",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_ViolinSolo",
+      "TV_Simpsons120",
+      "XT_Intros",
+      "XT_Weather",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Kansas",
+    "genres": 0,
+    "spotId": "6zeE5tKyr8Nu882DQhhSQI",
+    "couname": "Dust in the Wind",
+    "duration": "206266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Tano Jones Revelry",
+    "genres": 0,
+    "spotId": "6fH3I6Q2zutJ3rUiygm1lI",
+    "couname": "Days Like This",
+    "duration": "238207"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Aerosmith",
+    "genres": 0,
+    "spotId": "1a6VLZ3BplAosOWmCcFDAW",
+    "couname": "What It Takes",
+    "duration": "311773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731336b31b6a1799f0de5807ac",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "TV_Mafia",
+      "XT_Karaoke",
+      "XT_Kiss",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Bon Jovi",
+    "genres": 0,
+    "spotId": "0oerlffJSzhRVvtDfLcp3N",
+    "couname": "Wanted Dead Or Alive",
+    "duration": "308666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Poison",
+    "genres": 0,
+    "spotId": "1mdlNDjI26EaMUNA1Ti9Xy",
+    "couname": "Something To Believe In",
+    "duration": "330266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27302214832aac021cfc6dbcde1",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Firehouse",
+    "genres": 0,
+    "spotId": "1yJWqYYDQge60nZKdLyiZU",
+    "couname": "When I Look Into Your Eyes",
+    "duration": "239866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_Piano",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Love",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "REO Speedwagon",
+    "genres": 0,
+    "spotId": "4iWnzxwnFfua8CdRGmeKaM",
+    "couname": "Keep on Loving You",
+    "duration": "200573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738a21db8a84d638a6d903bad3",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "XT_Intros",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Foreigner",
+    "genres": 0,
+    "spotId": "19aYH2zhbnTNx4plfenrIk",
+    "couname": "I Don't Want to Live Without You",
+    "duration": "237693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735b96a8c5d61be8878452f8f1",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_PsychedelicRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Doors",
+    "genres": 0,
+    "spotId": "0gWvVB4bGvADocoPMEDy3K",
+    "couname": "The Crystal Ship",
+    "duration": "152000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_DrumSolo",
+      "GN_Piano",
+      "GN_ViolinSolo",
+      "TV_BestVideos",
+      "TV_MarvelSongs",
+      "XT_AboutTime",
+      "XT_Intros",
+      "XT_LongSongs",
+      "XT_Water",
+      "XT_Weather",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Guns N' Roses",
+    "genres": 0,
+    "spotId": "614dpc6m0q6YGFmGchFGx1",
+    "couname": "November Rain",
+    "duration": "536960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733e881843da7e3c3e58998feb",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_ViolinSolo",
+      "TV_OneHit",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "L.A. Guns",
+    "genres": 0,
+    "spotId": "0gTEvnqaTPmrDvzbKZtQuw",
+    "couname": "The Ballad Of Jayne",
+    "duration": "274106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Extreme",
+    "genres": 0,
+    "spotId": "3yP553KE83Ubbw33nvwE4u",
+    "couname": "Song For Love",
+    "duration": "355600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b3a21001a266ca130f784699",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "XT_Colors",
+      "XT_Karaoke",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Pearl Jam",
+    "genres": 0,
+    "spotId": "2iPpOfObkNBlmWGNhRAvvU",
+    "couname": "Black",
+    "duration": "344200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273128450651c9f0442780d8eb8",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Memes",
+      "GN_PsychedelicRock",
+      "TV_Rolling500",
+      "TV_Simpsons120",
+      "XT_Animals",
+      "XT_Flying",
+      "XT_Gambling",
+      "XT_History",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_LongSongs",
+      "XT_OffAnimals",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Lynyrd Skynyrd",
+    "genres": 0,
+    "spotId": "5EWPGh7jbTNO2wakv8LjUI",
+    "couname": "Free Bird",
+    "duration": "547106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Cheap Trick",
+    "genres": 0,
+    "spotId": "5MqdF1b8bMvZeSxHBGzYLZ",
+    "couname": "The Flame",
+    "duration": "337466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Disco",
+      "GN_DrumSolo",
+      "GN_Synth",
+      "TV_BestVideos",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_History",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Water",
+      "XT_Weather",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "TOTO",
+    "genres": 0,
+    "spotId": "2374M0fQpWi3dLnB54qaLX",
+    "couname": "Africa",
+    "duration": "295893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273587b26d49596162397b29ec8",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Aerosmith",
+    "genres": 0,
+    "spotId": "6beFuzSjwhOKFZp2aqYDdY",
+    "couname": "Amazing",
+    "duration": "356160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Santana",
+    "genres": 0,
+    "spotId": "5Yp3e8RcjYevBTZYJ7OD7s",
+    "couname": "Europa",
+    "duration": "305946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325f49ab23f0ec6332efef432",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "girl",
+      "GN_BalladRock",
+      "GN_Piano",
+      "XT_Karaoke",
+      "YR_0009",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Evanescence",
+    "genres": 0,
+    "spotId": "4UzVcXufOhGUwF56HT7b8M",
+    "couname": "My Immortal",
+    "duration": "262533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AboutTime",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "The Beatles Greatest Hits Performed By The Frank Berman Band",
+    "genres": 0,
+    "spotId": "76E0QcBrJSXr9wzAA8Xzgi",
+    "couname": "Yesterday",
+    "duration": "133375"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273462e76c8bcbc9ddb44426b4d",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_Synth",
+      "TV_OneHit",
+      "XT_Cars",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_LongSongs",
+      "XT_Love",
+      "XT_Oscars",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Femme"
+    ],
+    "artist": "Berlin",
+    "genres": 0,
+    "spotId": "7mcW98cnE6Osce4ae7t4oZ",
+    "couname": "Take My Breath Away",
+    "duration": "252000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b2bcbfcf7d8e8c326ab8481b",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "girl",
+      "GN_BalladRock",
+      "GN_Piano",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Pretenders",
+    "genres": 0,
+    "spotId": "3Nf8oGn1okobzjDcFCvT6n",
+    "couname": "I'll Stand by You",
+    "duration": "240760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Steve Bardwil Band",
+    "genres": 0,
+    "spotId": "5Pl4mplIYh6NG27jbXfnX2",
+    "couname": "Wonder of it All",
+    "duration": "294106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27372d481a5999197ef5f42f796",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "girl",
+      "GN_BalladRock",
+      "XT_IrishFemale",
+      "XT_Karaoke",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band"
+    ],
+    "artist": "The Cranberries",
+    "genres": 0,
+    "spotId": "5kcsc92tGAjS0uvhDY3Mok",
+    "couname": "Ode To My Family",
+    "duration": "271533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27309467e05060a265e54c5b2b3",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "girl",
+      "GN_BalladRock",
+      "GN_Piano",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Heart",
+    "genres": 0,
+    "spotId": "54b8qPFqYqIndfdxiLApea",
+    "couname": "Alone",
+    "duration": "218733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738136106ed5827848ab7b8ac0",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "TV_Mafia",
+      "XT_Dreaming",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Heart",
+    "genres": 0,
+    "spotId": "5fRTUCS48zwiGai2Ku8gSg",
+    "couname": "These Dreams",
+    "duration": "254960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736ebd5e789646a833b8f7d4ba",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "girl",
+      "CT_Norway",
+      "GN_BalladRock",
+      "TV_OneHit",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "No Doubt",
+    "genres": 0,
+    "spotId": "6urCAbunOQI4bLhmGpX7iS",
+    "couname": "Don't Speak",
+    "duration": "263560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27357850545c0dc2cc537186070",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "girl",
+      "GN_BalladRock",
+      "XT_Karaoke",
+      "XT_Kiss",
+      "XT_Love",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Heart",
+    "genres": 0,
+    "spotId": "5YjKdeES9QRJ8NmF4Xc8pV",
+    "couname": "All I Wanna Do Is Make Love To You",
+    "duration": "310893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27359bfe048568a969c6f0bd08c",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Piano",
+      "XT_Intros",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Bon Jovi",
+    "genres": 0,
+    "spotId": "1zng9uqqXoPkmU05nsAlsw",
+    "couname": "Bed Of Roses",
+    "duration": "394400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739000b7841bf216cc399913ff",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Piano",
+      "XT_Colors",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Counting Crows",
+    "genres": 0,
+    "spotId": "2a7NRfaVMfob2BvkBmOxA0",
+    "couname": "Colorblind",
+    "duration": "203493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731be40e44db112e123e5e8b51",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_GuitarSolo",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Kansas",
+    "genres": 0,
+    "spotId": "4DMKwE2E2iYDKY01C335Uw",
+    "couname": "Carry on Wayward Son",
+    "duration": "323000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27396a8b0b2bf39b29f26437bfa",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "XT_Karaoke",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "White Lion",
+    "genres": 0,
+    "spotId": "4C8qZRxrteBY9F8r2oZrV3",
+    "couname": "You're All I Need",
+    "duration": "265160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Mr. Big",
+    "genres": 0,
+    "spotId": "2fEWmr3cr5A00CFd6NaKNP",
+    "couname": "You Don't Have to Be Strong",
+    "duration": "306560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27358e84cb7340a403b6bfb58ed",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Cinderella",
+    "genres": 0,
+    "spotId": "4GHnqtInKOFZUegS1FtXcr",
+    "couname": "Don't Know What You Got",
+    "duration": "354640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27385deca38cf1f83e7bff2b6c9",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "CT_Norway",
+      "GN_BalladRock",
+      "GN_Piano",
+      "TV_BreakingBad",
+      "XT_BodyParts",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_LongSongs",
+      "XT_MoonStars",
+      "XT_Weather",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Bonnie Tyler",
+    "genres": 0,
+    "spotId": "7DzSVKUrV5nAUGSuCeYoaT",
+    "couname": "Total Eclipse Of The Heart",
+    "duration": "416840"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b2f32a40b64bc00dffa59281",
+    "pty": 0,
+    "Items": [
+      "BT_Queen_DavidBowie",
+      "GN_BalladRock",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Queen",
+    "genres": 0,
+    "spotId": "6UnGBNWVuwYfdDo9NfKkpP",
+    "couname": "Who Wants To Live Forever",
+    "duration": "315653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738f9281135c8a343ac36ab44d",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "GN_BalladRock",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Femme"
+    ],
+    "artist": "The Bangles",
+    "genres": 0,
+    "spotId": "5g3ZD7PmrEQlQZKDW91yGG",
+    "couname": "Eternal Flame",
+    "duration": "235666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Wim Mertens",
+    "genres": 0,
+    "spotId": "7zFovryAx4THLvSRUtYkEN",
+    "couname": "Struggle for Pleasure",
+    "duration": "242114"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273338214ba1ebe35d388f0d589",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_Piano",
+      "GN_ViolinSolo",
+      "TV_Simpsons120",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "R.E.M.",
+    "genres": 0,
+    "spotId": "4tCWWnk3BXinf7FllmSyHW",
+    "couname": "Everybody Hurts",
+    "duration": "318240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731f2be6f8ed797aeb11973194",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "TV_OneHit",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Oasis",
+    "genres": 0,
+    "spotId": "5wj4E6IsrVtn8IBJQOd0Cl",
+    "couname": "Wonderwall",
+    "duration": "258732"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Yusuf / Cat Stevens",
+    "genres": 0,
+    "spotId": "2nU1cyrG92p8h99g3Gykwz",
+    "couname": "Father And Son",
+    "duration": "220333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "GN_BalladRock",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Black Sabbath",
+    "genres": 0,
+    "spotId": "2ygXPctQz2DlDqKONcPGDE",
+    "couname": "No Stranger to Love",
+    "duration": "269453"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27334fea815aa0cb750ce11aa46",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_BalladRock",
+      "XT_Cars",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Robert Plant",
+    "genres": 0,
+    "spotId": "7257drAN3eTtaaUUPw95B3",
+    "couname": "Big Log",
+    "duration": "304800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27340140de1d22877a411c030bd",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_Piano",
+      "TV_BestVideos",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "XT_Science",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Coldplay",
+    "genres": 0,
+    "spotId": "3fp0lhS0dr9K05a63geGXb",
+    "couname": "The Scientist",
+    "duration": "311280"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737e8f0ab9b3854380da1ba1da",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_Intros",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Deep Purple",
+    "genres": 0,
+    "spotId": "60ifqqPhbselSwXyGrGyMK",
+    "couname": "Soldier Of Fortune",
+    "duration": "204880"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Embrace",
+    "genres": 0,
+    "spotId": "2BjvbCwtueWDGi0QKgT3yy",
+    "couname": "Come Back To What You Know",
+    "duration": "250573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731a84d71391df7469c5ab8539",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_GuitarSolo",
+      "TV_Rolling500",
+      "XT_Intros",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Pink Floyd",
+    "genres": 0,
+    "spotId": "6mFkJmJqdDVQ1REhVfGgd1",
+    "couname": "Wish You Were Here",
+    "duration": "334743"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27348cd811e6c34abd3ff00d15f",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "XT_BodyParts",
+      "XT_Intros",
+      "XT_LongSongs",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Dire Straits",
+    "genres": 0,
+    "spotId": "7EmSPZ9f1AiLR9eVHNSI62",
+    "couname": "Brothers In Arms",
+    "duration": "424000"
+  }
+]
