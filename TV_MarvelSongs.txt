@@ -1,1 +1,4762 @@
-[{"couname":"Blinding Lights","img":"https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36","pty":"85","artist":"The Weeknd","genres":"","duration":"200040","spotId":"0VjIjW4GlUZAMYd2vXMi3b","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Iris","img":"https://i.scdn.co/image/ab67616d0000b273eda9478c39a21e1cdc6609ca","pty":"85","artist":"The Goo Goo Dolls","genres":"","duration":"289533","spotId":"6Qyc6fS4DsZjB2mRW9DsQs","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Everybody Wants To Rule The World","img":"https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235","pty":"83","artist":"Tears For Fears","genres":"new wave,synthpop","duration":"251488","spotId":"4RvWPyQ5RL0ao9LPZeSouE","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Livin' On A Prayer","img":"https://i.scdn.co/image/ab67616d0000b2731336b31b6a1799f0de5807ac","pty":"82","artist":"Bon Jovi","genres":"glam metal,rock","duration":"249293","spotId":"37ZJ0p5Jm13JPevGcx4SkF","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Back In Black","img":"https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae","pty":"80","artist":"AC/DC","genres":"rock,hard rock,rock clásico,rock and roll","duration":"255493","spotId":"08mG3Y1vljYA6bvDt4Wqkj","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Sweet Dreams","img":"https://i.scdn.co/image/ab67616d0000b273b3994c94dfb241923664bb4d","pty":"80","artist":"Eurythmics, Annie Lennox, Dave Stewart","genres":"new wave,synthpop","duration":"216933","spotId":"1TfqLAPs4K3s2rJMoCokcS","Items":["-HAPPY-","-ENERGY-","GIRL","OTHR","TV_MarvelSongs"]}, {"couname":"Hotel California","img":"https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778","pty":"80","artist":"Eagles","genres":"rock clásico,rock suave","duration":"391376","spotId":"40riOy7x9W7GXjyGp4pjAv","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Bye Bye Bye","img":"https://i.scdn.co/image/ab67616d0000b273a6cb8fab778e1efc406a5909","pty":"80","artist":"*NSYNC","genres":"","duration":"200400","spotId":"62bOmKYxYg7dhrC6gH9vFn","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Good Riddance","img":"https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776","pty":"78","artist":"Green Day","genres":"punk,pop punk","duration":"153466","spotId":"6ORqU0bHbVCRjXm9AjyHyZ","Items":["-HAPPY-","-SLOWSS-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Sunflower","img":"https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f","pty":"78","artist":"Post Malone, Swae Lee","genres":"","duration":"158040","spotId":"3KkXRkHbMCARz0aVfEt68P","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Should I Stay or Should I Go","img":"https://i.scdn.co/image/ab67616d0000b27325a4df452a3c42ccc2e9288b","pty":"77","artist":"The Clash","genres":"punk","duration":"188986","spotId":"39shmbIHICJ2Wxnk1fPSdz","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"November Rain","img":"https://i.scdn.co/image/ab67616d0000b273e44963b8bb127552ac761873","pty":"77","artist":"Guns N' Roses","genres":"rock,glam metal,hard rock,rock clásico","duration":"536066","spotId":"3YRCqOhFifThpSRFJ1VWFM","Items":["-SADNE-","-SLOWSS-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Dog Days Are Over","img":"https://i.scdn.co/image/ab67616d0000b273003f81b1f4246362638e682d","pty":"77","artist":"Florence + The Machine","genres":"pop barroco","duration":"252818","spotId":"456WNXWhDwYOSf5SpTuqxd","Items":["-SADNE-","-ENERGY-","GIRL","SOLO","TV_MarvelSongs"]}, {"couname":"Way down We Go","img":"https://i.scdn.co/image/ab67616d0000b273f793a842c1642b09a768a63b","pty":"77","artist":"KALEO","genres":"","duration":"213706","spotId":"0y1QJc3SJVPKJ1OvFmFqe6","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"You're The One That I Want","img":"https://i.scdn.co/image/ab67616d0000b273b68df485f3304211904548a8","pty":"76","artist":"John Travolta, Olivia Newton-John","genres":"musicales","duration":"169840","spotId":"0B9x2BRHqj3Qer7biM3pU3","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Immigrant Song","img":"https://i.scdn.co/image/ab67616d0000b27390a50cfe99a4c19ff3cbfbdb","pty":"75","artist":"Led Zeppelin","genres":"rock clásico,rock,hard rock,rock and roll","duration":"146250","spotId":"78lgmZwycJ3nzsdgmPPGNx","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Wake Me Up Before You Go-Go","img":"https://i.scdn.co/image/ab67616d0000b273a2fc41b0dd6ce4f0d16a4c46","pty":"75","artist":"Wham!","genres":"","duration":"231333","spotId":"0ikz6tENMONtK6qGkOrU3c","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Mr. Blue Sky","img":"https://i.scdn.co/image/ab67616d0000b2738c4e95986c803791125e8991","pty":"74","artist":"Electric Light Orchestra","genres":"rock sinfónico,art rock","duration":"303373","spotId":"2RlgNHKcydI9sayD2Df2xp","Items":["-HAPPY-","-SLOWSS-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"I Will Always Love You","img":"https://i.scdn.co/image/ab67616d0000b273456c0b5d0316a80dc600802e","pty":"74","artist":"Whitney Houston","genres":"","duration":"271093","spotId":"4eHbdreAnSOrDDsFfc4Fpm","Items":["-SADNE-","-SLOWSS-","GIRL","SOLO","TV_MarvelSongs"]}, {"couname":"It's the Most Wonderful Time of the Year","img":"https://i.scdn.co/image/ab67616d0000b27398073965947f92f1641b8356","pty":"73","artist":"Andy Williams","genres":"","duration":"151933","spotId":"5hslUAKq9I9CG2bAulFkHN","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Like a Prayer","img":"https://i.scdn.co/image/ab67616d0000b273d452ba244b2189ea99ac95d9","pty":"73","artist":"I'll Take You There Choir","genres":"","duration":"152893","spotId":"492ceDtqmafb6QD1Xfhpmo","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Would?","img":"https://i.scdn.co/image/ab67616d0000b2731cd131e5e9ad887ad8c1ecb7","pty":"73","artist":"Alice In Chains","genres":"grunge,post-grunge","duration":"206773","spotId":"5sFDReWLrZHLFZFjHsjUTS","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"The Final Countdown","img":"https://i.scdn.co/image/ab67616d0000b273f5e30500f0eec7d92b159eae","pty":"73","artist":"Europe","genres":"glam metal","duration":"310333","spotId":"3MrRksHupTVEQ7YbA0FsZK","Items":["-SADNE-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Time to Pretend","img":"https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb","pty":"72","artist":"MGMT","genres":"indie,indietronica","duration":"261000","spotId":"4iG2gAwKXsOcijVaVXzRPW","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Goodbye Yellow Brick Road","img":"https://i.scdn.co/image/ab67616d0000b273f72f1e38e9bd48f18a17ed9b","pty":"72","artist":"Elton John","genres":"","duration":"192826","spotId":"4IRHwIZHzlHT1FQpRa5RdE","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"The Lady In Red","img":"https://i.scdn.co/image/ab67616d0000b273dbcf079d622c02f298dca4e7","pty":"72","artist":"Chris de Burgh","genres":"rock suave","duration":"256487","spotId":"5Hcl1reJnHIfJBbCcglaKR","Items":["-HAPPY-","-SLOWSS-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"I'm with You","img":"https://i.scdn.co/image/ab67616d0000b273f7ec724fbf97a30869d06240","pty":"72","artist":"Avril Lavigne","genres":"","duration":"223066","spotId":"1jlG3KJ3gdYmhfuySFfpO1","Items":["-SADNE-","-SLOWSS-","GIRL","SOLO","TV_MarvelSongs"]}, {"couname":"Hells Bells","img":"https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae","pty":"72","artist":"AC/DC","genres":"rock,hard rock,rock clásico,rock and roll","duration":"312293","spotId":"69QHm3pustz01CJRwdo20z","Items":["-SADNE-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Hooked On A Feeling","img":"https://i.scdn.co/image/ab67616d0000b273b2439940aedd2801c9ae2e5b","pty":"71","artist":"Blue Swede, Björn Skifs","genres":"","duration":"172866","spotId":"6Ac4NVYYl2U73QiTt11ZKd","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Don't Stop Me Now","img":"https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889","pty":"71","artist":"Queen","genres":"rock clásico,rock,glam rock","duration":"209413","spotId":"7hQJA50XrCWABAu5v6QZ4i","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"The Power Of Love","img":"https://i.scdn.co/image/ab67616d0000b2735306ed42ae78f317258c51bb","pty":"71","artist":"Huey Lewis & The News","genres":"","duration":"234333","spotId":"2olVm1lHicpveMAo4AUDRB","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"We Built This City","img":"https://i.scdn.co/image/ab67616d0000b273da6790936a48b6719083dcac","pty":"71","artist":"Starship","genres":"","duration":"296080","spotId":"6OnfBiiSc9RGKiBKKtZXgQ","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Holding Out for a Hero","img":"https://i.scdn.co/image/ab67616d0000b273d2675cb6847d1b1da9fc28a3","pty":"70","artist":"Bonnie Tyler","genres":"","duration":"348333","spotId":"5Hyr47BBGpvOfcykSCcaw9","Items":["-HAPPY-","-ENERGY-","GIRL","SOLO","TV_MarvelSongs"]}, {"couname":"Crocodile Rock","img":"https://i.scdn.co/image/ab67616d0000b273f67fbf0d465cca2b3e25af96","pty":"70","artist":"Elton John","genres":"","duration":"235440","spotId":"6WCeFNVAXUtNczb7lqLiZU","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Where Is My Mind?","img":"https://i.scdn.co/image/ab67616d0000b273b17d34882944eaf0695153f2","pty":"69","artist":"Pixies","genres":"rock alternativo","duration":"229226","spotId":"0KzAbK6nItSqNh8q70tb0K","Items":["-SADNE-","-SLOWSS-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Barracuda","img":"https://i.scdn.co/image/ab67616d0000b2739cef5b2e4c9104c678973f44","pty":"69","artist":"Heart","genres":"rock clásico,aor,rock","duration":"261933","spotId":"4KfSdst7rW39C0sfhArdrz","Items":["-HAPPY-","-ENERGY-","GIRL","BAND","TV_MarvelSongs"]}, {"couname":"Bohemian Rhapsody","img":"https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a","pty":"68","artist":"Queen","genres":"rock clásico,rock,glam rock","duration":"354320","spotId":"7tFiyTwD0nx5a1eklYtX2J","Items":["-SADNE-","-SLOWSS-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"The Boys Are Back In Town","img":"https://i.scdn.co/image/ab67616d0000b273e8f69ab903901064b1f19249","pty":"68","artist":"Thin Lizzy","genres":"rock clásico,hard rock","duration":"266720","spotId":"43DeSV93pJPT4lCZaWZ6b1","Items":["-HAPPY-","-SLOWSS-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"GDFR","img":"https://i.scdn.co/image/ab67616d0000b2737947bf3e8af32378de181b41","pty":"67","artist":"Flo Rida, Sage The Gemini, Lookas","genres":"hyphy,edm trap,future bass","duration":"190185","spotId":"26rdOwwjC2UnweK3xeS58u","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"No Sleep Till Brooklyn","img":"https://i.scdn.co/image/ab67616d0000b273a7ea08ab3914c5fb2084a8ac","pty":"67","artist":"Beastie Boys","genres":"rap rock,hip hop de la costa este,hip hop","duration":"246933","spotId":"5qxChyzKLEyoPJ5qGrdurN","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"What's Up Danger","img":"https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f","pty":"67","artist":"Blackway, Black Caviar","genres":"","duration":"222306","spotId":"5zsHmE2gO3RefVsPyw2e3T","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Pray For Me","img":"https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888","pty":"66","artist":"The Weeknd, Kendrick Lamar","genres":"hip hop,west coast rap","duration":"211440","spotId":"77UjLW8j5UAGAGVGhR5oUK","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Venom","img":"https://i.scdn.co/image/ab67616d0000b2731b95097dd6e47dfb02b315c8","pty":"66","artist":"Eminem","genres":"rap,hip hop","duration":"269573","spotId":"3kpYJjvM8Ja6btr5hEJLWc","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Lift Me Up","img":"https://i.scdn.co/image/ab67616d0000b273a790c56cff6e3463bf9935cb","pty":"66","artist":"Rihanna","genres":"","duration":"196519","spotId":"35ovElsgyAtQwYPYnZJECg","Items":["-SADNE-","-SLOWSS-","GIRL","SOLO","TV_MarvelSongs"]}, {"couname":"Crazy On You","img":"https://i.scdn.co/image/ab67616d0000b2738e8c08ca2feb999bb84f05e6","pty":"66","artist":"Heart","genres":"rock clásico,aor,rock","duration":"293440","spotId":"5zH710lFSLtkHbMkslLDjR","Items":["-SADNE-","-SLOWSS-","GIRL","BAND","TV_MarvelSongs"]}, {"couname":"Wham Bam Shang-A-Lang","img":"https://i.scdn.co/image/ab67616d0000b27351d98ff76da5ca1f82c8cbc8","pty":"65","artist":"Silver","genres":"","duration":"212840","spotId":"3qrEG6rQ9Qm72MNWeUKKiU","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Who's That Girl?","img":"https://i.scdn.co/image/ab67616d0000b2730a825fea8b9095572e5130ef","pty":"64","artist":"Eve","genres":"","duration":"281906","spotId":"3uVE5vLKkigiWBOQEgmdDk","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"IN MY REMAINS","img":"https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4","pty":"63","artist":"Linkin Park","genres":"nu metal,rap metal,rock,metal alternativo","duration":"200693","spotId":"00KfIFi2TpAaQGPbRbFbKJ","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Surrender","img":"https://i.scdn.co/image/ab67616d0000b27361e605b2786f724b37f0176d","pty":"63","artist":"Cheap Trick","genres":"power pop,aor,rock clásico,glam rock","duration":"253733","spotId":"2ccUQnjjNWT0rsNnsBpsCA","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Cherry Bomb","img":"https://i.scdn.co/image/ab67616d0000b273a1c553575418ca43404cb48b","pty":"63","artist":"The Runaways","genres":"protopunk","duration":"138706","spotId":"7cdnq45E9aP2XDStHg5vd7","Items":["-HAPPY-","-ENERGY-","GIRL","BAND","TV_MarvelSongs"]}, {"couname":"Left Hand Free","img":"https://i.scdn.co/image/ab67616d0000b27311b3df35e2e46d91f585afd9","pty":"63","artist":"alt-J","genres":"indie,indie rock","duration":"173630","spotId":"4iEOVEULZRvmzYSZY2ViKN","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"The End of the World","img":"https://i.scdn.co/image/ab67616d0000b273c4c4a5d82534d5e6b2ed349a","pty":"63","artist":"Skeeter Davis","genres":"","duration":"157573","spotId":"5DTOOkooKFUvWj1XQTFa09","Items":["-HAPPY-","-SLOWSS-","GIRL","SOLO","TV_MarvelSongs"]}, {"couname":"Since You Been Gone","img":"https://i.scdn.co/image/ab67616d0000b273380a8be605d3765f34ec54f7","pty":"63","artist":"Rainbow","genres":"hard rock,aor,metal,heavy metal","duration":"197160","spotId":"6xq5DxZWGgdStAxGAil0yw","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Don't Worry Be Happy","img":"https://i.scdn.co/image/ab67616d0000b273a88b9eddbf3650ea0529f2cc","pty":"63","artist":"Bobby McFerrin","genres":"","duration":"294400","spotId":"4hObp5bmIJ3PP3cKA9K9GY","Items":["-HAPPY-","-SLOWSS-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Daydream Believer","img":"https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97","pty":"62","artist":"The Monkees","genres":"","duration":"179613","spotId":"7uEcCGtM1FBBGIhPozhJjv","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Creep","img":"https://i.scdn.co/image/ab67616d0000b2733340ec817b195f40615cc647","pty":"62","artist":"Radiohead","genres":"art rock,rock alternativo","duration":"258640","spotId":"6JpjIy1M7oxvPJ3uVdUKTe","Items":["-SADNE-","-SLOWSS-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"In the Meantime","img":"https://i.scdn.co/image/ab67616d0000b2739511e3a2fc113eae0dd111dd","pty":"62","artist":"Spacehog","genres":"","duration":"299506","spotId":"02lTDOxHeXTHsdwXoz6lpC","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Shimmy Shimmy Ya","img":"https://i.scdn.co/image/ab67616d0000b273942b4029fa54f0b44591a133","pty":"62","artist":"Ol' Dirty Bastard","genres":"hip hop de la costa este,hardcore hip hop","duration":"161400","spotId":"3ABG1UQTk0eLYUAeWkmfMi","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"X","img":"https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888","pty":"59","artist":"ScHoolboy Q, 2 Chainz, Saudi","genres":"rap,hip hop sureño americano","duration":"267426","spotId":"4LmAnpjlhWTahvRkYR8xJa","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Lake Shore Drive","img":"https://i.scdn.co/image/ab67616d0000b273bfd869b5a775481785ce55ad","pty":"59","artist":"Aliotta Haynes Jeremiah","genres":"","duration":"235173","spotId":"46MX86XQqYCZRvwPpeq4Gi","Items":["-HAPPY-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"The Chain","img":"https://i.scdn.co/image/ab67616d0000b27357df7ce0eac715cf70e519a7","pty":"59","artist":"Fleetwood Mac","genres":"rock clásico,rock suave","duration":"269813","spotId":"7Dm3dV3WPNdTgxoNY7YFnc","Items":["-HAPPY-","-ENERGY-","OTHR","BAND","TV_MarvelSongs"]}, {"couname":"My Way Of Life","img":"https://i.scdn.co/image/ab67616d0000b273a0209db6a0a102cae469d4f9","pty":"59","artist":"Frank Sinatra","genres":"big band,adult standards,swing,vocal jazz,jazz","duration":"187360","spotId":"0Sc8AsDTBeZFWg8K9tMARE","Items":["-HAPPY-","-SLOWSS-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Like a Prayer","img":"https://i.scdn.co/image/ab67616d0000b273d452ba244b2189ea99ac95d9","pty":"59","artist":"Madonna, Rob Simonsen","genres":"","duration":"168586","spotId":"1xSDXrcZ16nKUZGsOckUTW","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"I Ran","img":"https://i.scdn.co/image/ab67616d0000b2734d38e04627b3843ed3db042c","pty":"59","artist":"A Flock Of Seagulls","genres":"new wave,synthpop","duration":"308933","spotId":"4OdhffpvG3HxDJMxYOKh97","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Bring It On Home to Me","img":"https://i.scdn.co/image/ab67616d0000b273cdea00c6905f588e1f72ccad","pty":"59","artist":"Sam Cooke","genres":"motown,soul","duration":"162533","spotId":"0WVTQp3SOCuMr08jh1jweV","Items":["-HAPPY-","-SLOWSS-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Joy To The World","img":"https://i.scdn.co/image/ab67616d0000b2738036855102edddcdbe84127d","pty":"59","artist":"Three Dog Night","genres":"","duration":"220573","spotId":"2ymeOsYijJz09LfKw3yM2x","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Thunderstruck","img":"https://i.scdn.co/image/ab67616d0000b273b56115c0e231fbf69d3205c6","pty":"58","artist":"AC/DC","genres":"rock,hard rock,rock clásico,rock and roll","duration":"292413","spotId":"52UWtKlYjZO3dHoRlWuz9S","Items":["-SADNE-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Come A Little Bit Closer","img":"https://i.scdn.co/image/ab67616d0000b2733fb91f6d6c412ef519dd3dee","pty":"58","artist":"Jay & The Americans","genres":"doo-wop","duration":"166666","spotId":"252YuUdUaC5OojaBU0H1CP","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Twilight Time","img":"https://i.scdn.co/image/ab67616d0000b2738fe1c4818c6f397ed3056739","pty":"58","artist":"The Platters","genres":"doo-wop","duration":"168293","spotId":"3MpGQae6zAFd7Z1FdLV9fV","Items":["-SADNE-","-SLOWSS-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Go All The Way","img":"https://i.scdn.co/image/ab67616d0000b2731d99f5402883ad273f45ebf8","pty":"58","artist":"Raspberries","genres":"power pop,jangle pop","duration":"205346","spotId":"75GQIYnRaBg7ndHxhfYuQy","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Til Kingdom Come","img":"https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651","pty":"57","artist":"Coldplay","genres":"","duration":"250668","spotId":"1wQXj5bgxyZQ2XmE2X9s6n","Items":["-SADNE-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"The Rubberband Man","img":"https://i.scdn.co/image/ab67616d0000b27371babe239c18fc21b5e2f0f5","pty":"57","artist":"The Spinners","genres":"sonido filadelfia,motown,soul,northern soul","duration":"213000","spotId":"13Mzsb8VzRSZ5w3pM48cn6","Items":["-HAPPY-","-SLOWSS-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Do You Realize??","img":"https://i.scdn.co/image/ab67616d0000b273ca69f52416a728ebd0b9103c","pty":"57","artist":"The Flaming Lips","genres":"pop psicodélico","duration":"213173","spotId":"2DFRFqWNahKtFD112H2iEZ","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"I Will Survive","img":"https://i.scdn.co/image/ab67616d0000b2738fe438c0dce2d985ba65197c","pty":"57","artist":"Gloria Gaynor","genres":"disco","duration":"261173","spotId":"7DD1ojeTUwnW65g5QuZw7X","Items":["-HAPPY-","-ENERGY-","GIRL","SOLO","TV_MarvelSongs"]}, {"couname":"Reasons","img":"https://i.scdn.co/image/ab67616d0000b27330bb42e5271f2e046fd36972","pty":"57","artist":"Earth, Wind & Fire","genres":"disco","duration":"299333","spotId":"1srD2uc11TcQiOmHHrJp8M","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"War Machine","img":"https://i.scdn.co/image/ab67616d0000b273107d182a8d39586f8f3f23a0","pty":"56","artist":"AC/DC","genres":"rock,hard rock,rock clásico,rock and roll","duration":"189786","spotId":"5YnNWHKCJaJKwbagXDb5Uf","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"I'm Not In Love","img":"https://i.scdn.co/image/ab67616d0000b273b3241dc75e8ffc1e9cd12091","pty":"56","artist":"10cc","genres":"art rock,glam rock","duration":"368226","spotId":"1A6Kwtsg3JWKU2KWM2udpM","Items":["-SADNE-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Dear Mr. Fantasy","img":"https://i.scdn.co/image/ab67616d0000b273607f5d1d15bdb8a450840ccf","pty":"55","artist":"Traffic","genres":"rock psicodélico,rock ácido,rock clásico,rock progresivo","duration":"334000","spotId":"5CGpPUcUahMuLzkNK9ZgPP","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"It's Been a Long, Long Time","img":"https://i.scdn.co/image/ab67616d0000b27388347139ece65ca1134a00a7","pty":"55","artist":"Harry James","genres":"big band,swing,jazz","duration":"205773","spotId":"4rfh0qEv1HdKRXWiRXfzWF","Items":["-HAPPY-","-SLOWSS-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Smells Like Teen Spirit","img":"https://i.scdn.co/image/ab67616d0000b2738bd22f040a2a2852ebeea584","pty":"55","artist":"Malia J","genres":"","duration":"239000","spotId":"1gnSosKDAUGYPTkTLiG5DW","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Badlands","img":"https://i.scdn.co/image/ab67616d0000b273e2bb936c55fb54b0b9fdc666","pty":"55","artist":"Bruce Springsteen","genres":"","duration":"242453","spotId":"0M1YQiRGel1tTMjA3orfRd","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Tainted Love","img":"https://i.scdn.co/image/ab67616d0000b273db5f42a5cd45458926cab59d","pty":"55","artist":"Soft Cell","genres":"synthpop,new wave","duration":"153840","spotId":"58E1XVmZTODC67YNjneuXM","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Fox on the Run","img":"https://i.scdn.co/image/ab67616d0000b2738f5522a7474d9a925f040342","pty":"54","artist":"Sweet","genres":"glam rock","duration":"200800","spotId":"4yJZP61jBhVTesHBZ0gpQn","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Run It","img":"https://i.scdn.co/image/ab67616d0000b2735843d11205f6dd6a2ab5f967","pty":"54","artist":"DJ Snake, Rick Ross, Rich Brian","genres":"hip hop sureño americano","duration":"163373","spotId":"5x4vgABKiGp4Vg7ZyFRxhn","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"On My Own","img":"https://i.scdn.co/image/ab67616d0000b27360ec4df52c2d724bc53ffec5","pty":"54","artist":"Jaden, Kid Cudi","genres":"","duration":"244720","spotId":"4D1eVq5AUILwjg3tAe7o6M","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Come and Get Your Love","img":"https://i.scdn.co/image/ab67616d0000b2739664387d422959620c0bbb53","pty":"53","artist":"Redbone","genres":"","duration":"300200","spotId":"5519RhpzObr9Mn3iqoeodJ","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Fooled Around And Fell In Love","img":"https://i.scdn.co/image/ab67616d0000b273e391545e9e1b5b672524dc70","pty":"53","artist":"Elvin Bishop","genres":"rock sureño","duration":"274333","spotId":"6BJTagJUFeUxHpVWxTmatw","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"We Care a Lot","img":"https://i.scdn.co/image/ab67616d0000b273a5821e8f8ec56a5a84725134","pty":"53","artist":"Faith No More","genres":"funk rock,metal alternativo,rap metal,grunge","duration":"243600","spotId":"2z1uVu3OwTmPlfqt5TWk5k","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Angel Of The Morning","img":"https://i.scdn.co/image/ab67616d0000b27399a6a7a4b4fe71d5362d16b7","pty":"53","artist":"Juice Newton","genres":"","duration":"254000","spotId":"6NVB6W7G3svCKe5zB7kY8q","Items":["-HAPPY-","-SLOWSS-","GIRL","SOLO","TV_MarvelSongs"]}, {"couname":"This Is the Day","img":"https://i.scdn.co/image/ab67616d0000b2731bbff7a308778b39fc8c08ba","pty":"53","artist":"The The","genres":"new wave","duration":"297066","spotId":"3FjYAj4hg5KiXpVAMjpLKq","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Shoot to Thrill","img":"https://i.scdn.co/image/ab67616d0000b273b56115c0e231fbf69d3205c6","pty":"52","artist":"AC/DC","genres":"rock,hard rock,rock clásico,rock and roll","duration":"317800","spotId":"6GzCkTddOn1vSln1gbSr8y","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Black Panther","img":"https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888","pty":"52","artist":"Kendrick Lamar","genres":"hip hop,west coast rap","duration":"130613","spotId":"5qN4HFkapdAOV94XPryVof","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"O-o-h Child","img":"https://i.scdn.co/image/ab67616d0000b273da015dfc7bc4f3d2ad6a2192","pty":"52","artist":"The Five Stairsteps","genres":"","duration":"197440","spotId":"1rwGdnrtWnPYBipRrjnzEm","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Portals","img":"https://i.scdn.co/image/ab67616d0000b273ba70a3f1cc9aebbbc1fdfee1","pty":"52","artist":"Alan Silvestri","genres":"banda sonora","duration":"197213","spotId":"0OVtnS3l4vThGxkdqCxN6K","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Day 'n' Nite","img":"https://i.scdn.co/image/ab67616d0000b273cfb7351677bc314e2315a65b","pty":"52","artist":"Kid Cudi","genres":"","duration":"222066","spotId":"4ywmyUAQ0WAdNHXpoWWqfv","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"I'm Ready","img":"https://i.scdn.co/image/ab67616d0000b2736094c28a79dc47837fd269d9","pty":"52","artist":"Jaden","genres":"","duration":"189749","spotId":"4kTliHBy7w2SOMtm8qMmOW","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Saturn","img":"https://i.scdn.co/image/ab67616d0000b2736dfcc4113d47254abd85d151","pty":"52","artist":"Nick Phoenix","genres":"orquesta","duration":"273652","spotId":"5jPjRw46nY3jKByra4NphU","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Opps","img":"https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888","pty":"51","artist":"Vince Staples, Yugen Blakrok","genres":"","duration":"180893","spotId":"7bUcBztfGqO7cSI2gMZeCI","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Beautiful Crime","img":"https://i.scdn.co/image/ab67616d0000b2736ed86023946bb3829c26938b","pty":"51","artist":"Tamer","genres":"","duration":"272000","spotId":"4NZKQIAbpUPd0jn0CzvRpS","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Seabird","img":"https://i.scdn.co/image/ab67616d0000b273656b4f412e4d1c284ef27bc9","pty":"51","artist":"Alessi Brothers","genres":"","duration":"186320","spotId":"7qw4F9ebIh2z1dSBpJMfdt","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"The Magnificent Seven","img":"https://i.scdn.co/image/ab67616d0000b2732791862e3d0be4fab0781230","pty":"50","artist":"The Clash","genres":"punk","duration":"333520","spotId":"3Ro71R8Vpy166E2PuQDSc8","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Highway to Hell","img":"https://i.scdn.co/image/ab67616d0000b273b56115c0e231fbf69d3205c6","pty":"50","artist":"AC/DC","genres":"rock,hard rock,rock clásico,rock and roll","duration":"208920","spotId":"1OIYK9Ya6EgwJ4fMngrPcK","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"It Takes Two","img":"https://i.scdn.co/image/ab67616d0000b2737207f6678f4592ab949401c7","pty":"49","artist":"Rob Base & DJ EZ Rock","genres":"hip house","duration":"301893","spotId":"3Yxmpx64AdWAzG3qAD4Dty","Items":["-HAPPY-","-ENERGY-","DUDE","OTHR","TV_MarvelSongs"]}, {"couname":"Redemption","img":"https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888","pty":"49","artist":"Zacari, Babes Wodumo","genres":"gqom","duration":"222093","spotId":"76iVOVsliCHlWqKuDnCfhE","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Iron Man 3","img":"https://i.scdn.co/image/ab67616d0000b273c28c36e39012cc8edf813196","pty":"49","artist":"Brian Tyler","genres":"banda sonora","duration":"143453","spotId":"7u5XBHnht6dyoRXRBb5soK","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Floating in the Night","img":"https://i.scdn.co/image/ab67616d0000b273ac1d04a2dc1eb36ba37bc3a6","pty":"49","artist":"Judah & the Lion","genres":"folk pop,folk cristiano","duration":"221054","spotId":"5RsZXd0tZV9QNJK6yYe5Kj","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Honest","img":"https://i.scdn.co/image/ab67616d0000b273c2e090debef8b9ee271081bf","pty":"48","artist":"The Neighbourhood","genres":"","duration":"237560","spotId":"1xJ8RjDucztPOKB0ek95tf","Items":["-SADNE-","-SLOWSS-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Escape","img":"https://i.scdn.co/image/ab67616d0000b2737638f11317bb778dac14f2df","pty":"48","artist":"Rupert Holmes","genres":"","duration":"276413","spotId":"79Dl8iYn0PFQG2wqDxPlQU","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"A Man Without Love","img":"https://i.scdn.co/image/ab67616d0000b273021463190197caeb844dd8d6","pty":"48","artist":"Engelbert Humperdinck","genres":"","duration":"205640","spotId":"622sVNQCspoVUqFWzOYYcj","Items":["-HAPPY-","-SLOWSS-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Main Title","img":"https://i.scdn.co/image/ab67616d0000b273ab23e9dba2647c40e6b5feb5","pty":"48","artist":"Danny Elfman","genres":"banda sonora","duration":"209906","spotId":"0U6lmEhmRVptZAX7HrauqG","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Koinu no Carnival -From Minute Waltz-","img":"https://i.scdn.co/image/ab67616d0000b273f2829699bddbc5a884027ea1","pty":"48","artist":"EHAMIC","genres":"vocaloid","duration":"190460","spotId":"3OP9la2QTA5artehqjFJCp","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"I'm Always Chasing Rainbows","img":"https://i.scdn.co/image/ab67616d0000b273f2f4f42443aa30df2252a0ae","pty":"47","artist":"Alice Cooper","genres":"glam rock,hard rock,glam metal,protopunk,rock clásico","duration":"128333","spotId":"1JyNPbzE7t1RUsbpiryGHJ","Items":["-HAPPY-","-SLOWSS-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Only You","img":"https://i.scdn.co/image/ab67616d0000b2739281131a9f7b1de32ff026f5","pty":"47","artist":"The Platters","genres":"doo-wop","duration":"165333","spotId":"2GuTKe67s8VBtdqtRE9nd2","Items":["-HAPPY-","-SLOWSS-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"San Francisco","img":"https://i.scdn.co/image/ab67616d0000b2738960122b302fa9b103eb6bf2","pty":"47","artist":"The Mowgli's","genres":"","duration":"173093","spotId":"2eQOMQkStoRUQyq6HGh1iG","Items":["-HAPPY-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Is This Seat Taken","img":"https://i.scdn.co/image/ab67616d0000b27369b8e5ebe18146eca463eca0","pty":"47","artist":"Myles Morgan","genres":"","duration":"210279","spotId":"4CFMGAj4Um2wT8OxOtF562","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Southern Nights","img":"https://i.scdn.co/image/ab67616d0000b27366aff06c0306e4c356bc99c8","pty":"46","artist":"Glen Campbell","genres":"","duration":"178640","spotId":"4c68Z9wLdHc36y3CNjwQKM","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"The Spectacular Spider-Man Main Theme","img":"https://i.scdn.co/image/ab67616d0000b2739ffda6ad6c2acf93b0647b71","pty":"46","artist":"Geek Music","genres":"anime","duration":"150879","spotId":"1lehjJeIwuFObvhBdD1R0c","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"I Will Dare","img":"https://i.scdn.co/image/ab67616d0000b273008cfa8fb96ef0befcbc615a","pty":"46","artist":"The Replacements","genres":"power pop,jangle pop","duration":"197426","spotId":"1MV5BzujqyRQ417qj0rXNS","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Guardians Inferno","img":"https://i.scdn.co/image/ab67616d0000b2734353fc20f3405b963e88b3aa","pty":"45","artist":"The Sneepers, David Hasselhoff","genres":"synthwave","duration":"196906","spotId":"6vFN0uVMQxHofQFnNhGBq8","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Theme","img":"https://i.scdn.co/image/ab67616d0000b273b559fda73297e59e9e4071d2","pty":"45","artist":"Michael Giacchino","genres":"banda sonora","duration":"39960","spotId":"1tzj2vY4twkNmZ5K3DUOPp","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Spider-Man","img":"https://i.scdn.co/image/ab67616d0000b273d512e3a9fe2b6990b76736d7","pty":"45","artist":"John Paesano","genres":"banda sonora","duration":"206853","spotId":"3kIdjWDaZ9gs4v2iirkJie","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Agatha All Along","img":"https://i.scdn.co/image/ab67616d0000b273374bbe82f1abe6921b1488fa","pty":"44","artist":"Kristen Anderson-Lopez, Robert Lopez, Kathryn Hahn, Eric Bradley, Greg Whipple, Jasper Randall, Gerald White","genres":"","duration":"62613","spotId":"0kHsXoIt6dONEdkgKgyjoK","Items":["-HAPPY-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"El Melouk","img":"https://i.scdn.co/image/ab67616d0000b273abf9a269b9e35b869d0223b7","pty":"44","artist":"Ahmed Saad, 3enba, Double Zuksh","genres":"mahraganat,pop egipcio,jaliyi,hip hop árabe,hip hop egipcio","duration":"195047","spotId":"04vHPXVGnb51q13NBoW22W","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Lifting the Curtain","img":"https://i.scdn.co/image/ab67616d0000b273c23c6533d2e7ffe6955dc7d9","pty":"44","artist":"Band of Silver","genres":"","duration":"185379","spotId":"0N58BYR8qwvVJcCV1GvXYq","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Ashes","img":"https://i.scdn.co/image/ab67616d0000b27338dfee186d4c7f55e4512bcb","pty":"43","artist":"Céline Dion","genres":"variété française","duration":"199506","spotId":"4hwLzecH1SuTsMN2JyCPGs","Items":["-SADNE-","-SLOWSS-","GIRL","SOLO","TV_MarvelSongs"]}, {"couname":"Welcome to the Party","img":"https://i.scdn.co/image/ab67616d0000b27338dfee186d4c7f55e4512bcb","pty":"43","artist":"Diplo, French Montana, Lil Pump, Zhavia","genres":"moombahton","duration":"181720","spotId":"0UBafqn0HVWRceDnOv2SZu","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"The Punisher Main Title","img":"https://i.scdn.co/image/ab67616d0000b273eda820ae76cd4af1f787eab6","pty":"42","artist":"Tyler Bates","genres":"banda sonora","duration":"75893","spotId":"0rSJtqCSAkhKORRpJlk7pL","Items":["-HAPPY-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Wakanda","img":"https://i.scdn.co/image/ab67616d0000b273e14495326481bbcc75cd2efb","pty":"42","artist":"Ludwig Göransson, Baaba Maal","genres":"banda sonora,afropop","duration":"140125","spotId":"2mjbf9ZvCoYqTi0RZ2FTUJ","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Main on End","img":"https://i.scdn.co/image/ab67616d0000b273ba70a3f1cc9aebbbc1fdfee1","pty":"42","artist":"Alan Silvestri","genres":"banda sonora","duration":"191053","spotId":"5POrWnsqEV6HwTcRKLdXxk","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Is You Ready","img":"https://i.scdn.co/image/ab67616d0000b273f3debe3bbd444814ace8d4f8","pty":"42","artist":"Migos","genres":"trap","duration":"184276","spotId":"6FwJj7uwhZ1vrBlDZvMLZk","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"9 to 5","img":"https://i.scdn.co/image/ab67616d0000b27338dfee186d4c7f55e4512bcb","pty":"42","artist":"Dolly Parton","genres":"country","duration":"165426","spotId":"6qpt8RfvSz67i1UzPusvFt","Items":["-HAPPY-","-ENERGY-","GIRL","SOLO","TV_MarvelSongs"]}, {"couname":"Let's Get Back To Us","img":"https://i.scdn.co/image/ab67616d0000b27319fdec98994781f541c40090","pty":"42","artist":"Michael Gilas","genres":"","duration":"188900","spotId":"5hcbemBJX7Lqhcd8lXrFGz","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"The Real Hero","img":"https://i.scdn.co/image/ab67616d0000b273ba70a3f1cc9aebbbc1fdfee1","pty":"41","artist":"Alan Silvestri","genres":"banda sonora","duration":"354826","spotId":"3KHrXuByzDnDOaVR15rZH7","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"I Don't Know What Christmas Is","img":"https://i.scdn.co/image/ab67616d0000b273da9673d5a6ca341770290698","pty":"41","artist":"Old 97's","genres":"country alternativo,folk americano","duration":"182986","spotId":"7AD4sAsJJQm0Bog0zhwYrf","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"All Out of Love","img":"https://i.scdn.co/image/ab67616d0000b27338dfee186d4c7f55e4512bcb","pty":"41","artist":"Air Supply","genres":"rock suave","duration":"243533","spotId":"7i1IEbwhpNCeIsVSXKXXFJ","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Helping Hand","img":"https://i.scdn.co/image/ab67616d0000b273e686e3d6754fc272bbc872ab","pty":"41","artist":"LongRoad","genres":"","duration":"191842","spotId":"6WfPFIctuiRqztzKFZ3ZHY","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"A Girl Like You","img":"https://i.scdn.co/image/ab67616d0000b27394353a144703e4d68f1f75fe","pty":"41","artist":"The Rockyts","genres":"","duration":"160869","spotId":"72ofpFzrtB7NGQsimRldLx","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Can You Dig It","img":"https://i.scdn.co/image/ab67616d0000b273c28c36e39012cc8edf813196","pty":"40","artist":"Brian Tyler","genres":"banda sonora","duration":"162200","spotId":"63toFNYr6cHaxMmhd2QmzQ","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Spider-Man Theme","img":"https://i.scdn.co/image/ab67616d0000b2732bda28ca7a260d0722daa154","pty":"40","artist":"Michael Bublé, Junkie XL","genres":"big beat,banda sonora","duration":"183973","spotId":"24I8lYyoECAzoPpxAaQHFV","Items":["-HAPPY-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Doom And Gloom","img":"https://i.scdn.co/image/ab67616d0000b273c2efb3b753a77c4d3383a230","pty":"40","artist":"The Rolling Stones","genres":"rock clásico,rock","duration":"247175","spotId":"1YHIX390WgL6fPmhZ1dLGz","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Thor: Ragnarok","img":"https://i.scdn.co/image/ab67616d0000b273542b3dccd4438a7440e06f4f","pty":"40","artist":"Mark Mothersbaugh","genres":"banda sonora","duration":"69573","spotId":"4Jm9RwZ2C46J06ARRllUs5","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Hold Me Now","img":"https://i.scdn.co/image/ab67616d0000b2735d96194d76f68111231d6771","pty":"40","artist":"Your Favorite Color","genres":"","duration":"218800","spotId":"5cEWARGSQtfjfPequNhXwV","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Nobody's Fault But Yours","img":"https://i.scdn.co/image/ab67616d0000b27301301ed5f8929ccc24007301","pty":"40","artist":"Myles Morgan","genres":"","duration":"209908","spotId":"325pPAeWV4HudG7qDX4OU9","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Poor Girl","img":"https://i.scdn.co/image/ab67616d0000b273beae11d5455133ae02545de0","pty":"40","artist":"X","genres":"punk,protopunk","duration":"173680","spotId":"6mDwOKsf8ycyYeBMYmpjCG","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"X-Men '97 Theme","img":"https://i.scdn.co/image/ab67616d0000b27367efaaa2608ff2393947c0a5","pty":"39","artist":"The Newton Brothers","genres":"banda sonora","duration":"65382","spotId":"3GIu4yGiUgvDi9ERewkbIa","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Simulation","img":"https://i.scdn.co/image/ab67616d0000b273afa4963b37c54c88c6c94447","pty":"39","artist":"Band of Silver","genres":"","duration":"148813","spotId":"4jOsYw8WLcxpd6xI0e5ASk","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"This Is The Last Time","img":"https://i.scdn.co/image/ab67616d0000b273a120f85d3ea0fa3a0fc85453","pty":"39","artist":"Michael Gilas","genres":"","duration":"191000","spotId":"4P6wCqQGOV4B37t7Z2Toww","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Funk Funk","img":"https://i.scdn.co/image/ab67616d0000b27351ebff145751498d29d82e25","pty":"39","artist":"Cameo","genres":"funk","duration":"287533","spotId":"2ettf7qywhnJuavMxZOsWh","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Rock 'N' Roll Damnation","img":"https://i.scdn.co/image/ab67616d0000b273b56115c0e231fbf69d3205c6","pty":"38","artist":"AC/DC","genres":"rock,hard rock,rock clásico,rock and roll","duration":"216933","spotId":"1Ru1scJuR193OlnCnVvYjM","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"On And On","img":"https://i.scdn.co/image/ab67616d0000b2731bd6d2d52810efdfee21b608","pty":"38","artist":"Curtis Harding","genres":"retro soul","duration":"241706","spotId":"2NwwdNPSlvoRBqomWa4S2N","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Better Believe It","img":"https://i.scdn.co/image/ab67616d0000b27363748288622bcae4290bd028","pty":"38","artist":"fuseo, Sean Michael Murray","genres":"","duration":"209677","spotId":"7jXXKMQnlzXphbJNbK82hx","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Call Me","img":"https://i.scdn.co/image/ab67616d0000b2736d2ee1965b70ef59d1f1f778","pty":"37","artist":"Blondie","genres":"","duration":"486933","spotId":"6wzbWsPbfIR0nBjSqdbV7m","Items":["-HAPPY-","-ENERGY-","GIRL","BAND","TV_MarvelSongs"]}, {"couname":"Come On Get Happy","img":"https://i.scdn.co/image/ab67616d0000b273d7c0842b96952fd5c4eb835b","pty":"36","artist":"David Cassidy","genres":"","duration":"65933","spotId":"3fiWru4ins2Mso83shTZTz","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Best Friend","img":"https://i.scdn.co/image/ab67616d0000b273fc9762a9b0b58fad510c5c73","pty":"36","artist":"Brent Brown","genres":"","duration":"208775","spotId":"33dNovjmhtTysWZyq513xE","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Guns for Hire","img":"https://i.scdn.co/image/ab67616d0000b273b56115c0e231fbf69d3205c6","pty":"35","artist":"AC/DC","genres":"rock,hard rock,rock clásico,rock and roll","duration":"204680","spotId":"01sno3m5rqaFy2YVE1A7LZ","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Civil War","img":"https://i.scdn.co/image/ab67616d0000b273388170a44fd8ff0055d6ac58","pty":"35","artist":"Henry Jackman","genres":"banda sonora","duration":"265760","spotId":"5UUZRLyBE80HsJWmnLM7A4","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"I'm A Dragon feat. Sway","img":"https://i.scdn.co/image/ab67616d0000b2731b04e317fdc3990de5bc29c6","pty":"35","artist":"Apashe, Sway","genres":"grime","duration":"390620","spotId":"3E0GuO3vb5R1ZPM6KEqPZj","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"What Comes Next?","img":"https://i.scdn.co/image/ab67616d0000b2735eb52422349b55b123275c68","pty":"35","artist":"David Bray","genres":"","duration":"196933","spotId":"4fPlc58Q0DXCxLZPWhLuMo","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Star Spangled Man","img":"https://i.scdn.co/image/ab67616d0000b273ef529a395ac460e574838673","pty":"34","artist":"The Star Spangled Singers","genres":"","duration":"173360","spotId":"0U9i80PmEhdWAfDUeOuuWU","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"We Run This","img":"https://i.scdn.co/image/ab67616d0000b273b413af6cc3f7362697dacb09","pty":"34","artist":"Missy Elliott","genres":"hip hop","duration":"204605","spotId":"3xxoo1LSoSajewrSdNdfdo","Items":["-HAPPY-","-ENERGY-","GIRL","SOLO","TV_MarvelSongs"]}, {"couname":"Voodoo Queen","img":"https://i.scdn.co/image/ab67616d0000b2739afa6d80ed35ee991c6e470c","pty":"34","artist":"Michael Gilas","genres":"","duration":"230725","spotId":"4oIXNRkjaNmgvs2oPUdgMr","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Gettin To Me","img":"https://i.scdn.co/image/ab67616d0000b2733f058d86b32b08c854a94c15","pty":"34","artist":"E.J. Morgan","genres":"country gótico","duration":"228117","spotId":"5mdNDcAfqsIOErywIc3L50","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Brandy","img":"https://i.scdn.co/image/ab67616d0000b2736eb82115589a346dcfea9956","pty":"33","artist":"Looking Glass","genres":"","duration":"175266","spotId":"5wpPgtg4YBAHakbbg7QyY7","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"The End","img":"https://i.scdn.co/image/ab67616d0000b2737b7729417ee974373b61c8bb","pty":"33","artist":"Earl Grant","genres":"swing","duration":"140800","spotId":"79Iwb8D1mlLHzyrTzuA3cw","Items":["-HAPPY-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"In Your Own Time","img":"https://i.scdn.co/image/ab67616d0000b273825f64cacfed0f992e4de915","pty":"33","artist":"Philip Ancher","genres":"","duration":"156906","spotId":"6p55IDMbXI0c3aOHHtE2d9","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Easy","img":"https://i.scdn.co/image/ab67616d0000b2733246671287ce9ea8bc22990b","pty":"31","artist":"Jeremy Gravely","genres":"","duration":"227333","spotId":"1eAlhnBaDfa0oqnuSYoafb","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Welcome To The Jungle","img":"https://i.scdn.co/image/ab67616d0000b27368384dd85fd5e95831252f60","pty":"30","artist":"Guns N' Roses","genres":"rock,glam metal,hard rock,rock clásico","duration":"272026","spotId":"0bVtevEgtDIeRjCJbK3Lmv","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"We're Not Gonna Take It","img":"https://i.scdn.co/image/ab67616d0000b273fc89a48071103dde2af3616c","pty":"30","artist":"Twisted Sister","genres":"glam metal,glam rock","duration":"218293","spotId":"4wXcpkyBWFnM4FbVSC17HN","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Love Fighter","img":"https://i.scdn.co/image/ab67616d0000b273f03b792e0ec7f4aa2e32b4ca","pty":"30","artist":"CrushedVelvet","genres":"","duration":"214848","spotId":"6v9wiKFC0jtG0M8zTX3viP","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Hey Lawdy Mama","img":"https://i.scdn.co/image/ab67616d0000b2731e52290687d9dad09f278f3a","pty":"29","artist":"Steppenwolf","genres":"rock clásico,rock ácido","duration":"178760","spotId":"7uBFTvkmgnCpaIe5c2MU7x","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Cold Hearted Man","img":"https://i.scdn.co/image/ab67616d0000b273a254f3777d9d262b432ebc1a","pty":"28","artist":"AC/DC","genres":"rock,hard rock,rock clásico,rock and roll","duration":"215160","spotId":"3yrQNktNSLNwSt4CXqFkhY","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Act My Age","img":"https://i.scdn.co/image/ab67616d0000b27326c140277249daa6bc801cab","pty":"28","artist":"Hoodie Allen","genres":"","duration":"192139","spotId":"3lbfun3A62A3gMOkWhQIFE","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Wanda's Theme","img":"https://i.scdn.co/image/ab67616d0000b2734f1d566833e739fb030e0a52","pty":"28","artist":"Christophe Beck","genres":"banda sonora","duration":"107360","spotId":"53mmczr5bIsDSjiq3tao62","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"TVA","img":"https://i.scdn.co/image/ab67616d0000b2737712f47dbb83f35c9c214b57","pty":"28","artist":"Natalie Holt","genres":"banda sonora","duration":"148680","spotId":"6YnoM7vjNoilLxWRslJ1d4","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Careless Whisper","img":"https://i.scdn.co/image/ab67616d0000b27364c19b24ce947ffa363f8f96","pty":"28","artist":"George Michael","genres":"","duration":"300106","spotId":"4jDmJ51x1o9NZB5Nxxc7gY","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Shades","img":"https://i.scdn.co/image/ab67616d0000b2732e9db83ebb9a6021856c8a86","pty":"28","artist":"R.P. Mixon","genres":"","duration":"239991","spotId":"76CN19FlFT2bMvs0miztiI","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Don't Mean a Thing","img":"https://i.scdn.co/image/ab67616d0000b27345ca2aaac3cc6a7dff470f3f","pty":"28","artist":"Ernesto J. Ponce","genres":"country gótico,rock urbano","duration":"212056","spotId":"6Gksi5z29smR0SrjI7qBPn","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"The Rest of My Life","img":"https://i.scdn.co/image/ab67616d0000b273a17cd23ff2ec11ebd18f6a32","pty":"27","artist":"Hans Zimmer, The Magnificent Six, Pharrell Williams, Johnny Marr","genres":"banda sonora","duration":"148213","spotId":"221QqX9sYZlTIFp12RP6go","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Planet Sakaar","img":"https://i.scdn.co/image/ab67616d0000b273542b3dccd4438a7440e06f4f","pty":"27","artist":"Mark Mothersbaugh","genres":"banda sonora","duration":"134466","spotId":"0CqbwdoEU3YHSC6yYAdd5c","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Spider Man","img":"https://i.scdn.co/image/ab67616d0000b27302e71a3be3cdf4c0b863f848","pty":"27","artist":"TV Themes","genres":"","duration":"62066","spotId":"2STg7P6dXeSJnSJ7m3wMGi","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Louisiana Hero","img":"https://i.scdn.co/image/ab67616d0000b27364d99bf2b872a73a6bea8e29","pty":"26","artist":"Henry Jackman","genres":"banda sonora","duration":"136102","spotId":"0YRJeq6AvbjquIwj3ClOoq","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Paradise City","img":"https://i.scdn.co/image/ab67616d0000b27368384dd85fd5e95831252f60","pty":"26","artist":"Guns N' Roses","genres":"rock,glam metal,hard rock,rock clásico","duration":"405640","spotId":"3YBZIN3rekqsKxbJc9FZko","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Suite from X2","img":"https://i.scdn.co/image/ab67616d0000b273da809ff479511ef93dff16f4","pty":"26","artist":"John Ottman","genres":"banda sonora","duration":"431213","spotId":"3rRVnimOSp80R96q1MO5Au","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Never Forget [Feat. Chef 187, Tio Nason, Mwanjé]","img":"https://i.scdn.co/image/ab67616d0000b2738d92768a5161c702cb453e33","pty":"25","artist":"Sampa the Great, Chef 187, Tio Nason, Mwanje","genres":"","duration":"217520","spotId":"4pBr2SjDVIxfGkUwvOJLx7","Items":["-HAPPY-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Iron Fist Main Titles","img":"https://i.scdn.co/image/ab67616d0000b2734b18d98c7fce3a5ecdb17160","pty":"25","artist":"Trevor Morris","genres":"medieval,banda sonora","duration":"75373","spotId":"5fwwIBebYWFriw4iamcsyj","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Leave The Light On For Me","img":"https://i.scdn.co/image/ab67616d0000b273a26191675acb7438cce4faf1","pty":"25","artist":"Benni Frank","genres":"","duration":"227524","spotId":"4GArRiXhTAxHQwnwODbeCe","Items":["-HAPPY-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Star Spangled Man","img":"https://i.scdn.co/image/ab67616d0000b273225810691e1f5b13944c6570","pty":"24","artist":"The Captain America Drum Corps","genres":"","duration":"104656","spotId":"0asWVkzLh4S2n2ft9YJOUp","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Sweet Child O' Mine","img":"https://i.scdn.co/image/ab67616d0000b27368384dd85fd5e95831252f60","pty":"24","artist":"Guns N' Roses","genres":"rock,glam metal,hard rock,rock clásico","duration":"354520","spotId":"7o2CTH4ctstm8TNelqjb51","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Guardians Of The Galaxy","img":"https://i.scdn.co/image/ab67616d0000b273575541a6dba502d08baeb900","pty":"23","artist":"Geek Music","genres":"anime","duration":"144329","spotId":"05cDN6pXwPzHDMdMRuWvle","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Burn","img":"https://i.scdn.co/image/ab67616d0000b273707a34b45597e30cb2945d49","pty":"23","artist":"Cody Crump","genres":"","duration":"136973","spotId":"20AsPHXw2ZwKCnBcz7jSDB","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Crazy Train","img":"https://i.scdn.co/image/ab67616d0000b2735776e18c520194c48d92815b","pty":"22","artist":"Ozzy Osbourne","genres":"metal,glam metal,heavy metal,hard rock","duration":"296200","spotId":"2b9lp5A6CqSzwOrBfAFhof","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"One December","img":"https://i.scdn.co/image/ab67616d0000b2737e38c963c474357bef046f6e","pty":"21","artist":"Jimmy Driscoll","genres":"","duration":"271000","spotId":"5Eb4ZRMsYXa5SlDYyNaXR0","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Beacon","img":"https://i.scdn.co/image/ab67616d0000b273c24c103c75810175a479536b","pty":"21","artist":"Bryson Cassidy","genres":"","duration":"208223","spotId":"1UtabdqI2FZlXvyQssdTqQ","Items":["-HAPPY-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Kickstart My Heart","img":"https://i.scdn.co/image/ab67616d0000b2739a81658775e67d37b9e13be1","pty":"20","artist":"Mötley Crüe","genres":"glam metal,glam rock,hard rock","duration":"282653","spotId":"7GonnnalI2s19OCQO1J7Tf","Items":["-SADNE-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Bangarang","img":"https://i.scdn.co/image/ab67616d0000b2732e518a83c9714d8ae93193ed","pty":"19","artist":"CDM Project","genres":"edm cristiana","duration":"215000","spotId":"3wxq0UfOY6DaNkCEJdp6FL","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"You Can't Stop this Mother F*****","img":"https://i.scdn.co/image/ab67616d0000b2736fad3cb63b042dee8badef98","pty":"18","artist":"Tyler Bates","genres":"banda sonora","duration":"70600","spotId":"6Rvpcw4OnG9fMfcxVIyEhL","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Captain America","img":"https://i.scdn.co/image/ab67616d0000b2731a5c6cdea48a228edb8e9780","pty":"17","artist":"Alan Silvestri, William Ross, Cincinnati Pops Orchestra, John Morris Russell","genres":"banda sonora","duration":"145503","spotId":"57U0HkSGvqPDiknYgfzgx5","Items":["-HAPPY-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"She-Hulk: Attorney at Law","img":"https://i.scdn.co/image/ab67616d0000b2734a8f9cf237c611c0a0706bd8","pty":"14","artist":"Amie Doherty","genres":"","duration":"147006","spotId":"3hE8eEGm3lnwCb5rlodRan","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Perp Walk","img":"https://i.scdn.co/image/ab67616d0000b27326241676a90ad94d2978825b","pty":"14","artist":"John Paesano","genres":"banda sonora","duration":"169252","spotId":"6xk4p1Co84hLJK49FNy7wr","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Hold On","img":"https://i.scdn.co/image/ab67616d0000b273842c0371f46cf43e252f982e","pty":"13","artist":"Jet","genres":"","duration":"242480","spotId":"6fTX2poT39Ucz6A7Tsqyg9","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Blue","img":"https://i.scdn.co/image/ab67616d0000b27329cced2f38d87456e0b5c398","pty":"12","artist":"Eiffel 65, Gabry Ponte","genres":"eurodance,europop,italo dance,slap house","duration":"283747","spotId":"2yAVzRiEQooPEJ9SYx11L3","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Marvel 2021 Fanfare","img":"https://i.scdn.co/image/ab67616d0000b273e9a0349bf1a1cfa8809c9303","pty":"10","artist":"Geek Music","genres":"anime","duration":"159237","spotId":"0JxLxQQHtXMCyDxZVmpAL9","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"The Day Is My Enemy","img":"https://i.scdn.co/image/ab67616d0000b2732e340c7a209ff01a40d65c5a","pty":"9","artist":"The Prodigy","genres":"big beat,breakbeat,rave,techno hardcore","duration":"264947","spotId":"1XEzeXCRxrCgtC2RXlxpTG","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Come As You Are","img":"https://i.scdn.co/image/ab67616d0000b27328a90d00a2819504364880e4","pty":"6","artist":"Nirvana","genres":"grunge,rock","duration":"218920","spotId":"0MKGH8UMfCnq5w7nG06oM5","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"What If...? Main Theme","img":"https://i.scdn.co/image/ab67616d0000b273f21bf0daa05e733211fc2211","pty":"5","artist":"Geek Music","genres":"anime","duration":"67983","spotId":"07wsC60Jf9zKFgZTZPdPF9","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Never Gonna Give You Up","img":"https://i.scdn.co/image/ab67616d0000b273baf89eb11ec7c657805d2da0","pty":"5","artist":"Rick Astley","genres":"","duration":"213573","spotId":"4cOdK2wGLETKBW3PvgPWqT","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Gone, Gone, Gone","img":"https://i.scdn.co/image/ab67616d0000b273d9009cc16eddbc6664508cd8","pty":"1","artist":"Phillip Phillips","genres":"folk pop","duration":"209693","spotId":"5L79aNYCTKiZq7vaOElXYj","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Father And Son","img":"https://i.scdn.co/image/ab67616d0000b273d12357f649db780ff1171b06","pty":"1","artist":"Yusuf / Cat Stevens","genres":"folk rock,folk,cantautores","duration":"221000","spotId":"19slC7k8bsPOAKDjHYLU2W","Items":["-HAPPY-","-SLOWSS-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Time in a Bottle","img":"https://i.scdn.co/image/ab67616d0000b27398078d325c25a5ac4081cfba","pty":"1","artist":"Jim Croce","genres":"folk rock,cantautores","duration":"146175","spotId":"561F1zqRwGPCTMRsLsXVtL","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"It's On Again","img":"https://i.scdn.co/image/ab67616d0000b273a7709a62c19027419613cb3a","pty":"0","artist":"Alicia Keys, Kendrick Lamar","genres":"r&b,neo soul,hip hop,west coast rap","duration":"230080","spotId":"4WLMaOOMrKXQMd2NjPlC1v","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Song For Zula","img":"https://i.scdn.co/image/ab67616d0000b2737868c54c6323e3ad935e4dfb","pty":"0","artist":"Phosphorescent","genres":"chamber pop,indie folk","duration":"370200","spotId":"3zr2s3o2Ye1j6t0ZMdoUYi","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Spirit in the Sky","img":"https://i.scdn.co/image/ab67616d0000b273efb3ccc6676263cc554c5408","pty":"0","artist":"Norman Greenbaum","genres":"rock clásico","duration":"240906","spotId":"1CnTAkLCWL8Uvsr1BDiX8F","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Flash Light","img":"https://i.scdn.co/image/ab67616d0000b273b44f48e4ae948111e3559783","pty":"0","artist":"Parliament","genres":"funk,funk rock","duration":"346666","spotId":"6Ie9yuocD61v7hrh02moc6","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Fox On The Run","img":"https://i.scdn.co/image/ab67616d0000b273e23cc6aea46a7e2a428ad403","pty":"0","artist":"Sweet","genres":"glam rock","duration":"212040","spotId":"18RfnQPWVNmROX7jCRcVZI","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Shoop","img":"https://i.scdn.co/image/ab67616d0000b27323b1576fe6f6926e16407bab","pty":"0","artist":"Salt-N-Pepa","genres":"","duration":"248560","spotId":"75dkBio1uIoYAivI5UPLKV","Items":["-HAPPY-","-ENERGY-","GIRL","BAND","TV_MarvelSongs"]}, {"couname":"Marvel Studios Fanfare","img":"https://i.scdn.co/image/ab67616d0000b273b0d9ccc6b2ed3789226d2d97","pty":"0","artist":"Brian Tyler","genres":"banda sonora","duration":"30733","spotId":"0GAIkIQFxTw4vr18anewE9","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Another One Bites The Dust","img":"https://i.scdn.co/image/ab67616d0000b273565b1d566c3b6b8731908b29","pty":"0","artist":"Queen","genres":"rock clásico,rock,glam rock","duration":"215333","spotId":"4M7xuGgOtPwiTee1JXG617","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Ants Invasion","img":"https://i.scdn.co/image/ab67616d0000b27306dd4c8d81c3e33629a7ea2b","pty":"0","artist":"Adam & The Ants","genres":"new wave,post-punk","duration":"201240","spotId":"5NzXQZWXvJs60FFfevrukf","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Borombon","img":"https://i.scdn.co/image/ab67616d0000b273a18b88c2ec2ee3712bc8cc7a","pty":"0","artist":"Camilo Azuquita","genres":"salsa romántica,salsa","duration":"169800","spotId":"0UjEz6kQgPvOUDvqB0xXpC","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"X Gon' Give It To Ya","img":"https://i.scdn.co/image/ab67616d0000b273b6fd0b8408a5364744615a7f","pty":"0","artist":"DMX","genres":"hip hop de la costa este,hardcore hip hop","duration":"217586","spotId":"4tXA1TUmKvz7CbUT9LUHDx","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Great Intentions","img":"https://i.scdn.co/image/ab67616d0000b273afdb1befa682e45eea74d714","pty":"0","artist":"Damato","genres":"","duration":"183225","spotId":"2vScTbPErwLFGKIIoq3Fbh","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Super Hyphy a.k.a. That's My Word","img":"https://i.scdn.co/image/ab67616d0000b27331c6be83f7a94d0a2e8d1fd3","pty":"0","artist":"Keak Da Sneak","genres":"hyphy,west coast rap","duration":"206280","spotId":"494tgzPyI1wdFkRgSGFvcs","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Legend Has It","img":"https://i.scdn.co/image/ab67616d0000b273437cf2d8b9581b9ccd66b6ab","pty":"0","artist":"Run The Jewels","genres":"hip hop","duration":"205866","spotId":"6bGwloiyyHXwFZ4yV1zjqR","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Iron Man: Main Theme","img":"https://i.scdn.co/image/ab67616d0000b273abb1613d4f74716530e80d3a","pty":"0","artist":"Cinematic Legacy","genres":"","duration":"70236","spotId":"5ncexIM7x2cuAheugLTQ3h","Items":["-HAPPY-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Iron Man","img":"https://i.scdn.co/image/ab67616d0000b273d07e207ce654bec0813d028d","pty":"0","artist":"Black Sabbath","genres":"metal,heavy metal,rock,stoner rock,hard rock,doom metal,rock clásico","duration":"354773","spotId":"4HzdhXWJqczW6gOIXT6QRH","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"The Incredible Hulk: Main Theme","img":"https://i.scdn.co/image/ab67616d0000b273f474b9f26c02c1c9b139e163","pty":"0","artist":"Cinematic Legacy","genres":"","duration":"74132","spotId":"4U627PeK7mAGSBYP9WQ6ov","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"The Avengers","img":"https://i.scdn.co/image/ab67616d0000b27340c5eba119775169f9659ace","pty":"0","artist":"Alan Silvestri","genres":"banda sonora","duration":"123360","spotId":"1EWGuFGjNkP4KxRxSoWifM","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Thor: The Dark World","img":"https://i.scdn.co/image/ab67616d0000b273f474b9f26c02c1c9b139e163","pty":"0","artist":"Cinematic Legacy","genres":"","duration":"71136","spotId":"20XE3KgK665lCom13pWSsl","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Ain't No Mountain High Enough","img":"https://i.scdn.co/image/ab67616d0000b273d18984031081035d44534473","pty":"0","artist":"Marvin Gaye, Tammi Terrell","genres":"motown,soul,northern soul,quiet storm","duration":"151666","spotId":"2H3ZUSE54pST4ubRd5FzFR","Items":["-HAPPY-","-ENERGY-","GIRL","OTHR","TV_MarvelSongs"]}, {"couname":"I Want You Back","img":"https://i.scdn.co/image/ab67616d0000b27340b58135da9c7b20dce565f4","pty":"0","artist":"The Jackson 5","genres":"motown","duration":"176333","spotId":"3b0EOvScbZUc0qJx0E1L2z","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Doctor Strange the Master of the Mystic End Titles","img":"https://i.scdn.co/image/ab67616d0000b273f474b9f26c02c1c9b139e163","pty":"0","artist":"Cinematic Legacy","genres":"","duration":"69988","spotId":"0QUKFcbA8LDUw4I8HsHLLj","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"My Sweet Lord","img":"https://i.scdn.co/image/ab67616d0000b27313fc3babdcbe7a5268fd96a1","pty":"0","artist":"George Harrison","genres":"","duration":"281226","spotId":"1chu8wc9zbNqTQ2ahROys1","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"BagBak","img":"https://i.scdn.co/image/ab67616d0000b27317f513ca86c795609ea29a80","pty":"0","artist":"Vince Staples","genres":"","duration":"160506","spotId":"4nuP7SIS91ldX5bvrFx1l7","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"All The Stars","img":"https://i.scdn.co/image/ab67616d0000b2736bf36d6497b0db242c514a91","pty":"0","artist":"Kendrick Lamar, SZA","genres":"hip hop,west coast rap,r&b","duration":"232186","spotId":"2Imq77E6CEJR5TPUxlJvTY","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Ant-Man Theme","img":"https://i.scdn.co/image/ab67616d0000b273f474b9f26c02c1c9b139e163","pty":"0","artist":"Cinematic Legacy","genres":"","duration":"54394","spotId":"5gV7R7SvvF2dDOgai3Q2cW","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Supersonic Rocket Ship","img":"https://i.scdn.co/image/ab67616d0000b273e9258e8b4b04cccf22df2a00","pty":"0","artist":"The Kinks","genres":"protopunk,pop barroco","duration":"211578","spotId":"73TIedeyEOxFQ56TTmOExK","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"The Magic Number","img":"https://i.scdn.co/image/ab67616d0000b2738f6735ebdf2989eb34ab5b1c","pty":"0","artist":"Fresh Beat MCs","genres":"","duration":"192000","spotId":"6wM3A3C1VgERFLFck2ktDP","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Moon Knight","img":"https://i.scdn.co/image/ab67616d0000b273ccaa1e191b8a58e09882a028","pty":"0","artist":"Hesham Nazih","genres":"","duration":"128800","spotId":"3IvbyVYgQEKqvwQhquFKNn","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"No Woman No Cry","img":"https://i.scdn.co/image/ab67616d0000b273f73ff07398466feb2f7ffc6e","pty":"0","artist":"Tems","genres":"afrobeats,alté,afrobeat,afropop","duration":"213266","spotId":"6nllDX2n9aH8p1G1CxjLb8","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Main Title","img":"https://i.scdn.co/image/ab67616d0000b273553da72e705e3d48937ede21","pty":"0","artist":"John Paesano, Braden Kimball","genres":"banda sonora","duration":"64946","spotId":"6uWP9mzYRUfoWrHWyL4ePU","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Jessica Jones Main Title","img":"https://i.scdn.co/image/ab67616d0000b2730438b8365d0676230182af6f","pty":"0","artist":"Sean Callery","genres":"","duration":"69373","spotId":"3WhnKhNtucHpnkoCNtTb7Z","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Theme","img":"https://i.scdn.co/image/ab67616d0000b273e328f24235c06f855a4b59ac","pty":"0","artist":"Adrian Younge, Ali Shaheed Muhammad","genres":"jazz,jazz funk,nu jazz","duration":"69160","spotId":"4sNuqXlD4pQYpQ2vgTTaHB","Items":["-HAPPY-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Come Down","img":"https://i.scdn.co/image/ab67616d0000b273097f24cc46409c54894775bf","pty":"0","artist":"Anderson .Paak","genres":"","duration":"168080","spotId":"5kbcEaNa4txW4HhRH0ed6A","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"The Defenders Main Title","img":"https://i.scdn.co/image/ab67616d0000b27373dc9cde1d4f49687e475a22","pty":"0","artist":"John Paesano","genres":"banda sonora","duration":"79150","spotId":"7pL7qwvQXNRt1t1K6LewDT","Items":["-SADNE-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Run the Jewels","img":"https://i.scdn.co/image/ab67616d0000b27326ee011fd2c090cfe5476026","pty":"0","artist":"Run The Jewels","genres":"hip hop","duration":"210626","spotId":"2eha6iitIJ7EaVdvusgtQi","Items":["-SADNE-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"One","img":"https://i.scdn.co/image/ab67616d0000b27377a305e9cd8ea75285c296e8","pty":"0","artist":"Metallica","genres":"metal,thrash metal,rock,heavy metal,hard rock","duration":"447440","spotId":"0kUBk3PnCat4oPvTlNsStp","Items":["-HAPPY-","-ENERGY-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"Deadpool Rap","img":"https://i.scdn.co/image/ab67616d0000b27397afecee1d559a16882e93b2","pty":"0","artist":"Teamheadkick","genres":"nerdcore","duration":"205577","spotId":"2OhUzRYyDT51fG7YbS797O","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Hurt","img":"https://i.scdn.co/image/ab67616d0000b2736bfaa09961a17a60edebf43f","pty":"0","artist":"Johnny Cash","genres":"country","duration":"218586","spotId":"5VFzIzR8nACf9Bad4O73f6","Items":["-SADNE-","-SLOWSS-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Mama Said Knock You Out","img":"https://i.scdn.co/image/ab67616d0000b2736a7c2f8ea4c6e7fd06063685","pty":"0","artist":"LL COOL J","genres":"hip hop de la costa este","duration":"192253","spotId":"4Bccfz3m347if0x39yIADg","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Take on Me","img":"https://i.scdn.co/image/ab67616d0000b27338dfee186d4c7f55e4512bcb","pty":"0","artist":"a-ha","genres":"new wave,synthpop","duration":"254120","spotId":"7FkH8LndW3WmnwLvVhml4F","Items":["-SADNE-","-SLOWSS-","DUDE","BAND","TV_MarvelSongs"]}, {"couname":"We Belong","img":"https://i.scdn.co/image/ab67616d0000b27338dfee186d4c7f55e4512bcb","pty":"0","artist":"Pat Benatar","genres":"aor","duration":"222320","spotId":"7c5z62mM6hqZdrMgx4yEFC","Items":["-HAPPY-","-ENERGY-","GIRL","SOLO","TV_MarvelSongs"]}, {"couname":"If I Could Turn Back Time","img":"https://i.scdn.co/image/ab67616d0000b27338dfee186d4c7f55e4512bcb","pty":"0","artist":"Cher","genres":"","duration":"241586","spotId":"7F5w2JXb0swg7BEw3ugyYY","Items":["-HAPPY-","-ENERGY-","GIRL","SOLO","TV_MarvelSongs"]}, {"couname":"The Dark End of the Street","img":"https://i.scdn.co/image/ab67616d0000b2734830d86f4e3a32543048a779","pty":"0","artist":"James Carr","genres":"northern soul,soul","duration":"153986","spotId":"7GykWKpUdiwoYLCACCpmjp","Items":["-HAPPY-","-SLOWSS-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"The Boogie","img":"https://i.scdn.co/image/ab67616d0000b2737d385c198e6f12e44400d430","pty":"0","artist":"Outasight","genres":"","duration":"207532","spotId":"3ZPpKKlGYDGlxxWISfS0Aq","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Moonage Daydream","img":"https://i.scdn.co/image/ab67616d0000b27363b132d9c237849c4b837df6","pty":"0","artist":"David Bowie","genres":"glam rock,art rock","duration":"280530","spotId":"3ziCNz5vq8pEeRZjPElfYR","Items":["-HAPPY-","-ENERGY-","DUDE","SOLO","TV_MarvelSongs"]}, {"couname":"Shake Your Groove Thing","img":"https://i.scdn.co/image/ab67616d0000b27366ade54d4c31ad2d4fcc6021","pty":"0","artist":"Peaches & Herb","genres":"disco","duration":"346133","spotId":"7hzY0LHz8KdEr1PowHhbdu","Items":["-HAPPY-","-ENERGY-","GIRL","OTHR","TV_MarvelSongs"]}, {"couname":"Funk #49","img":"https://i.scdn.co/image/ab67616d0000b2730f71df04d7174ffc9e92f857","pty":"0","artist":"James Gang","genres":"rock clásico,rock sureño","duration":"237773","spotId":"1qqeqeRgn7DFn1LSOA9VBv","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}, {"couname":"Walk Away","img":"https://i.scdn.co/image/ab67616d0000b2730f71df04d7174ffc9e92f857","pty":"0","artist":"James Gang","genres":"rock clásico,rock sureño","duration":"214960","spotId":"5vE4GSOjOXAEhSyizJD3CX","Items":["-HAPPY-","-ENERGY-","OTHR","OTHR","TV_MarvelSongs"]}]
+[
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731b04e317fdc3990de5bc29c6",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Animals",
+      "XT_AllSonges",
+      "XT_OffAnimals",
+      "XT_Onnu",
+      "XT_Homme"
+    ],
+    "artist": "Apashe,Sway",
+    "genres": 0,
+    "spotId": "3E0GuO3vb5R1ZPM6KEqPZj",
+    "couname": "I'm A Dragon feat. Sway",
+    "duration": "390620"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737b7729417ee974373b61c8bb",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Earl Grant",
+    "genres": 0,
+    "spotId": "79Iwb8D1mlLHzyrTzuA3cw",
+    "couname": "The End",
+    "duration": "140800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d2675cb6847d1b1da9fc28a3",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_Synth",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Bonnie Tyler",
+    "genres": 0,
+    "spotId": "5Hyr47BBGpvOfcykSCcaw9",
+    "couname": "Holding Out for a Hero",
+    "duration": "348333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732bda28ca7a260d0722daa154",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Michael Bublé,Junkie XL",
+    "genres": 0,
+    "spotId": "24I8lYyoECAzoPpxAaQHFV",
+    "couname": "Spider-Man Theme",
+    "duration": "183973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273afdb1befa682e45eea74d714",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Damato",
+    "genres": 0,
+    "spotId": "2vScTbPErwLFGKIIoq3Fbh",
+    "couname": "Great Intentions",
+    "duration": "183225"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730a825fea8b9095572e5130ef",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Eve",
+    "genres": 0,
+    "spotId": "3uVE5vLKkigiWBOQEgmdDk",
+    "couname": "Who's That Girl?",
+    "duration": "281906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27306dd4c8d81c3e33629a7ea2b",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Adam & The Ants",
+    "genres": 0,
+    "spotId": "5NzXQZWXvJs60FFfevrukf",
+    "couname": "Ants Invasion",
+    "duration": "201240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736dfcc4113d47254abd85d151",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Nick Phoenix",
+    "genres": 0,
+    "spotId": "5jPjRw46nY3jKByra4NphU",
+    "couname": "Saturn",
+    "duration": "273652"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736a7c2f8ea4c6e7fd06063685",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "LL COOL J",
+    "genres": 0,
+    "spotId": "4Bccfz3m347if0x39yIADg",
+    "couname": "Mama Said Knock You Out",
+    "duration": "192253"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733f058d86b32b08c854a94c15",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "E.J. Morgan",
+    "genres": 0,
+    "spotId": "5mdNDcAfqsIOErywIc3L50",
+    "couname": "Gettin To Me",
+    "duration": "228117"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737d158ed56294d4fcc2d00190",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Questions",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "The Flaming Lips",
+    "genres": 0,
+    "spotId": "1GjpSlPPKzrCFD0n8Zjhp3",
+    "couname": "Do You Realize??",
+    "duration": "212693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27388347139ece65ca1134a00a7",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_AboutTime",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Harry James",
+    "genres": 0,
+    "spotId": "4rfh0qEv1HdKRXWiRXfzWF",
+    "couname": "It's Been a Long, Long Time",
+    "duration": "205773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c23c6533d2e7ffe6955dc7d9",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Femme"
+    ],
+    "artist": "Band of Silver",
+    "genres": 0,
+    "spotId": "0N58BYR8qwvVJcCV1GvXYq",
+    "couname": "Lifting the Curtain",
+    "duration": "185379"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736bf36d6497b0db242c514a91",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_SpotifyS500",
+      "TV_Top102024",
+      "XT_Cars",
+      "XT_Dreaming",
+      "XT_Intros",
+      "XT_MoonStars",
+      "XT_Oscars",
+      "XT_Weather",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Kendrick Lamar,SZA",
+    "genres": 0,
+    "spotId": "2Imq77E6CEJR5TPUxlJvTY",
+    "couname": "All The Stars",
+    "duration": "232186"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f73ff07398466feb2f7ffc6e",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Tems",
+    "genres": 0,
+    "spotId": "6nllDX2n9aH8p1G1CxjLb8",
+    "couname": "No Woman No Cry",
+    "duration": "213266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ccaa1e191b8a58e09882a028",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_MoonStars",
+      "XT_AllSonges",
+      "XT_Monarchy",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Hesham Nazih",
+    "genres": 0,
+    "spotId": "3IvbyVYgQEKqvwQhquFKNn",
+    "couname": "Moon Knight",
+    "duration": "128800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27369b8e5ebe18146eca463eca0",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Myles Morgan",
+    "genres": 0,
+    "spotId": "4CFMGAj4Um2wT8OxOtF562",
+    "couname": "Is This Seat Taken",
+    "duration": "210279"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273707a34b45597e30cb2945d49",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Cody Crump",
+    "genres": 0,
+    "spotId": "20AsPHXw2ZwKCnBcz7jSDB",
+    "couname": "Burn",
+    "duration": "136973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27351c02a77d09dfcd53c8676d0",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_GuitarSolo",
+      "TV_BestVideos",
+      "TV_Dreamworks",
+      "TV_Halloween",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "TV_Simpsons120",
+      "TV_SpotifyS500",
+      "XT_Cars",
+      "XT_Fire",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_1019",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "AC/DC",
+    "genres": 0,
+    "spotId": "2zYzyRzz6pRmhPzyfMEC8s",
+    "couname": "Highway to Hell",
+    "duration": "208400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27364d99bf2b872a73a6bea8e29",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Henry Jackman",
+    "genres": 0,
+    "spotId": "0YRJeq6AvbjquIwj3ClOoq",
+    "couname": "Louisiana Hero",
+    "duration": "136102"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f2829699bddbc5a884027ea1",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "EHAMIC",
+    "genres": 0,
+    "spotId": "3OP9la2QTA5artehqjFJCp",
+    "couname": "Koinu no Carnival -From Minute Waltz-",
+    "duration": "190460"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273060ccf36ab5b0e0a739799ec",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_Choirs",
+      "TV_MarvelSongs",
+      "TV_Simpsons120",
+      "XT_AboutTime",
+      "XT_Cars",
+      "XT_Intros",
+      "XT_Numbers",
+      "XT_Oscars",
+      "YR_1019",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Dolly Parton",
+    "genres": 0,
+    "spotId": "4w3tQBXhn5345eUXDGBWZG",
+    "couname": "9 to 5",
+    "duration": "162466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b0d9ccc6b2ed3789226d2d97",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Brian Tyler",
+    "genres": 0,
+    "spotId": "0GAIkIQFxTw4vr18anewE9",
+    "couname": "Marvel Studios Fanfare",
+    "duration": "30733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738bd22f040a2a2852ebeea584",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Malia J",
+    "genres": 0,
+    "spotId": "1gnSosKDAUGYPTkTLiG5DW",
+    "couname": "Smells Like Teen Spirit",
+    "duration": "239000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732e518a83c9714d8ae93193ed",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "CDM Project",
+    "genres": 0,
+    "spotId": "3wxq0UfOY6DaNkCEJdp6FL",
+    "couname": "Bangarang",
+    "duration": "215000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27338dfee186d4c7f55e4512bcb",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "TV_MarvelSongs",
+      "XT_AboutTime",
+      "XT_BodyParts",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Cher",
+    "genres": 0,
+    "spotId": "7F5w2JXb0swg7BEw3ugyYY",
+    "couname": "If I Could Turn Back Time",
+    "duration": "241586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a26191675acb7438cce4faf1",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Benni Frank",
+    "genres": 0,
+    "spotId": "4GArRiXhTAxHQwnwODbeCe",
+    "couname": "Leave The Light On For Me",
+    "duration": "227524"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734f1d566833e739fb030e0a52",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Christophe Beck",
+    "genres": 0,
+    "spotId": "53mmczr5bIsDSjiq3tao62",
+    "couname": "Wanda's Theme",
+    "duration": "107360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273fc9762a9b0b58fad510c5c73",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Brent Brown",
+    "genres": 0,
+    "spotId": "33dNovjmhtTysWZyq513xE",
+    "couname": "Best Friend",
+    "duration": "208775"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273afa4963b37c54c88c6c94447",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Femme"
+    ],
+    "artist": "Band of Silver",
+    "genres": 0,
+    "spotId": "4jOsYw8WLcxpd6xI0e5ASk",
+    "couname": "Simulation",
+    "duration": "148813"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273553da72e705e3d48937ede21",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "John Paesano,Braden Kimball",
+    "genres": 0,
+    "spotId": "6uWP9mzYRUfoWrHWyL4ePU",
+    "couname": "Main Title",
+    "duration": "64946"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736ed86023946bb3829c26938b",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Tamer",
+    "genres": 0,
+    "spotId": "4NZKQIAbpUPd0jn0CzvRpS",
+    "couname": "Beautiful Crime",
+    "duration": "272000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_MarvelSongs",
+      "TV_Top102024",
+      "XT_Colors",
+      "XT_OffAnimals",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Kendrick Lamar",
+    "genres": 0,
+    "spotId": "5qN4HFkapdAOV94XPryVof",
+    "couname": "Black Panther",
+    "duration": "130613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736094c28a79dc47837fd269d9",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Jaden",
+    "genres": 0,
+    "spotId": "4kTliHBy7w2SOMtm8qMmOW",
+    "couname": "I'm Ready",
+    "duration": "189749"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738960122b302fa9b103eb6bf2",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "The Mowgli's",
+    "genres": 0,
+    "spotId": "2eQOMQkStoRUQyq6HGh1iG",
+    "couname": "San Francisco",
+    "duration": "173093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a18b88c2ec2ee3712bc8cc7a",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Camilo Azuquita",
+    "genres": 0,
+    "spotId": "0UjEz6kQgPvOUDvqB0xXpC",
+    "couname": "Borombon",
+    "duration": "169800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ef529a395ac460e574838673",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "The Star Spangled Singers",
+    "genres": 0,
+    "spotId": "0U9i80PmEhdWAfDUeOuuWU",
+    "couname": "Star Spangled Man",
+    "duration": "173360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739281131a9f7b1de32ff026f5",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "The Platters",
+    "genres": 0,
+    "spotId": "2GuTKe67s8VBtdqtRE9nd2",
+    "couname": "Only You",
+    "duration": "165333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273456c0b5d0316a80dc600802e",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "CT_Norway",
+      "GN_Piano",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "TV_Simpsons120",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Love",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Whitney Houston",
+    "genres": 0,
+    "spotId": "4eHbdreAnSOrDDsFfc4Fpm",
+    "couname": "I Will Always Love You",
+    "duration": "271093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273003f81b1f4246362638e682d",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_Choirs",
+      "TV_MarvelSongs",
+      "XT_Animals",
+      "XT_Intros",
+      "XT_OffAnimals",
+      "XT_Youth",
+      "YR_0009",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band"
+    ],
+    "artist": "Florence + The Machine",
+    "genres": 0,
+    "spotId": "456WNXWhDwYOSf5SpTuqxd",
+    "couname": "Dog Days Are Over",
+    "duration": "252818"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273842c0371f46cf43e252f982e",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Jet",
+    "genres": 0,
+    "spotId": "6fTX2poT39Ucz6A7Tsqyg9",
+    "couname": "Hold On",
+    "duration": "242480"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273942b4029fa54f0b44591a133",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Ol' Dirty Bastard",
+    "genres": 0,
+    "spotId": "3ABG1UQTk0eLYUAeWkmfMi",
+    "couname": "Shimmy Shimmy Ya",
+    "duration": "161400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a790c56cff6e3463bf9935cb",
+    "pty": 0,
+    "Items": [
+      "BT_Rihanna",
+      "TV_MarvelSongs",
+      "XT_Cars",
+      "XT_Oscars",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Rihanna",
+    "genres": 0,
+    "spotId": "1Jb0BvBueT6TBcZKIRWoJ6",
+    "couname": "Lift Me Up",
+    "duration": "195514"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273374bbe82f1abe6921b1488fa",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Kristen Anderson-Lopez,Robert Lopez,Kathryn Hahn,Eric Bradley,Greg Whipple,Jasper Randall,Gerald White",
+    "genres": 0,
+    "spotId": "0kHsXoIt6dONEdkgKgyjoK",
+    "couname": "Agatha All Along",
+    "duration": "62613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b56115c0e231fbf69d3205c6",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "AC/DC",
+    "genres": 0,
+    "spotId": "01sno3m5rqaFy2YVE1A7LZ",
+    "couname": "Guns for Hire",
+    "duration": "204680"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c24c103c75810175a479536b",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Bryson Cassidy",
+    "genres": 0,
+    "spotId": "1UtabdqI2FZlXvyQssdTqQ",
+    "couname": "Beacon",
+    "duration": "208223"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736bfaa09961a17a60edebf43f",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Karaoke",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Johnny Cash",
+    "genres": 0,
+    "spotId": "5VFzIzR8nACf9Bad4O73f6",
+    "couname": "Hurt",
+    "duration": "218586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a254f3777d9d262b432ebc1a",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "AC/DC",
+    "genres": 0,
+    "spotId": "3yrQNktNSLNwSt4CXqFkhY",
+    "couname": "Cold Hearted Man",
+    "duration": "215160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273662ce40b359cf7f6990fbee8",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "TV_MarvelSongs",
+      "XT_AboutTime",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Juice Newton",
+    "genres": 0,
+    "spotId": "11y8GSP2ASv8S9n0FiiDva",
+    "couname": "Angel Of The Morning",
+    "duration": "250440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737af0986d45c6ae56444e1ae9",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_Disco",
+      "GN_ViolinSolo",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "TV_Rolling500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_LongSongs",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Gloria Gaynor",
+    "genres": 0,
+    "spotId": "2DX0WG5OGLQLaXb41Cq1IA",
+    "couname": "I Will Survive",
+    "duration": "295666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273056e90910cbaf5c5b892aeba",
+    "pty": 0,
+    "Items": [
+      "BT_Queen_DavidBowie",
+      "GN_Disco",
+      "TV_BestVideos",
+      "TV_MarvelSongs",
+      "TV_SpotifyS500",
+      "XT_Fire",
+      "XT_Intros",
+      "XT_Numbers",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Queen",
+    "genres": 0,
+    "spotId": "5vdp5UmvTsnMEMESIF2Ym7",
+    "couname": "Another One Bites The Dust",
+    "duration": "214653"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27323b1576fe6f6926e16407bab",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Femme"
+    ],
+    "artist": "Salt-N-Pepa",
+    "genres": 0,
+    "spotId": "75dkBio1uIoYAivI5UPLKV",
+    "couname": "Shoop",
+    "duration": "248560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273542b3dccd4438a7440e06f4f",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Mark Mothersbaugh",
+    "genres": 0,
+    "spotId": "0CqbwdoEU3YHSC6yYAdd5c",
+    "couname": "Planet Sakaar",
+    "duration": "134466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273388170a44fd8ff0055d6ac58",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Henry Jackman",
+    "genres": 0,
+    "spotId": "5UUZRLyBE80HsJWmnLM7A4",
+    "couname": "Civil War",
+    "duration": "265760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27302e71a3be3cdf4c0b863f848",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "TV Themes",
+    "genres": 0,
+    "spotId": "2STg7P6dXeSJnSJ7m3wMGi",
+    "couname": "Spider Man",
+    "duration": "62066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273cdea00c6905f588e1f72ccad",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Sam Cooke",
+    "genres": 0,
+    "spotId": "0WVTQp3SOCuMr08jh1jweV",
+    "couname": "Bring It On Home to Me",
+    "duration": "162533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273987fb4c5ec8790e9f637a4a4",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Linkin Park",
+    "genres": 0,
+    "spotId": "00KfIFi2TpAaQGPbRbFbKJ",
+    "couname": "IN MY REMAINS",
+    "duration": "200693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731e52290687d9dad09f278f3a",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Steppenwolf",
+    "genres": 0,
+    "spotId": "7uBFTvkmgnCpaIe5c2MU7x",
+    "couname": "Hey Lawdy Mama",
+    "duration": "178760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d7c0842b96952fd5c4eb835b",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "David Cassidy",
+    "genres": 0,
+    "spotId": "3fiWru4ins2Mso83shTZTz",
+    "couname": "Come On Get Happy",
+    "duration": "65933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bd6d2d52810efdfee21b608",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Curtis Harding",
+    "genres": 0,
+    "spotId": "2NwwdNPSlvoRBqomWa4S2N",
+    "couname": "On And On",
+    "duration": "241706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b61be803f811d03322ac163e",
+    "pty": 0,
+    "Items": [
+      "GN_Synth",
+      "TV_MarvelSongs",
+      "TV_Simpsons120",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Starship",
+    "genres": 0,
+    "spotId": "52nrUTQHMe4uxzjDICaD4H",
+    "couname": "We Built This City",
+    "duration": "296080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273607f5d1d15bdb8a450840ccf",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Traffic",
+    "genres": 0,
+    "spotId": "5CGpPUcUahMuLzkNK9ZgPP",
+    "couname": "Dear Mr. Fantasy",
+    "duration": "334000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d512e3a9fe2b6990b76736d7",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "John Paesano",
+    "genres": 0,
+    "spotId": "3kIdjWDaZ9gs4v2iirkJie",
+    "couname": "Spider-Man",
+    "duration": "206853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735d96194d76f68111231d6771",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Your Favorite Color",
+    "genres": 0,
+    "spotId": "5cEWARGSQtfjfPequNhXwV",
+    "couname": "Hold Me Now",
+    "duration": "218800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27331c6be83f7a94d0a2e8d1fd3",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Keak Da Sneak",
+    "genres": 0,
+    "spotId": "494tgzPyI1wdFkRgSGFvcs",
+    "couname": "Super Hyphy a.k.a. That's My Word",
+    "duration": "206280"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734830d86f4e3a32543048a779",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "James Carr",
+    "genres": 0,
+    "spotId": "7GykWKpUdiwoYLCACCpmjp",
+    "couname": "The Dark End of the Street",
+    "duration": "153986"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27345ca2aaac3cc6a7dff470f3f",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Ernesto J. Ponce",
+    "genres": 0,
+    "spotId": "6Gksi5z29smR0SrjI7qBPn",
+    "couname": "Don't Mean a Thing",
+    "duration": "212056"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273237665d08de01907e82a7d8a",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "CT_Norway",
+      "GN_Disco",
+      "GN_Memes",
+      "GN_Synth",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Rick Astley",
+    "genres": 0,
+    "spotId": "7GhIk7Il098yCjg4BQjzvb",
+    "couname": "Never Gonna Give You Up",
+    "duration": "212826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27340c5eba119775169f9659ace",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Alan Silvestri",
+    "genres": 0,
+    "spotId": "1EWGuFGjNkP4KxRxSoWifM",
+    "couname": "The Avengers",
+    "duration": "123360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c2e090debef8b9ee271081bf",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Neighbourhood",
+    "genres": 0,
+    "spotId": "1xJ8RjDucztPOKB0ek95tf",
+    "couname": "Honest",
+    "duration": "237560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e2bb936c55fb54b0b9fdc666",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Places",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Bruce Springsteen",
+    "genres": 0,
+    "spotId": "0M1YQiRGel1tTMjA3orfRd",
+    "couname": "Badlands",
+    "duration": "242453"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273097f24cc46409c54894775bf",
+    "pty": 0,
+    "Items": [
+      "GN_DrumSolo",
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Anderson .Paak",
+    "genres": 0,
+    "spotId": "5kbcEaNa4txW4HhRH0ed6A",
+    "couname": "Come Down",
+    "duration": "168080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27317f513ca86c795609ea29a80",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Vince Staples",
+    "genres": 0,
+    "spotId": "4nuP7SIS91ldX5bvrFx1l7",
+    "couname": "BagBak",
+    "duration": "160506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27330bb42e5271f2e046fd36972",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Earth,Wind & Fire",
+    "genres": 0,
+    "spotId": "1srD2uc11TcQiOmHHrJp8M",
+    "couname": "Reasons",
+    "duration": "299333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734e0362c225863f6ae2432651",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Monarchy",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Coldplay",
+    "genres": 0,
+    "spotId": "1wQXj5bgxyZQ2XmE2X9s6n",
+    "couname": "Til Kingdom Come",
+    "duration": "250668"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737d385c198e6f12e44400d430",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Outasight",
+    "genres": 0,
+    "spotId": "3ZPpKKlGYDGlxxWISfS0Aq",
+    "couname": "The Boogie",
+    "duration": "207532"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273abb1613d4f74716530e80d3a",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Cinematic Legacy",
+    "genres": 0,
+    "spotId": "5ncexIM7x2cuAheugLTQ3h",
+    "couname": "Iron Man: Main Theme",
+    "duration": "70236"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27313fc3babdcbe7a5268fd96a1",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_MarvelSongs",
+      "XT_Intros YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "George Harrison",
+    "genres": 0,
+    "spotId": "1chu8wc9zbNqTQ2ahROys1",
+    "couname": "My Sweet Lord",
+    "duration": "281226"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273825f64cacfed0f992e4de915",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_AboutTime",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Philip Ancher",
+    "genres": 0,
+    "spotId": "6p55IDMbXI0c3aOHHtE2d9",
+    "couname": "In Your Own Time",
+    "duration": "156906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273121c39c86d8b05c14022edfe",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "GN_Memes",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_Colors",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Eiffel 65,Gabry Ponte",
+    "genres": 0,
+    "spotId": "7lMIJ4EFWRVoAIPDpeGyM3",
+    "couname": "Blue",
+    "duration": "219618"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732f85b65d3ac4d3d7f806ca11",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "TV_Halloween",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Radiohead",
+    "genres": 0,
+    "spotId": "6b2oQwSGFkzsMtQruIWm2p",
+    "couname": "Creep",
+    "duration": "238640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734e04404c40be7b80855656a8",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_DrumSolo",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_Baby",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Guns N' Roses",
+    "genres": 0,
+    "spotId": "1u1DBObkLFscNCpRpXbYb9",
+    "couname": "Sweet Child O' Mine",
+    "duration": "355266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a17cd23ff2ec11ebd18f6a32",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Hans Zimmer,The Magnificent Six,Pharrell Williams,Johnny Marr",
+    "genres": 0,
+    "spotId": "221QqX9sYZlTIFp12RP6go",
+    "couname": "The Rest of My Life",
+    "duration": "148213"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739ffda6ad6c2acf93b0647b71",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Geek Music",
+    "genres": 0,
+    "spotId": "1lehjJeIwuFObvhBdD1R0c",
+    "couname": "The Spectacular Spider-Man Main Theme",
+    "duration": "150879"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739511e3a2fc113eae0dd111dd",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Spacehog",
+    "genres": 0,
+    "spotId": "02lTDOxHeXTHsdwXoz6lpC",
+    "couname": "In the Meantime",
+    "duration": "299506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273abf9a269b9e35b869d0223b7",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Ahmed Saad,3enba,Double Zuksh",
+    "genres": 0,
+    "spotId": "04vHPXVGnb51q13NBoW22W",
+    "couname": "El Melouk",
+    "duration": "195047"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273da809ff479511ef93dff16f4",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "John Ottman",
+    "genres": 0,
+    "spotId": "3rRVnimOSp80R96q1MO5Au",
+    "couname": "Suite from X2",
+    "duration": "431213"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c4c4a5d82534d5e6b2ed349a",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "TV_MarvelSongs",
+      "YR6069",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Skeeter Davis",
+    "genres": 0,
+    "spotId": "5DTOOkooKFUvWj1XQTFa09",
+    "couname": "The End of the World",
+    "duration": "157573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733246671287ce9ea8bc22990b",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Jeremy Gravely",
+    "genres": 0,
+    "spotId": "1eAlhnBaDfa0oqnuSYoafb",
+    "couname": "Easy",
+    "duration": "227333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273542b3dccd4438a7440e06f4f",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Mark Mothersbaugh",
+    "genres": 0,
+    "spotId": "4Jm9RwZ2C46J06ARRllUs5",
+    "couname": "Thor: Ragnarok",
+    "duration": "69573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735c75f5e02580f4c0c3e80e8e",
+    "pty": 0,
+    "Items": [
+      "GN_ViolinSolo",
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Phillip Phillips",
+    "genres": 0,
+    "spotId": "56sxN1yKg1dgOZXBcAHkJG",
+    "couname": "Gone, Gone, Gone",
+    "duration": "209693"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b559fda73297e59e9e4071d2",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Giacchino",
+    "genres": 0,
+    "spotId": "1tzj2vY4twkNmZ5K3DUOPp",
+    "couname": "Theme",
+    "duration": "39960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e328f24235c06f855a4b59ac",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Homme"
+    ],
+    "artist": "Adrian Younge,Ali Shaheed Muhammad",
+    "genres": 0,
+    "spotId": "4sNuqXlD4pQYpQ2vgTTaHB",
+    "couname": "Theme",
+    "duration": "69160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739cef5b2e4c9104c678973f44",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "girl",
+      "GN_GuitarSolo",
+      "TV_Mafia",
+      "TV_MarvelSongs",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_OffAnimals",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Heart",
+    "genres": 0,
+    "spotId": "4KfSdst7rW39C0sfhArdrz",
+    "couname": "Barracuda",
+    "duration": "261933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273097f24cc46409c54894775bf",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_Themes",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Trevor Morris",
+    "genres": 0,
+    "spotId": "5mJV8ifMJipo96ErGJrAED",
+    "couname": "Iron Fist Main Titles",
+    "duration": "75373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734a41dbd6a36756a6de43f04b",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Intros",
+      "XT_OffAnimals",
+      "XT_Youth",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Elton John",
+    "genres": 0,
+    "spotId": "4NLKO872VxR90XM1WYNg4R",
+    "couname": "Crocodile Rock",
+    "duration": "235080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f2f4f42443aa30df2252a0ae",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Alice Cooper",
+    "genres": 0,
+    "spotId": "1JyNPbzE7t1RUsbpiryGHJ",
+    "couname": "I'm Always Chasing Rainbows",
+    "duration": "128333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737207f6678f4592ab949401c7",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "TV_Rolling500",
+      "XT_Intros",
+      "XT_Numbers",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Homme"
+    ],
+    "artist": "Rob Base & DJ EZ Rock",
+    "genres": 0,
+    "spotId": "3Yxmpx64AdWAzG3qAD4Dty",
+    "couname": "It Takes Two",
+    "duration": "301893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f03b792e0ec7f4aa2e32b4ca",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "CrushedVelvet",
+    "genres": 0,
+    "spotId": "6v9wiKFC0jtG0M8zTX3viP",
+    "couname": "Love Fighter",
+    "duration": "214848"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27338dfee186d4c7f55e4512bcb",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Céline Dion",
+    "genres": 0,
+    "spotId": "4hwLzecH1SuTsMN2JyCPGs",
+    "couname": "Ashes",
+    "duration": "199506"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273aab2c3c3f1f3207137d915c9",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_MarvelSongs",
+      "XT_AboutTime",
+      "YR_0009",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Kid Cudi",
+    "genres": 0,
+    "spotId": "5FEXPoPnzueFJQCPRIrC3c",
+    "couname": "Day 'N' Nite",
+    "duration": "221266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ba70a3f1cc9aebbbc1fdfee1",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Alan Silvestri",
+    "genres": 0,
+    "spotId": "3KHrXuByzDnDOaVR15rZH7",
+    "couname": "The Real Hero",
+    "duration": "354826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730d3ddf8a300b5e135b6b32aa",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_Disco",
+      "GN_Memes",
+      "GN_Synth",
+      "TV_BestVideos",
+      "TV_Halloween",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "TV_Simpsons120",
+      "TV_SpotifyS500",
+      "XT_Dreaming",
+      "XT_Intros",
+      "YR_0009",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band"
+    ],
+    "artist": "Eurythmics,Annie Lennox,Dave Stewart",
+    "genres": 0,
+    "spotId": "7Bp898e0U9IReLs2oKC7G4",
+    "couname": "Sweet Dreams",
+    "duration": "217093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a120f85d3ea0fa3a0fc85453",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_AboutTime",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Gilas",
+    "genres": 0,
+    "spotId": "4P6wCqQGOV4B37t7Z2Toww",
+    "couname": "This Is The Last Time",
+    "duration": "191000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273acb7f7039bbdfd01efcd148b",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "BT_RollingStones",
+      "TV_MarvelSongs",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Rolling Stones",
+    "genres": 0,
+    "spotId": "0lO9vvpJdd2ZNAq61ga9wy",
+    "couname": "Doom And Gloom",
+    "duration": "238546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e14495326481bbcc75cd2efb",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Ludwig Göransson,Baaba Maal",
+    "genres": 0,
+    "spotId": "2mjbf9ZvCoYqTi0RZ2FTUJ",
+    "couname": "Wakanda",
+    "duration": "140125"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273107d182a8d39586f8f3f23a0",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "AC/DC",
+    "genres": 0,
+    "spotId": "5YnNWHKCJaJKwbagXDb5Uf",
+    "couname": "War Machine",
+    "duration": "189786"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a5821e8f8ec56a5a84725134",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Faith No More",
+    "genres": 0,
+    "spotId": "2z1uVu3OwTmPlfqt5TWk5k",
+    "couname": "We Care a Lot",
+    "duration": "243600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732791862e3d0be4fab0781230",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Numbers",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Clash",
+    "genres": 0,
+    "spotId": "3Ro71R8Vpy166E2PuQDSc8",
+    "couname": "The Magnificent Seven",
+    "duration": "333520"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27322f1b6c28ce5735646b2e569",
+    "pty": 0,
+    "Items": [
+      "BT_LedZeppelin",
+      "GN_GuitarSolo",
+      "GN_Metal",
+      "TV_Dreamworks",
+      "TV_MarvelSongs",
+      "XT_History",
+      "XT_Intros",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Led Zeppelin",
+    "genres": 0,
+    "spotId": "2uuMXKKmdXrY2XxsqTsGp0",
+    "couname": "Immigrant Song",
+    "duration": "146746"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c28c36e39012cc8edf813196",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Brian Tyler",
+    "genres": 0,
+    "spotId": "63toFNYr6cHaxMmhd2QmzQ",
+    "couname": "Can You Dig It",
+    "duration": "162200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27363b132d9c237849c4b837df6",
+    "pty": 0,
+    "Items": [
+      "BT_Queen_DavidBowie",
+      "GN_PsychedelicRock",
+      "TV_MarvelSongs",
+      "XT_Dreaming",
+      "XT_MoonStars",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "David Bowie",
+    "genres": 0,
+    "spotId": "3ziCNz5vq8pEeRZjPElfYR",
+    "couname": "Moonage Daydream",
+    "duration": "280530"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27364c19b24ce947ffa363f8f96",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_Memes",
+      "TV_MarvelSongs",
+      "XT_Intros",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "George Michael",
+    "genres": 0,
+    "spotId": "4jDmJ51x1o9NZB5Nxxc7gY",
+    "couname": "Careless Whisper",
+    "duration": "300106"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ab23e9dba2647c40e6b5feb5",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Danny Elfman",
+    "genres": 0,
+    "spotId": "0U6lmEhmRVptZAX7HrauqG",
+    "couname": "Main Title",
+    "duration": "209906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731f0663c9fa0d96f4ba07ce3b",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_Choirs",
+      "GN_Piano",
+      "GN_ViolinSolo",
+      "TV_MarvelSongs",
+      "TV_Simpsons120",
+      "XT_Colors",
+      "XT_Flying",
+      "XT_Places",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Elton John",
+    "genres": 0,
+    "spotId": "1IywC3FcPZekfT7MS1TZMS",
+    "couname": "Goodbye Yellow Brick Road",
+    "duration": "192826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739a8dd0fc8bdeb693537bad32",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_GuitarSolo",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "TV_Rolling500",
+      "TV_Simpsons120",
+      "XT_BodyParts",
+      "XT_Intros",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Thin Lizzy",
+    "genres": 0,
+    "spotId": "2iAq1y8jEVOQM6OA8L0XtO",
+    "couname": "The Boys Are Back In Town",
+    "duration": "266720"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733bf8d1987a42dd781a8039de",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_MarvelSongs",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "AC/DC",
+    "genres": 0,
+    "spotId": "2308VPPaMh7Q3AX1Zap99A",
+    "couname": "Rock 'N' Roll Damnation",
+    "duration": "217640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27338da7b6b86b34c35ae86de7c",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_MarvelSongs",
+      "XT_MoonStars",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Kinks",
+    "genres": 0,
+    "spotId": "3pK1rmC2uh1I3Wq0NUGYZ6",
+    "couname": "Supersonic Rocket Ship",
+    "duration": "210466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2735eb52422349b55b123275c68",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "David Bray",
+    "genres": 0,
+    "spotId": "4fPlc58Q0DXCxLZPWhLuMo",
+    "couname": "What Comes Next?",
+    "duration": "196933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Homme"
+    ],
+    "artist": "Blackway,Black Caviar",
+    "genres": 0,
+    "spotId": "5zsHmE2gO3RefVsPyw2e3T",
+    "couname": "What's Up Danger",
+    "duration": "222306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b6fd0b8408a5364744615a7f",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "DMX",
+    "genres": 0,
+    "spotId": "4tXA1TUmKvz7CbUT9LUHDx",
+    "couname": "X Gon' Give It To Ya",
+    "duration": "217586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733025a441495664948b809537",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "BT_Queen_DavidBowie",
+      "GN_Piano",
+      "TV_BestVideos",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Water",
+      "YR_7079",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Queen",
+    "genres": 0,
+    "spotId": "5eIDxmWYxRA0HJBYM9bIIS",
+    "couname": "Bohemian Rhapsody",
+    "duration": "354320"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f793a842c1642b09a768a63b",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_MarvelSongs",
+      "TV_SpotifyS500",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "KALEO",
+    "genres": 0,
+    "spotId": "0y1QJc3SJVPKJ1OvFmFqe6",
+    "couname": "Way down We Go",
+    "duration": "213706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738d92768a5161c702cb453e33",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band"
+    ],
+    "artist": "Sampa the Great,Chef 187,Tio Nason,Mwanje",
+    "genres": 0,
+    "spotId": "4pBr2SjDVIxfGkUwvOJLx7",
+    "couname": "Never Forget [Feat. Chef 187, Tio Nason, Mwanjé]",
+    "duration": "217520"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27326241676a90ad94d2978825b",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Running",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "John Paesano",
+    "genres": 0,
+    "spotId": "6xk4p1Co84hLJK49FNy7wr",
+    "couname": "Perp Walk",
+    "duration": "169252"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_DrumSolo",
+      "GN_Piano",
+      "GN_ViolinSolo",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "TV_SpotifyS500",
+      "XT_BodyParts",
+      "XT_Intros",
+      "XT_Plants",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Goo Goo Dolls",
+    "genres": 0,
+    "spotId": "6HLNcLU4jIpafRf4mQ2Ivx",
+    "couname": "Iris",
+    "duration": "289906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2736fad3cb63b042dee8badef98",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Tyler Bates",
+    "genres": 0,
+    "spotId": "6Rvpcw4OnG9fMfcxVIyEhL",
+    "couname": "You Can't Stop this Mother F*****",
+    "duration": "70600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f71df04d7174ffc9e92f857",
+    "pty": 0,
+    "Items": [
+      "TV_Mafia",
+      "TV_MarvelSongs",
+      "XT_Numbers",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "James Gang",
+    "genres": 0,
+    "spotId": "1qqeqeRgn7DFn1LSOA9VBv",
+    "couname": "Funk #49",
+    "duration": "237773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734288541358b52f94bf9826b1",
+    "pty": 0,
+    "Items": [
+      "CT_Norway",
+      "GN_BalladRock",
+      "GN_Piano",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_Colors",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Monarchy",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Chris de Burgh",
+    "genres": 0,
+    "spotId": "1523Yp80GgISzfWgBisj1l",
+    "couname": "The Lady In Red",
+    "duration": "256173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27367efaaa2608ff2393947c0a5",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Newton Brothers",
+    "genres": 0,
+    "spotId": "3GIu4yGiUgvDi9ERewkbIa",
+    "couname": "X-Men '97 Theme",
+    "duration": "65382"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27301301ed5f8929ccc24007301",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Myles Morgan",
+    "genres": 0,
+    "spotId": "325pPAeWV4HudG7qDX4OU9",
+    "couname": "Nobody's Fault But Yours",
+    "duration": "209908"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273232a795d6a5f8b86d5f0dbcb",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "TV_Rolling500",
+      "TV_Simpsons120",
+      "XT_Flying",
+      "XT_Food",
+      "XT_Intros",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Norman Greenbaum",
+    "genres": 0,
+    "spotId": "0Y2SrByf4G3kbq2nBEHQRn",
+    "couname": "Spirit in the Sky",
+    "duration": "239600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae",
+    "pty": 0,
+    "Items": [
+      "GN_GuitarSolo",
+      "TV_Halloween",
+      "TV_MarvelSongs",
+      "XT_Intros",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "AC/DC",
+    "genres": 0,
+    "spotId": "69QHm3pustz01CJRwdo20z",
+    "couname": "Hells Bells",
+    "duration": "312293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734d38e04627b3843ed3db042c",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_Karaoke",
+      "XT_Running",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "A Flock Of Seagulls",
+    "genres": 0,
+    "spotId": "4OdhffpvG3HxDJMxYOKh97",
+    "couname": "I Ran",
+    "duration": "308933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731b95097dd6e47dfb02b315c8",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_MarvelSongs",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Eminem",
+    "genres": 0,
+    "spotId": "3kpYJjvM8Ja6btr5hEJLWc",
+    "couname": "Venom",
+    "duration": "269573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "XT_BodyParts",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Jackson 5",
+    "genres": 0,
+    "spotId": "5LxvwujISqiB8vpRYv887S",
+    "couname": "I Want You Back",
+    "duration": "176333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273838fe0113981c168adfe9489",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_Themes",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Tyler Bates",
+    "genres": 0,
+    "spotId": "1nLBs3UK8CbOzSFozaIa6I",
+    "couname": "The Punisher Main Title",
+    "duration": "75893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273380a8be605d3765f34ec54f7",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Intros",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Rainbow",
+    "genres": 0,
+    "spotId": "6xq5DxZWGgdStAxGAil0yw",
+    "couname": "Since You Been Gone",
+    "duration": "197160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737e38c963c474357bef046f6e",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Jimmy Driscoll",
+    "genres": 0,
+    "spotId": "5Eb4ZRMsYXa5SlDYyNaXR0",
+    "couname": "One December",
+    "duration": "271000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "CT_Norway",
+      "GN_Choirs",
+      "GN_Memes",
+      "TV_BestVideos",
+      "TV_Halloween",
+      "TV_MarvelSongs",
+      "TV_SpotifyS500",
+      "XT_Cars",
+      "XT_Intros",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "The Weeknd",
+    "genres": 0,
+    "spotId": "0VjIjW4GlUZAMYd2vXMi3b",
+    "couname": "Blinding Lights",
+    "duration": "200040"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_GuitarSolo",
+      "TV_BestVideos",
+      "TV_Dreamworks",
+      "TV_Halloween",
+      "TV_Mafia",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_BodyParts",
+      "XT_Colors",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "AC/DC",
+    "genres": 0,
+    "spotId": "08mG3Y1vljYA6bvDt4Wqkj",
+    "couname": "Back In Black",
+    "duration": "255493"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732715e2ac1071bb7bb50a91a0",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_MarvelSongs",
+      "XT_Intros",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Spinners",
+    "genres": 0,
+    "spotId": "0TDwIjNn6evvl5JySl9StA",
+    "couname": "The Rubberband Man",
+    "duration": "213266"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737047e2284f51f35de225d36e",
+    "pty": 0,
+    "Items": [
+      "GN_PsychedelicRock",
+      "TV_MarvelSongs",
+      "XT_Karaoke",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Three Dog Night",
+    "genres": 0,
+    "spotId": "1VZ04sZSpTet7wVMyZphA8",
+    "couname": "Joy To The World",
+    "duration": "214960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325d97235fd57bdb6c4fa6403",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_Memes",
+      "GN_ViolinSolo",
+      "TV_Dreamworks",
+      "TV_MarvelSongs",
+      "XT_Colors",
+      "XT_Flying",
+      "XT_Intros",
+      "XT_MoonStars",
+      "XT_Weather",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Electric Light Orchestra",
+    "genres": 0,
+    "spotId": "10lbGsWnStCm9AirQiOTp4",
+    "couname": "Mr. Blue Sky",
+    "duration": "302080"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27338dfee186d4c7f55e4512bcb",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Karaoke",
+      "XT_Love",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Air Supply",
+    "genres": 0,
+    "spotId": "7i1IEbwhpNCeIsVSXKXXFJ",
+    "couname": "All Out of Love",
+    "duration": "243533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a2fc41b0dd6ce4f0d16a4c46",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "CT_Norway",
+      "GN_Disco",
+      "GN_Synth",
+      "TV_MarvelSongs",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Homme"
+    ],
+    "artist": "Wham!",
+    "genres": 0,
+    "spotId": "0ikz6tENMONtK6qGkOrU3c",
+    "couname": "Wake Me Up Before You Go-Go",
+    "duration": "231333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27351ebff145751498d29d82e25",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Cameo",
+    "genres": 0,
+    "spotId": "2ettf7qywhnJuavMxZOsWh",
+    "couname": "Funk Funk",
+    "duration": "287533"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27347d6cb3c3c3a8f0d86b6d086",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_Love",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Elvin Bishop",
+    "genres": 0,
+    "spotId": "2hE5Lm5XOHR4t3xlhIFauP",
+    "couname": "Fooled Around And Fell In Love",
+    "duration": "276000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731d99f5402883ad273f45ebf8",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Raspberries",
+    "genres": 0,
+    "spotId": "75GQIYnRaBg7ndHxhfYuQy",
+    "couname": "Go All The Way",
+    "duration": "205346"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27377d7eb27ad62530422db5b8e",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_0009",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "*NSYNC",
+    "genres": 0,
+    "spotId": "2yiZyjMEByt9sJBZWnWaDR",
+    "couname": "Bye Bye Bye",
+    "duration": "199640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b413af6cc3f7362697dacb09",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Running",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Missy Elliott",
+    "genres": 0,
+    "spotId": "3xxoo1LSoSajewrSdNdfdo",
+    "couname": "We Run This",
+    "duration": "204605"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273437cf2d8b9581b9ccd66b6ab",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Run The Jewels",
+    "genres": 0,
+    "spotId": "6bGwloiyyHXwFZ4yV1zjqR",
+    "couname": "Legend Has It",
+    "duration": "205866"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734becd2321d8c4044a67f49b0",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "TV_Tarantino",
+      "XT_Intros",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Blue Swede,Björn Skifs",
+    "genres": 0,
+    "spotId": "5dJSrn1RKceOPDyb4DAe4w",
+    "couname": "Hooked On A Feeling",
+    "duration": "173760"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27349c982dae436bac27c336f45",
+    "pty": 0,
+    "Items": [
+      "GN_Synth",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Love",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Soft Cell",
+    "genres": 0,
+    "spotId": "0cGG2EouYCEEC3xfa0tDFV",
+    "couname": "Tainted Love",
+    "duration": "153800"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273461762c15f05e141fe6f3097",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_MarvelSongs",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Glen Campbell",
+    "genres": 0,
+    "spotId": "7kv7zBjMtVf0eIJle2VZxn",
+    "couname": "Southern Nights",
+    "duration": "180026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a0209db6a0a102cae469d4f9",
+    "pty": 0,
+    "Items": [
+      "BT_FrankSinatra",
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Frank Sinatra",
+    "genres": 0,
+    "spotId": "0Sc8AsDTBeZFWg8K9tMARE",
+    "couname": "My Way Of Life",
+    "duration": "187360"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ba70a3f1cc9aebbbc1fdfee1",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Alan Silvestri",
+    "genres": 0,
+    "spotId": "0OVtnS3l4vThGxkdqCxN6K",
+    "couname": "Portals",
+    "duration": "197213"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273da9673d5a6ca341770290698",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Old 97's",
+    "genres": 0,
+    "spotId": "7AD4sAsJJQm0Bog0zhwYrf",
+    "couname": "I Don't Know What Christmas Is",
+    "duration": "182986"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739afa6d80ed35ee991c6e470c",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Monarchy",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Gilas",
+    "genres": 0,
+    "spotId": "4oIXNRkjaNmgvs2oPUdgMr",
+    "couname": "Voodoo Queen",
+    "duration": "230725"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27338dfee186d4c7f55e4512bcb",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_MarvelSongs",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Pat Benatar",
+    "genres": 0,
+    "spotId": "7c5z62mM6hqZdrMgx4yEFC",
+    "couname": "We Belong",
+    "duration": "222320"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27322501051dee2cd4c0241a6aa",
+    "pty": 0,
+    "Items": [
+      "GN_Disco",
+      "GN_Synth",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Love",
+      "XT_Oscars",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Huey Lewis & The News",
+    "genres": 0,
+    "spotId": "0nVqQu7LNToairzQHY8RAW",
+    "couname": "The Power Of Love",
+    "duration": "234346"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27366ade54d4c31ad2d4fcc6021",
+    "pty": 0,
+    "Items": [
+      "GN_Disco",
+      "TV_MarvelSongs",
+      "XT_Intros",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United"
+    ],
+    "artist": "Peaches & Herb",
+    "genres": 0,
+    "spotId": "7hzY0LHz8KdEr1PowHhbdu",
+    "couname": "Shake Your Groove Thing",
+    "duration": "346133"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f8db7ddf02a4ac2da2ecdc1",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_Synth",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_History",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Youth",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Tears For Fears",
+    "genres": 0,
+    "spotId": "40dJCw4xU6Bd5ie9rfagNo",
+    "couname": "Everybody Wants To Rule The World",
+    "duration": "251480"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_Dreamworks",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "TV_Simpsons120",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_OffAnimals",
+      "YR_8089",
+      "XT_Plants",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Guns N' Roses",
+    "genres": 0,
+    "spotId": "0G21yYKMZoHa30cYVi1iA8",
+    "couname": "Welcome To The Jungle",
+    "duration": "273480"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27338dfee186d4c7f55e4512bcb",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "CT_Norway",
+      "GN_Disco",
+      "GN_Synth",
+      "TV_BestVideos",
+      "TV_Halloween",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "TV_Simpsons120",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "a-ha",
+    "genres": 0,
+    "spotId": "7FkH8LndW3WmnwLvVhml4F",
+    "couname": "Take on Me",
+    "duration": "254120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27398078d325c25a5ac4081cfba",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_MarvelSongs",
+      "XT_AboutTime",
+      "XT_Intros",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Jim Croce",
+    "genres": 0,
+    "spotId": "561F1zqRwGPCTMRsLsXVtL",
+    "couname": "Time in a Bottle",
+    "duration": "146175"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27313cbe3e4dfa81fe5b91f2f1c",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "girl",
+      "GN_Disco",
+      "TV_Halloween",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "XT_Gambling",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_LongSongs",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Blondie",
+    "genres": 0,
+    "spotId": "7HKxTNVlkHsfMLhigmhC0I",
+    "couname": "Call Me",
+    "duration": "212226"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27325a4df452a3c42ccc2e9288b",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_GuitarSolo",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "XT_Cars",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Questions",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Clash",
+    "genres": 0,
+    "spotId": "39shmbIHICJ2Wxnk1fPSdz",
+    "couname": "Should I Stay or Should I Go",
+    "duration": "188986"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "BT_Queen_DavidBowie",
+      "GN_GuitarSolo",
+      "GN_Piano",
+      "TV_MarvelSongs",
+      "TV_SpotifyS500",
+      "XT_AboutTime",
+      "XT_Dreaming",
+      "XT_Karaoke",
+      "XT_MoonStars",
+      "XT_Running",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Queen",
+    "genres": 0,
+    "spotId": "7hQJA50XrCWABAu5v6QZ4i",
+    "couname": "Don't Stop Me Now",
+    "duration": "209413"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27361e605b2786f724b37f0176d",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Cheap Trick",
+    "genres": 0,
+    "spotId": "2ccUQnjjNWT0rsNnsBpsCA",
+    "couname": "Surrender",
+    "duration": "253733"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731a3903c1aa8122f7720f5d71",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "GN_GuitarSolo",
+      "GN_Memes",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "XT_BodyParts",
+      "XT_Intros",
+      "XT_Questions",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Pixies",
+    "genres": 0,
+    "spotId": "6mcxQ1Y3uQRU0IHsvdNLH1",
+    "couname": "Where Is My Mind?",
+    "duration": "236973"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273008cfa8fb96ef0befcbc615a",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Replacements",
+    "genres": 0,
+    "spotId": "1MV5BzujqyRQ417qj0rXNS",
+    "couname": "I Will Dare",
+    "duration": "197426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bfd869b5a775481785ce55ad",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_Water",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Aliotta Haynes Jeremiah",
+    "genres": 0,
+    "spotId": "46MX86XQqYCZRvwPpeq4Gi",
+    "couname": "Lake Shore Drive",
+    "duration": "235173"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e686e3d6754fc272bbc872ab",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "LongRoad",
+    "genres": 0,
+    "spotId": "6WfPFIctuiRqztzKFZ3ZHY",
+    "couname": "Helping Hand",
+    "duration": "191842"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27394353a144703e4d68f1f75fe",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Rockyts",
+    "genres": 0,
+    "spotId": "72ofpFzrtB7NGQsimRldLx",
+    "couname": "A Girl Like You",
+    "duration": "160869"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733900d14a61f1081781355c52",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_Intros",
+      "XT_Love",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "10cc",
+    "genres": 0,
+    "spotId": "5Ws2EQtBiwpAcBYYSB14ns",
+    "couname": "I'm Not In Love",
+    "duration": "367240"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273475ca6e5c1ce0ef70740c3c6",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "GN_Metal",
+      "TV_Dreamworks",
+      "TV_MarvelSongs",
+      "TV_Simpsons120",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Trains",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Ozzy Osbourne",
+    "genres": 0,
+    "spotId": "7ACxUo21jtTHzy7ZEV56vU",
+    "couname": "Crazy Train",
+    "duration": "293183"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730f71df04d7174ffc9e92f857",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Running",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "James Gang",
+    "genres": 0,
+    "spotId": "5vE4GSOjOXAEhSyizJD3CX",
+    "couname": "Walk Away",
+    "duration": "214960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734353fc20f3405b963e88b3aa",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Sneepers,David Hasselhoff",
+    "genres": 0,
+    "spotId": "6vFN0uVMQxHofQFnNhGBq8",
+    "couname": "Guardians Inferno",
+    "duration": "196906"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ba70a3f1cc9aebbbc1fdfee1",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Alan Silvestri",
+    "genres": 0,
+    "spotId": "5POrWnsqEV6HwTcRKLdXxk",
+    "couname": "Main on End",
+    "duration": "191053"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27351d98ff76da5ca1f82c8cbc8",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Dreaming",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Silver",
+    "genres": 0,
+    "spotId": "3qrEG6rQ9Qm72MNWeUKKiU",
+    "couname": "Wham Bam Shang-A-Lang",
+    "duration": "212840"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732e9db83ebb9a6021856c8a86",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "R.P. Mixon",
+    "genres": 0,
+    "spotId": "76CN19FlFT2bMvs0miztiI",
+    "couname": "Shades",
+    "duration": "239991"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273575541a6dba502d08baeb900",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Geek Music",
+    "genres": 0,
+    "spotId": "05cDN6pXwPzHDMdMRuWvle",
+    "couname": "Guardians Of The Galaxy",
+    "duration": "144329"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c28c36e39012cc8edf813196",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Numbers",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Brian Tyler",
+    "genres": 0,
+    "spotId": "7u5XBHnht6dyoRXRBb5soK",
+    "couname": "Iron Man 3",
+    "duration": "143453"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732f80364ca495b67a8e1d35dd",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Twisted Sister",
+    "genres": 0,
+    "spotId": "5RHG4SQ6iJ1qQJmt3EFJCX",
+    "couname": "We're Not Gonna Take It",
+    "duration": "219666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733fb91f6d6c412ef519dd3dee",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Jay & The Americans",
+    "genres": 0,
+    "spotId": "252YuUdUaC5OojaBU0H1CP",
+    "couname": "Come A Little Bit Closer",
+    "duration": "166666"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27327c2bc06b63bc49270ec6617",
+    "pty": 0,
+    "Items": [
+      "DUDE",
+      "TV_MarvelSongs",
+      "XT_AboutNames",
+      "XT_MoonStars",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Phosphorescent",
+    "genres": 0,
+    "spotId": "6Thn8AOHIwPCkf2O4ZgfC2",
+    "couname": "Song for Zula",
+    "duration": "370200"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734d502f3148f70459329e02fd",
+    "pty": 0,
+    "Items": [
+      "GN_Disco",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "TV_Simpsons120",
+      "XT_Intros",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Bobby McFerrin",
+    "genres": 0,
+    "spotId": "5YbgcwHjQhdT1BYQ4rxWlD",
+    "couname": "Don't Worry Be Happy",
+    "duration": "292400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Zacari,Babes Wodumo",
+    "genres": 0,
+    "spotId": "76iVOVsliCHlWqKuDnCfhE",
+    "couname": "Redemption",
+    "duration": "222093"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27326c140277249daa6bc801cab",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Hoodie Allen",
+    "genres": 0,
+    "spotId": "3lbfun3A62A3gMOkWhQIFE",
+    "couname": "Act My Age",
+    "duration": "192139"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27319fdec98994781f541c40090",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_BodyParts",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Michael Gilas",
+    "genres": 0,
+    "spotId": "5hcbemBJX7Lqhcd8lXrFGz",
+    "couname": "Let's Get Back To Us",
+    "duration": "188900"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27303a2c747024018344d8bf5e9",
+    "pty": 0,
+    "Items": [
+      "GN_GuitarSolo",
+      "TV_BreakingBad",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_Food",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Water",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Rupert Holmes",
+    "genres": 0,
+    "spotId": "2OodgrQjx6Ggn3yRA2Nvei",
+    "couname": "Escape",
+    "duration": "276026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738c9131b3b0f5a4b9fdc5a0ac",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "girl",
+      "GN_Metal",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "TV_Simpsons120",
+      "XT_Intros",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Black Sabbath",
+    "genres": 0,
+    "spotId": "1Rhr64SXn8s4LjnpPAUHon",
+    "couname": "Iron Man",
+    "duration": "354213"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273656b4f412e4d1c284ef27bc9",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_OffAnimals",
+      "XT_Water",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Alessi Brothers",
+    "genres": 0,
+    "spotId": "7qw4F9ebIh2z1dSBpJMfdt",
+    "couname": "Seabird",
+    "duration": "186320"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27388be39fac5e3bbd3af220670",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_MarvelSongs",
+      "XT_OffAnimals",
+      "XT_Running",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Sweet",
+    "genres": 0,
+    "spotId": "4FQf1wrg6xlcfxQC7ZTIpy",
+    "couname": "Fox on the Run",
+    "duration": "198573"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27373dc9cde1d4f49687e475a22",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_Themes",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "John Paesano",
+    "genres": 0,
+    "spotId": "7pL7qwvQXNRt1t1K6LewDT",
+    "couname": "The Defenders Main Title",
+    "duration": "79150"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "ScHoolboy Q,2 Chainz,Saudi",
+    "genres": 0,
+    "spotId": "4LmAnpjlhWTahvRkYR8xJa",
+    "couname": "X",
+    "duration": "267426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731336b31b6a1799f0de5807ac",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "CT_Norway",
+      "GN_GuitarSolo",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_Gambling",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_1019",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Bon Jovi",
+    "genres": 0,
+    "spotId": "37ZJ0p5Jm13JPevGcx4SkF",
+    "couname": "Livin' On A Prayer",
+    "duration": "249293"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737caab36da334ff2864d34af5",
+    "pty": 0,
+    "Items": [
+      "GN_GuitarSolo",
+      "GN_Memes",
+      "GN_Synth",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_Fire",
+      "XT_History",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_MoonStars",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Europe",
+    "genres": 0,
+    "spotId": "5SVjNC3aHPWYvn8WfEHNI7",
+    "couname": "The Final Countdown",
+    "duration": "251546"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730438b8365d0676230182af6f",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_Themes",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Sean Callery",
+    "genres": 0,
+    "spotId": "3WhnKhNtucHpnkoCNtTb7Z",
+    "couname": "Jessica Jones Main Title",
+    "duration": "69373"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27398073965947f92f1641b8356",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_Simpsons120",
+      "XT_AllSonges",
+      "XT_AboutTime",
+      "XT_United",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Andy Williams",
+    "genres": 0,
+    "spotId": "5hslUAKq9I9CG2bAulFkHN",
+    "couname": "It's the Most Wonderful Time of the Year",
+    "duration": "151933"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a17cd23ff2ec11ebd18f6a32",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_Top102024",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United"
+    ],
+    "artist": "Alicia Keys,Kendrick Lamar",
+    "genres": 0,
+    "spotId": "5c9L8dgMSVooRhU6JIuEj5",
+    "couname": "It's On Again",
+    "duration": "230120"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734c95b7cf28c3015c914218e4",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_GuitarSolo",
+      "TV_BreakingBad",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_Food",
+      "XT_Karaoke",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Looking Glass",
+    "genres": 0,
+    "spotId": "2BY7ALEWdloFHgQZG6VMLA",
+    "couname": "Brandy",
+    "duration": "186826"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734ecd780303e8982d8c7dce13",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "GN_DrumSolo",
+      "GN_GuitarSolo",
+      "GN_PsychedelicRock",
+      "TV_MarvelSongs",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Fleetwood Mac",
+    "genres": 0,
+    "spotId": "4VGBaj8omMGArPnZ56a695",
+    "couname": "The Chain",
+    "duration": "358253"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2733ff9989d5dee8091a34f9adf",
+    "pty": 0,
+    "Items": [
+      "girl",
+      "GN_Piano",
+      "TV_MarvelSongs",
+      "YR_0009",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Avril Lavigne",
+    "genres": 0,
+    "spotId": "2jHujamO9UuZv8im9eLdOB",
+    "couname": "I'm with You",
+    "duration": "223066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732e340c7a209ff01a40d65c5a",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Prodigy",
+    "genres": 0,
+    "spotId": "1XEzeXCRxrCgtC2RXlxpTG",
+    "couname": "The Day Is My Enemy",
+    "duration": "264947"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27360ec4df52c2d724bc53ffec5",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Jaden,Kid Cudi",
+    "genres": 0,
+    "spotId": "4D1eVq5AUILwjg3tAe7o6M",
+    "couname": "On My Own",
+    "duration": "244720"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27376fccee22eee09fef524be97",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Flo Rida,Sage The Gemini,Lookas",
+    "genres": 0,
+    "spotId": "6N9ZOtguCnnrvwH7zD82WJ",
+    "couname": "GDFR",
+    "duration": "190185"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273ac1d04a2dc1eb36ba37bc3a6",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Dreaming",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Judah & the Lion",
+    "genres": 0,
+    "spotId": "5RsZXd0tZV9QNJK6yYe5Kj",
+    "couname": "Floating in the Night",
+    "duration": "221054"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_SpotifyS500",
+      "TV_Top102024",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Post Malone,Swae Lee",
+    "genres": 0,
+    "spotId": "0RiRZpuVRbi7oqRdSMwhQY",
+    "couname": "Sunflower",
+    "duration": "157560"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27321ebf49b3292c3f0f575f0f5",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Places",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Guns N' Roses",
+    "genres": 0,
+    "spotId": "6eN1f9KNmiWEhpE2RhQqB5",
+    "couname": "Paradise City",
+    "duration": "405600"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_Top102024",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Weeknd,Kendrick Lamar",
+    "genres": 0,
+    "spotId": "77UjLW8j5UAGAGVGhR5oUK",
+    "couname": "Pray For Me",
+    "duration": "211440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27341eaec65ddc6e4c777cbc04e",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_Metal",
+      "TV_MarvelSongs",
+      "XT_Intros",
+      "XT_Numbers",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Metallica",
+    "genres": 0,
+    "spotId": "10HlI5OL8VIdMh2CaymhbD",
+    "couname": "One",
+    "duration": "447440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731f3b3032cab1c984f9658e04",
+    "pty": 0,
+    "Items": [
+      "GN_GuitarSolo",
+      "TV_MarvelSongs",
+      "XT_Dreaming",
+      "XT_Places",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Beastie Boys",
+    "genres": 0,
+    "spotId": "1DqLFLiQEIE48jCm5RXoRA",
+    "couname": "No Sleep Till Brooklyn",
+    "duration": "246893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273049f49e1bc45d34b3f824d0f",
+    "pty": 0,
+    "Items": [
+      "GN_GuitarSolo",
+      "TV_Halloween",
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "XT_Intros",
+      "XT_Love",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Redbone",
+    "genres": 0,
+    "spotId": "2T43UrvAg60ubJVo5KQ3t7",
+    "couname": "Come and Get Your Love",
+    "duration": "208306"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27326ee011fd2c090cfe5476026",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Gold",
+      "XT_Running",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Run The Jewels",
+    "genres": 0,
+    "spotId": "2eha6iitIJ7EaVdvusgtQi",
+    "couname": "Run the Jewels",
+    "duration": "210626"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27376448e93fcf0b2298744ba97",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_MarvelSongs",
+      "XT_AboutTime",
+      "XT_Dreaming",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "The Monkees",
+    "genres": 0,
+    "spotId": "7uEcCGtM1FBBGIhPozhJjv",
+    "couname": "Daydream Believer",
+    "duration": "179613"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2732d1eaba068fdfe2a09e7ff9e",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "GN_GuitarSolo",
+      "TV_Mafia",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_LongSongs",
+      "XT_Places",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Eagles",
+    "genres": 0,
+    "spotId": "3dTGR2oQA1XaC850o5oPdK",
+    "couname": "Hotel California",
+    "duration": "432066"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f3debe3bbd444814ace8d4f8",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Migos",
+    "genres": 0,
+    "spotId": "6FwJj7uwhZ1vrBlDZvMLZk",
+    "couname": "Is You Ready",
+    "duration": "184276"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27397afecee1d559a16882e93b2",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Teamheadkick",
+    "genres": 0,
+    "spotId": "2OhUzRYyDT51fG7YbS797O",
+    "couname": "Deadpool Rap",
+    "duration": "205577"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273077d7f12206ef646ad10ceac",
+    "pty": 0,
+    "Items": [
+      "GN_FrenchElectro",
+      "TV_MarvelSongs",
+      "XT_Running",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "DJ Snake,Rick Ross,Rich Brian",
+    "genres": 0,
+    "spotId": "282R6Lvm9nLtpx8AzUwJe0",
+    "couname": "Run It",
+    "duration": "163389"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737c33f019d9172200bbb0569e",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Parliament",
+    "genres": 0,
+    "spotId": "26znIPG5iAZMXf5KTAnroQ",
+    "couname": "Flash Light",
+    "duration": "347853"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_BalladRock",
+      "GN_DrumSolo",
+      "GN_Piano",
+      "GN_ViolinSolo",
+      "TV_BestVideos",
+      "TV_MarvelSongs",
+      "XT_AboutTime",
+      "XT_Intros",
+      "XT_LongSongs",
+      "XT_Water",
+      "XT_Weather",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Guns N' Roses",
+    "genres": 0,
+    "spotId": "614dpc6m0q6YGFmGchFGx1",
+    "couname": "November Rain",
+    "duration": "536960"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27357338231dc4a85d5aed03186",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_Metal",
+      "TV_MarvelSongs",
+      "XT_BodyParts",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Mötley Crüe",
+    "genres": 0,
+    "spotId": "6imjJij6aCM0IbbODUzJQn",
+    "couname": "Kickstart My Heart",
+    "duration": "284026"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27328a90d00a2819504364880e4",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_GuitarSolo",
+      "TV_BestVideos",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Nirvana",
+    "genres": 0,
+    "spotId": "0MKGH8UMfCnq5w7nG06oM5",
+    "couname": "Come As You Are",
+    "duration": "218920"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_MarvelSongs",
+      "XT_AboutTime",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "MGMT",
+    "genres": 0,
+    "spotId": "4iG2gAwKXsOcijVaVXzRPW",
+    "couname": "Time to Pretend",
+    "duration": "261000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273da4f6706ae0f2501c61ce776",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_ViolinSolo",
+      "TV_MarvelSongs",
+      "XT_AboutTime",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Green Day",
+    "genres": 0,
+    "spotId": "6ORqU0bHbVCRjXm9AjyHyZ",
+    "couname": "Good Riddance",
+    "duration": "153466"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273e9a0349bf1a1cfa8809c9303",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Geek Music",
+    "genres": 0,
+    "spotId": "0JxLxQQHtXMCyDxZVmpAL9",
+    "couname": "Marvel 2021 Fanfare",
+    "duration": "159237"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738f6735ebdf2989eb34ab5b1c",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Fresh Beat MCs",
+    "genres": 0,
+    "spotId": "6wM3A3C1VgERFLFck2ktDP",
+    "couname": "The Magic Number",
+    "duration": "192000"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f21bf0daa05e733211fc2211",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Geek Music",
+    "genres": 0,
+    "spotId": "07wsC60Jf9zKFgZTZPdPF9",
+    "couname": "What If...? Main Theme",
+    "duration": "67983"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f474b9f26c02c1c9b139e163",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Cinematic Legacy",
+    "genres": 0,
+    "spotId": "0QUKFcbA8LDUw4I8HsHLLj",
+    "couname": "Doctor Strange the Master of the Mystic End Titles",
+    "duration": "69988"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27363748288622bcae4290bd028",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "fuseo,Sean Michael Murray",
+    "genres": 0,
+    "spotId": "7jXXKMQnlzXphbJNbK82hx",
+    "couname": "Better Believe It",
+    "duration": "209677"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f474b9f26c02c1c9b139e163",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Cinematic Legacy",
+    "genres": 0,
+    "spotId": "20XE3KgK665lCom13pWSsl",
+    "couname": "Thor: The Dark World",
+    "duration": "71136"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d452ba244b2189ea99ac95d9",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "I'll Take You There Choir",
+    "genres": 0,
+    "spotId": "492ceDtqmafb6QD1Xfhpmo",
+    "couname": "Like a Prayer",
+    "duration": "152893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273d452ba244b2189ea99ac95d9",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Madonna,Rob Simonsen",
+    "genres": 0,
+    "spotId": "1xSDXrcZ16nKUZGsOckUTW",
+    "couname": "Like a Prayer",
+    "duration": "168586"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27338dfee186d4c7f55e4512bcb",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Diplo,French Montana,Lil Pump,Zhavia",
+    "genres": 0,
+    "spotId": "0UBafqn0HVWRceDnOv2SZu",
+    "couname": "Welcome to the Party",
+    "duration": "181720"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "YR_1019",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Vince Staples,Yugen Blakrok",
+    "genres": 0,
+    "spotId": "7bUcBztfGqO7cSI2gMZeCI",
+    "couname": "Opps",
+    "duration": "180893"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b68df485f3304211904548a8",
+    "pty": 0,
+    "Items": [
+      "GN_Disco",
+      "TV_MarvelSongs",
+      "YR_7079",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "John Travolta,Olivia Newton-John",
+    "genres": 0,
+    "spotId": "0B9x2BRHqj3Qer7biM3pU3",
+    "couname": "You're The One That I Want",
+    "duration": "169840"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273a1c553575418ca43404cb48b",
+    "pty": 0,
+    "Items": [
+      "GN_Choirs",
+      "TV_Halloween",
+      "TV_MarvelSongs",
+      "XT_Food",
+      "XT_Intros",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Femme"
+    ],
+    "artist": "The Runaways",
+    "genres": 0,
+    "spotId": "7cdnq45E9aP2XDStHg5vd7",
+    "couname": "Cherry Bomb",
+    "duration": "138706"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731a5c6cdea48a228edb8e9780",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Places",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Alan Silvestri,William Ross,Cincinnati Pops Orchestra,John Morris Russell",
+    "genres": 0,
+    "spotId": "57U0HkSGvqPDiknYgfzgx5",
+    "couname": "Captain America",
+    "duration": "145503"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738e8c08ca2feb999bb84f05e6",
+    "pty": 0,
+    "Items": [
+      "GN_GuitarSolo",
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Heart",
+    "genres": 0,
+    "spotId": "5zH710lFSLtkHbMkslLDjR",
+    "couname": "Crazy On You",
+    "duration": "293440"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f474b9f26c02c1c9b139e163",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Cinematic Legacy",
+    "genres": 0,
+    "spotId": "4U627PeK7mAGSBYP9WQ6ov",
+    "couname": "The Incredible Hulk: Main Theme",
+    "duration": "74132"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273f474b9f26c02c1c9b139e163",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Animals",
+      "XT_AllSonges",
+      "XT_OffAnimals",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Cinematic Legacy",
+    "genres": 0,
+    "spotId": "5gV7R7SvvF2dDOgai3Q2cW",
+    "couname": "Ant-Man Theme",
+    "duration": "54394"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273225810691e1f5b13944c6570",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "The Captain America Drum Corps",
+    "genres": 0,
+    "spotId": "0asWVkzLh4S2n2ft9YJOUp",
+    "couname": "Star Spangled Man",
+    "duration": "104656"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273beae11d5455133ae02545de0",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "X",
+    "genres": 0,
+    "spotId": "6mDwOKsf8ycyYeBMYmpjCG",
+    "couname": "Poor Girl",
+    "duration": "173680"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273785e979bd6c97ce8711ace53",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_SpotifyS500",
+      "XT_Intros",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "Marvin Gaye,Tammi Terrell",
+    "genres": 0,
+    "spotId": "28wGX1hoLCRbBZbEqITvE3",
+    "couname": "Ain't No Mountain High Enough",
+    "duration": "146160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738f596fd18c96d6f32513d854",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_MarvelSongs",
+      "XT_AboutTime",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "The Platters",
+    "genres": 0,
+    "spotId": "1tu5rCtK0jCLMeoWCYnttf",
+    "couname": "Twilight Time",
+    "duration": "164400"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273b4b2642b767f641a15c9fef1",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "TV_OneHit",
+      "TV_Simpsons120",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band"
+    ],
+    "artist": "The Five Stairsteps",
+    "genres": 0,
+    "spotId": "74JdR9aXE6I74oS1BVRsvb",
+    "couname": "O-o-h Child",
+    "duration": "197160"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731cd131e5e9ad887ad8c1ecb7",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_GuitarSolo",
+      "TV_MarvelSongs",
+      "XT_Karaoke",
+      "XT_Questions",
+      "XT_AllSonges",
+      "XT_United",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "Alice In Chains",
+    "genres": 0,
+    "spotId": "5sFDReWLrZHLFZFjHsjUTS",
+    "couname": "Would?",
+    "duration": "206773"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2730b51f8d91f3a21e8426361ae",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_GuitarSolo",
+      "TV_MarvelSongs",
+      "XT_Intros",
+      "XT_Karaoke",
+      "YR_8089",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "AC/DC",
+    "genres": 0,
+    "spotId": "0C80GCp0mMuBzLf3EAXqxv",
+    "couname": "Shoot to Thrill",
+    "duration": "317426"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2734a8f9cf237c611c0a0706bd8",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Amie Doherty",
+    "genres": 0,
+    "spotId": "3hE8eEGm3lnwCb5rlodRan",
+    "couname": "She-Hulk: Attorney at Law",
+    "duration": "147006"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2738399047ff71200928f5b6508",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_GuitarSolo",
+      "TV_BestVideos",
+      "TV_MarvelSongs",
+      "TV_SpotifyS500",
+      "XT_Cars",
+      "XT_Intros",
+      "XT_Karaoke",
+      "XT_Water",
+      "XT_Weather",
+      "YR_1019",
+      "YR_9099",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band",
+      "XT_Homme"
+    ],
+    "artist": "AC/DC",
+    "genres": 0,
+    "spotId": "57bgtoPSgt236HzfBOd8kj",
+    "couname": "Thunderstruck",
+    "duration": "292880"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2737712f47dbb83f35c9c214b57",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Femme"
+    ],
+    "artist": "Natalie Holt",
+    "genres": 0,
+    "spotId": "6YnoM7vjNoilLxWRslJ1d4",
+    "couname": "TVA",
+    "duration": "148680"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
+    "pty": 0,
+    "Items": [
+      "GN_BalladRock",
+      "TV_MarvelSongs",
+      "TV_Rolling500",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Yusuf / Cat Stevens",
+    "genres": 0,
+    "spotId": "2nU1cyrG92p8h99g3Gykwz",
+    "couname": "Father And Son",
+    "duration": "220333"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b273021463190197caeb844dd8d6",
+    "pty": 0,
+    "Items": [
+      "TV_MarvelSongs",
+      "XT_Love",
+      "YR6069",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "Engelbert Humperdinck",
+    "genres": 0,
+    "spotId": "622sVNQCspoVUqFWzOYYcj",
+    "couname": "A Man Without Love",
+    "duration": "205640"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b27311b3df35e2e46d91f585afd9",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "GN_Choirs",
+      "TV_MarvelSongs",
+      "XT_BodyParts",
+      "XT_Karaoke",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Band"
+    ],
+    "artist": "alt-J",
+    "genres": 0,
+    "spotId": "4iEOVEULZRvmzYSZY2ViKN",
+    "couname": "Left Hand Free",
+    "duration": "173630"
+  },
+  {
+    "img": "https://i.scdn.co/image/ab67616d0000b2731bbff7a308778b39fc8c08ba",
+    "pty": 0,
+    "Items": [
+      "BAND",
+      "DUDE",
+      "TV_MarvelSongs",
+      "XT_AboutTime",
+      "XT_AllSonges",
+      "XT_Onnu",
+      "XT_Solo",
+      "XT_Homme"
+    ],
+    "artist": "The The",
+    "genres": 0,
+    "spotId": "3FjYAj4hg5KiXpVAMjpLKq",
+    "couname": "This Is the Day",
+    "duration": "297066"
+  }
+]
